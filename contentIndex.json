@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Bill's Heating & A/C | HVAC experts in N Idaho & E Washington",
+    "url": "index.php",
+    "keywords": "Home, home, Main, main",
+    "description": "Bill's Heating & A/C website main page."
+  },
+  {
+    "title": "Bill's Heating & A/C | Service Areas",
+    "url": "areas.php",
+    "keywords": "Service Area, service area, service, Service, area, Area, service areas, Service Areas, Locations, locations",
+    "description": "Bill's Heating & A/C's Service Areas, most areas we service are included in the service areas page."
+  },
+  {
+    "title": "Bill's Heating & A/C | Coeur D'Alene",
+    "url": "areas.php",
+    "keywords": "cda, CDA, Coeur D'Alene, coeur d'alene, ceour, couer",
+    "description": "Bill's Heating & A/C's HVAC Services in Coeur D'alene."
+  },
+  {
+    "title": "Bill's Heating & A/C | Spokane",
+    "url": "areas.php",
+    "keywords": "spk, Spk, spokane, Spokane",
+    "description": "Bill's Heating & A/C's HVAC Services in Spokane."
+  }
+]
