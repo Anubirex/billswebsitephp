@@ -98,35 +98,30 @@
         <?php include 'header.php'; ?>
           <div class="page-overlay" id="pageOverlay"></div>
           <section class="areas-hero">
+            <img class="hero-image" src="https://callbillsheating.s3.us-west-2.amazonaws.com/cda-header-800w.webp"
+                srcset="https://callbillsheating.s3.us-west-2.amazonaws.com/cda-header-450w.webp 450w, 
+                        https://callbillsheating.s3.us-west-2.amazonaws.com/cda-header-800w.webp 800w, 
+                        https://callbillsheating.s3.us-west-2.amazonaws.com/cda-header-2000w.webp 2000w"
+                sizes="(max-width: 450px) 450px, 
+                       (max-width: 799px) 800px, 
+                        2000px"
+                alt="Background photo of Coeur d Alene, Idaho"
+                class="hero-image" aria-hidden="true">
+
             <div class="areas-hero-inner width-limiter">
               <div class="areas-hero-container width-limiter">
                 <h1>Coeur d&apos;Alene, ID</h1>
                 <div class="responsive-video">
-                  <iframe width="720" height="405" src="https://www.youtube.com/embed/m4KVBKSQ_sg?si=sQtXIuq-TdrQXwxC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                  <iframe src="https://www.youtube.com/embed/m4KVBKSQ_sg?si=sQtXIuq-TdrQXwxC" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
                 </div>
-               <div class="areas-hero-checkmarked-reasons">
+                <div class="areas-hero-checkmarked-reasons">
                   <span class="nowrap">
-                  <svg class="checkmark-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="25" height="25" viewBox="0 0 256 256" xml:space="preserve">
-                    <g>
-                      <path class="checkmark-icon-path" d="M 89.328 2.625 L 89.328 2.625 c -1.701 -2.859 -5.728 -3.151 -7.824 -0.568 L 46.532 45.173 c -0.856 1.055 -2.483 0.997 -3.262 -0.115 l -8.382 -11.97 c -2.852 -4.073 -8.789 -4.335 -11.989 -0.531 l 0 0 c -2.207 2.624 -2.374 6.403 -0.408 9.211 l 17.157 24.502 c 2.088 2.982 6.507 2.977 8.588 -0.011 l 4.925 -7.07 L 89.135 7.813 C 90.214 6.272 90.289 4.242 89.328 2.625 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(234,212,34); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
-                      <path d="M 45 90 C 20.187 90 0 69.813 0 45 C 0 20.187 20.187 0 45 0 c 6.072 0 11.967 1.19 17.518 3.538 c 2.034 0.861 2.986 3.208 2.125 5.242 c -0.859 2.035 -3.207 2.987 -5.242 2.126 C 54.842 8.978 49.996 8 45 8 C 24.598 8 8 24.598 8 45 c 0 20.402 16.598 37 37 37 c 20.402 0 37 -16.598 37 -37 c 0 -3.248 -0.42 -6.469 -1.249 -9.573 c -0.57 -2.134 0.698 -4.327 2.832 -4.897 c 2.133 -0.571 4.326 0.698 4.896 2.833 C 89.488 37.14 90 41.055 90 45 C 90 69.813 69.813 90 45 90 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(234,212,34); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
-                    </g>
-                    </svg><h3>Lowest Price Guarantee</h3></span>
+                        <img class="checkmark-img" src="https://callbillsheating.s3.us-west-2.amazonaws.com/check-mark.svg" alt="checkmark" aria-hidden="true"><h3>Lowest Price Guarantee</h3></span>
                     <span class="nowrap">
-                  <svg class="checkmark-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="25" height="25" viewBox="0 0 256 256" xml:space="preserve">
-                    <g>
-                      <path d="M 89.328 2.625 L 89.328 2.625 c -1.701 -2.859 -5.728 -3.151 -7.824 -0.568 L 46.532 45.173 c -0.856 1.055 -2.483 0.997 -3.262 -0.115 l -8.382 -11.97 c -2.852 -4.073 -8.789 -4.335 -11.989 -0.531 l 0 0 c -2.207 2.624 -2.374 6.403 -0.408 9.211 l 17.157 24.502 c 2.088 2.982 6.507 2.977 8.588 -0.011 l 4.925 -7.07 L 89.135 7.813 C 90.214 6.272 90.289 4.242 89.328 2.625 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(234,212,34); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
-                      <path d="M 45 90 C 20.187 90 0 69.813 0 45 C 0 20.187 20.187 0 45 0 c 6.072 0 11.967 1.19 17.518 3.538 c 2.034 0.861 2.986 3.208 2.125 5.242 c -0.859 2.035 -3.207 2.987 -5.242 2.126 C 54.842 8.978 49.996 8 45 8 C 24.598 8 8 24.598 8 45 c 0 20.402 16.598 37 37 37 c 20.402 0 37 -16.598 37 -37 c 0 -3.248 -0.42 -6.469 -1.249 -9.573 c -0.57 -2.134 0.698 -4.327 2.832 -4.897 c 2.133 -0.571 4.326 0.698 4.896 2.833 C 89.488 37.14 90 41.055 90 45 C 90 69.813 69.813 90 45 90 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(234,212,34); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
-                    </g>
-                    </svg><h3>Free Second Opinions</h3></span>
+                        <img class="checkmark-img" src="https://callbillsheating.s3.us-west-2.amazonaws.com/check-mark.svg" alt="checkmark" aria-hidden="true"><h3>Free Second Opinions</h3></span>
                     <span class="nowrap">
-                    <svg class="checkmark-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="25" height="25" viewBox="0 0 256 256" xml:space="preserve">
-                      <g>
-                        <path d="M 89.328 2.625 L 89.328 2.625 c -1.701 -2.859 -5.728 -3.151 -7.824 -0.568 L 46.532 45.173 c -0.856 1.055 -2.483 0.997 -3.262 -0.115 l -8.382 -11.97 c -2.852 -4.073 -8.789 -4.335 -11.989 -0.531 l 0 0 c -2.207 2.624 -2.374 6.403 -0.408 9.211 l 17.157 24.502 c 2.088 2.982 6.507 2.977 8.588 -0.011 l 4.925 -7.07 L 89.135 7.813 C 90.214 6.272 90.289 4.242 89.328 2.625 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(234,212,34); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
-                        <path d="M 45 90 C 20.187 90 0 69.813 0 45 C 0 20.187 20.187 0 45 0 c 6.072 0 11.967 1.19 17.518 3.538 c 2.034 0.861 2.986 3.208 2.125 5.242 c -0.859 2.035 -3.207 2.987 -5.242 2.126 C 54.842 8.978 49.996 8 45 8 C 24.598 8 8 24.598 8 45 c 0 20.402 16.598 37 37 37 c 20.402 0 37 -16.598 37 -37 c 0 -3.248 -0.42 -6.469 -1.249 -9.573 c -0.57 -2.134 0.698 -4.327 2.832 -4.897 c 2.133 -0.571 4.326 0.698 4.896 2.833 C 89.488 37.14 90 41.055 90 45 C 90 69.813 69.813 90 45 90 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(234,212,34); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
-                      </g>
-                      </svg><h3>2500&plus; 5&hyphen;Star Reviews</h3></span></div>
+                        <img class="checkmark-img" src="https://callbillsheating.s3.us-west-2.amazonaws.com/check-mark.svg" alt="checkmark" aria-hidden="true"><h3>2500&plus; 5&hyphen;Star Reviews</h3></span></div>
                     </div>
                     <div class="center-things">
                 <button class="schedule-service-button open-form-button">Schedule Service</button></div>
@@ -138,14 +133,14 @@
                     <p>Nestled in the heart of North Idaho, Coeur d&apos;Alene is a vibrant city known for its stunning natural beauty and a climate that keeps you on your toes. With its cold, snowy winters and comfortably warm summers, the region demands a robust heating and cooling solution. Whether it&apos;s keeping your home cozy during those frosty winter nights or ensuring a cool retreat from the summer heat, understanding and adapting to these diverse climate conditions is crucial. Living in Coeur d&apos;Alene isn&apos;t just about enjoying its scenic lake views and outdoor adventures; it&apos;s also about ensuring your home&apos;s comfort throughout the year&apos;s changing seasons.</p>
                 </div>
                 <div class="local-needs-img" data-animation="zoom-in-right">
-                    <img class="twobyone-image" src="https://callbillsheating.s3.us-west-2.amazonaws.com/hot-cold-landscape.webp" alt="Climate Differences Photo">
+                    <img class="twobyone-image" src="https://callbillsheating.s3.us-west-2.amazonaws.com/hot-cold-landscape.webp" alt="A photo of an Idaho landscape. The left half is summer. The right half is winter." loading="lazy">
                 </div>
             </div>
             </section>
             <section class="areas-commitment">
                 <div class="areas-commitment-container width-limiter">
                     <div class="areas-commitment-img" data-animation="zoom-in-left">
-                        <img class="twobyone-image" src="https://callbillsheating.s3.us-west-2.amazonaws.com/techs-arriving.webp" alt="Climate Differences Photo">
+                        <img class="twobyone-image" src="https://callbillsheating.s3.us-west-2.amazonaws.com/techs-arriving.webp" alt="Two HVAC technicians arriving at a customers home for a service call." loading="lazy">
                     </div>
                     <div class="areas-commitment-text">
                         <h2>Our Commitment to Coeur d&apos;Alene</h2>
@@ -163,34 +158,34 @@
             <div class="commendations width-limiter">
               <div class="commendations-track">
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/nest-pro-logo.webp" alt="Description">
+                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/nest-pro-logo.webp" alt="The Nest Pro Elite badge. Bills heating and AC has earned this bade by beign on of the top NEST dealers in the nation.">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/york-award-logo-grey.webp" alt="Description">
+                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/york-award-logo-grey.webp" alt="The 2023 York Dealer of the year award given to  Bills Heating and AC.">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/rinnai-logo-pic.webp" alt="Description">
+                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/rinnai-logo-pic.webp" alt="The rinnai ACE Pro logo signifying Bills Heating and AC has undergone high level training from Rinnai.">
                 </div>
                 <div>
-                  <img src="http://www.homeadvisor.com/images/sp-badges/toprated-solid-border.png?sp=107912817&key=4b1f6e243ab5ba69b4052c2254733d32" alt="Description">
+                  <img src="http://www.homeadvisor.com/images/sp-badges/toprated-solid-border.png?sp=107912817&key=4b1f6e243ab5ba69b4052c2254733d32" alt="The Home Advisor Top Rated badge awarded to Bills Heating and AC for being the highest rated HVAC contractor in their area.">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/mistubishi-logo-pic.webp" alt="Description">
+                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/mistubishi-logo-pic.webp" alt="The Mitsubishi Ductless Elite Pro badge given only to the absolute best of Mistubishi's ductless installers.">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/nest-pro-logo.webp" alt="Description">
+                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/nest-pro-logo.webp" alt="The Nest Pro Elite badge. Bills heating and AC has earned this bade by beign on of the top NEST dealers in the nation.">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/york-award-logo-grey.webp" alt="Description">
+                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/york-award-logo-grey.webp" alt="The 2023 York Dealer of the year award given to  Bills Heating and AC.">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/rinnai-logo-pic.webp" alt="Description">
+                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/rinnai-logo-pic.webp" alt="The rinnai ACE Pro logo signifying Bills Heating and AC has undergone high level training from Rinnai.">
                 </div>
                 <div>
-                  <img src="http://www.homeadvisor.com/images/sp-badges/toprated-solid-border.png?sp=107912817&key=4b1f6e243ab5ba69b4052c2254733d32" alt="Description">
+                  <img src="http://www.homeadvisor.com/images/sp-badges/toprated-solid-border.png?sp=107912817&key=4b1f6e243ab5ba69b4052c2254733d32" alt="The Home Advisor Top Rated badge awarded to Bills Heating and AC for being the highest rated HVAC contractor in their area.">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/mistubishi-logo-pic.webp" alt="Description">
+                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/mistubishi-logo-pic.webp" alt="The Mitsubishi Ductless Elite Pro badge given only to the absolute best of Mistubishi's ductless installers.">
                 </div>
               </div>
             </div>
@@ -232,7 +227,6 @@
                   <span class="part-of-counter">&#x207A;</span><h2> Awards<br>Won</h2>
               </div>
             </section>
-          </main>
           <section class="get-started-outer">
             <div class="get-started width-limiter">
               <div class="get-started-image" data-animation="zoom-in-left"><img src="https://callbillsheating.s3.us-west-2.amazonaws.com/truck-transparent-bg.webp" alt="bills truck"></div>
@@ -392,31 +386,31 @@
           </div>
           </section>
           <section class="areas-gallery">
-            <div class="width-limiter gallery-inner" data-animation="fade-in">
-              <h2>Recent Installs</h2>
-              <p>At Bill's Heating and A/C, our commitment to quality shines through in every project. 
+            <div class="width-limiter gallery-inner">
+              <h2 data-animation="fade-in">Recent Installs</h2>
+              <p data-animation="fade-in">At Bill's Heating and A/C, our commitment to quality shines through in every project. 
                 Dive into our gallery below to see the latest examples of our expert HVAC installations. 
                 Each image reflects our dedication to providing top-notch heating and cooling solutions. 
                 Craving more? Head over to our Facebook page for a regularly updated visual feast of our exceptional work.</p>
-                <div class="areas-gallery-view" >
-                    <img id="main-image" alt="Main Display">
+                <div class="areas-gallery-view" data-animation="fade-in">
+                    <img id="main-image" alt="Main Display" src="#">
                 </div>
-                <div class="thumbnail-container">
+                <div class="thumbnail-container" data-animation="fade-in">
                     <button id="scrollLeft" onclick="previousImage()">&#10094;</button>
                     <div class="areas-gallery-imgs">
-                        <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/furnace-one.webp" class="thumbnail active" alt="Thumbnail 1" onclick="changeImage(this)">
-                        <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/ac-one.webp" class="thumbnail" alt="Thumbnail 2" onclick="changeImage(this)">
-                        <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/furnace-two.webp" class="thumbnail" alt="Thumbnail 3" onclick="changeImage(this)">
-                        <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/boilers.webp" class="thumbnail" alt="Thumbnail 4" onclick="changeImage(this)">
-                        <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/heat-pump-one.webp" class="thumbnail" alt="Thumbnail 5" onclick="changeImage(this)">
-                        <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/ac-two.webp" class="thumbnail" alt="Thumbnail 6" onclick="changeImage(this)">
-                        <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/furnace-three.webp" class="thumbnail" alt="Thumbnail 1" onclick="changeImage(this)">
-                        <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/heat-pump-two.webp" class="thumbnail" alt="Thumbnail 2" onclick="changeImage(this)">
-                        <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/furnace-four.webp" class="thumbnail" alt="Thumbnail 3" onclick="changeImage(this)">
-                        <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/heat-pump-three.webp" class="thumbnail" alt="Thumbnail 4" onclick="changeImage(this)">
-                        <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/furnace-five.webp" class="thumbnail" alt="Thumbnail 5" onclick="changeImage(this)">
-                        <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/ac-three.webp" class="thumbnail" alt="Thumbnail 6" onclick="changeImage(this)">
-                    </div>
+                      <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/furnace-one.webp" class="thumbnail active" alt="A high efficiency York furnace installed by Bills Heating and AC." onclick="changeImage(this)" loading="lazy">
+                      <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/ac-one.webp" class="thumbnail" alt="An installation of a York air conditioner by Bills Heating and AC." onclick="changeImage(this)" loading="lazy">
+                      <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/furnace-two.webp" class="thumbnail" alt="A clean installation of a York TM9E high efficiency furnace by Bills Heating and AC. " onclick="changeImage(this)" loading="lazy">
+                      <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/boilers.webp" class="thumbnail" alt="A split screen of two impressive boiler installations. Both display crafstmanship in the complex piping." onclick="changeImage(this)" loading="lazy">
+                      <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/heat-pump-one.webp" class="thumbnail" alt="A slim heat pump installed by Bills Heating and AC. The heat pump is white and rectangular." onclick="changeImage(this)" loading="lazy">
+                      <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/ac-two.webp" class="thumbnail" alt="An air conditioning condenser professionally installed. It is in a green yard by a white fence." onclick="changeImage(this)" loading="lazy">
+                      <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/furnace-three.webp" class="thumbnail" alt="A York furnace and air conditioning evaporator coil. The condensate drain piping is straight and expertly installed." onclick="changeImage(this)" loading="lazy">
+                      <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/heat-pump-two.webp" class="thumbnail" alt="A York side-discharge heat pump professionally installed by the highest rated HVAC company, Bills Heating and AC." onclick="changeImage(this)" loading="lazy">
+                      <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/furnace-four.webp" class="thumbnail" alt="A side shot of a quality furnace install that showcases the complex drain piping and Bills Heating and AC's professionalism." onclick="changeImage(this)" loading="lazy">
+                      <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/heat-pump-three.webp" class="thumbnail" alt="A Mitsubishi Ductless condenser from their hyper-heat line, mounted on an exterior wall of a building." onclick="changeImage(this)" loading="lazy">
+                      <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/furnace-five.webp" class="thumbnail" alt="A natural gas furnace installed horizontally in a crawl space with clean and creative duct work connections." onclick="changeImage(this)" loading="lazy">
+                      <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/ac-three.webp" class="thumbnail" alt="A freshly installed York air conditioner that will make the customer's home cooler and more comfortable." onclick="changeImage(this)" loading="lazy">
+                  </div>
                     <button id="scrollRight" onclick="nextImage()">&#10095;</button>
                 </div>
             </div>

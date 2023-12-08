@@ -39,7 +39,6 @@ main, section {
 }
 /* ///////////////////////////END ulitity classes\\\\\\\\\\\\\\\\\\\\\\\*/
 /* ///////////////////////////DOCUMENT GENERAL BELOW////////////////////////////// */
-
 body, button {
     font-family: 'Roboto', sans-serif;
 }
@@ -818,7 +817,7 @@ header .schedule-service-button {
     right: 0;
     bottom: 0;
     background-color: rgba(0, 0, 0, 0.4);
-    z-index: 3000;
+    z-index: 8000;
     display: none;
 }
 
@@ -1256,7 +1255,6 @@ header .schedule-service-button {
 footer img {
     max-width: 50%;
 }
-
 /* /////////////END OF FOOTER/////////////////////////////////////*/
 /* //////////////////////////////SOCIAL SIDEBAR///////////////////////////// */
 @keyframes slideIn {
@@ -1329,10 +1327,10 @@ footer img {
     position: relative;
     top: 2rem;
     right: 2rem;
-    width: 3rem;
-    height: 3rem;
+    width: 3.5rem;
+    height: 3.5rem;
     font-size: 1.5rem;
-    background: var(--COLOR-HIGHLIGHT-BRIGHT);
+    background: rgba(234, 212, 34, 0.6);
     border: 2px ridge var(--COLOR-HIGHLIGHT-DARK);
     box-shadow: 2px 2px 2px rgba(0,0,0,0.6);
     border-radius: 50%;
@@ -1341,11 +1339,16 @@ footer img {
     cursor: pointer;
 }
 
+    .search-icon-button:hover,
+    .search-icon-button:focus {
+        background-color: var(--COLOR-HIGHLIGHT-BRIGHT);
+    }
+
 .search-bar,
 .search-bar-button {
     display: none;
     font-size: 1.6rem;
-    z-index: 4000;
+    z-index: 9000;
     position: relative;
     top: 2rem;
     right: 2rem;
@@ -1353,7 +1356,7 @@ footer img {
 }
 
 .search-bar {
-    width: 22rem;
+    width: 30rem;
     padding: .25rem;
 }
 
@@ -1362,43 +1365,42 @@ footer img {
     height: 2.8rem;
     color: white;
     background: var(--COLOR-MAIN-BRIGHT);
-    border: 2px solid var(--COLOR-MAIN-BRIGHT);
+    border: 2px ridge var(--COLOR-MAIN-BRIGHT);
+    cursor: pointer;
 }
+
+    .search-bar-button:hover {
+        background: var(--COLOR-MAIN-DARK);
+    }
 
 #search-results {
     position: absolute;
     display: none;
-    width: 22rem;
     max-height: 300px;
     overflow-y: auto;
     background-color: white;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    z-index: 10000;
+    z-index: 9000;
     border-radius: 5px;
 }
 
 .search-result-item {
-    padding: 5px;
-    margin-bottom: 5px;
-    border-bottom: 1px solid #ccc;
-    font-size: 1.6rem;
+    padding: 8px;
     background: var(--COLOR-MAIN-BRIGHT);
 }
 
     .search-result-item a {
         color: white;
         text-decoration: none;
-        font-size: 2rem;
+        font-size: 2.5rem;
     }
 
 .search-result-description {
-    margin-top: 5px;
-    font-size: 1.1rem;
+    margin-top: 2px;
+    font-size: 1.2rem;
 }
 
 .search-result-item:hover {
-    text-decoration: underline;
-    color: white;
     background: var(--COLOR-MAIN-DARK);
 }
 
@@ -1406,23 +1408,22 @@ footer img {
     position: absolute;
     top: 100%;
     left: 0;
-    width: 22rem;
     border-radius: 5px;
-    font-size: 2rem;
-    background: var(--COLOR-MAIN-BRIGHT);
-    border-top: none;
-    z-index: 4000;
+    background: white;
+    z-index: 9001;
     display: none;
 }
 
     .search-suggestions div {
-        color: white;
-        padding: 10px;
+        color: var(--COLOR-MAIN-BRIGHT);
+        padding: 8px;
         cursor: pointer;
+        border-radius: 5px;
+        font-size: 1.4rem;
     }
 
         .search-suggestions div:hover {
-            background-color: var(--COLOR-MAIN-DARK);
+            color: var(--COLOR-MAIN-DARK);
         }
 /* Scrollbar - Everything Else */
 #search-results::-webkit-scrollbar {
@@ -2109,12 +2110,35 @@ footer img {
 /* //////////////////////////////////END OF MAIN BODY//////////////////////////////// */
 /* //////////////////////////////////BEGINNING OF Areas BODY//////////////////////////////// */
 .areas-hero {
-    background-color: var(--COLOR-MAIN-DARK);
-    background-position: top;
-    background-image: url(/Coeur_dAlene.png);
-    background-blend-mode: multiply;
     width: 100%;
     padding-bottom: 5rem;
+    position: relative;
+}
+
+.hero-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -2;
+}
+
+.areas-hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #011e38c3;
+    z-index: -1;
+}
+
+.areas.hero > * {
+    position: relative;
+    z-index: 5;
 }
 
 .areas-hero-inner {
@@ -2140,7 +2164,7 @@ footer img {
     content: "Proud to Serve";
     font-family: 'Poppins', sans-serif;
     font-size: 1.2rem;
-    line-height: .6;
+    line-height: 1;
     position: absolute;
     margin-left: .5rem;
 }
@@ -2149,34 +2173,31 @@ footer img {
     font-size: 7rem;
     margin-bottom: 3rem;
     border-bottom: 2px solid white;
+    position: relative;
 }
 
 .areas-hero-checkmarked-reasons {
-    padding: 0 1rem 3rem 1rem;
+    padding: 1rem 1rem 2rem 1rem;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center; /* Add this to vertically align items */
 }
 
-    .areas-hero-checkmarked-reasons h3 {
-        font-size: 2rem;
-        color: var(--COLOR-HIGHLIGHT-BRIGHT);
-        display: inline-block;
-    }
 
-.checkmark-icon {
-    width: 50px;
-    height: 50px;
-    stroke: none;
-    stroke-width: 0;
-    stroke-dasharray: none;
-    stroke-linecap: butt;
-    stroke-linejoin: miter;
-    stroke-miterlimit: 10;
-    fill: none;
-    fill-rule: nonzero;
-    opacity: 1;
-    transform: translate(3rem,3rem);
+.areas-hero-checkmarked-reasons span {
+    display: flex;
+    margin: 1rem;
+}
+
+.areas-hero-checkmarked-reasons h3 {
+    font-size: 2rem;
+    color: var(--COLOR-HIGHLIGHT-BRIGHT);
+}
+
+.checkmark-img {
+    width: 20px;
+    height: auto;
     margin-right: 1rem;
 }
 
@@ -2352,7 +2373,6 @@ footer img {
     align-items: center;
     margin: auto;
     max-width: 700px;
-    min-width: 350px;
     background-image: linear-gradient(transparent 47%,white 47% 53%, transparent 53%);
     padding: 1rem 0;
 }
@@ -2800,6 +2820,12 @@ footer img {
     .areas-hero-container h1 {
         font-size: 10vw;
     }
+
+        .areas-hero-container h1::before {
+            top: 0;
+            transform: translateY(-1rem);
+            margin-left: .25vw;
+        }
 }
 
 @media screen and (min-width: 769px) and (max-width: 972px) {

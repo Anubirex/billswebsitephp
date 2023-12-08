@@ -33,7 +33,7 @@
                         <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/youtube-logo.webp" alt="Bill's Heating and Ac's YouTube Page" loading="lazy">
                         </a>
                   </div>
-                  <a href="lowprice.php"><img class="low-price-logo" src="https://callbillsheating.s3.us-west-2.amazonaws.com/lowprice.png" alt="Low Price Guarentee" loading="lazy"></a>
+                  <a href="lowprice.php"><img class="low-price-logo" src="https://callbillsheating.s3.us-west-2.amazonaws.com/lowprice.png" alt="We have a lowest price guarantee" loading="lazy"></a>
               </div>
               <div class="footer-contact">
                   <h2>Contact Us</h2>

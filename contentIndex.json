@@ -1,26 +1,104 @@
 [
   {
-    "title": "Bill's Heating & A/C | HVAC experts in N Idaho & E Washington",
+    "title": "Home",
     "url": "index.php",
     "keywords": "Home, home, Main, main",
     "description": "Bill's Heating & A/C website main page."
   },
   {
-    "title": "Bill's Heating & A/C | Service Areas",
+    "title": "Service Areas",
     "url": "areas.php",
     "keywords": "Service Area, service area, service, Service, area, Area, service areas, Service Areas, Locations, locations",
     "description": "Bill's Heating & A/C's Service Areas, most areas we service are included in the service areas page."
   },
   {
-    "title": "Bill's Heating & A/C | Coeur D'Alene",
+    "title": "Best HVAC in Coeur D'Alene, Idaho",
     "url": "areas.php",
     "keywords": "cda, CDA, Coeur D'Alene, coeur d'alene, ceour, couer",
-    "description": "Bill's Heating & A/C's HVAC Services in Coeur D'alene."
+    "description": "Bill's Heating & A/C premier HVAC Services in Coeur D'alene."
   },
   {
-    "title": "Bill's Heating & A/C | Spokane",
+    "title": "Best HVAC in Spokane, Washington",
     "url": "areas.php",
     "keywords": "spk, Spk, spokane, Spokane",
     "description": "Bill's Heating & A/C's HVAC Services in Spokane."
+  },
+  {
+    "title": "Best HVAC in Athol, Idaho",
+    "url": "athol.php",
+    "keywords": "athol, Athol",
+    "description": "Premium HVAC services in Athol, ID. Tailored to Athol's unique climate."
+  },
+  {
+    "title": "Best HVAC in Blanchard, Idaho",
+    "url": "blanchard.php",
+    "keywords": "blanchard, Blanchard",
+    "description": "Bill's Heating & A/C: Premier HVAC services in Blanchard, ID, tailored to the city's unique climate."
+  },
+  {
+    "title": "Best HVAC in Blanchard, Idaho",
+    "url": "blanchard.php",
+    "keywords": "blanchard, Blanchard",
+    "description": "Bill's Heating & A/C: Premier HVAC services in Blanchard, ID, tailored to the city's unique climate."
+  },
+  {
+    "title": "Best HVAC in Dalton Gardens, Idaho",
+    "url": "dg.php",
+    "keywords": "Dalton Gardens, dalton gardens",
+    "description": "Bill's Heating & A/C: Premier HVAC services in Dalton Gardens, ID, tailored to the city's unique climate."
+  },
+  {
+    "title": "Best HVAC in Hauser, Idaho",
+    "url": "hauser.php",
+    "keywords": "Hauser, hauser",
+    "description": "Bill's Heating & A/C: Premier HVAC services in Hauser, ID, tailored to the city's unique climate."
+  },
+  {
+    "title": "Best HVAC in Hayden, Idaho",
+    "url": "hayden.php",
+    "keywords": "Hayden, hayden",
+    "description": "Bill's Heating & A/C: Premier HVAC services in Hayden, ID, tailored to the city's unique climate."
+  },
+  {
+    "title": "Best HVAC in Lewiston, Idaho",
+    "url": "lewiston.php",
+    "keywords": "Lewiston, lewiston",
+    "description": "Bill's Heating & A/C: Premier HVAC services in Lewiston, ID, tailored to the city's unique climate."
+  },
+  {
+    "title": "Best HVAC in Moscow, Idaho",
+    "url": "moscow.php",
+    "keywords": "Moscow, moscow",
+    "description": "Bill's Heating & A/C: Premier HVAC services in Moscow, ID, tailored to the city's unique climate."
+  },
+  {
+    "title": "Best HVAC in Post Falls, Idaho",
+    "url": "pf.php",
+    "keywords": "Post Falls, post falls",
+    "description": "Bill's Heating & A/C: Premier HVAC services in Post Falls, ID, tailored to the city's unique climate."
+  },
+  {
+    "title": "Best HVAC in Priest River, Idaho",
+    "url": "pr.php",
+    "keywords": "Priest River, priest river",
+    "description": "Bill's Heating & A/C: Premier HVAC services in Priest River, ID, tailored to the city's unique climate."
+  },
+  {
+    "title": "Best HVAC in Rathdrum, Idaho",
+    "url": "rathdrum.php",
+    "keywords": "Rathdrum, rathdrum",
+    "description": "Bill's Heating & A/C: Premier HVAC services in Rathdrum, ID, tailored to the city's unique climate."
+  },
+  {
+    "title": "Best HVAC in Sandpoint, Idaho",
+    "url": "rathdrum.php",
+    "keywords": "Sandpoint, sandpoint",
+    "description": "Bill's Heating & A/C: Premier HVAC services in Sandpoint, ID, tailored to the city's unique climate."
+  },
+  {
+    "title": "Best HVAC in Spirit Lake, Idaho",
+    "url": "sl.php",
+    "keywords": "Spirit Lake, spirit lake",
+    "description": "Bill's Heating & A/C: Premier HVAC services in Spirit Lake, ID, tailored to the city's unique climate."
   }
 ]

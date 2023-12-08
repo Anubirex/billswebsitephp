@@ -26,12 +26,12 @@ document.addEventListener('DOMContentLoaded', function () {
             // For smaller screens, adjust the positioning logic as required
             searchResults.style.top = (searchButtonRect.bottom + (-110.6)) + 'px';
             searchResults.style.left = (searchButtonRect.left - searchResults.offsetWidth + searchButtonRect.width) + 'px'; // Example adjustment, align to the left with some padding
-            searchResults.style.width = '22rem'; // Example adjustment, full width minus some padding
+            searchResults.style.width = '30rem'; // Example adjustment, full width minus some padding
         } else {
             // For larger screens, keep the original positioning logic
             searchResults.style.top = (searchButtonRect.bottom + verticalOffset) + 'px';
             searchResults.style.left = (searchButtonRect.left - searchResults.offsetWidth + searchButtonRect.width) + 'px';
-            searchResults.style.width = '22rem'; // Original width
+            searchResults.style.width = '30rem'; // Original width
         }
     }
 
@@ -45,12 +45,12 @@ document.addEventListener('DOMContentLoaded', function () {
             // For smaller screens, adjust the positioning logic as required
             suggestionsContainer.style.top = (searchButtonRect.bottom + (-110.6)) + 'px';
             suggestionsContainer.style.left = (searchButtonRect.left + searchButtonRect.width) + 'px';
-            suggestionsContainer.style.width = '22rem';
+            suggestionsContainer.style.width = '30rem';
         } else {
             // For larger screens, keep the original positioning logic
             suggestionsContainer.style.top = (searchButtonRect.bottom + verticalOffset) + 'px';
             suggestionsContainer.style.left = (searchButtonRect.left + searchButtonRect.width) + 'px';
-            suggestionsContainer.style.width = '22rem';
+            suggestionsContainer.style.width = '30rem';
         }
     }
 
@@ -88,8 +88,6 @@ document.addEventListener('DOMContentLoaded', function () {
         searchResults.style.display = 'none';
     });
 
-
-
     // Event listener for search bar input for suggestions
     searchBar.addEventListener('input', function () {
         var inputValue = searchBar.value.toLowerCase();
@@ -118,23 +116,19 @@ document.addEventListener('DOMContentLoaded', function () {
         displayResults(results);
     }
 
-
     // Function to display search results
     function displayResults(results) {
         var resultsContainer = document.getElementById('search-results');
         resultsContainer.innerHTML = '';
 
         results.forEach(result => {
-            // Create the main clickable div
             var resultDiv = document.createElement('div');
             resultDiv.className = 'search-result-item';
 
-            // Create an anchor tag that covers the whole item
             var link = document.createElement('a');
-            link.href = result.url;
+            link.href = result.url || '#'; // Ensure href is valid for focusability
             link.className = 'search-result-link';
 
-            // Append title and description inside the anchor tag
             var title = document.createElement('h4');
             title.textContent = result.title;
 
@@ -144,16 +138,12 @@ document.addEventListener('DOMContentLoaded', function () {
 
             link.appendChild(title);
             link.appendChild(description);
-
-            // Append the anchor tag to the main div
             resultDiv.appendChild(link);
-
             resultsContainer.appendChild(resultDiv);
         });
 
         resultsContainer.style.display = 'block';
     }
-
 
     // Function to display suggestions
     function displaySuggestions(suggestions) {
@@ -161,14 +151,25 @@ document.addEventListener('DOMContentLoaded', function () {
         if (suggestions.length > 0 && searchBar.value !== '') {
             suggestionsContainer.style.display = 'block';
             suggestions.forEach(suggestion => {
-                var div = document.createElement('div');
-                div.textContent = suggestion.title;
-                div.onclick = function () {
+                // Create the clickable anchor tag
+                var link = document.createElement('a');
+                link.href = suggestion.url || '#';
+                link.className = 'suggestion-link';
+                link.style.display = 'block';
+                link.style.textDecoration = 'none';
+                link.style.color = 'inherit';
+                link.onclick = function (event) {
+                    event.preventDefault();
                     searchBar.value = suggestion.title;
                     suggestionsContainer.style.display = 'none';
-                    // Optionally, perform the search here
                 };
-                suggestionsContainer.appendChild(div);
+
+                var textContainer = document.createElement('div');
+                textContainer.textContent = suggestion.title;
+
+                link.appendChild(textContainer);
+
+                suggestionsContainer.appendChild(link);
             });
         } else {
             suggestionsContainer.style.display = 'none';
@@ -186,10 +187,10 @@ document.addEventListener('DOMContentLoaded', function () {
         displaySuggestions(filteredSuggestions);
     });
 
-
     // Attach search functionality to the search button
     document.querySelector('.search-bar-button').addEventListener('click', function () {
         performSearch(contentIndex);
+        suggestionsContainer.style.display = 'none';
     });
 });
 //////// SEARCH BAR END//////////////////////

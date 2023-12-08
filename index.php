@@ -122,7 +122,7 @@
                 </form>
               </div>
               <div class="hero-img">
-                <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/brazing-ac-gradient.webp"  alt="Description">
+                <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/brazing-ac-gradient.webp"  alt="A heating and cooling technician from Bill's heating and AC is brazing an air conditioning condenser line set.">
               </div>
             </div>
           </section>
@@ -132,7 +132,7 @@
             <div class="why-us-imgs width-limiter">
               <div  class="choose-us-card" data-animation="grow-and-shrink"><a href="lowprice.php">
                 <div class="choose-us-card-top">
-                  <img class="choose-us-card-icon" src="https://callbillsheating.s3.us-west-2.amazonaws.com/money-icon-pic-circle.webp" alt="Description">
+                  <img class="choose-us-card-icon" src="https://callbillsheating.s3.us-west-2.amazonaws.com/money-icon-pic-circle.webp" alt="A dollar sign" aria-hidden="true">
                   <p>Low Price Guarantee</p>
                 </div>
                 <div class="choose-us-card-bottom">
@@ -143,7 +143,7 @@
               </div>
               <div class="choose-us-card" data-animation="grow-and-shrink"><a href="reviews.php">
                 <div class="choose-us-card-top">
-                  <img class="choose-us-card-icon" src="https://callbillsheating.s3.us-west-2.amazonaws.com/star-icon-pic-circle.webp" alt="Description">
+                  <img class="choose-us-card-icon" src="https://callbillsheating.s3.us-west-2.amazonaws.com/star-icon-pic-circle.webp" alt="A star shape." aria-hidden="true">
                   <p> 2500+ 5-Star Reviews</p>
                 </div>
                 <div class="choose-us-card-bottom">
@@ -154,7 +154,7 @@
               </div>
               <div class="choose-us-card" data-animation="grow-and-shrink"><a href="freesecop.php">
                 <div class="choose-us-card-top">
-                  <img class="choose-us-card-icon" src="https://callbillsheating.s3.us-west-2.amazonaws.com/magnifying-glass-icon-pic-circle.webp" alt="Description">
+                  <img class="choose-us-card-icon" src="https://callbillsheating.s3.us-west-2.amazonaws.com/magnifying-glass-icon-pic-circle.webp" alt="A magnifying glass" aria-hidden="true">
                   <p>FREE Second Opinions</p>
                 </div>
                 <div class="choose-us-card-bottom">
@@ -177,34 +177,34 @@
             <div class="commendations width-limiter">
               <div class="commendations-track">
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/nest-pro-logo.webp" alt="Description">
+                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/nest-pro-logo.webp" alt="The Nest Pro Elite badge. Bills heating and AC has earned this bade by beign on of the top NEST dealers in the nation.">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/york-award-logo-grey.webp" alt="Description">
+                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/york-award-logo-grey.webp" alt="The 2023 York Dealer of the year award given to  Bills Heating and AC.">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/rinnai-logo-pic.webp" alt="Description">
+                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/rinnai-logo-pic.webp" alt="The rinnai ACE Pro logo signifying Bills Heating and AC has undergone high level training from Rinnai.">
                 </div>
                 <div>
-                  <img src="http://www.homeadvisor.com/images/sp-badges/toprated-solid-border.png?sp=107912817&key=4b1f6e243ab5ba69b4052c2254733d32" alt="Description">
+                  <img src="http://www.homeadvisor.com/images/sp-badges/toprated-solid-border.png?sp=107912817&key=4b1f6e243ab5ba69b4052c2254733d32" alt="The Home Advisor Top Rated badge awarded to Bills Heating and AC for being the highest rated HVAC contractor in their area.">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/mistubishi-logo-pic.webp" alt="Description">
+                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/mistubishi-logo-pic.webp" alt="The Mitsubishi Ductless Elite Pro badge given only to the absolute best of Mistubishi's ductless installers.">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/nest-pro-logo.webp" alt="Description">
+                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/nest-pro-logo.webp" alt="The Nest Pro Elite badge. Bills heating and AC has earned this bade by beign on of the top NEST dealers in the nation.">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/york-award-logo-grey.webp" alt="Description">
+                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/york-award-logo-grey.webp" alt="The 2023 York Dealer of the year award given to  Bills Heating and AC.">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/rinnai-logo-pic.webp" alt="Description">
+                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/rinnai-logo-pic.webp" alt="The rinnai ACE Pro logo signifying Bills Heating and AC has undergone high level training from Rinnai.">
                 </div>
                 <div>
-                  <img src="http://www.homeadvisor.com/images/sp-badges/toprated-solid-border.png?sp=107912817&key=4b1f6e243ab5ba69b4052c2254733d32" alt="Description">
+                  <img src="http://www.homeadvisor.com/images/sp-badges/toprated-solid-border.png?sp=107912817&key=4b1f6e243ab5ba69b4052c2254733d32" alt="The Home Advisor Top Rated badge awarded to Bills Heating and AC for being the highest rated HVAC contractor in their area.">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/mistubishi-logo-pic.webp" alt="Description">
+                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/mistubishi-logo-pic.webp" alt="The Mitsubishi Ductless Elite Pro badge given only to the absolute best of Mistubishi's ductless installers.">
                 </div>
               </div>
             </div>
