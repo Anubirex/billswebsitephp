@@ -1,5 +1,5 @@
 //////// SEARCH BAR BEGINNING//////////////////////
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', function() {
     var searchIconButton = document.getElementById('searchIconbutton');
     var searchBar = document.getElementById('searchBar');
     var searchButton = document.querySelector('.search-bar-button');
@@ -19,33 +19,33 @@ document.addEventListener('DOMContentLoaded', function () {
     // Function to position the search results
     function positionSearchResults() {
         var searchButtonRect = document.getElementById('searchIconbutton').getBoundingClientRect();
-        var verticalOffset = -140.6; // Adjust this value for vertical spacing
-
-        // Use window.innerWidth to determine the current width of the viewport
-        if (window.innerWidth < 768) { // Example breakpoint, adjust as needed
-            // For smaller screens, adjust the positioning logic as required
-            searchResults.style.top = (searchButtonRect.bottom + (-110.6)) + 'px';
-            searchResults.style.left = (searchButtonRect.left - searchResults.offsetWidth + searchButtonRect.width) + 'px'; // Example adjustment, align to the left with some padding
-            searchResults.style.width = '30rem'; // Example adjustment, full width minus some padding
-        } else {
-            // For larger screens, keep the original positioning logic
-            searchResults.style.top = (searchButtonRect.bottom + verticalOffset) + 'px';
-            searchResults.style.left = (searchButtonRect.left - searchResults.offsetWidth + searchButtonRect.width) + 'px';
-            searchResults.style.width = '30rem'; // Original width
-        }
+            var verticalOffset = -140.6; // Adjust this value for vertical spacing
+        
+            // Use window.innerWidth to determine the current width of the viewport
+            if (window.innerWidth < 768) { // Example breakpoint, adjust as needed
+                // For smaller screens, adjust the positioning logic as required
+                searchResults.style.top = (searchButtonRect.bottom + (-110.6)) + 'px';
+                searchResults.style.left = (searchButtonRect.left - searchResults.offsetWidth + searchButtonRect.width) + 'px'; // Example adjustment, align to the left with some padding
+                searchResults.style.width = '30rem'; // Example adjustment, full width minus some padding
+            } else {
+                // For larger screens, keep the original positioning logic
+                searchResults.style.top = (searchButtonRect.bottom + verticalOffset) + 'px';
+                searchResults.style.left = (searchButtonRect.left - searchResults.offsetWidth + searchButtonRect.width) + 'px';
+                searchResults.style.width = '30rem'; // Original width
+            }
     }
 
     // Function to position the suggestions
     function positionSuggestions() {
         var searchButtonRect = document.getElementById('searchIconbutton').getBoundingClientRect();
         var verticalOffset = -140.6; // Adjust this value for vertical spacing
-
+    
         // Use window.innerWidth to determine the current width of the viewport
         if (window.innerWidth < 768) { // Example breakpoint, adjust as needed
             // For smaller screens, adjust the positioning logic as required
             suggestionsContainer.style.top = (searchButtonRect.bottom + (-110.6)) + 'px';
-            suggestionsContainer.style.left = (searchButtonRect.left + searchButtonRect.width) + 'px';
-            suggestionsContainer.style.width = '30rem';
+            suggestionsContainer.style.left = (searchButtonRect.left + searchButtonRect.width) + 'px'; 
+            suggestionsContainer.style.width = '30rem'; 
         } else {
             // For larger screens, keep the original positioning logic
             suggestionsContainer.style.top = (searchButtonRect.bottom + verticalOffset) + 'px';
@@ -55,39 +55,39 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     // Event listener for search icon button click
-    searchIconButton.addEventListener('click', function () {
+    searchIconButton.addEventListener('click', function() {
         var isSearchBarVisible = searchBar.style.display === 'block';
-
+    
         // Toggle search bar, button, and overlay
         searchBar.style.display = isSearchBarVisible ? 'none' : 'block';
         searchButton.style.display = isSearchBarVisible ? 'none' : 'block';
         overlay.style.display = isSearchBarVisible ? 'none' : 'block';
-
+    
         // Toggle search icon visibility
         searchIconButton.style.visibility = isSearchBarVisible ? 'visible' : 'hidden';
-
+    
         if (!isSearchBarVisible) {
             positionSearchResults(); // Position results when showing them
         }
     });
-
-    overlay.addEventListener('click', function () {
+    
+    overlay.addEventListener('click', function() {
         // Hide the search bar, button, and overlay
         searchBar.style.display = 'none';
         searchButton.style.display = 'none';
         overlay.style.display = 'none';
-
+    
         // Clear the search input
         searchBar.value = '';
-
+    
         // Show the search icon
         searchIconButton.style.visibility = 'visible';
-
+    
         // Hide suggestions and search results
         suggestionsContainer.style.display = 'none';
         searchResults.style.display = 'none';
     });
-
+    
     // Event listener for search bar input for suggestions
     searchBar.addEventListener('input', function () {
         var inputValue = searchBar.value.toLowerCase();
@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     // Event listener for window resize
-    window.addEventListener('resize', function () {
+    window.addEventListener('resize', function() {
         positionSearchResults();
         positionSuggestions();
     });
@@ -106,45 +106,45 @@ document.addEventListener('DOMContentLoaded', function () {
     // Function to perform the search
     function performSearch(contentIndex) {
         var query = document.getElementById('searchBar').value.toLowerCase();
-
-        var results = contentIndex.filter(item =>
+    
+        var results = contentIndex.filter(item => 
             item.title.toLowerCase().includes(query) ||
             item.keywords && item.keywords.toLowerCase().includes(query) ||
             item.description && item.description.toLowerCase().includes(query)
         );
-
+    
         displayResults(results);
     }
-
+    
     // Function to display search results
     function displayResults(results) {
         var resultsContainer = document.getElementById('search-results');
         resultsContainer.innerHTML = '';
-
+    
         results.forEach(result => {
             var resultDiv = document.createElement('div');
             resultDiv.className = 'search-result-item';
-
+    
             var link = document.createElement('a');
             link.href = result.url || '#'; // Ensure href is valid for focusability
             link.className = 'search-result-link';
-
+            
             var title = document.createElement('h4');
             title.textContent = result.title;
-
+    
             var description = document.createElement('p');
             description.textContent = result.description;
             description.className = 'search-result-description';
-
+    
             link.appendChild(title);
             link.appendChild(description);
             resultDiv.appendChild(link);
             resultsContainer.appendChild(resultDiv);
         });
-
+    
         resultsContainer.style.display = 'block';
     }
-
+    
     // Function to display suggestions
     function displaySuggestions(suggestions) {
         suggestionsContainer.innerHTML = '';
@@ -163,34 +163,83 @@ document.addEventListener('DOMContentLoaded', function () {
                     searchBar.value = suggestion.title;
                     suggestionsContainer.style.display = 'none';
                 };
-
+    
                 var textContainer = document.createElement('div');
                 textContainer.textContent = suggestion.title;
-
+    
                 link.appendChild(textContainer);
-
+    
                 suggestionsContainer.appendChild(link);
             });
         } else {
             suggestionsContainer.style.display = 'none';
         }
     }
-
+    
     // Modify searchBar event listener
     searchBar.addEventListener('input', function () {
         var inputValue = searchBar.value.toLowerCase();
-        var filteredSuggestions = contentIndex.filter(item =>
+        var filteredSuggestions = contentIndex.filter(item => 
             item.title.toLowerCase().includes(inputValue) ||
             (item.keywords && item.keywords.toLowerCase().includes(inputValue))
         );
-
+    
         displaySuggestions(filteredSuggestions);
     });
-
+    
     // Attach search functionality to the search button
-    document.querySelector('.search-bar-button').addEventListener('click', function () {
+    document.querySelector('.search-bar-button').addEventListener('click', function() {
         performSearch(contentIndex);
         suggestionsContainer.style.display = 'none';
     });
 });
 //////// SEARCH BAR END//////////////////////
+////////////////LEARNING HUB///////////////////////////////
+document.addEventListener('DOMContentLoaded', () => {
+    const carousels = document.querySelectorAll('.blog-lat-carousel-container, .blog-pop-carousel-container');
+
+    carousels.forEach(carouselContainer => {
+        const carousel = carouselContainer.querySelector('.learn-blog-lat-carousel, .learn-blog-pop-carousel');
+        const slides = carousel.querySelectorAll('.blog-post-latest, .blog-post-popular');
+        let currentIndex = 0;
+
+        const getSlideWidth = () => {
+            const slidesToShow = window.innerWidth < 768 ? 2 : 4;
+            return carousel.offsetWidth / slidesToShow;
+        };
+
+        const updateCarousel = () => {
+            const slideWidth = getSlideWidth();
+            const distance = currentIndex * slideWidth;
+            slides.forEach(slide => {
+                slide.style.transform = `translateX(-${distance}px)`;
+            });
+        };
+
+        const prevButton = carouselContainer.querySelector('.latest-prev, .pop-prev');
+        const nextButton = carouselContainer.querySelector('.latest-next, .pop-next');
+
+        prevButton.addEventListener('click', () => {
+            currentIndex = Math.max(currentIndex - 1, 0);
+            updateCarousel();
+        });
+
+        nextButton.addEventListener('click', () => {
+            const slidesToShow = window.innerWidth < 768 ? 2 : 4;
+            const maxIndex = slides.length - slidesToShow;
+            currentIndex = Math.min(currentIndex + 1, maxIndex);
+            updateCarousel();
+        });
+
+        updateCarousel();
+    });
+
+    // Responsive adjustment
+    window.addEventListener('resize', () => {
+        carousels.forEach(carouselContainer => {
+            carouselContainer.querySelectorAll('.learn-blog-lat-carousel, .learn-blog-pop-carousel')
+                .forEach(updateCarousel);
+        });
+    });
+});
+////////////////////////LEARNING HUB END//////////////////////////////////

@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
             document.body.classList.remove('no-scroll');
         }
     }
-
+    
     function updateBackButtonVisibility() {
         backButton.style.display = isSubmenuActive() ? 'block' : 'none';
     }
@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         updateBackButtonVisibility();
         updateScrollLock();
-
+        
 
         menuContent.style.display = 'block';
     }
@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
         updateBackButtonVisibility();
         updateScrollLock();
 
-        menuContent.style.display = 'none';
+        menuContent.style.display = 'none'; 
     }
 
 
@@ -56,17 +56,17 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    backButton.addEventListener('click', () => {
-        bmServiceMenu.classList.remove('bm-service-menu-active');
-        bmAboutMenu.classList.remove('bm-about-menu-active');
+backButton.addEventListener('click', () => {
+    bmServiceMenu.classList.remove('bm-service-menu-active');
+    bmAboutMenu.classList.remove('bm-about-menu-active');
 
-        bmMainMenu.classList.add('bm-main-menu-active');
+    bmMainMenu.classList.add('bm-main-menu-active');
 
-        updateBackButtonVisibility();
-        updateScrollLock();
+    updateBackButtonVisibility();
+    updateScrollLock();
 
-        menuContent.style.display = 'block';
-    });
+    menuContent.style.display = 'block';
+});
 
     bmMainMenu.addEventListener('click', (event) => {
         if (event.target.closest('.bm-main-menu-item')) {
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    hideAllMenus();
+    hideAllMenus(); 
 });
 //////END OF BURGER MENU FUNCTIONALITY/////////////////////////////////
 //////BEGINNING OF FORM FUNCTIONALITY/////////////////////////////////
@@ -92,13 +92,13 @@ document.addEventListener('DOMContentLoaded', () => {
     function toggleFormDisplay() {
         const isFormVisible = formOverlay.style.display === 'flex';
         formOverlay.style.display = isFormVisible ? 'none' : 'flex';
-
+        
         if (window.innerWidth <= 768) {
             document.body.classList.toggle('no-scroll', !isFormVisible);
         }
 
         if (!isFormVisible) {
-            setTimeout(() => {
+            setTimeout(() => { 
                 document.addEventListener('click', closeFormIfClickedOutside);
             }, 0);
         } else {
@@ -150,9 +150,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const slides = Array.from(document.querySelectorAll('.carousel-slide'));
     const prevButton = document.querySelector('.carousel-nav.prev');
     const nextButton = document.querySelector('.carousel-nav.next');
-    let currentSlideIndex = 1;
+    let currentSlideIndex = 1; 
     let slideInterval;
-    let interactionTimeout;
+    let interactionTimeout; 
 
     const updateCarousel = () => {
         const slideWidth = slides[0].clientWidth;
@@ -162,7 +162,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (currentSlideIndex === 0 || currentSlideIndex === slides.length - 1) {
             setTimeout(() => {
-                slidesContainer.style.transition = 'none';
+                slidesContainer.style.transition = 'none'; 
                 currentSlideIndex = currentSlideIndex === 0 ? slides.length - 2 : 1;
                 slidesContainer.style.transform = `translateX(-${slideWidth * currentSlideIndex}px)`;
             }, 500);
@@ -330,7 +330,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 //////END OF COMMENDATIONS ANIMATION/////////////////////////////////  
 ///////HEADER SCROLL LISTENER BEGIN//////////////////////////
-window.addEventListener('scroll', function () {
+window.addEventListener('scroll', function() {
     if (window.innerWidth > 1250) {
         var headerImage = document.querySelector('.header-logo');
         if (scrollY > 0) {

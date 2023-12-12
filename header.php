@@ -291,7 +291,7 @@
                   </ul>
                 </li>
                 <li class="menu-item"><a href="products.php" role="menuitem"><span class="menu-text">Products</span></a></li>
-                <li class="menu-item"><a href="learning.php" role="menuitem"><span class="menu-text">Learning Hub</span></a></li>
+                <li class="menu-item"><a href="learninghub.php" role="menuitem"><span class="menu-text">Learning Hub</span></a></li>
                 <li class="menu-item"><a href="financing.php" role="menuitem"><span class="menu-text">Financing</span></a></li>
                 <li class="menu-item"><a href="savings.php" role="menuitem"><span class="menu-text">Savings</span></a></li>
                 <li class="menu-item has-submenu"><a href="#" class="icon-menu-item has-dropdown" role="menuitem" aria-haspopup="true" aria-expanded="false"><span class="menu-text">About Us</span><svg class="dropdown-arrow" id="dropdown-arrow-1" data-name="Dropdown Arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.62 14.18"><polyline  class="main-icon-stroke" points="1.06 1.56 11.56 12.06 22.56 1.06"/></svg></a>
@@ -373,7 +373,7 @@
                         <a href="products.php" role="menuitem"><span class="bm-main-menu-text">Products</span></a>
                       </li>
                       <li class="bm-main-menu-item">
-                        <a href="learning.php" role="menuitem"><span class="bm-main-menu-text">Learning Hub</span></a>
+                        <a href="learninghub.php" role="menuitem"><span class="bm-main-menu-text">Learning Hub</span></a>
                       </li>
                       <li class="bm-main-menu-item">
                         <a href="financing.php" role="menuitem"><span class="bm-main-menu-text">Financing</span></a>

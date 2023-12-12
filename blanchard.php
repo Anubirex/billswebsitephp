@@ -2,9 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Bill's Heating & A/C | Best HVAC in Moscow, Idaho</title>
+    <title>Bill's Heating & A/C | Best HVAC in Blanchard, Idaho</title>
     <link rel="canonical" href="https://callbillsheating.com/">
-    <meta name="description" content="Bill's Heating & A/C: Premier HVAC services in Moscow, ID, tailored to the city's unique climate, from snowy winters to warm summers. Our expert team offers specialized heating and cooling solutions for optimal indoor comfort. Committed to Moscow's community, we provide efficient service with no travel fees and $79 diagnostics. Choose us for top-quality, cost-effective HVAC care, proven by our high customer satisfaction. Contact us for dependable year-round comfort in your Moscow home or business!">
+    <meta name="description" content="Bill's Heating & A/C: Expert HVAC solutions in Blanchard, ID, designed for the town's cold winters and mild summers. We provide reliable heating and cooling services to ensure year-round comfort in your home or business. Our team, with in-depth knowledge of Blanchard's climate, offers prompt and efficient service, including $79 diagnostics and no travel fees. Choose us for high-quality, affordable HVAC care, backed by high customer satisfaction. Contact us for customized HVAC services in Blanchard!">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
@@ -15,8 +15,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <script src="src.js" defer></script> 
-    <script src="search.js" defer></script>
+    <script src="src.js" defer></script>
+    <script src="search.js" defer></script>  
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     <script src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js" defer></script>
       
@@ -30,16 +30,16 @@
     </script>
 
     <!-- Open Graph and Twitter Cards -->
-    <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Moscow, Idaho">
-    <meta property="og:description" content="Bill's Heating & A/C: Premier HVAC services in Moscow, ID, tailored to the city's unique climate, from snowy winters to warm summers. Our expert team offers specialized heating and cooling solutions for optimal indoor comfort. Committed to Moscow's community, we provide efficient service with no travel fees and $79 diagnostics. Choose us for top-quality, cost-effective HVAC care, proven by our high customer satisfaction. Contact us for dependable year-round comfort in your Moscow home or business!">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/moscow-social-share.webp">
+    <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Blanchard, Idaho">
+    <meta property="og:description" content="Bill's Heating & A/C: Expert HVAC solutions in Blanchard, ID, designed for the town's cold winters and mild summers. We provide reliable heating and cooling services to ensure year-round comfort in your home or business. Our team, with in-depth knowledge of Blanchard's climate, offers prompt and efficient service, including $79 diagnostics and no travel fees. Choose us for high-quality, affordable HVAC care, backed by high customer satisfaction. Contact us for customized HVAC services in Blanchard!">
+    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/blanchard-social-share.webp">
     <meta property="og:url" content="https://callbillsheating.com">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
-    <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Moscow, Idaho">
-    <meta name="twitter:description" content="Bill's Heating & A/C: Premier HVAC services in Moscow, ID, tailored to the city's unique climate, from snowy winters to warm summers. Our expert team offers specialized heating and cooling solutions for optimal indoor comfort. Committed to Moscow's community, we provide efficient service with no travel fees and $79 diagnostics. Choose us for top-quality, cost-effective HVAC care, proven by our high customer satisfaction. Contact us for dependable year-round comfort in your Moscow home or business!">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/moscow-summary-large-image.webp">
+    <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Blanchard, Idaho">
+    <meta name="twitter:description" content="Bill's Heating & A/C: Expert HVAC solutions in Blanchard, ID, designed for the town's cold winters and mild summers. We provide reliable heating and cooling services to ensure year-round comfort in your home or business. Our team, with in-depth knowledge of Blanchard's climate, offers prompt and efficient service, including $79 diagnostics and no travel fees. Choose us for high-quality, affordable HVAC care, backed by high customer satisfaction. Contact us for customized HVAC services in Blanchard!">
+    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/blanchard-summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -96,18 +96,18 @@
         <?php include 'header.php'; ?>
         <div class="page-overlay" id="pageOverlay"></div>
           <section class="areas-hero">
-            <img class="hero-image" src="https://callbillsheating.s3.us-west-2.amazonaws.com/moscow-header-800w.webp"
-                srcset="https://callbillsheating.s3.us-west-2.amazonaws.com/moscow-header-450w.webp 450w, 
-                        https://callbillsheating.s3.us-west-2.amazonaws.com/moscow-header-800w.webp 800w, 
-                        https://callbillsheating.s3.us-west-2.amazonaws.com/moscow-header-2000w.webp 2000w"
+            <img class="hero-image" src="https://callbillsheating.s3.us-west-2.amazonaws.com/blanchard-header-800w.webp"
+                srcset="https://callbillsheating.s3.us-west-2.amazonaws.com/blanchard-header-450w.webp 450w, 
+                        https://callbillsheating.s3.us-west-2.amazonaws.com/blanchard-header-800w.webp 800w, 
+                        https://callbillsheating.s3.us-west-2.amazonaws.com/blanchard-header-2000w.webp 2000w"
                 sizes="(max-width: 450px) 450px, 
                        (max-width: 799px) 800px, 
                         2000px"
-                alt="Background photo of Moscow, Idaho"
+                alt="Background photo of Blanchard, Idaho"
                 class="hero-image" aria-hidden="true">
             <div class="areas-hero-inner width-limiter">
               <div class="areas-hero-container width-limiter">
-                <h1>Moscow, ID</h1>
+                <h1>Blanchard, ID</h1>
                 <div class="responsive-video">
                   <iframe width="720" height="405" src="https://www.youtube.com/embed/m4KVBKSQ_sg?si=sQtXIuq-TdrQXwxC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
@@ -127,7 +127,7 @@
             <div class="local-needs-container width-limiter">
                 <div class="local-needs-text">
                     <h2>Local Climate and Heating/Cooling Needs</h2>
-                    <p>Moscow, ID, known for its vibrant community and cultural richness, experiences a climate that emphasizes the importance of reliable heating and cooling systems. The city endures cold winters with a fair amount of snowfall, necessitating efficient and robust heating solutions to ensure a cozy and warm indoor environment. Summers in Moscow are pleasant but can bring periods of warmth, making a dependable air conditioning system essential for maintaining comfortable living conditions. This variation in weather throughout the year not only adds to Moscow's appeal but also highlights the necessity of adaptable HVAC systems to provide comfort in all seasons.</p>
+                    <p>Blanchard, ID, a quaint and peaceful town, experiences a climate that demands thoughtful heating and cooling strategies. The winters in Blanchard are typically marked by cold temperatures and occasional snow, creating a need for reliable heating systems to ensure a warm and comfortable indoor atmosphere. Summers, while generally mild, can have periods of warmth, underscoring the importance of efficient air conditioning to maintain a pleasant living environment. This diversity in weather throughout the year not only contributes to the rustic charm of Blanchard but also emphasizes the importance of having versatile HVAC systems to ensure comfort in all seasons.</p>
                 </div>
                 <div class="local-needs-img" data-animation="zoom-in-right">
                     <img class="twobyone-image" src="https://callbillsheating.s3.us-west-2.amazonaws.com/hot-cold-landscape.webp" alt="A photo of an Idaho landscape. The left half is summer. The right half is winter." loading="lazy">
@@ -140,15 +140,15 @@
                         <img class="twobyone-image" src="https://callbillsheating.s3.us-west-2.amazonaws.com/techs-arriving.webp" alt="Two HVAC technicians arriving at a customers home for a service call." loading="lazy">
                     </div>
                     <div class="areas-commitment-text">
-                        <h2>Our Commitment to Moscow</h2>
-                        <p>Bill's Heating & A/C is deeply committed to serving the Moscow community with outstanding HVAC services. Our expertise in understanding Moscow's unique climate allows us to provide tailored heating and cooling solutions that meet the specific needs of the area. With a team of skilled technicians regularly available in Moscow, we ensure prompt and effective service to keep your HVAC systems functioning optimally. Our presence in Moscow is a reflection of our dedication to enhancing the comfort and quality of life for each home and business we serve.</p>
+                        <h2>Our Commitment to Blanchard</h2>
+                        <p>At Bill's Heating & A/C, our commitment to the Blanchard community is unwavering, characterized by providing top-tier HVAC services tailored to the local climate. Our team is well-versed in the specific climatic challenges of Blanchard, enabling us to offer heating and cooling solutions that perfectly align with the town's needs. With technicians consistently available in Blanchard, we guarantee prompt and effective service to keep your HVAC systems running smoothly. Our dedication to Blanchard extends beyond mere service; we are devoted to enhancing the comfort and satisfaction of every household and business we serve.</p>
                     </div>
                 </div>
           </section>
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Choosing Bill's Heating & A/C for your HVAC needs in Moscow means selecting a service that combines deep local understanding with superior quality. Our no travel fee policy and extensive service area are a testament to our commitment to affordability and accessibility for all our clients. With competitive pricing on services like $79 diagnostics and tune-ups, and free estimates and second opinions, we strive to offer Moscow residents the best value. Our high customer satisfaction ratings underscore our dedication to exceeding service expectations. Trust us to ensure that your Moscow home or business remains comfortable throughout the year, with reliable, efficient, and custom-fit HVAC solutions.</p>
+                <p>Opting for Bill's Heating & A/C in Blanchard means choosing a service that is deeply rooted in local expertise and backed by a commitment to quality. Our no travel fee policy and wide service area demonstrate our dedication to providing affordable and accessible services. Our competitive pricing, including $79 diagnostics and tune-ups, free estimates, and second opinions, ensure that our Blanchard clients receive the best value. Our high customer satisfaction ratings reflect our dedication to exceeding expectations in service quality. Trust us to keep your Blanchard home or business comfortable throughout the year, with reliable, efficient, and tailored HVAC solutions.</p>
             </div>
           </section>
           <div class="commendations-outer">

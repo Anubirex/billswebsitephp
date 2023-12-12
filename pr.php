@@ -15,8 +15,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <script src="src.js" defer></script>
-    <script src="search.js" defer></script>
+    <script src="src.js" defer></script> 
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     <script src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js" defer></script>
       

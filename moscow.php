@@ -16,7 +16,6 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <script src="src.js" defer></script> 
-    <script src="search.js" defer></script>
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     <script src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js" defer></script>
       
@@ -54,16 +53,16 @@
         "priceRange": "$$",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "1007 N Boulder ct.",
-          "addressLocality": "Post Falls",
+          "streetAddress": "1332 G St.",
+          "addressLocality": "Lewiston",
           "addressRegion": "ID",
-          "postalCode":"83854",
+          "postalCode":"83501",
           "addressCountry": "US"
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": 47.718688,
-          "longitude": -116.999777
+          "latitude": 46.41670,
+          "longitude": -117.01430
         },
         "openingHoursSpecification": [
           {
