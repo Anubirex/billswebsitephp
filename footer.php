@@ -5,7 +5,7 @@
                       Proud Supporters of the<br>
                       Gonzaga Bulldogs
                   </p>
-                  <a href="https://gozags.com/"><img src="https://callbillsheating.s3.us-west-2.amazonaws.com/gonzaga-logo.webp" alt="Gonazga Bulldogs Logo" loading="lazy"></a>
+                  <a href="https://gozags.com/"><img src="images/gonzaga-logo.webp" alt="Gonazga Bulldogs Logo" loading="lazy" width="600" height="600"></a>
               </div>
               <div class="footer-nav">
                   <h2>Quick Links</h2>
@@ -14,7 +14,7 @@
                       <li><a href="services.php">Services</a></li>
                       <li><a href="areas.php">Service Areas</a></li>
                       <li><a href="products.php">Products</a></li>
-                      <li><a href="learninghub.php">Learning Hub</a></li>
+                      <li><a href="learning.php">Learning Hub</a></li>
                       <li><a href="financing.php">Financing</a></li>
                       <li><a href="savings.php">Savings</a></li>
                       <li><a href="about.php">About Us</a></li>
@@ -24,16 +24,16 @@
                   <h2>Follow Us</h2>
                   <div class="social-link-logos">
                       <a href="https://www.facebook.com/billsheating" aria-label="Visit Bill's Heating and AC on Facebook">
-                        <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/facebook-logo-white.webp" alt="Bill's Heating and AC's Facebook Page" loading="lazy">
+                        <img src="images/facebook-logo-white.webp" alt="Bill's Heating and AC's Facebook Page" loading="lazy" width="128" height="128">
                         </a>
                         <a href="https://www.instagram.com/billsheatingandac/" aria-label="Visit Bill's Heating and AC on Instagram">
-                        <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/Instagram_logo-filled.webp" alt="Bill's Heating and AC's Instagram Page" loading="lazy">
+                        <img src="images/Instagram_logo-filled.webp" alt="Bill's Heating and AC's Instagram Page" loading="lazy" width="128" height="128">
                         </a>
                       <a href="https://www.youtube.com/@billsheatingandac" aria-label="Visit Bill's Heating and AC on Youtube">
-                        <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/youtube-logo.webp" alt="Bill's Heating and Ac's YouTube Page" loading="lazy">
+                        <img src="images/youtube-logo.webp" alt="Bill's Heating and Ac's YouTube Page" loading="lazy" width="128" height="128">
                         </a>
                   </div>
-                  <a href="lowprice.php"><img class="low-price-logo" src="https://callbillsheating.s3.us-west-2.amazonaws.com/lowprice.png" alt="We have a lowest price guarantee" loading="lazy"></a>
+                  <a href="lowprice.php"><img class="low-price-logo" src="images/lowprice.webp" alt="We have a lowest price guarantee" loading="lazy" width="358" height="362"></a>
               </div>
               <div class="footer-contact">
                   <h2>Contact Us</h2>
@@ -87,16 +87,16 @@
                           <div class="license license-idaho">
                               <h3>Idaho:</h3>
                               <ul>
-                                  <li><a href="https://web.dbs.idaho.gov/etrakit3/Custom/Idaho_LicenseSearch.aspx" target="_blank" rel="noopener noreferrer" aria-label="Check Bill's Heating and AC's license"> HVC-C-4220</a></li>
-                                  <li><a href="https://web.dbs.idaho.gov/etrakit3/Custom/Idaho_LicenseSearch.aspx" target="_blank" rel="noopener noreferrer" aria-label="Check Bill's Heating and AC's license">035601</a></li>
-                                  <li><a href="https://web.dbs.idaho.gov/etrakit3/Custom/Idaho_LicenseSearch.aspx" target="_blank" rel="noopener noreferrer" aria-label="Check Bill's Heating and AC's license">053945</a></li>
+                                  <li><a href="https://web.dbs.idaho.gov/etrakit3/Custom/Idaho_LicenseSearch.aspx" target="_blank" rel="noopener noreferrer" aria-label="HVC-C-4220"> HVC-C-4220</a></li>
+                                  <li><a href="https://web.dbs.idaho.gov/etrakit3/Custom/Idaho_LicenseSearch.aspx" target="_blank" rel="noopener noreferrer" aria-label="035601">035601</a></li>
+                                  <li><a href="https://web.dbs.idaho.gov/etrakit3/Custom/Idaho_LicenseSearch.aspx" target="_blank" rel="noopener noreferrer" aria-label="053945">053945</a></li>
                               </ul>
                           </div>
                           <div class="license license-wa">
                               <h3>Washington:</h3>
                               <ul>
-                                  <li><a href="https://secure.lni.wa.gov/verify/Detail.aspx?UBI=603491857&LIC=BILLSHA852JM&SAW=" target="_blank" rel="noopener noreferrer" aria-label="Check Bill's Heating and AC's license">BILLSHA852JMCS</a></li>
-                                  <li><a href="https://secure.lni.wa.gov/verify/Detail.aspx?UBI=603491857&LIC=BILLSHA846OO&SAW=" target="_blank" rel="noopener noreferrer" aria-label="Check Bill's Heating and AC's license">BILLSHA84600</a></li>
+                                  <li><a href="https://secure.lni.wa.gov/verify/Detail.aspx?UBI=603491857&LIC=BILLSHA852JM&SAW=" target="_blank" rel="noopener noreferrer" aria-label="BILLSHA852JMCS">BILLSHA852JMCS</a></li>
+                                  <li><a href="https://secure.lni.wa.gov/verify/Detail.aspx?UBI=603491857&LIC=BILLSHA846OO&SAW=" target="_blank" rel="noopener noreferrer" aria-label="BILLSHA84600">BILLSHA84600</a></li>
                               </ul>
                           </div>
                       </div>
@@ -104,7 +104,7 @@
               </div>
           </div>
           <div class="footer-bottom">
-              <p>&lt;&lt;&lt; &copy; 2023 Bill&apos;s Heating and A/C. All rights reserved. &gt;&gt;&gt;</p>
+              <p>&lt;&lt;&lt; &copy; 2023 Bill&apos;s Heating and A/C. All rights reserved.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="privacy-policy.php">PRIVACY POLICY</a>&nbsp; &gt;&gt;&gt; </p>
           </div>
           <!--      //////////////////////////////SOCIAL SIDEBAR/////////////////////////////////////////////// -->
           <div class="social-sidebar desktop-only">
@@ -116,7 +116,7 @@
       <!-- //////////////////////CHAT WIDGET BELOW////////////////////////////////////////////// -->
           <chat-widget class="chat-widget"
               location-id="mHA1WB8yS2Zc1d9bIvvK"
-              style="--chat-widget-primary-color: #2c8ddb; --chat-widget-active-color:#2c8ddb ;--chat-widget-bubble-color: #9f161c ;"
+              style="--chat-widget-primary-color: #2c8ddb; --chat-widget-active-color:#2c8ddb ;--chat-widget-bubble-color:#dea724; stroke: black;"
               heading="Hello! What can we help you with?" 
               sub-heading="Please enter your information and we'll send you a text" 
               legal-msg="By submitting you agree to receive text messages at the number provided. Message/data rates may be applied." 
@@ -127,4 +127,4 @@
               locale="en-us" 
               primary-color="#2c8ddb">
         </chat-widget>
-      </footer>
+      </footer> 

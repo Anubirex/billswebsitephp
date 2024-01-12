@@ -1,104 +1,464 @@
 [
   {
-    "title": "Home",
-    "url": "index.php",
-    "keywords": "Home, home, Main, main",
-    "description": "Bill's Heating & A/C website main page."
+      "title": "Bills Heating & A/C | Home",
+      "url": "/index.php",
+      "keywords": "Home, home, Main, main",
+      "description": "Bill's Heating & A/C website main page."
   },
   {
-    "title": "Service Areas",
-    "url": "areas.php",
-    "keywords": "Service Area, service area, service, Service, area, Area, service areas, Service Areas, Locations, locations",
-    "description": "Bill's Heating & A/C's Service Areas, most areas we service are included in the service areas page."
+      "title": "Bills Heating & A/C | Service Areas",
+      "url": "/areas.php",
+      "keywords": "Service Area, service area, service, Service, area, Area, service areas, Service Areas, Locations, locations",
+      "description": "Bill's Heating & A/C's Service Areas, most areas we service are included in the service areas page."
   },
   {
-    "title": "Best HVAC in Coeur D'Alene, Idaho",
-    "url": "areas.php",
-    "keywords": "cda, CDA, Coeur D'Alene, coeur d'alene, ceour, couer",
-    "description": "Bill's Heating & A/C premier HVAC Services in Coeur D'alene."
+      "title": "Best HVAC in Coeur D'Alene, Idaho",
+      "url": "/cda.php",
+      "keywords": "cda, CDA, Coeur D'Alene, coeur d'alene, ceour, couer",
+      "description": "Bill's Heating & A/C premier HVAC Services in Coeur D'alene."
   },
   {
-    "title": "Best HVAC in Spokane, Washington",
-    "url": "areas.php",
-    "keywords": "spk, Spk, spokane, Spokane",
-    "description": "Bill's Heating & A/C's HVAC Services in Spokane."
+      "title": "Best HVAC in Spokane, Washington",
+      "url": "/spokane.php",
+      "keywords": "spk, Spk, spokane, Spokane",
+      "description": "Bill's Heating & A/C's HVAC Services in Spokane."
   },
   {
-    "title": "Best HVAC in Athol, Idaho",
-    "url": "athol.php",
-    "keywords": "athol, Athol",
-    "description": "Premium HVAC services in Athol, ID. Tailored to Athol's unique climate."
+      "title": "Best HVAC in Athol, Idaho",
+      "url": "/athol.php",
+      "keywords": "athol, Athol",
+      "description": "Premium HVAC services in Athol, ID. Tailored to Athol's unique climate."
   },
   {
-    "title": "Best HVAC in Blanchard, Idaho",
-    "url": "blanchard.php",
-    "keywords": "blanchard, Blanchard",
-    "description": "Bill's Heating & A/C: Premier HVAC services in Blanchard, ID, tailored to the city's unique climate."
+      "title": "Best HVAC in Blanchard, Idaho",
+      "url": "/blanchard.php",
+      "keywords": "blanchard, Blanchard",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Blanchard, ID, tailored to the city's unique climate."
   },
   {
-    "title": "Best HVAC in Blanchard, Idaho",
-    "url": "blanchard.php",
-    "keywords": "blanchard, Blanchard",
-    "description": "Bill's Heating & A/C: Premier HVAC services in Blanchard, ID, tailored to the city's unique climate."
+      "title": "Best HVAC in Dalton Gardens, Idaho",
+      "url": "/dg.php",
+      "keywords": "Dalton Gardens, dalton gardens",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Dalton Gardens, ID, tailored to the city's unique climate."
   },
   {
-    "title": "Best HVAC in Dalton Gardens, Idaho",
-    "url": "dg.php",
-    "keywords": "Dalton Gardens, dalton gardens",
-    "description": "Bill's Heating & A/C: Premier HVAC services in Dalton Gardens, ID, tailored to the city's unique climate."
+      "title": "Best HVAC in Hauser, Idaho",
+      "url": "/hauser.php",
+      "keywords": "Hauser, hauser",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Hauser, ID, tailored to the city's unique climate."
   },
   {
-    "title": "Best HVAC in Hauser, Idaho",
-    "url": "hauser.php",
-    "keywords": "Hauser, hauser",
-    "description": "Bill's Heating & A/C: Premier HVAC services in Hauser, ID, tailored to the city's unique climate."
+      "title": "Best HVAC in Hayden, Idaho",
+      "url": "/hayden.php",
+      "keywords": "Hayden, hayden",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Hayden, ID, tailored to the city's unique climate."
   },
   {
-    "title": "Best HVAC in Hayden, Idaho",
-    "url": "hayden.php",
-    "keywords": "Hayden, hayden",
-    "description": "Bill's Heating & A/C: Premier HVAC services in Hayden, ID, tailored to the city's unique climate."
+      "title": "Best HVAC in Lewiston, Idaho",
+      "url": "/lewiston.php",
+      "keywords": "Lewiston, lewiston",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Lewiston, ID, tailored to the city's unique climate."
   },
   {
-    "title": "Best HVAC in Lewiston, Idaho",
-    "url": "lewiston.php",
-    "keywords": "Lewiston, lewiston",
-    "description": "Bill's Heating & A/C: Premier HVAC services in Lewiston, ID, tailored to the city's unique climate."
+      "title": "Best HVAC in Moscow, Idaho",
+      "url": "/moscow.php",
+      "keywords": "Moscow, moscow",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Moscow, ID, tailored to the city's unique climate."
   },
   {
-    "title": "Best HVAC in Moscow, Idaho",
-    "url": "moscow.php",
-    "keywords": "Moscow, moscow",
-    "description": "Bill's Heating & A/C: Premier HVAC services in Moscow, ID, tailored to the city's unique climate."
+      "title": "Best HVAC in Post Falls, Idaho",
+      "url": "/pf.php",
+      "keywords": "Post Falls, post falls",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Post Falls, ID, tailored to the city's unique climate."
   },
   {
-    "title": "Best HVAC in Post Falls, Idaho",
-    "url": "pf.php",
-    "keywords": "Post Falls, post falls",
-    "description": "Bill's Heating & A/C: Premier HVAC services in Post Falls, ID, tailored to the city's unique climate."
+      "title": "Best HVAC in Priest River, Idaho",
+      "url": "/pr.php",
+      "keywords": "Priest River, priest river",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Priest River, ID, tailored to the city's unique climate."
   },
   {
-    "title": "Best HVAC in Priest River, Idaho",
-    "url": "pr.php",
-    "keywords": "Priest River, priest river",
-    "description": "Bill's Heating & A/C: Premier HVAC services in Priest River, ID, tailored to the city's unique climate."
+      "title": "Best HVAC in Rathdrum, Idaho",
+      "url": "/rathdrum.php",
+      "keywords": "Rathdrum, rathdrum",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Rathdrum, ID, tailored to the city's unique climate."
   },
   {
-    "title": "Best HVAC in Rathdrum, Idaho",
-    "url": "rathdrum.php",
-    "keywords": "Rathdrum, rathdrum",
-    "description": "Bill's Heating & A/C: Premier HVAC services in Rathdrum, ID, tailored to the city's unique climate."
+      "title": "Best HVAC in Sandpoint, Idaho",
+      "url": "/sandpoint.php",
+      "keywords": "Sandpoint, sandpoint",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Sandpoint, ID, tailored to the city's unique climate."
   },
   {
-    "title": "Best HVAC in Sandpoint, Idaho",
-    "url": "rathdrum.php",
-    "keywords": "Sandpoint, sandpoint",
-    "description": "Bill's Heating & A/C: Premier HVAC services in Sandpoint, ID, tailored to the city's unique climate."
+      "title": "Best HVAC in Spirit Lake, Idaho",
+      "url": "/sl.php",
+      "keywords": "Spirit Lake, spirit lake",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Spirit Lake, ID, tailored to the city's unique climate."
   },
   {
-    "title": "Best HVAC in Spirit Lake, Idaho",
-    "url": "sl.php",
-    "keywords": "Spirit Lake, spirit lake",
-    "description": "Bill's Heating & A/C: Premier HVAC services in Spirit Lake, ID, tailored to the city's unique climate."
-  }
+      "title": "Best HVAC in Asotin, Wasington",
+      "url": "/asotin.php",
+      "keywords": "Asotin, asotin",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Asotin, WA, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Bayview, Idaho",
+      "url": "/bayview.php",
+      "keywords": "Bayview, bayview",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Bayview, ID, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Chattaroy, Wasington",
+      "url": "/chattaroy.php",
+      "keywords": "Chattaroy, chattaroy",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Chattaroy, WA, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Cheney, Wasington",
+      "url": "/cheney.php",
+      "keywords": "Cheney, cheney",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Cheney, WA, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Clarkston, Wasington",
+      "url": "/clarkston.php",
+      "keywords": "Clarkston, clarkston",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Clarkston, WA, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Cocolalla, Idaho",
+      "url": "/cocolalla.php",
+      "keywords": "Cocolalla, cocolalla",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Cocolalla, ID, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Colton, Wasington",
+      "url": "/colton.php",
+      "keywords": "Colton, colton",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Colton, WA, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Deer Park, Wasington",
+      "url": "/dp.php",
+      "keywords": "Deer Park, deer park",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Deer Park, WA, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Genesee, Idaho",
+      "url": "/genesee.php",
+      "keywords": "Genesee, genesee",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Genesee, ID, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Kendrick, Idaho",
+      "url": "/kendrick.php",
+      "keywords": "Kendrick, kendrick",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Kendrick, ID, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Lapwai, Idaho",
+      "url": "/lapwai.php",
+      "keywords": "Lapwai, lapwai",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Lapwai, ID, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Lewiston, Idaho",
+      "url": "/lewiston.php",
+      "keywords": "Lewiston, lewiston",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Lewiston, ID, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Liberty Lake, Wasington",
+      "url": "/ll.php",
+      "keywords": "Liberty Lake, liberty lake",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Liberty Lake, WA, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Mead, Wasington",
+      "url": "/mead.php",
+      "keywords": "Mead, mead",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Mead, WA, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Medical Lake, Wasington",
+      "url": "/ml.php",
+      "keywords": "Medical Lake, medical lake",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Medical Lake, WA, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Newport, Wasington",
+      "url": "/newport.php",
+      "keywords": "Newport, newport",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Newport, WA, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Newman Lake, Wasington",
+      "url": "/nl.php",
+      "keywords": "Newman Lake, newman lake",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Newman Lake, WA, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Nine Mile Falls, Wasington",
+      "url": "/nmf.php",
+      "keywords": "Nine Mile Falls, nine mile falls",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Nine Mile Falls, WA, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Otis Orchards, Wasington",
+      "url": "/oo.php",
+      "keywords": "Otis Orchards, otis orchards",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Otis Orchards, WA, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Pomeroy, Wasington",
+      "url": "/pomeroy.php",
+      "keywords": "Pomeroy, pomeroy",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Pomeroy, WA, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Pullman, Wasington",
+      "url": "/pullman.php",
+      "keywords": "Pullman, pullman",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Pullman, WA, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Sagle, Idaho",
+      "url": "/sagle.php",
+      "keywords": "Sagle, sagle",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Sagle, ID, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Spangle, Wasington",
+      "url": "/spangle.php",
+      "keywords": "Spangle, spangle",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Spangle, WA, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Spokane Valley, Wasington",
+      "url": "/sv.php",
+      "keywords": "Spokane Valley, spokane valley",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Spokane Valley, WA, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Troy, Idaho",
+      "url": "/troy.php",
+      "keywords": "Troy, troy",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Troy, ID, tailored to the city's unique climate."
+  },
+  {
+      "title": "Best HVAC in Uniontown, Idaho",
+      "url": "/uniontown.php",
+      "keywords": "Uniontown, uniontown",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Uniontown, ID, tailored to the city's unique climate."
+  },
+  {
+      "title": "Bills Heating & A/C | About Us",
+      "url": "/about.php",
+      "keywords": "About Us, about us",
+      "description": "Bill's Heating & A/C is a leading provider in its industry, dedicated to offering high-quality services and products. Learn more about our mission, values, and the team behind our success on our About Us page."
+  },
+  {
+      "title": "Bills Heating & A/C | Air Conditioning",
+      "url": "/ac.php",
+      "keywords": "Air Conditioning, air conditioning, AC, ac, Cooling, cooling, heat pump, Heat Pump",
+      "description": "Explore our wide range of premium Air Conditioners, designed for efficiency and comfort. Discover the perfect blend of innovation and reliability with our Air Conditioners, ensuring a cooler, more comfortable environment in your home or office."
+  },
+  {
+      "title": "Bills Heating & A/C | Air Conditioning Diagnostics",
+      "url": "/acdiag.php",
+      "keywords": "Air Conditioning Diagnostics, air conditioning diagnostics, ac diag, AC Diag, Broken AC, AC Broken, broken ac, ac broken",
+      "description": "Bill's Heating & A/C offers comprehensive troubleshooting and diagnostic services for your air conditioning systems. Whether you're facing issues with cooling efficiency, strange noises, or irregular cycling, our goal is to ensure your air conditioning unit runs optimally, providing a comfortable and energy-efficient environment in your home or office."
+  },
+  {
+      "title": "Bills Heating & A/C | Air Conditioning Installation",
+      "url": "/acinstall.php",
+      "keywords": "Air Conditioning Installation, air conditioning installation, ac install, AC Install",
+      "description": "Bill's Heating & A/C, we specialize in providing professional and efficient installation services for a wide range of air conditioning units. We prioritize customer satisfaction, offering personalized solutions that cater to your specific needs and space requirements."
+  },
+  {
+      "title": "Bills Heating & A/C | Air Conditioning Tune-Up",
+      "url": "/actune.php",
+      "keywords": "Air Conditioning Tune-Up, air conditioning tune-up, ac tune-up, AC Tune-Up",
+      "description": "Bill's Heating & A/C offers specialized services to enhance the efficiency and extend the lifespan of your air conditioning system. Through comprehensive maintenance checks, cleaning, and performance optimization, we ensure your unit operates at its peak throughout the seasons."
+  },
+  {
+      "title": "Bills Heating & A/C | Airway Heights",
+      "url": "/ah.php",
+      "keywords": "Airway Heights, air handlers, Electric Furnace, electric furnace",
+      "description": "Bill's Heating & A/C: Premier HVAC services in Airway Heights, WA, tailored to the city's unique climate."
+  },
+  {
+      "title": "Bills Heating & A/C | Careers",
+      "url": "/careers.php",
+      "keywords": "Careers, careers, Jobs, jobs, Employment, employment, job application, Job Application",
+      "description": "Join our dynamic team at Bills Heating & A/C, a leader in the HVAC industry, where your skills and passion can shape the future of home comfort and energy solutions. Explore exciting career opportunities in a variety of roles, dedicated to customer service, quality, and creating sustainable, efficient heating and cooling solutions."
+  },
+  {
+      "title": "Bills Heating & A/C | Ductless",
+      "url": "/ductless.php",
+      "keywords": "Ductless, ductless, Mini Split, mini split, wall mount AC, no ducts",
+      "description": "Explore our top-of-the-line Ductless Heat Pumps, designed for unparalleled efficiency and customizable comfort in any space. These innovative units offer a versatile heating and cooling solution, providing consistent temperature control with minimal energy consumption."
+  },
+  {
+      "title": "Bills Heating & A/C | EV Charger",
+      "url": "/evcharger.php",
+      "keywords": "EV Charger, ev charger, electric charger, Electric Charger, Car Charger, car charger, Electric Vechicle Charger, electric vehicle charger",
+      "description": "Elevate your green driving experience with our professional Electric Vehicle Charger Installation services, tailored to meet the needs of modern electric vehicles. Our skilled team ensures seamless and efficient installation of EV chargers, providing you with the convenience and reliability of at-home charging."
+  },
+  {
+      "title": "Bills Heating & A/C | Financing",
+      "url": "/financing.php",
+      "keywords": "Financing, financing, deals, Deals, Loan, loan",
+      "description": "Make your home comfort upgrades more affordable with our flexible financing options, designed to fit your budget and lifestyle. Discover easy, accessible financing plans that enable you to invest in quality HVAC products and services without financial strain."
+  },
+  {
+      "title": "Bills Heating & A/C | Furnace",
+      "url": "/furnace.php",
+      "keywords": "Furnace, furnace, gas furnace, Gas Furnace, Heater, heater, Propane Furnace, propane furnace",
+      "description": "Discover our comprehensive furnace services, designed to ensure your home's warmth and comfort throughout the colder months. From expert installation and maintenance to efficient repair solutions, we provide everything you need for optimal furnace performance and longevity."
+  },
+  {
+      "title": "Bills Heating & A/C | Furnace Diagnostics",
+      "url": "/furnacediag.php",
+      "keywords": "Furnace Diagnostics, furnace diagnostics, broken furnace, Broken Furnace, Fix Furnace, fix furnace, furnace stopped, Furnace Stopped",
+      "description": "Ensure the peak performance of your furnace with our specialized diagnostic services, identifying and resolving any heating issues with precision and expertise. Our team offers thorough assessments and solutions, tailored to keep your furnace running efficiently and reliably."
+  },
+  {
+      "title": "Bills Heating & A/C | Furnace Install",
+      "url": "/furnaceinstall.php",
+      "keywords": "Furnace Install, furnace install, new furnace, need new furnace, furnace replacement, replacement furnace",
+      "description": "Elevate your home's heating system with our expert Furnace Installation services, ensuring a warm, comfortable environment tailored to your needs. Our skilled professionals specialize in seamless installation of the latest furnace models, offering reliability, efficiency, and peace of mind."
+  },
+  {
+      "title": "Bills Heating & A/C | Furnace Tune-Up",
+      "url": "/furnacetune.php",
+      "keywords": "Furnace Tune-Up, furnace tune-up, tune-up furnace, need tune-up",
+      "description": "Keep your furnace running at its best with our professional Furnace Tune-Up services, designed to optimize performance and enhance longevity. Our detailed maintenance routine covers thorough inspections and adjustments, ensuring your furnace operates efficiently and safely season after season."
+  },
+  {
+      "title": "Bills Heating & A/C | Generator",
+      "url": "/generator.php",
+      "keywords": "Generator, generator, whole home generator, backup power",
+      "description": "Ensure uninterrupted power and peace of mind with our expert Generator Installation services, tailored to meet your specific energy needs. Our team of skilled technicians provides reliable and efficient installation, guaranteeing a seamless integration of generators for your home."
+  },
+  {
+      "title": "Bills Heating & A/C | Heat Pump",
+      "url": "/hp.php",
+      "keywords": "Heat Pump, heat pump, cooling, heating, Cooling, Heating, A/C, AC, ac",
+      "description": "Transform your home's heating and cooling efficiency with our professional Heat Pump Installation services, designed for optimal climate control and energy savings. Our experienced team ensures a precise and seamless installation process, delivering a high-performance heat pump system tailored to your unique comfort needs."
+  },
+  {
+      "title": "Bills Heating & A/C | Learning Hub",
+      "url": "/learninghub.php",
+      "keywords": "Learning, learning, education, information, lessons",
+      "description": "Dive into our Learning Hub to gain insightful knowledge about HVAC equipment and services, empowering you to make informed decisions for your home comfort needs. Explore a wealth of resources including expert tips, detailed guides, and the latest industry trends to keep your HVAC systems running optimally."
+  },
+  {
+      "title": "Bills Heating & A/C | News",
+      "url": "/news.php",
+      "keywords": "News, news, latest, updates",
+      "description": "Stay up-to-date with the latest in the HVAC industry on our News page, where we bring you the most recent developments, innovations, and updates. From advancements in energy-efficient technologies to essential maintenance tips, our news coverage keeps you informed and ahead in home comfort solutions."
+  },
+  {
+      "title": "Bills Heating & A/C | Products",
+      "url": "/products.php",
+      "keywords": "Products, products, equipment, Equipment",
+      "description": "Discover our extensive range of HVAC products on our Products page, each carefully selected to provide maximum comfort and efficiency for your home or business. From state-of-the-art air conditioners to energy-efficient heat pumps, explore our diverse offerings to find the perfect solution for your climate control needs."
+  },
+  {
+      "title": "Bills Heating & A/C | Savings",
+      "url": "/savings.php",
+      "keywords": "Savings, savings, deals, Deals, discount, Discount",
+      "description": "Unlock exceptional savings and exclusive deals on our HVAC products and services on our Savings page, designed to offer you the best value for your investment. Browse through a variety of discounts, special offers, and rebate programs to make your next home comfort upgrade more affordable and rewarding."
+  },
+  {
+      "title": "Bills Heating & A/C | Services",
+      "url": "/services.php",
+      "keywords": "Services, services, installs, furnace, ac, heat pump, ductless",
+      "description": "Explore our comprehensive range of HVAC services on our Services page, designed to meet all your heating, cooling, and air quality needs with expertise and reliability. From routine maintenance to complex installations, our skilled professionals are committed to delivering top-notch service and ensuring your ultimate comfort and satisfaction."
+  },
+  {
+      "title": "Bills Heating & A/C | Our Story",
+      "url": "/story.php",
+      "keywords": "Story, story, Our Story, our story",
+      "description": "Delve into Our Story to discover the journey of our company, where we share the passion, milestones, and values that have shaped our identity in the HVAC industry. Learn about our commitment to innovation, customer satisfaction, and environmental responsibility, which drives our pursuit of delivering exceptional home comfort solutions."
+  },
+  {
+      "title": "Bills Heating & A/C | Tankless Water Heaters",
+      "url": "/tankless.php",
+      "keywords": "Tankless, tankless, Water Heater, water heater, hot water, endless hot water",
+      "description": "Experience the efficiency and convenience of our state-of-the-art Tankless Water Heaters, designed to provide endless hot water while reducing energy costs. Explore our selection of compact, eco-friendly models that offer quick heating, space-saving design, and long-term savings for your home or business."
+  },
+  {
+      "title": "Bills Heating & A/C | Blog",
+      "url": "/blog.php",
+      "keywords": "Blog, blog, articles, Articles, Information, information, Tips, tips",
+      "description": "Dive into our Blog page for a treasure trove of insightful articles, expert tips, and the latest trends in the HVAC industry, all designed to enhance your understanding and experience of home climate solutions. Stay informed and engaged with our regularly updated content, covering everything from energy-saving advice to innovative home comfort technologies."
+  },
+  {
+      "title": "Bills Heating & A/C | Privacy Policy",
+      "url": "/privacy-policy.php",
+      "keywords": "Privacy Policy, privacy policy",
+      "description": "Visit our Privacy Policy page for a clear and comprehensive understanding of the Policies governing your use of our services and products. We ensure transparency and clarity in our policies to help you navigate your rights and responsibilities as a valued customer."
+  },
+  {
+    "title": "Bills Heating & A/C | Reviews",
+    "url": "/reviews.php",
+    "keywords": "Reviews, reviews",
+    "description": "Explore genuine insights on our Reviews Page, where we bring you honest and detailed evaluations from real users and experts. Dive into a world of comprehensive feedback across various categories, helping you make informed decisions with confidence. Discover top picks, user stories, and expert analyses all in one place!"
+},
+{
+    "title": "Bills Heating & A/C | Heat Pump Install",
+    "url": "/hpinstall.php",
+    "keywords": "Heat Pump Install, heat pump install, Install, install",
+    "description": "Discover the essentials of heat pump installation on our dedicated page. Learn about the process, benefits, and expert tips to ensure efficient and effective installation. Whether you're considering an upgrade or a new setup, our guide provides all the information you need for a smooth and informed installation experience."
+},
+{
+    "title": "Bills Heating & A/C | Heat Pump Diagnostics",
+    "url": "/hpdiag.php",
+    "keywords": "Heat Pump Diagnostics, heat pump diagnostics, Diagnostics, diagnostics",
+    "description": "Troubleshoot your heat pump issues with our expert diagnostics services. Trust our team to accurately identify and resolve your heat pump challenges, ensuring optimal performance and longevity."
+},
+{
+    "title": "Bills Heating & A/C | Heat Pump Tune-Up",
+    "url": "/hptune.php",
+    "keywords": "Heat Pump Tune-Up, heat pump tune-up, Tune-Up, tune-up",
+    "description": "Revitalize your home's heating and cooling efficiency with our specialized Heat Pump Tune-Up services. Our skilled technicians meticulously inspect and optimize your system, ensuring maximum performance and energy savings."
+},
+{
+    "title": "Bills Heating & A/C | Ductless Install",
+    "url": "/ductlessinstall.php",
+    "keywords": "Ductless Install, ductless install, Install, install",
+    "description": "Transform your home's comfort with our expert Ductless Install services. Our team specializes in seamless, efficient installations of ductless systems, providing you with a versatile, energy-saving heating and cooling solution."
+},
+{
+    "title": "Bills Heating & A/C | Ductless Diagnostics",
+    "url": "/ductlessdiag.php",
+    "keywords": "Ductless Diagnostics, ductless diagnostics, Diagnostics, diagnostics",
+    "description": "Experience unparalleled efficiency and comfort in your home with our Ductless Diagnostics services. Our skilled technicians use advanced tools to accurately identify and resolve any issues with your ductless system, ensuring optimal performance and longevity."
+},
+{
+    "title": "Bills Heating & A/C | Ductless Tune-Up",
+    "url": "/ductlesstune.php",
+    "keywords": "Ductless Tune-Up, ductless tune-up, Tune-Up, tune-up",
+    "description": "Keep your ductless system in top-notch condition with our specialized Ductless Tune-Up services. Our experienced technicians deliver meticulous maintenance, ensuring your system runs efficiently and reliably."
+},
+{
+    "title": "Bills Heating & A/C | Tankless Water Heater Install",
+    "url": "/tanklessinstall.php",
+    "keywords": "Tankless Install, tankless install, Install, install, water heater, Water Heater",
+    "description": "Upgrade to endless hot water and energy efficiency with our Tankless Water Heater Install services. Our skilled team specializes in professional and seamless installation, ensuring you enjoy continuous hot water supply and reduced energy bills."
+},
+{
+    "title": "Bills Heating & A/C | Tankless Water Heater Diagnostics",
+    "url": "/tanklessdiag.php",
+    "keywords": "Tankless Diagnostics, tankless diagnostics, Diagnostics, diagnostics, water heater, Water Heater",
+    "description": "Ensure your tankless water heater performs flawlessly with our expert Diagnostics services. Our experienced technicians utilize advanced techniques to accurately identify and resolve any issues, guaranteeing maximum efficiency and reliability."
+},
+{
+    "title": "Bills Heating & A/C | Tankless Water Heater Tune-Up",
+    "url": "/tanklesstune.php",
+    "keywords": "Tankless Tune-Up, tankless tune-up, Tune-Up, tune-up, water heater, Water Heater",
+    "description": "Maximize the efficiency and lifespan of your tankless water heater with our specialized Tune-Up services. Our trained technicians provide thorough maintenance to ensure your system operates at peak performance, offering you continuous, energy-efficient hot water."
+}
 ]

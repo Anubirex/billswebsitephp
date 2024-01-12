@@ -9,39 +9,42 @@
     <meta name="description" content="Full service heating and air conditioning company serving North Idaho and Eastern Washington. Lowest prices Guaranteed on all installs!">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='dns-prefetch' href='//www.gstatic.com'/>
+    <link rel='dns-prefetch' href='//gstatic.com'/>
+    <link rel='dns-prefetch' href='//ajax.googleapis.com'/>
+    <link rel='dns-prefetch' href='//google-analytics.com'/>
+    <link rel='dns-prefetch' href='//www.google-analytics.com'/>
+    <link rel='dns-prefetch' href='//googletagmanager.com'/>
+    <link rel='dns-prefetch' href='//www.googletagmanager.com'/>
+    <link rel='dns-prefetch' href='//widgets.leadconnectorhq.com'/>
+    <link rel=preconnect href='//www.google.com/recaptcha/api.js?onload=onRecaptchaLoad&render=explicit'/>
+    <link rel='dns-prefetch' href='//callbillsheating.s3.us-west-2.amazonaws.com'/>
+    <link rel=preconnect href="https://www.google.com">
+    <link rel=preconnect href="https://googleads.g.doubleclick.net">
+    <link rel=preconnect href="https://widgets.leadconnectorhq.com">
     <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
     <link rel="icon" type="image/webp" sizes="32x32" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-32x32.webp">
     <link rel="icon" type="image/svg+xml" href="https://callbillsheating.s3.us-west-2.amazonaws.com/large-favicon.svg">
     <link rel="apple-touch-icon" sizes="180x180" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon180x180.png">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
-    <script src="src.js" defer></script> 
-    <script src="search.js" defer></script> 
-    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-    <script src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js" defer></script>
-      
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-647936237"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'AW-647936237');
-    </script>
+    <link rel="preload" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap"></noscript>
+    <link rel="stylesheet" href="styles/indexcritical.css">
+    <link rel="stylesheet" href="styles/headerstyle.css">
+    <link rel="stylesheet" href="styles/footerstyle.css">
+    <link rel="stylesheet" href="styles/animations.css">
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Top HVAC Company">
     <meta property="og:description" content="Full service heating and air conditioning company serving North Idaho and Eastern Washington. Lowest prices Guaranteed on all installs!">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg">
+    <meta property="og:image" content="social-share-image.webp">
     <meta property="og:url" content="https://callbillsheating.com">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Top HVAC Company">
     <meta name="twitter:description" content="Full service heating and air conditioning company serving North Idaho and Eastern Washington. Lowest prices Guaranteed on all installs!">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/summary-large-image.webp">
+    <meta name="twitter:image" content="summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -62,11 +65,13 @@
           "postalCode":"83854",
           "addressCountry": "US"
         },
+        "award": ["York 2023 Dealer of the Year", "Inlander North Idaho's Best HVAC Service 2023", "York Top Sales Growth Northwest Region 2020", "Top York Sales Northwest Region 2020", "Top York Sales Northwest Region 2019", "Mitsubishi Ductless Residential New Construction Excellence 2022-23", "Gensco Sales Excellence 2017 Platinum Level Mountain Region", "Gensco Sales Excellence 2018 Platinum Level Mountain Region", "Best Of Reader Poll 2023 Inander North Idaho"],
         "geo": {
           "@type": "GeoCoordinates",
           "latitude": 47.718688,
           "longitude": -116.999777
         },
+        "areaServed": ["Post Falls, ID", "Coeur d'Alene, ID", "Spokane, WA", "Airway Heights, WA", "Asotin, WA", "Athol, ID", "Bayview, ID", "Blanchard, ID", "Chattaroy, WA", "Cheney, WA", "Clarkston, WA", "Cocolalla, ID", "Colton, WA", "Dalton Gardens, ID", "Deer Parl, WA", "Genesee, ID", "Hauser, ID", "Hayden, ID", "Kendrick, ID", "Lapwai, ID", "Lewiston, ID", "Liberty Lake, WA", "Mead, WA", "Medical Lake, WA", "Moscow, ID", "Newport, WA", "Newman Lake, WA", "Nine Mile Falls, WA", "Otis Orchards, WA", "Pomeroy, WA", "Priest River, ID", "Pullman, WA", "Rathdrum, ID", "Sagle, ID", "Sandpoint, ID", "Spokane Valley, WA", "Troy, ID","Uniontown, WA"],
         "openingHoursSpecification": [
           {
             "@type": "OpeningHoursSpecification",
@@ -88,41 +93,82 @@
           }
         ],
         "sameAs": [
-          "https://www.facebook.com/billsheating",
-          "https://www.instagram.com/billsheatingandac"
-        ]
-      }
-    </script>
+        "https://www.facebook.com/billsheating",
+        "https://www.instagram.com/billsheatingandac"
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9", // 
+        "reviewCount": "3585"  
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Josh Varness"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
+          },
+          "reviewBody": "I had Bill's out to replace my old furnace and add a new heat pump unit. I would recommend this company to anyone. They did the job in about 4.5-5 hours answered any questions I had and were on their way. Chris was very helpful when he came out to quote the job. He gave me very competitive pricing, and their installer Sean and his crew were quick and efficient. Not to mention very friendly.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google Reviews"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jessica Marcus"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
+          },
+          "reviewBody": "James and his crew were awesome! They put in a new heating and air conditioning system for us and they did a great job! They also got it done quickly and efficiently. We are so glad we decided to go with this company! They are all amazing and super helpful! We are very happy!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google Reviews"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Fallon Fehringer"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
+          },
+          "reviewBody": "I called two different HVAC companies regarding installation of a ductless mini-split in my newly built craft shed. Both were very responsive and answered the phone on my first call; however, one could not even quote me for three weeks, and Bill’s was able to quote me on the following day. Bill’s quote included submission of a rebate from Avista for me, instead of expecting me to call Avista and figure it out myself. I did have both companies quote me and the quote from Bill’s was about $1500 less ($1000 less without the rebate) and for what appeared to be comparable equipment (although of course I’m not a professional). The other company also told me, “there is probably a rebate from Avista, but you will have to call and ask them if you qualify.” A bit disappointing. When it came to scheduling, Bill’s was able to install as soon as the next day. The other company was a month out. Ultimately it was a pretty easy choice, simply due to price and scheduling availability. The other company I have worked with before, and their staff is responsive and courteous, but they must just be quite busy and I really wanted the project done quickly so I can start using my hobby shed! Regarding the staff I dealt with directly, I cannot recommend them highly enough. I was quoted by Isaac, who was on time, professional, and very nice to talk to. I spoke with the finance manager Jennifer on multiple occasions. She always picked up her phone promptly and was super helpful. Finally my unit was installed by Jonathan and Austin, and they were also very professional and they worked FAST. The work they did was still of great quality, and they installed the unit exactly as I had asked. Highly recommend Bill’s and will definitely call them in the future for HVAC needs.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Google Reviews"
+          }
+        }
+      ]
+    }
+  </script>
   </head>
   <body>
-    <?php include 'header.php'; ?> 
-    <div class="page-overlay" id="pageOverlay"></div>
-        <main>
+    <?php include 'header.php'; ?>
           <section class="hero-outer">
             <div class="hero width-limiter">
               <div class="hero-body">
-                <h2 data-animation="zoom-in-left">THE #1 HEATING AND COOLING CONTRACTOR IN THE NORTHWEST!</h2>
-                <p data-animation="zoom-in-left">Full service HVAC, Plumbing, and Electric Company, serving Northern Idaho and Eastern Washington. <br>
+                <h2>THE #1 HEATING AND COOLING CONTRACTOR IN THE NORTHWEST!</h2>
+                <p>Full service HVAC, Plumbing, and Electric Company, serving Northern Idaho and Eastern Washington. <br>
                   We offer a lowest price guarentee as well as free second opinions.</p>
-                <button type="button" class="schedule-service-button hero-button open-form-button" data-animation="zoom-in-left" id="openFormButton">Get a Free Estimate Now!</button>
-              </div>
-              <div class="body-form-overlay" id="bodyserviceForm">
-                <form action="submit" class="body-form-container" method="post">
-                  <div class="request-form-headline"><h3>Schedule Your FREE Estimate!</h3></div>
-                  <label for="name-body">Full Name: <input id="name-body" type="text" placeholder="Enter Full Name" name="name" required></label>
-                  <label for="email-body">Email: <input id="email-body" type="email" placeholder="Enter Email" name="email" required></label>
-                  <label for="phone-body">Phone: <input id="phone-body" type="tel" placeholder="123-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" name="phone" required></label>
-                  <label for="street-body">Street: <input id="street-body" type="text" placeholder="Street" name="street" required></label>
-                  <label for="city-body">City: <input type="text" id="city-body" placeholder="City" name="city" required></label>
-                  <label for="state-body">State: <input type="text" id="state-body" placeholder="State" name="state" required></label>
-                  <label for="message-body">Message: <textarea id="message-body" name="message" placeholder="Enter message here" rows="4" required></textarea></label>
-                  <div class="g-recaptcha" data-sitekey=""></div>
-                  <button type="submit" class="btn">Submit</button>
-                  <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
-                </form>
+                <button type="button" class="schedule-service-button hero-button open-form-button" id="openFormButton">Get a Free Estimate Now!</button>
               </div>
               <div class="hero-img">
-                <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/brazing-ac-gradient.webp"  alt="A heating and cooling technician from Bill's heating and AC is brazing an air conditioning condenser line set.">
+                <img src="images/ac-brazing.webp" alt="A heating and cooling technician from Bill's heating and AC is brazing an air conditioning condenser line set." width="400" height="267">
               </div>
             </div>
           </section>
@@ -132,7 +178,7 @@
             <div class="why-us-imgs width-limiter">
               <div  class="choose-us-card" data-animation="grow-and-shrink"><a href="lowprice.php">
                 <div class="choose-us-card-top">
-                  <img class="choose-us-card-icon" src="https://callbillsheating.s3.us-west-2.amazonaws.com/money-icon-pic-circle.webp" alt="A dollar sign" aria-hidden="true">
+                  <img class="choose-us-card-icon" src="images/money-icon-pic-circle.webp" alt="A dollar sign" aria-hidden="true" width="450" height="450">
                   <p>Low Price Guarantee</p>
                 </div>
                 <div class="choose-us-card-bottom">
@@ -143,18 +189,18 @@
               </div>
               <div class="choose-us-card" data-animation="grow-and-shrink"><a href="reviews.php">
                 <div class="choose-us-card-top">
-                  <img class="choose-us-card-icon" src="https://callbillsheating.s3.us-west-2.amazonaws.com/star-icon-pic-circle.webp" alt="A star shape." aria-hidden="true">
-                  <p> 2500+ 5-Star Reviews</p>
+                  <img class="choose-us-card-icon" src="images/star-icon-pic-circle.webp" alt="A star shape." aria-hidden="true" width="450" height="450">
+                  <p> 3000+ 5-Star Reviews</p>
                 </div>
                 <div class="choose-us-card-bottom">
-                  <p>We have over 2,500 5-star reviews on Google alone! Our customers love us. 
+                  <p>We have over 3,000 5-star reviews on Google alone! Our customers love us. 
                     Click here to see what they have to say.
                   </p>
                 </div></a>
               </div>
               <div class="choose-us-card" data-animation="grow-and-shrink"><a href="freesecop.php">
                 <div class="choose-us-card-top">
-                  <img class="choose-us-card-icon" src="https://callbillsheating.s3.us-west-2.amazonaws.com/magnifying-glass-icon-pic-circle.webp" alt="A magnifying glass" aria-hidden="true">
+                  <img class="choose-us-card-icon" src="images/magnifying-glass-icon-pic-circle.webp" alt="A magnifying glass" aria-hidden="true" width="450" height="450">
                   <p>FREE Second Opinions</p>
                 </div>
                 <div class="choose-us-card-bottom">
@@ -177,34 +223,34 @@
             <div class="commendations width-limiter">
               <div class="commendations-track">
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/nest-pro-logo.webp" alt="The Nest Pro Elite badge. Bills heating and AC has earned this bade by beign on of the top NEST dealers in the nation.">
+                  <img src="images/nest-pro-logo.webp" alt="The Nest Pro Elite badge. Bills heating and AC has earned this bade by beign on of the top NEST dealers in the nation." loading="lazy" width="159" height="111">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/york-award-logo-grey.webp" alt="The 2023 York Dealer of the year award given to  Bills Heating and AC.">
+                  <img src="images/york-award-logo-grey.webp" alt="The 2023 York Dealer of the year award given to  Bills Heating and AC." loading="lazy" width="350" height="175">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/rinnai-logo-pic.webp" alt="The rinnai ACE Pro logo signifying Bills Heating and AC has undergone high level training from Rinnai.">
+                  <img src="images/rinnai-logo-pic.webp" alt="The rinnai ACE Pro logo signifying Bills Heating and AC has undergone high level training from Rinnai." loading="lazy" width="300" height="255">
                 </div>
                 <div>
-                  <img src="http://www.homeadvisor.com/images/sp-badges/toprated-solid-border.png?sp=107912817&key=4b1f6e243ab5ba69b4052c2254733d32" alt="The Home Advisor Top Rated badge awarded to Bills Heating and AC for being the highest rated HVAC contractor in their area.">
+                  <img src="images/home-advisor-icon.webp" alt="The Home Advisor Top Rated badge awarded to Bills Heating and AC for being the highest rated HVAC contractor in their area." loading="lazy" width="69" height="80">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/mistubishi-logo-pic.webp" alt="The Mitsubishi Ductless Elite Pro badge given only to the absolute best of Mistubishi's ductless installers.">
+                  <img src="images/mistubishi-logo-pic.webp" alt="The Mitsubishi Ductless Elite Pro badge given only to the absolute best of Mistubishi's ductless installers." loading="lazy" width="300" height="255">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/nest-pro-logo.webp" alt="The Nest Pro Elite badge. Bills heating and AC has earned this bade by beign on of the top NEST dealers in the nation.">
+                  <img src="images/nest-pro-logo.webp" alt="The Nest Pro Elite badge. Bills heating and AC has earned this bade by beign on of the top NEST dealers in the nation." loading="lazy" width="159" height="111">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/york-award-logo-grey.webp" alt="The 2023 York Dealer of the year award given to  Bills Heating and AC.">
+                  <img src="images/york-award-logo-grey.webp" alt="The 2023 York Dealer of the year award given to  Bills Heating and AC." loading="lazy" width="350" height="175">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/rinnai-logo-pic.webp" alt="The rinnai ACE Pro logo signifying Bills Heating and AC has undergone high level training from Rinnai.">
+                  <img src="images/rinnai-logo-pic.webp" alt="The rinnai ACE Pro logo signifying Bills Heating and AC has undergone high level training from Rinnai." loading="lazy" width="300" height="255">
                 </div>
                 <div>
-                  <img src="http://www.homeadvisor.com/images/sp-badges/toprated-solid-border.png?sp=107912817&key=4b1f6e243ab5ba69b4052c2254733d32" alt="The Home Advisor Top Rated badge awarded to Bills Heating and AC for being the highest rated HVAC contractor in their area.">
+                  <img src="images/home-advisor-icon.webp" alt="The Home Advisor Top Rated badge awarded to Bills Heating and AC for being the highest rated HVAC contractor in their area." loading="lazy" width="69" height="80">
                 </div>
                 <div>
-                  <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/mistubishi-logo-pic.webp" alt="The Mitsubishi Ductless Elite Pro badge given only to the absolute best of Mistubishi's ductless installers.">
+                  <img src="images/mistubishi-logo-pic.webp" alt="The Mitsubishi Ductless Elite Pro badge given only to the absolute best of Mistubishi's ductless installers." loading="lazy" width="300" height="255">
                 </div>
               </div>
             </div>
@@ -219,7 +265,7 @@
               </a></div>
               <div class="os-cards" data-animation="slide-in-card-2"><a href="services.php">
                 <h2>Diagnostics</h2>
-                <p>Choose the best in the northwest for your heating and cooling needs. Our factory-trained technicians, celebrated with over 2,500 five-star reviews, are ready to resolve any issues promptly. We offer same-day service, free second opinions, and weekend appointments at no extra charge, ensuring top-notch care for all types of systems.</p>
+                <p>Choose the best in the northwest for your heating and cooling needs. Our factory-trained technicians, celebrated with over 3,00 five-star reviews, are ready to resolve any issues promptly. We offer same-day service, free second opinions, and weekend appointments at no extra charge, ensuring top-notch care for all types of systems.</p>
               </a></div>
               <div class="os-cards" data-animation="slide-in-card-3"><a href="services.php">
                 <h2>Tune-Up</h2>
@@ -249,10 +295,10 @@
         </main>
         <section class="get-started-outer">
           <div class="get-started width-limiter">
-            <div class="get-started-image" data-animation="zoom-in-left"><img src="https://callbillsheating.s3.us-west-2.amazonaws.com/truck-transparent-bg.webp" alt="bills truck"></div>
+            <div class="get-started-image" data-animation="zoom-in-left"><img src="images/truck-transparent-bg.webp" loading="lazy" alt="bills truck" width="571" height="347"></div>
           <div class="lets-get-started" data-animation="zoom-in-right">
             <h2>Lets Get Started!</h2>
-            <button type="button" class="call-us-button">Call Us</button>
+            <a href="tel:+12087775528"><button type="button" class="call-us-button">Call Us</button></a>
             <button type="button" class="schedule-service-button open-form-button" id="estimateButton">Get An Estimate</button>
             <p>Contact Bill&apos;s Heating & A/C, your local HVAC experts, today for estimates, repairs, and service in the greater Spokane or Coeur d&apos; Alene area as well as the Lewiston, Clarkston, Moscow, Pullman, and surrounding areas.</p>
           </div>
@@ -395,11 +441,11 @@
                     </div>
                 </div>
               </div>
-              <button class="carousel-nav prev"><svg class="carousel-arrow prev-arrow" id="dropdown-arrow-4" data-name="Dropdown Arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.62 14.18"><polyline  class="main-icon-stroke" points="1.06 1.56 11.56 12.06 22.56 1.06"/></svg></button>
-              <button class="carousel-nav next"><svg class="carousel-arrow next-arrow" id="dropdown-arrow-5" data-name="Dropdown Arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.62 14.18"><polyline  class="main-icon-stroke" points="1.06 1.56 11.56 12.06 22.56 1.06"/></svg></button>
+              <button class="carousel-nav prev" aria-label="previous review"><svg class="carousel-arrow prev-arrow" id="dropdown-arrow-4" data-name="Dropdown Arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.62 14.18"><polyline  class="main-icon-stroke" points="1.06 1.56 11.56 12.06 22.56 1.06"/></svg></button>
+              <button class="carousel-nav next" aria-label="next review"><svg class="carousel-arrow next-arrow" id="dropdown-arrow-5" data-name="Dropdown Arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.62 14.18"><polyline  class="main-icon-stroke" points="1.06 1.56 11.56 12.06 22.56 1.06"/></svg></button>
               <div class="leave-a-review">
-                <a href="https://g.page/r/CZj2149xPopPEB0/review"><img src="https://callbillsheating.s3.us-west-2.amazonaws.com/google-review-button.webp" alt="google review"></a>
-                <a href="https://www.facebook.com/billsheating/reviews"><img src="https://callbillsheating.s3.us-west-2.amazonaws.com/facebook-review-button.webp" alt="facebook review"></a>
+                <a href="https://g.page/r/CZj2149xPopPEB0/review"><img src="images/google-review-button.webp" loading="lazy" alt="google review" width="250" height="80"></a>
+                <a href="https://www.facebook.com/billsheating/reviews"><img src="images/facebook-review-button.webp" loading="lazy" alt="facebook review" width="250" height="80"></a>
                 </div>
             </div>
           </div>
@@ -410,8 +456,8 @@
           <div class="locations-title">Locations &amp; Service Areas</div>
           <div class="main-loc-col-container">
             <div class="location-cols-big">
-              <img data-animation="zoom-in-down" src="https://callbillsheating.s3.us-west-2.amazonaws.com/north-location.webp" alt="Map of Post Falls">
-              <address data-animation="fade-in">1007 N Boulder ct, Post Falls, ID</address>
+              <img data-animation="zoom-in-down" src="images/north-location.webp" alt="Map of Post Falls" loading="lazy" width="800" height="450">
+              <address data-animation="fade-in"><a href="areas.php#zoomtopostfalls">1007 N Boulder ct, Post Falls, ID</a></address>
               <div class="location-cols-small">
                 <div class="loc-col">
                   <h2 data-animation="fade-in">Idaho</h2>
@@ -442,8 +488,8 @@
               </div>
             </div>
             <div class="location-cols-big">
-              <img data-animation="zoom-in-down" src="https://callbillsheating.s3.us-west-2.amazonaws.com/lewiston-building-rect.webp" alt="Bill's Heating and AC's Lewiston Location">
-              <address data-animation="fade-in">1332 G St, Lewiston, ID</address>
+              <img data-animation="zoom-in-down" src="images/lewiston-building-rect.webp" alt="Bill's Heating and AC's Lewiston Location" loading="lazy" width="800" height="450">
+              <address data-animation="fade-in"><a href="areas.php#zoomtolewiston">1332 G St, Lewiston, ID</a></address>
               <div class="location-cols-small">
                 <div class="loc-col">
                   <h2 data-animation="fade-in">Idaho</h2>
@@ -472,6 +518,44 @@
             </div>
           </div></div>  
         </section>
-    <?php include 'footer.php'; ?>        
+    <div class="page-overlay"></div>
+    <div class="body-form-overlay">
+      <form class="body-form-container ajax-form" method="post">
+        <div class="request-form-headline"><h3>Schedule Your FREE Estimate!</h3></div>
+        <label for="name-body">Full Name: <input id="name-body" type="text" autocomplete="name" placeholder="Enter Full Name" name="name" required></label>
+        <label for="email-body">Email: <input id="email-body" type="email" autocomplete="email" placeholder="Enter Email" name="email" required></label>
+        <label for="phone-body">Phone: <input id="phone-body" type="tel" autocomplete="tel" placeholder="123-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" name="phone" required></label>
+        <label for="street-body">Street: <input id="street-body" type="text" autocomplete="address-line1" placeholder="Street" name="street" required></label>
+        <label for="city-body">City: <input type="text" id="city-body" autocomplete="address-level2" placeholder="City" name="city" required></label>
+        <label for="state-body">State: <input type="text" id="state-body" autocomplete="address-level1" placeholder="State" name="state" required></label>
+        <label for="message-body">Message: <textarea id="message-body" name="message" autocomplete="on" placeholder="Enter message here" rows="4" required></textarea></label>
+        <div class="recaptcha-placeholder"></div>
+        <button type="submit" class="btn">Submit</button>
+        <button type="button" class="btn cancel">Close</button>
+      </form>
+    </div>
+    <div class="modal">
+      <div class="modal-content">
+        <span class="close-button">&times;</span>
+        <p>Thank you for your submission!</p>
+      </div>
+    </div>
+    <?php include 'footer.php'; ?> 
+    <script defer src="scripts/search.js"></script>
+    <script defer src="scripts/src.js"></script> 
+    <script defer src="scripts/cc.js"></script>
+    <script defer src="scripts/reviews.js"></script> 
+    <script defer src="scripts/forms.js"></script> 
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T43FQRTPHZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-T43FQRTPHZ');
+  </script>  
+    <script defer src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"></script>   
   </body>
+  
 </html>
