@@ -34,6 +34,14 @@
     <link rel="stylesheet" href="styles/footerstyle.css">
     <link rel="stylesheet" href="styles/animations.css">
 
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NZQJPVRS');</script>
+  <!-- End Google Tag Manager -->
+
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Top Air Conditioner Installation">
     <meta property="og:description" content="Opt for Bill's Heating and AC: Expert air conditioner installation with Lowest Price Guarantee, free estimates, flexible financing, and fast, professional service.">
@@ -158,6 +166,10 @@
   </script>
   </head>
     <body>
+      <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZQJPVRS"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
         <?php include 'header.php'; ?>
         <section class="furn-install-hero">
           <img class="hero-image" src="images/equipment-header-800w.webp"
@@ -217,7 +229,7 @@
                 <div class="local-needs-text">
                   <h2 id="ac-install-what-to-expect">What Should I Expect During the AC System Estimate?</h2>
                   <p>When you schedule an estimate with Bill&apos;s Heating and AC for your air conditioning needs, you&apos;re engaging with experts, not just salespeople. Our estimators are experienced field technicians with a comprehensive understanding of cooling systems. During the 30-minute appointment, they will assess your space, understand your cooling requirements, and provide insights and recommendations based on their extensive knowledge of air conditioning solutions.<br>
-                    We pride ourselves on our no-pressure approach. Following our visit, we will email you a detailed estimate for your AC system, valid for 30 days, giving you enough time to make an informed choice. This estimate is our commitment to you, offering the best value for your investment with our lowest price guarantee. Our aim is to ensure that you feel confident and informed about your home&apos;s cooling needs.
+                    <br>We pride ourselves on our no-pressure approach. Following our visit, we will email you a detailed estimate for your AC system, valid for 30 days, giving you enough time to make an informed choice. This estimate is our commitment to you, offering the best value for your investment with our lowest price guarantee. Our aim is to ensure that you feel confident and informed about your home&apos;s cooling needs.
                     </p>
                 </div>
                 <div class="local-needs-img" data-animation="zoom-in-right">
@@ -232,7 +244,7 @@
                   </div>
                   <div class="areas-commitment-text">
                         <h2 id="ac-install-financing-options">Flexible Financing Options<br> Tailored to Your Budget</h2>
-                        <p>Investing in a new air conditioner is a significant decision. At Bill&apos;s Heating and AC, we offer a range of flexible financing options to suit your budget. Our knowledgeable technicians will provide you with an initial estimate of the financing available, giving you a clear picture from the start.<br>
+                        <p>Investing in a new air conditioner is a significant decision. At Bill&apos;s Heating and AC, we offer a range of flexible financing options to suit your budget. Our knowledgeable technicians will provide you with an initial estimate of the financing available, giving you a clear picture from the start.<br><br>
                           For a more detailed understanding and to begin the application process, we invite you to <a class="financing-options-text-link" href="financing.php">click
                           here.</a> This link will guide you through our easy and transparent financing procedures, ensuring
                           you find a plan that suits your financial needs without compromising on quality and service.
@@ -354,6 +366,13 @@
                 </div>
             </div>
         </section>
+          <!--      //////////////////////////////SOCIAL SIDEBAR/////////////////////////////////////////////// -->
+    <div class="social-sidebar desktop-only">
+      <a href="https://www.facebook.com/billsheating" aria-label="Visit Bill's Heating and AC on Facebook" target="_blank" rel="noopener noreferrer"></a>
+      <a href="https://www.instagram.com/billsheatingandac/" aria-label="Visit Bill's Heating and AC on Instagram" target="_blank" rel="noopener noreferrer"></a>
+      <a href="https://www.youtube.com/@billsheatingandac" aria-label="Visit Bill's Heating and AC on Youtube" target="_blank" rel="noopener noreferrer"></a>
+  </div>
+<!--   ////////////////////////END OF SOCIAL SIDEBAR////////////////////////////////////////////////// -->
         <div class="page-overlay"></div>
         <div class="body-form-overlay">
           <form class="body-form-container ajax-form" method="post">
@@ -381,15 +400,7 @@
         <script defer src="scripts/search.js"></script>
         <script defer src="scripts/forms.js"></script>
         <script defer src="scripts/photogallery.js"></script>
-        <!-- Google tag (gtag.js) -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-T43FQRTPHZ"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'G-T43FQRTPHZ');
-        </script>
+        <script defer src="scripts/areasvideo.js"></script>
         <script defer src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"></script>
     </body>
 </html>

@@ -32,6 +32,14 @@
     <link rel="stylesheet" href="styles/footerstyle.css">
     <link rel="stylesheet" href="styles/animations.css">
 
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NZQJPVRS');</script>
+  <!-- End Google Tag Manager -->
+
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Top HVAC Company">
     <meta property="og:description" content="Full service heating and air conditioning company serving North Idaho and Eastern Washington. Lowest prices Guaranteed on all installs!">
@@ -156,6 +164,10 @@
   </script>
   </head>
   <body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZQJPVRS"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
     <?php include 'header.php'; ?>
       <section class="service-areas-hero">
         <img class="hero-image" src="images/areas-header-800w.webp"
@@ -401,7 +413,7 @@
         <div class="serv-areas-loc-title-id width-limiter">
           <h2 id="Washingtonserviceareas">Idaho:</h2>
         </div>
-        <div data-animation="fade-in" class="serv-areas-loc-cols-id width-limiter">
+        <div data-animation="zoom-in-right" class="serv-areas-loc-cols-id width-limiter">
           <ul>
             <a href="cda.php"><li>Coeur D&apos;Alene</li></a>
             <a href="pf.php"><li>Post Falls</li></a>
@@ -434,7 +446,7 @@
         <div class="serv-areas-loc-title-wa width-limiter">
           <h2>Washington:</h2>
         </div>
-        <div data-animation="fade-in" class="serv-areas-loc-cols-wa width-limiter">
+        <div data-animation="zoom-in-left" class="serv-areas-loc-cols-wa width-limiter">
           <ul>
             <a href="spokane.php"><li>Spokane</li></a>
             <a href="sv.php"><li>Spokane Valley</li></a>
@@ -597,15 +609,6 @@
     <script defer src="scripts/cc.js"></script>
     <script defer src="scripts/reviews.js"></script>
     <script defer src="scripts/forms.js"></script>
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-T43FQRTPHZ"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-T43FQRTPHZ');
-    </script>
     <script defer src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"></script>
   </body>
 </html>

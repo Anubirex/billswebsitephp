@@ -25,7 +25,17 @@
         <link rel="preload" href="https://fonts.gstatic.com" crossorigin>
         <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
         <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap"></noscript>
-    <link rel="stylesheet" href="styles/style.css">
+        <link rel="stylesheet" href="styles/style.css">
+        <link rel="stylesheet" href="styles/headerstyle.css">
+        <link rel="stylesheet" href="styles/footerstyle.css">
+
+        <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NZQJPVRS');</script>
+  <!-- End Google Tag Manager -->
     
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Learning Hub">
@@ -150,11 +160,19 @@
   </script>
   </head>
 <body>
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZQJPVRS"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
     <?php include 'header.php'; ?> 
+    <div class="under-construction-page width-limiter">
+      <h1>Page Under Construction</h1>
+      <img src="images\UnderConstructionBanner.webp" width="1800" height="1000" alt="Vector image of the web developers next to a construction cone">
+  </div>
     <section class="learning-hero">
         <h2>From Beginner to Pro:</h2>
         <p>Everything you need to know about your HVAC system.</p>
-        <img src="dials.png" alt="Picture of HVAC Equipment">
+        <img src="/images/dials.png" alt="Picture of HVAC Equipment">
     </section>
     <section class="learning-intro">
         <div class="learning-intro-title width-limiter"><h2>Introduction to Your HVAC System:</h2></div>
@@ -228,15 +246,6 @@
     <script defer src="scripts/src.js"></script>
     <script defer src="scripts/search.js"></script> 
     <script defer src="scripts/blogcarousel.js"></script> 
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-T43FQRTPHZ"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-T43FQRTPHZ');
-    </script>
-        <script defer src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"></script>
+    <script defer src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"></script>
 </body>
 </html>

@@ -34,6 +34,14 @@
     <link rel="stylesheet" href="styles/footerstyle.css">
     <link rel="stylesheet" href="styles/animations.css">
 
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NZQJPVRS');</script>
+  <!-- End Google Tag Manager -->
+
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Top Furnace Installation">
     <meta property="og:description" content="Bill's Heating and AC: Expert furnace installation with Lowest Price Guarantee. Free estimates, flexible financing, and fast, professional service.">
@@ -158,6 +166,10 @@
   </script>
   </head>
     <body>
+      <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZQJPVRS"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
         <?php include 'header.php'; ?>
         <section class="furn-install-hero">
           <img class="hero-image" src="../images/equipment-header-800w.webp"
@@ -222,7 +234,7 @@
                     with years of hands-on experience and a deep understanding of heating systems. During the
                     appointment, which typically takes around 30 minutes, they will thoroughly assess your space,
                     listen to your specific needs, and provide insights and recommendations based on their extensive
-                    knowledge.<br>
+                    knowledge.<br><br>
                     We pride ourselves on a no-pressure approach. After our visit, we will email you a detailed
                     estimate that is valid for 30 days, giving you ample time to make an informed decision. This
                     estimate is not just a quote but a commitment from us. It comes with a lowest price guarantee,
@@ -244,7 +256,7 @@
                         <p>At Bill&#39;s Heating and AC, we understand that investing in a new furnace is a significant decision.
                           To make it more manageable, we offer a variety of flexible financing options designed to fit your
                           budget. During your estimate, our knowledgeable technicians can provide rough financing
-                          estimates, giving you a clearer picture of your options right from the start.<br>
+                          estimates, giving you a clearer picture of your options right from the start.<br><br>
                           For a more detailed understanding and to begin the application process, we invite you to <a class="financing-options-text-link" href="financing.php">click
                           here.</a> This link will guide you through our easy and transparent financing procedures, ensuring
                           you find a plan that suits your financial needs without compromising on quality and service.
@@ -378,6 +390,13 @@
                 </div>
             </div>
         </section>
+          <!--      //////////////////////////////SOCIAL SIDEBAR/////////////////////////////////////////////// -->
+    <div class="social-sidebar desktop-only">
+      <a href="https://www.facebook.com/billsheating" aria-label="Visit Bill's Heating and AC on Facebook" target="_blank" rel="noopener noreferrer"></a>
+      <a href="https://www.instagram.com/billsheatingandac/" aria-label="Visit Bill's Heating and AC on Instagram" target="_blank" rel="noopener noreferrer"></a>
+      <a href="https://www.youtube.com/@billsheatingandac" aria-label="Visit Bill's Heating and AC on Youtube" target="_blank" rel="noopener noreferrer"></a>
+  </div>
+<!--   ////////////////////////END OF SOCIAL SIDEBAR////////////////////////////////////////////////// -->
         <div class="page-overlay"></div>
         <div class="body-form-overlay">
           <form class="body-form-container ajax-form" method="post">
@@ -406,15 +425,6 @@
         <script defer src="scripts/forms.js"></script>
         <script defer src="scripts/photogallery.js"></script>
         <script defer src="scripts/areasvideo.js"></script>
-        <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-T43FQRTPHZ"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-T43FQRTPHZ');
-    </script>
         <script defer src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"></script>
     </body>
 </html>

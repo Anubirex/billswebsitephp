@@ -32,6 +32,14 @@
     <link rel="stylesheet" href="styles/footerstyle.css">
     <link rel="stylesheet" href="styles/animations.css">
 
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NZQJPVRS');</script>
+  <!-- End Google Tag Manager -->
+
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Top Ductless Installation">
     <meta property="og:description" content="Opt for Bill's Heating and AC: Expert ductless heat pump installation with Lowest Price Guarantee. Free estimates, flexible financing, and swift service">
@@ -156,6 +164,11 @@
   </script>
   </head>
     <body>
+      <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZQJPVRS"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  
         <?php include 'header.php'; ?>
         <section class="furn-install-hero">
           <img class="hero-image" src="images/equipment-header-800w.webp"
@@ -213,7 +226,7 @@
             <div class="local-needs-container width-limiter">
                 <div class="local-needs-text">
                   <h2 id="ductless-hp-install-what-to-expect">What Should I Expect During A Ductless Heat Pump Estimate?</h2>
-                  <p>When you schedule an estimate with Bill&apos;s Heating and AC for your ductless heat pump needs, you're consulting with seasoned experts. Our estimators, who are experienced field technicians, have a deep understanding of ductless heating and cooling technology. During the 30&dash;minute appointment, they will evaluate your space and discuss your specific heating and cooling requirements, providing insights and recommendations tailored to ductless heat pump solutions.<br>
+                  <p>When you schedule an estimate with Bill&apos;s Heating and AC for your ductless heat pump needs, you're consulting with seasoned experts. Our estimators, who are experienced field technicians, have a deep understanding of ductless heating and cooling technology. During the 30&dash;minute appointment, they will evaluate your space and discuss your specific heating and cooling requirements, providing insights and recommendations tailored to ductless heat pump solutions.<br><br>
                     We take pride in our no-pressure approach. After our visit, you will receive a detailed estimate for your ductless heat pump system, valid for 30 days, giving you ample time to make an informed decision. This estimate reflects our commitment to delivering the best value with our lowest price guarantee, ensuring you feel confident and well&dash;informed about your home&apos;s heating and cooling solutions.
                     </p>
                 </div>
@@ -229,7 +242,7 @@
                   </div>
                   <div class="areas-commitment-text">
                         <h2 id="ductless-hp-install-financing-options">Flexible Financing Options<br> for Ductless Heat Pumps</h2>
-                        <p>Investing in a new ductless heat pump is a significant decision. At Bill&apos;s Heating and AC, we offer various flexible financing options to suit your budget. Our knowledgeable technicians will provide an initial financing estimate, offering a clear understanding of your options right from the start.<br>
+                        <p>Investing in a new ductless heat pump is a significant decision. At Bill&apos;s Heating and AC, we offer various flexible financing options to suit your budget. Our knowledgeable technicians will provide an initial financing estimate, offering a clear understanding of your options right from the start.<br><br>
                           For a more detailed understanding and to begin the application process, we invite you to <a class="financing-options-text-link" href="financing.php">click
                           here.</a> This link will guide you through our easy and transparent financing procedures, ensuring
                           you find a plan that suits your financial needs without compromising on quality and service.
@@ -377,15 +390,7 @@
         <script defer src="scripts/search.js"></script>
         <script defer src="scripts/forms.js"></script>
         <script defer src="scripts/photogallery.js"></script>
-        <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-T43FQRTPHZ"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-T43FQRTPHZ');
-    </script>
+        <script defer src="scripts/areasvideo.js"></script>
         <script defer src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"></script>
     </body>
 </html>

@@ -19,18 +19,14 @@
     <link rel="stylesheet" href="styles/style.css">
     <link rel="stylesheet" href="styles/headerstyle.css">
     <link rel="stylesheet" href="styles/footerstyle.css">
-    <script src="src.js" defer></script> 
-    <script src="search.js" defer></script> 
-    <script src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js" defer></script>
       
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-647936237"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'AW-647936237');
-    </script>
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NZQJPVRS');</script>
+  <!-- End Google Tag Manager -->
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Reviews">
@@ -156,12 +152,29 @@
   </script>
   </head>
   <body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZQJPVRS"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
       <?php include 'header.php'; ?>
-      <hero class="reviews-hero width-limiter">
-         <img src="images\five-stars.webp" width="800" height="161" alt="Five gold stars">
-          <h1>We are the highest rated HVAC company in the Area!</h1>
-          <p>We have over 3,000 5&dash;star reviews. Take a look below.</p>
-      </hero>
+      <section class="areas-hero">
+        <img class="hero-image" src="images/main-building-banner-800w.webp"
+            srcset="images/main-building-banner-450w.webp 450w, 
+                    images/main-building-banner-800w.webp 800w, 
+                    images/main-building-banner-2000w.webp 1800w"
+            sizes="(max-width: 450px) 450px, 
+                   (max-width: 799px) 800px, 
+                    1800px"
+            alt="Background photo of The Main Post Falls location of Bill's Heating and AC"
+            width="800" height="451"
+            class="hero-image" aria-hidden="true">
+        <div class="areas-hero-inner width-limiter">
+          <div class="story-hero-container reviews-hero width-limiter">
+            <h1>We are the highest rated HVAC company in the Area!</h1>
+            <p>We have over 3,000 5&dash;star reviews. Take a look below.</p>
+            <img src="images\five-stars.webp" width="800" height="161" alt="Five gold stars">
+      </section> 
+      <div class="red-divider"></div>
       <section class="review-page-cards-outer">
         <div class="review-page-cards width-limiter">
         <a href="https://www.google.com/maps/place/Bill's+Heating+%26+A%2FC/@47.718794,-117.0023649,17z/data=!4m8!3m7!1s0x5361c063b91a7829:0x4f8a3e718fd7f698!8m2!3d47.718794!4d-116.99979!9m1!1b1!16s%2Fg%2F11bzs37d_2?entry=ttu" class="review-page-card-container" aria-label="read Google reviews">
@@ -410,5 +423,6 @@
     <script defer src="scripts/src.js"></script> 
     <script defer src="scripts/search.js"></script>
     <script defer src="scripts/forms.js"></script>
+    <script src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js" defer></script>
 </body>
 </html>

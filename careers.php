@@ -2,9 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Bill's Heating & A/C | Best HVAC in Airway Heights, WA</title>
-    <link rel="canonical" href="https://callbillsheating.com/ah.php">
-    <meta name="description" content="Bill's Heating & A/C in Airway Heights, WA: Expert HVAC for chilly winters & warm summers. No travel fees, $79 diagnostics, and trusted community service.">
+    <title>Bill's Heating & A/C | Careers</title>
+    <link rel="canonical" href="https://callbillsheating.com/careers.php">
+    <meta name="description" content="Join Bill's Heating & A/C: Discover rewarding careers in HVAC with a team dedicated to excellence and growth. Apply now!">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -32,17 +32,25 @@
     <link rel="stylesheet" href="styles/footerstyle.css">
     <link rel="stylesheet" href="styles/animations.css">
 
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NZQJPVRS');</script>
+  <!-- End Google Tag Manager -->
+
     <!-- Open Graph and Twitter Cards -->
-    <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Airway Heights, WA">
-    <meta property="og:description" content="Bill's Heating & A/C in Airway Heights, WA: Expert HVAC for chilly winters & warm summers. No travel fees, $79 diagnostics, and trusted community service.">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/ah-social-share.webp">
-    <meta property="og:url" content="https://callbillsheating.com/ah.php">
+    <meta property="og:title" content="Bill's Heating & A/C | Careers">
+    <meta property="og:description" content="Join Bill's Heating & A/C: Discover rewarding careers in HVAC with a team dedicated to excellence and growth. Apply now!">
+    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/social-share.webp">
+    <meta property="og:url" content="https://callbillsheating.com/careers.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
-    <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Airway Heights, WA">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Airway Heights, WA: Expert HVAC for chilly winters & warm summers. No travel fees, $79 diagnostics, and trusted community service.">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/ah-summary-large-image.webp">
+    <meta name="twitter:title" content="Bill's Heating & A/C | Careers">
+    <meta name="twitter:description" content="Join Bill's Heating & A/C: Discover rewarding careers in HVAC with a team dedicated to excellence and growth. Apply now!">
+    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -156,9 +164,90 @@
   </script>
   </head>
     <body>
+      <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZQJPVRS"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
         <?php include 'header.php'; ?>
-          <div class="test-body"><h1>Careers Page Under Construction</h1></div> 
-          <div class='sk-ww-indeed-jobs' data-embed-id='25346988'></div><script src='https://widgets.sociablekit.com/indeed-jobs/widget.js' async defer></script>
+        <section class="areas-hero">
+          <img class="hero-image" src="images/main-building-banner-800w.webp"
+              srcset="images/main-building-banner-450w.webp 450w, 
+                      images/main-building-banner-800w.webp 800w, 
+                      images/main-building-banner-2000w.webp 1800w"
+              sizes="(max-width: 450px) 450px, 
+                     (max-width: 799px) 800px, 
+                      1800px"
+              alt="Background photo of The Main Post Falls location of Bill's Heating and AC"
+              width="800" height="451"
+              class="hero-image" aria-hidden="true">
+          <div class="areas-hero-inner width-limiter">
+            <div class="story-hero-container width-limiter">
+              <h1>Discover Your Potential</h1>
+              <h2>Start a meaningful career with Bill&apos;s Heating &amp; A/C</h2>
+              </div></div>
+        </section> 
+        <div class="red-divider"></div>
+        <section class="job-openings">
+          <h2>Current Job Openings</h2>
+          <div class="job-card-container width-limiter">
+              <div class="job-card-outer">
+                <a href="https://www.indeed.com/viewjob?jk=f9848124ba4fe798"><h2>Logistics Coordinator</h2></a>
+                <p>Bill&apos;s Heating &amp; A/C &dash; Lewiston, ID<br>
+                30 Days</p>
+                <a href="https://www.indeed.com/viewjob?jk=f9848124ba4fe798"><button class="buttons">Apply Now</button></a>
+              </div> 
+              <div class="job-card-outer">
+                <a href="https://www.indeed.com/viewjob?jk=c411da3a712c133e"><h2>Lead HVAC Installer</h2></a>
+                <p>Bill&apos;s Heating &amp; A/C &dash; Lewiston, ID<br>
+                30 Days</p>
+                <a href="https://www.indeed.com/viewjob?jk=c411da3a712c133e"><button class="buttons">Apply Now</button></a>
+              </div> 
+              <div class="job-card-outer">
+                <a href="https://www.indeed.com/viewjob?jk=3b4462ea144f4c2c"><h2>HVAC Service Technician</h2></a>
+                <p>Bill&apos;s Heating &amp; A/C &dash; Lewiston, ID<br>
+                30 Days</p>
+                <a href="https://www.indeed.com/viewjob?jk=3b4462ea144f4c2c"><button class="buttons">Apply Now</button></a>
+              </div> 
+          </div>
+        </section>
+        <section class="areas-local-needs">
+          <div class="local-needs-container width-limiter">
+              <div class="local-needs-text">
+                  <h2>Who We Are</h2>
+                  <p>Bill&apos;s Heating &amp; A/C stands as the region&apos;s premier HVAC contractor and proudly ranks as the 19th largest employer in the state. Our distinction as one of the few remaining locally owned HVAC companies in the area is a testament to our deep community roots and unwavering commitment to local values. Trusted immensely by our community, we consistently maintain a bustling workload throughout the year, effectively circumventing the seasonal layoffs commonly seen elsewhere in the industry. Our impressive fleet, comprising nearly 200 skilled technicians, is supported by dedicated in&dash;office tech assistance and benefits from comprehensive, paid lab training programs, ensuring unparalleled service excellence and professional growth.</p>
+              </div>
+              <div class="local-needs-img" data-animation="zoom-in-right">
+                  <img loading="lazy" class="twobyone-image" src="images/post-falls-location.webp" alt="A photo of the flagship Bill's Heating & A/C Location in Post Falls, ID" width="600" height="300">
+              </div>
+          </div>
+          </section>
+          <section class="areas-commitment">
+              <div class="areas-commitment-container width-limiter">
+                  <div class="areas-commitment-img" data-animation="zoom-in-left">
+                      <img loading="lazy" class="twobyone-image" src="images/techs-arriving.webp" alt="Two HVAC technicians enjoying their career working at Bill's Heating & A/C" width="600" height="300">
+                  </div>
+                  <div class="areas-commitment-text">
+                      <h2>Benefits of Working at Bills</h2>
+                      <p>At Bill&apos;s Heating &amp; A/C, we&apos;re not just about providing excellent service&semi; we&apos;re equally committed to ensuring our team members have rewarding careers. Join us and enjoy a suite of benefits designed to support both your professional and personal growth. Our comprehensive package includes two weeks of paid vacation, essential company tools, and even company loans for personal tools to equip you for success. We also offer a robust 401k plan alongside top&dash;tier medical, dental, and vision insurance, ensuring your peace of mind. With year&dash;round work, our technicians enjoy financial stability, with over half earning in excess of $125,000 annually, making us the highest paying employer in the area. Team leads benefit from the convenience of a company vehicle. Plus, our culture of continuous learning is backed by paid training programs, accessible through our state&dash;of&dash;the&dash;art training center. You&apos;ll also have the reassurance of on&dash;call in&dash;house technical support, ensuring you&apos;re never alone on the job. At Bill&apos;s, your career advancement is a journey we take together.</p>
+                  </div>
+              </div>
+        </section>
+        <section class="areas-why-us">
+          <div class="areas-why-container width-limiter">
+              <h2>Career Growth and Advancement Opportunities</h2>
+              <p>At Bill&apos;s Heating &amp; A/C, we firmly believe in fostering the professional growth and advancement of our team. We&apos;re committed to not just hiring the best but making them even better. With us, you&apos;ll find ample opportunities for career progression, whether you&apos;re just starting out or an experienced professional. Our environment encourages learning and development through a variety of advanced training programs and mentorship opportunities. We pride ourselves on promoting from within, offering clear pathways for advancement and recognizing hard work and dedication with real career progression opportunities. Joining Bill&apos;s means being part of a dynamic team where your growth is our priority, and your potential can be fully realized.</p>
+          </div>
+        </section>
+        <section class="get-started-outer">
+          <div class="get-started width-limiter">
+          <div class="get-started-image" data-animation="zoom-in-left"><img loading="lazy" src="images/truck-transparent-bg.webp" alt="bills truck" width="571" height="347"></div>
+          <div class="lets-get-started" data-animation="zoom-in-right">
+            <h2>Still Have Question?</h2>
+            <a href="tel:+12087775528"><button type="button" class="call-us-button">Call Us</button></a>
+            <p>We would be happy to answer any remianing questions you have about working at Bill&apos;s Heating &amp; A/C. Call us to get your new career started today!</p>
+          </div>
+          </div>
+        </section>
         <div class="page-overlay"></div>
           <div class="body-form-overlay">
             <form class="body-form-container ajax-form" method="post">
@@ -189,15 +278,6 @@
           <script defer src="scripts/reviews.js"></script>
           <script defer src="scripts/forms.js"></script>
           <script defer src="scripts/areasvideo.js"></script>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-T43FQRTPHZ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-T43FQRTPHZ');
-</script>
           <script defer src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"></script>
     </body>
 </html>

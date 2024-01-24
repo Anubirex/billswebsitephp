@@ -17,7 +17,16 @@
     <link rel="stylesheet" href="styles/headerstyle.css">
     <link rel="stylesheet" href="styles/footerstyle.css">
     <link rel="stylesheet" href="styles/animations.css">
-    <link rel="stylesheet" href="styles\style.css">
+    <link rel="stylesheet" href="styles/style.css">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NZQJPVRS');</script>
+  <!-- End Google Tag Manager -->
+
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Ductless Tune">
     <meta property="og:description" content="Ensure top performance with Bill's Heating and AC's ductless heat pump tune-ups. Expert care for your mini-split system, backed by 3000+ five-star reviews.">
@@ -142,6 +151,10 @@
   </script>
   </head>
 <body>
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZQJPVRS"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
     <?php include 'header.php'; ?> 
     <div class="diag-page-section-one">
         <div class="diag-page-inner-section-one hero width-limiter">
@@ -390,15 +403,6 @@
       <script defer src="scripts/cc.js"></script>
       <script defer src="scripts/reviews.js"></script>
       <script defer src="scripts/forms.js"></script>
-      <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-T43FQRTPHZ"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-T43FQRTPHZ');
-    </script>
       <script defer src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"></script>  
 </body>
 </html>
