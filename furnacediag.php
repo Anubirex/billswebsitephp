@@ -155,28 +155,6 @@
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZQJPVRS"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
-  <div class="page-overlay"></div>
-  <div class="body-form-overlay">
-    <form class="body-form-container ajax-form" method="post">
-      <div class="request-form-headline"><h3>Schedule Your FREE Estimate!</h3></div>
-      <label for="name-body">Full Name: <input id="name-body" type="text" autocomplete="name" placeholder="Enter Full Name" name="name" required></label>
-      <label for="email-body">Email: <input id="email-body" type="email" autocomplete="email" placeholder="Enter Email" name="email" required></label>
-      <label for="phone-body">Phone: <input id="phone-body" type="tel" autocomplete="tel" placeholder="123-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" name="phone" required></label>
-      <label for="street-body">Street: <input id="street-body" type="text" autocomplete="address-line1" placeholder="Street" name="street" required></label>
-      <label for="city-body">City: <input type="text" id="city-body" autocomplete="address-level2" placeholder="City" name="city" required></label>
-      <label for="state-body">State: <input type="text" id="state-body" autocomplete="address-level1" placeholder="State" name="state" required></label>
-      <label for="message-body">Message: <textarea id="message-body" name="message" autocomplete="on" placeholder="Enter message here" rows="4" required></textarea></label>
-      <div class="recaptcha-placeholder"></div>
-      <button type="submit" class="btn">Submit</button>
-      <button type="button" class="btn cancel">Close</button>
-    </form>
-  </div>
-  <div class="modal">
-    <div class="modal-content">
-        <span class="close-button">&times;</span>
-        <p>Thank you for your submission!</p>
-    </div>
-  </div>
     <?php include 'header.php'; ?> 
     <div class="diag-page-section-one">
         <div class="diag-page-inner-section-one hero width-limiter">
@@ -384,6 +362,27 @@
             </div>
         </div>
     </section>
+    <div class="body-form-overlay">
+    <form class="body-form-container ajax-form" method="post">
+      <div class="request-form-headline"><h3>Schedule Your FREE Estimate!</h3></div>
+      <label for="name-body">Full Name: <input id="name-body" type="text" autocomplete="name" placeholder="Enter Full Name" name="name" required></label>
+      <label for="email-body">Email: <input id="email-body" type="email" autocomplete="email" placeholder="Enter Email" name="email" required></label>
+      <label for="phone-body">Phone: <input id="phone-body" type="tel" autocomplete="tel" placeholder="123-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" name="phone" required></label>
+      <label for="street-body">Street: <input id="street-body" type="text" autocomplete="address-line1" placeholder="Street" name="street" required></label>
+      <label for="city-body">City: <input type="text" id="city-body" autocomplete="address-level2" placeholder="City" name="city" required></label>
+      <label for="state-body">State: <input type="text" id="state-body" autocomplete="address-level1" placeholder="State" name="state" required></label>
+      <label for="message-body">Message: <textarea id="message-body" name="message" autocomplete="on" placeholder="Enter message here" rows="4" required></textarea></label>
+      <div class="recaptcha-placeholder"></div>
+      <button type="submit" class="btn">Submit</button>
+      <button type="button" class="btn cancel">Close</button>
+    </form>
+  </div>
+  <div class="modal">
+    <div class="modal-content">
+        <span class="close-button">&times;</span>
+        <p>Thank you for your submission!</p>
+    </div>
+  </div>
     <?php include 'footer.php'; ?>
       <script defer src="scripts/src.js"></script> 
       <script defer src="scripts/search.js"></script>

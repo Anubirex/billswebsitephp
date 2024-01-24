@@ -362,7 +362,6 @@
             </div>
         </div>
     </section>
-    <div class="page-overlay"></div>
     <div class="body-form-overlay">
       <form class="body-form-container ajax-form" method="post">
         <div class="request-form-headline"><h3>Schedule Your FREE Estimate!</h3></div>
