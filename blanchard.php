@@ -169,13 +169,6 @@
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
         <?php include 'header.php'; ?>
-        <div class="page-overlay"></div>
-        <div class="modal">
-          <div class="modal-content">
-              <span class="close-button">&times;</span>
-              <p>Thank you for your submission!</p>
-          </div>
-        </div>
           <section class="areas-hero">
             <img class="hero-image" src="https://callbillsheating.s3.us-west-2.amazonaws.com/blanchard-header-800w.webp"
                 srcset="https://callbillsheating.s3.us-west-2.amazonaws.com/blanchard-header-450w.webp 450w, 
@@ -496,8 +489,7 @@
                     <button id="scrollRight" onclick="nextImage()">&#10095;</button>
                 </div>
             </div>
-          </section>
-          <div class="page-overlay"></div>
+          </section>>
           <div class="body-form-overlay">
             <form class="body-form-container ajax-form" method="post">
               <div class="request-form-headline"><h3>Schedule Your FREE Estimate!</h3></div>

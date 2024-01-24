@@ -537,9 +537,9 @@ header{
   }
   .form-overlay {
     display: none;
-    position: sticky;
-    left: 40%;
-    top: 50%;
+    position: fixed;
+    left: 30%;
+    top: 16%;
     width: 700px;
     min-height: 650px;
     background-image: linear-gradient(to bottom, var(--COLOR-MAIN-DARK), var(--COLOR-MAIN-BRIGHT));
@@ -551,7 +551,7 @@ header{
   .body-form-overlay {
     display: none;
     position: fixed;
-    top: 50%;
+    top: 52.25%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 350px;
@@ -572,6 +572,16 @@ header{
     z-index: 8000; 
     display: none;
   }
+  .page-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.65);
+    z-index: 9900; 
+    display: none;
+}
   .request-form-sidebar{
     flex: 1;
     display: flex;
