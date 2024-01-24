@@ -2184,17 +2184,17 @@ padding:0 5rem;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-image: linear-gradient(to right, lightcoral, lightgreen);
+  background-color: #486a86;
   padding: 3rem 0;
 }
 .learning-hero h2 {
-  color: navy;
+  color: #ead422;
   text-shadow: 1px 1px 3px black;
   font-size: 4rem;
   padding: .5rem 0;
 }
 .learning-hero p {
-  color: navy;
+  color: #dea724;
   text-shadow: 1px 1px 3px black;
   font-size: 2rem;
   padding-bottom: 1.5rem;
@@ -2205,7 +2205,7 @@ padding:0 5rem;
 }
 .learning-intro {
   padding-bottom: 3rem;
-  background-color: skyblue;
+  background-color: #2c8ddb;
 }
 .learning-intro-title h2 {
   color: gold;
@@ -2229,12 +2229,12 @@ padding:0 5rem;
   padding: 1rem;
 }
 .learning-card {
-  color: red;
+  color: #ead422;
   text-shadow: 2px 2px 3px black;
   flex: 0 0 30%;
   min-width: 200px;
   height: 300px;
-  background-color: rgba(0, 0, 255, 0.6);
+  background-color: #db2d28;
   border-radius: 8px;
   background-size: cover;
   background-position: center;
@@ -2250,11 +2250,11 @@ padding:0 5rem;
   display: flex;
   flex-direction: column;
   padding-bottom: 5rem;
-  background: lightcoral;
+  background: #9f161c;
 }
 .more-learning h2 {
   font-size: 5rem;
-  color: gold;
+  color: #ead422;
   text-shadow: 1px 1px 3px black;
   padding-bottom: 3rem;
 }
@@ -2273,7 +2273,7 @@ padding:0 5rem;
 .learn-blog-pop-title h2 {
   padding-bottom: 2rem;
   font-size: 3rem;
-  color: navy;
+  color: #2c8ddb;
 }
 .learn-blog-lat-carousel,
 .learn-blog-pop-carousel {
@@ -2289,12 +2289,13 @@ padding:0 5rem;
   transition: transform 0.5s ease;
   margin: 0;
   padding: 0;
-  background: navy;
+  background: #486a86;
 }
 .blog-post-latest h2,
 .blog-post-popular h2 {
   font-size: 2rem;
-  color: black;
+  color: #dea724;
+  padding: 1rem;
 }
 .latest-carousel-buttons,
 .pop-carousel-buttons {
@@ -2313,15 +2314,15 @@ padding:0 5rem;
 }
 .blog-post-latest:hover,
 .blog-post-popular:hover {
-  background: blue;
+  background: #2c8ddb;
 }
 .learn-video-container {
   padding-bottom: 5rem;
-  background: lightgreen;
+  background: #2c8ddb;
 }
 .video-title h2 {
   font-size: 5rem;
-  color: gold;
+  color: #ead422;
   text-shadow: 1px 1px 3px black;
   padding-bottom: 3rem;
   padding-top: 1rem;
@@ -3003,7 +3004,7 @@ font-size: 4rem;
 }
 .diag-page-inner-section-one div {
  flex: 1;
- padding: 2rem;
+ padding: 9rem 1rem 2rem 1rem;
 }
 
 .diag-page-section-two {
@@ -3073,10 +3074,10 @@ font-size: 4rem;
   justify-content: center;
   text-align: center;
   padding:7rem 1rem 4rem 1rem;
-  background-color: white;
 }
-.reviews-hero h1{
-  font-size: 4rem;
+
+.reviews-hero p{
+  margin-bottom: 3rem;
 }
 .reviews-hero img{
   width: auto;
@@ -3168,6 +3169,7 @@ font-size: 4rem;
 .freesecop-hero-inner h1{
   font-size: 5rem;
   color: var(--COLOR-HIGHLIGHT-BRIGHT);
+  text-shadow: 2px 2px 2px black;
 }
 .freesecop-hero-inner h2{
   font-size: 2rem;
@@ -3219,6 +3221,9 @@ font-size: 4rem;
 .story-hero-container h1 {
   font-size: 7rem;
   color: var(--COLOR-HIGHLIGHT-BRIGHT);
+}
+.reviews-hero h1{
+  font-size: 4rem;
 }
 .story-hero-container h2 {
   font-size: 4rem;
@@ -3293,7 +3298,7 @@ font-size: 4rem;
   font-size: 4.5rem;
   color: var(--COLOR-HIGHLIGHT-BRIGHT);
   padding-bottom: 3rem;
-  text-shadow: 0 0 3px black;
+  text-shadow: 2px 2px 3px black;
   padding: 1rem;
   text-align: center;
 }
@@ -3344,6 +3349,110 @@ font-size: 4rem;
   height: auto;
   margin: 1rem; 
   box-shadow: 2px 2px 5px black;
+}
+.under-construction-page{
+  padding-top: 7rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.under-construction-page h1{
+  font-size: 6rem;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+.under-construction-page img{
+  width: 100%;
+  height: auto;
+  padding: 1rem;
+}
+.under-construction-preview{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.under-construction-preview p{
+  max-width: 700px;
+  padding: 2rem 1rem 5rem 1rem;
+  text-align: center;
+}
+.job-openings h2{
+  font-size: 4.5rem;
+  color: var(--COLOR-MAIN-DARK);
+  text-align: center;
+  padding: 3rem 1rem;
+}
+.job-card-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  border-bottom: 2px solid var(--COLOR-MAIN-DARK);
+}
+.job-card-outer{
+  border-radius: 10px;
+  background-color: #ccc;
+  box-shadow: 2px 2px 5px black;
+  margin: 4rem 1rem;
+  flex-basis: 30%;
+}
+.job-card-outer button{
+  margin: 1rem
+}
+.job-card-outer h2{
+  font-size: 2rem;
+  padding: 2rem;
+  border-radius: 10px 10px 0 0;
+  background-color: var(--COLOR-MAIN-DARK);
+  color: white;
+}
+.job-card-outer p{
+  padding: 3rem 1rem 2rem 1rem;
+}
+.savings-current-promotion-outer{
+  background-color: var(--COLOR-MAIN-BRIGHT);
+}
+.savings-current-promotion{
+  display: flex;
+  padding: 7rem 1rem;
+  gap: 3rem;
+  justify-content: center;
+}
+.savings-current-promotion h2{
+  font-size: 5rem;
+  margin-bottom: 4rem;
+  color: var(--COLOR-HIGHLIGHT-BRIGHT);
+  text-shadow: 2px 2px 2px black;
+}
+.savings-current-promotion div{
+  max-width: 600px;
+  height: auto;
+}
+.savings-current-promotion p{
+  color: white;
+}
+.savings-current-promotion img{
+  width: clamp(350px, 97%, 500px);
+  box-shadow: 2px 2px 5px black;
+}
+.savings-current-promotion a{
+  color: var(--COLOR-HIGHLIGHT-BRIGHT);
+  font-size: 1.6rem;
+}
+.savings-ways-to-save{
+  border-bottom: 2px solid var(--COLOR-MAIN-DARK);
+}
+.savings-ways-to-save h2{
+  font-size: 4rem;
+  color: var(--COLOR-SECONDARY-DARK);
+  padding: 1rem;
+}
+.savings-ways-to-save-bottom{
+  background-image: linear-gradient(white,var(--COLOR-MAIN-BRIGHT));
+  border-bottom: none;
+}
+.savings-ways-to-save-bottom h2{
+  padding-top: 4rem;
+  text-align: center;
 }
 /* //////////////////////////////////END OF Areas BODY//////////////////////////////// */
 /* //////////////////////////////////BEGINNING OF ANIMATIONS//////////////////////////////// */
@@ -3653,6 +3762,14 @@ font-size: 4rem;
       }
       .tune-cards{
         flex-basis: 80%;
+      }
+      .job-card-outer{
+        flex-basis: 90%;
+      }
+      .savings-current-promotion{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
       }
     }
     @media screen and (min-width: 769px) and (max-width: 972px){

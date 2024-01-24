@@ -32,6 +32,14 @@
     <link rel="stylesheet" href="styles/footerstyle.css">
     <link rel="stylesheet" href="styles/animations.css">
 
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NZQJPVRS');</script>
+  <!-- End Google Tag Manager -->
+
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Air Conditioning Services">
     <meta property="og:description" content="Top air conditioning services at Bill's Heating and AC: Fast installations, expert tune-ups, and detailed diagnostics. Enjoy our Lowest Price Guarantee and free estimates. Trusted by 30,000+ customers!">
@@ -156,6 +164,10 @@
   </script>
   </head>
 <body>
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZQJPVRS"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
     <?php include 'header.php'; ?> 
     <section class="furnace-hero">
         <div class="furnace-hero-container width-limiter">
@@ -204,6 +216,13 @@
             </div>
         </div>
     </section>
+      <!--      //////////////////////////////SOCIAL SIDEBAR/////////////////////////////////////////////// -->
+      <div class="social-sidebar desktop-only">
+        <a href="https://www.facebook.com/billsheating" aria-label="Visit Bill's Heating and AC on Facebook" target="_blank" rel="noopener noreferrer"></a>
+        <a href="https://www.instagram.com/billsheatingandac/" aria-label="Visit Bill's Heating and AC on Instagram" target="_blank" rel="noopener noreferrer"></a>
+        <a href="https://www.youtube.com/@billsheatingandac" aria-label="Visit Bill's Heating and AC on Youtube" target="_blank" rel="noopener noreferrer"></a>
+    </div>
+  <!--   ////////////////////////END OF SOCIAL SIDEBAR////////////////////////////////////////////////// -->
     <div class="page-overlay"></div>
     <div class="body-form-overlay">
       <form class="body-form-container ajax-form" method="post">
@@ -229,16 +248,7 @@
     <?php include 'footer.php'; ?>  
     <script defer src="scripts/src.js"></script>
     <script defer src="scripts/search.js"></script>  
-    <script defer src="scripts/forms.js"></script> 
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-T43FQRTPHZ"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-T43FQRTPHZ');
-    </script>
+    <script defer src="scripts/forms.js"></script>
     <script defer src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"></script>
 </body>
 </html>

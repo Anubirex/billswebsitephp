@@ -32,6 +32,14 @@
     <link rel="stylesheet" href="styles/footerstyle.css">
     <link rel="stylesheet" href="styles/animations.css">
 
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NZQJPVRS');</script>
+  <!-- End Google Tag Manager -->
+
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Top Heat Pump Installation">
     <meta property="og:description" content="Bill's Heating and AC: Expert heat pump installation with Lowest Price Guarantee. Free, no-pressure estimates and flexible financing. Fast, tailored service.">
@@ -156,6 +164,10 @@
   </script>
   </head>
     <body>
+      <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZQJPVRS"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
         <?php include 'header.php'; ?>
         <section class="furn-install-hero">
           <img class="hero-image" src="images/equipment-header-800w.webp"
@@ -213,7 +225,7 @@
             <div class="local-needs-container width-limiter">
                 <div class="local-needs-text">
                   <h2 id="hp-install-what-to-expect">What Should I Expect During the Heat Pump System Estimate?</h2>
-                  <p>Scheduling an estimate with Bill&apos;s Heating and AC for your heat pump system is an informative experience, not just a sales interaction. Our estimators are seasoned field technicians, deeply knowledgeable about heat pump technology. In the roughly 30-minute appointment, they will evaluate your space, understand your specific heating and cooling needs, and offer insights and recommendations based on their extensive experience with heat pump systems.<br>
+                  <p>Scheduling an estimate with Bill&apos;s Heating and AC for your heat pump system is an informative experience, not just a sales interaction. Our estimators are seasoned field technicians, deeply knowledgeable about heat pump technology. In the roughly 30-minute appointment, they will evaluate your space, understand your specific heating and cooling needs, and offer insights and recommendations based on their extensive experience with heat pump systems.<br><br>
                     Our no&dash;pressure approach ensures that you receive a detailed estimate via email, valid for 30 days, allowing you ample time to make an informed decision. This estimate represents our commitment to providing you with the best value for your investment, backed by our lowest price guarantee. We aim to make sure you are fully informed and comfortable with your decision regarding your home&apos;s heating and cooling solutions.
                     </p>
                 </div>
@@ -229,7 +241,7 @@
                   </div>
                   <div class="areas-commitment-text">
                         <h2 id="hp-install-financing-options">Flexible Financing Options:<br> for Heat Pump Installation</h2>
-                        <p>Understanding the significance of investing in a new heat pump, Bill&apos;s Heating and AC offers a variety of flexible financing options to fit your budget. During your estimate, our knowledgeable technicians can give you a preliminary idea of your financing options.<br>
+                        <p>Understanding the significance of investing in a new heat pump, Bill&apos;s Heating and AC offers a variety of flexible financing options to fit your budget. During your estimate, our knowledgeable technicians can give you a preliminary idea of your financing options.<br><br>
                           For a more detailed understanding and to begin the application process, we invite you to <a class="financing-options-text-link" href="financing.php">click
                           here.</a> This link will guide you through our easy and transparent financing procedures, ensuring
                           you find a plan that suits your financial needs without compromising on quality and service.
@@ -350,6 +362,13 @@
                 </div>
             </div>
         </section>
+          <!--      //////////////////////////////SOCIAL SIDEBAR/////////////////////////////////////////////// -->
+    <div class="social-sidebar desktop-only">
+      <a href="https://www.facebook.com/billsheating" aria-label="Visit Bill's Heating and AC on Facebook" target="_blank" rel="noopener noreferrer"></a>
+      <a href="https://www.instagram.com/billsheatingandac/" aria-label="Visit Bill's Heating and AC on Instagram" target="_blank" rel="noopener noreferrer"></a>
+      <a href="https://www.youtube.com/@billsheatingandac" aria-label="Visit Bill's Heating and AC on Youtube" target="_blank" rel="noopener noreferrer"></a>
+  </div>
+<!--   ////////////////////////END OF SOCIAL SIDEBAR////////////////////////////////////////////////// -->
         <div class="page-overlay"></div>
         <div class="body-form-overlay">
           <form class="body-form-container ajax-form" method="post">
@@ -377,15 +396,7 @@
         <script src="scripts/forms.js" defer></script> 
         <script src="scripts/search.js" defer></script>
         <script src="scripts/photogallery.js" defer></script>
-        <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-T43FQRTPHZ"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-T43FQRTPHZ');
-    </script>
+        <script defer src="scripts/areasvideo.js"></script>
         <script defer src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"></script>
     </body>
 </html>
