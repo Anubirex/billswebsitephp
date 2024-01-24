@@ -362,13 +362,6 @@
                 </div>
             </div>
         </section>
-          <!--      //////////////////////////////SOCIAL SIDEBAR/////////////////////////////////////////////// -->
-    <div class="social-sidebar desktop-only">
-      <a href="https://www.facebook.com/billsheating" aria-label="Visit Bill's Heating and AC on Facebook" target="_blank" rel="noopener noreferrer"></a>
-      <a href="https://www.instagram.com/billsheatingandac/" aria-label="Visit Bill's Heating and AC on Instagram" target="_blank" rel="noopener noreferrer"></a>
-      <a href="https://www.youtube.com/@billsheatingandac" aria-label="Visit Bill's Heating and AC on Youtube" target="_blank" rel="noopener noreferrer"></a>
-  </div>
-<!--   ////////////////////////END OF SOCIAL SIDEBAR////////////////////////////////////////////////// -->
         <div class="page-overlay"></div>
         <div class="body-form-overlay">
           <form class="body-form-container ajax-form" method="post">
