@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Priest River, Idaho</title>
-    <link rel="canonical" href="https://callbillsheating.com/pr.php">
+    <link rel="canonical" href="https://callbills.com/pr.php">
     <meta name="description" content="Bill's Heating & A/C in Priest River, ID: Custom HVAC for chilly winters & mild summers. No travel fees, $79 diagnostics, dedicated to indoor comfort.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -44,7 +44,7 @@
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Priest River, Idaho">
     <meta property="og:description" content="Bill's Heating & A/C in Priest River, ID: Custom HVAC for chilly winters & mild summers. No travel fees, $79 diagnostics, dedicated to indoor comfort.">
     <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/pr-social-share.webp">
-    <meta property="og:url" content="https://callbillsheating.com/pr.php">
+    <meta property="og:url" content="https://callbills.com/pr.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
@@ -59,8 +59,8 @@
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
         "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
-        "@id": "https://callbillsheating.com/",
-        "url": "https://callbillsheating.com",
+        "@id": "https://callbills.com/",
+        "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
         "priceRange": "$$",
         "address": {

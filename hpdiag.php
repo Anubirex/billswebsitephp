@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Heat Pump Diags</title>
-    <link rel="canonical" href="https://callbillsheating.com/hpdiag.php">
+    <link rel="canonical" href="https://callbills.com/hpdiag.php">
     <meta name="description" content="Trust Bill's Heating and AC for expert heat pump diagnostics. Rapid, reliable service and personalized solutions for all heat pump issues. Contact us now.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,7 +31,7 @@
     <meta property="og:title" content="Bill's Heating & A/C | Heat Pump Diags">
     <meta property="og:description" content="Trust Bill's Heating and AC for expert heat pump diagnostics. Rapid, reliable service and personalized solutions for all heat pump issues. Contact us now.">
     <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/hp-main-social-share.webp">
-    <meta property="og:url" content="https://callbillsheating.com/hpdiag.php">
+    <meta property="og:url" content="https://callbills.com/hpdiag.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
@@ -46,8 +46,8 @@
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
         "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
-        "@id": "https://callbillsheating.com/",
-        "url": "https://callbillsheating.com",
+        "@id": "https://callbills.com/",
+        "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
         "priceRange": "$$",
         "address": {

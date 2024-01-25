@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Deer Park, WA</title>
-    <link rel="canonical" href="https://callbillsheating.com/dp.php">
+    <link rel="canonical" href="https://callbills.com/dp.php">
     <meta name="description" content="Bill's Heating & A/C in Deer Park, WA: Tailored HVAC for cold winters & mild summers. No travel fees, $79 diagnostics. High-quality comfort for homes & businesses.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -44,7 +44,7 @@
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Deer Park, WA">
     <meta property="og:description" content="Bill's Heating & A/C in Deer Park, WA: Tailored HVAC for cold winters & mild summers. No travel fees, $79 diagnostics. High-quality comfort for homes & businesses.">
     <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/dp-social-share.webp">
-    <meta property="og:url" content="https://callbillsheating.com/dp.php">
+    <meta property="og:url" content="https://callbills.com/dp.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
@@ -59,8 +59,8 @@
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
         "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
-        "@id": "https://callbillsheating.com/",
-        "url": "https://callbillsheating.com",
+        "@id": "https://callbills.com/",
+        "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
         "priceRange": "$$",
         "address": {

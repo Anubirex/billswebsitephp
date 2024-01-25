@@ -1,9 +1,10 @@
 <!DOCTYPE html>
+<!--This is the gas furnace repair and diagnostic landing page FOR GOOGLE ADS-->
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Bill's Heating & A/C | Best HVAC in Airway Heights, WA</title>
-    <link rel="canonical" href="https://callbills.com/ah.php">
+    <title>Bill's Heating & A/C | Expert Furnace Repair</title>
+    <link rel="canonical" href="https://callbills.com/expert-furnace-repairs.php">
     <meta name="description" content="Bill's Heating & A/C in Airway Heights, WA: Expert HVAC for chilly winters & warm summers. No travel fees, $79 diagnostics, and trusted community service.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -40,14 +41,14 @@
   <!-- End Google Tag Manager -->
 
     <!-- Open Graph and Twitter Cards -->
-    <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Airway Heights, WA">
+    <meta property="og:title" content="Bill's Heating & A/C | Expert Furnace Repair">
     <meta property="og:description" content="Bill's Heating & A/C in Airway Heights, WA: Expert HVAC for chilly winters & warm summers. No travel fees, $79 diagnostics, and trusted community service.">
     <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/ah-social-share.webp">
     <meta property="og:url" content="https://callbills.com/ah.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
-    <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Airway Heights, WA">
+    <meta name="twitter:title" content="Bill's Heating & A/C | Expert Furnace Repair">
     <meta name="twitter:description" content="Bill's Heating & A/C in Airway Heights, WA: Expert HVAC for chilly winters & warm summers. No travel fees, $79 diagnostics, and trusted community service.">
     <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/ah-summary-large-image.webp">
 
@@ -170,7 +171,7 @@
         <header class="landing-header width-limiter">
             <div>
                 <a href="https://callbills.com/">
-                    <img class="landing-header-logo" src="images\header-logo-shadowed.webp" width="400" height="177" alt="Nill's Heating and A/C logo">
+                    <img class="landing-header-logo" src="images\header-logo-shadowed.webp" width="400" height="177" alt="Bill's Heating and A/C logo">
                 </a>
             </div>
             <div class="landing-header-right">
@@ -191,9 +192,9 @@
                     aria-hidden="true">
                 <div class="landing-hero-inner width-limiter">
                     <div class="hero-content">
-                        <h1>Headline For OFFERING</h1>
-                        <p>Text that supports the headline and has a keyword
-                            <br>Ideally points out an issue we solve
+                        <h1>$59 Furnace Diagnostics</h1>
+                        <p>Regain your comfort quickly with our expert furnace solutions! Our seasoned professionals are ready to assist you seven days a week, offering same&dash;day appointments to address your heating needs promptly. Don&apos;t let a faulty furnace disrupt your peace of mind. Trust us to get your heat running smoothly again at an unbeatable price.
+                        
                         </p>
                         <img src="images/techs-arriving.webp">
                         <div class="center-things">
@@ -210,7 +211,7 @@
                 <div class="hero-form">
                     <div class="visible-body-form-overlay">
                         <form class="visible-body-form-container ajax-form" method="post">
-                            <div class="request-form-headline"><h3>Schedule Your FREE Estimate!</h3></div>
+                            <div class="request-form-headline"><h3>Schedule Your Furnace Diagnostic</h3></div>
                             <label for="name-body">Full Name: <input id="name-body" type="text" autocomplete="name" placeholder="Enter Full Name" name="name" required></label>
                             <label for="email-body">Email: <input id="email-body" type="email" autocomplete="email" placeholder="Enter Email" name="email" required></label>
                             <label for="phone-body">Phone: <input id="phone-body" type="tel" autocomplete="tel" placeholder="123-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" name="phone" required></label>
@@ -222,10 +223,14 @@
                             <button type="submit" class="btn">Submit</button>
                         </form>
                     </div>
+                    <div class="modal">
+                        <div class="modal-content">
+                            <span class="close-button">&times;</span>
+                            <p>Thank you for your submission!</p>
+                        </div>
+                    </div>
                 </div>
-            </div>
         </section>
-
         <div class="commendations-outer">
             <div class="commendations width-limiter">
               <div class="commendations-track">
@@ -265,8 +270,8 @@
         <section class="landing-more-info-outer">
            <div class="landing-more-info width-limiter">
                 <div class="landing-more-info-half">
-                    <h2>Sub Headline</h2>
-                    <p>additional info</p>
+                    <h2>Trust the Northwest&apos;s <br>Top&dash;Rated Furnace Experts</h2>
+                    <p>Struggling with furnace troubles? As the Northwest&apos;s largest and most trusted HVAC contractor, we&apos;re here to bring the heat back into your home. With over 3,000 glowing reviews, our expert team provides unparalleled furnace diagnostics, ensuring your system runs efficiently and reliably. By choosing us, you&apos;re not just getting a service; you&apos;re getting the assurance of top&dash;quality care backed by a wealth of satisfied customers. Don&apos;t let a minor furnace issue escalate into a costly problem. Call us now for a comprehensive check-up and join thousands of happy homeowners who trust us to keep their spaces cozy and energy&dash;efficient. Your comfort is our top priority &dash; experience the difference with our expert care today!</p>
                 </div>
                 <div class="landing-more-info half">
                     <img src="images/ac-brazing.webp">
@@ -426,7 +431,7 @@
             <div class="lets-get-started" data-animation="zoom-in-right">
                 <h2>Lets Get Started!</h2>
                 <a href="tel:+12087775528"><button type="button" class="call-us-button">Call Us</button></a>
-                <button type="button" class="schedule-service-button open-form-button" id="estimateButton">Get An Estimate</button>
+                <a href="#"><button type="button" class="schedule-service-button open-form-button" id="estimateButton">Get An Estimate</button></a>
                 <p>Contact Bill&apos;s Heating & A/C, your local HVAC experts, today for estimates, repairs, and service in the greater Spokane or Coeur d&apos; Alene area as well as the Lewiston, Clarkston, Moscow, Pullman, and surrounding areas.</p>
             </div>
             </div>
@@ -439,3 +444,4 @@
         <!--Chat Widget-->
         <script defer src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"></script>
 </body>
+</html>
