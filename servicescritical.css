@@ -6,7 +6,7 @@
   }
   :root {
     --COLOR-MAIN-BRIGHT: #2c8ddb;
-    --COLOR-MAIN-DARK: #486a86;
+    --COLOR-MAIN-DARK: #003a71;
     --COLOR-SECONDARY-BRIGHT: #db2d28;
     --COLOR-SECONDARY-DARK: #9f161c;
     --COLOR-HIGHLIGHT-BRIGHT: #ead422;
@@ -492,7 +492,6 @@
   .loc-col a:active{
     color: var(--COLOR-SECONDARY-DARK);
   }
-  
 @media screen and (max-width:768px) { 
     .leave-a-review a{
         margin: 0 2rem 2rem 2rem;

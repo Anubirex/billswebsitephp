@@ -538,8 +538,8 @@ header{
   .form-overlay {
     display: none;
     position: fixed;
-    left: 30%;
-    top: 16%;
+    left: 40%;
+    top: 50%;
     width: 700px;
     min-height: 650px;
     background-image: linear-gradient(to bottom, var(--COLOR-MAIN-DARK), var(--COLOR-MAIN-BRIGHT));
@@ -551,7 +551,7 @@ header{
   .body-form-overlay {
     display: none;
     position: fixed;
-    top: 52.25%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 350px;
@@ -581,7 +581,7 @@ header{
     background-color: rgba(0, 0, 0, 0.65);
     z-index: 9900; 
     display: none;
-}
+  }
   .request-form-sidebar{
     flex: 1;
     display: flex;
