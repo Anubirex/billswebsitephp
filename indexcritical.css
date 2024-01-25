@@ -6,7 +6,7 @@
   }
   :root {
     --COLOR-MAIN-BRIGHT: #2c8ddb;
-    --COLOR-MAIN-DARK: #486a86;
+    --COLOR-MAIN-DARK: #003a71;
     --COLOR-SECONDARY-BRIGHT: #db2d28;
     --COLOR-SECONDARY-DARK: #9f161c;
     --COLOR-HIGHLIGHT-BRIGHT: #ead422;
@@ -618,9 +618,6 @@
     .loc-col a:active{
       color: var(--COLOR-SECONDARY-DARK);
     }
-  .chat-widget{
-    font-size: 1.6rem;
-  }
   @media screen and (max-width:768px) { 
   .hero-outer{
     background-image: linear-gradient(to bottom, var(--COLOR-MAIN-BRIGHT), var(--COLOR-MAIN-DARK));

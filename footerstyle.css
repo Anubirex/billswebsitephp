@@ -244,6 +244,9 @@ footer img {
   max-width: 50%;
   height: auto;
 }
+.chat-widget{
+  font-size: 1.6rem;
+}
 /* /////////////END OF FOOTER/////////////////////////////////////*/
 @media screen and (max-width:768px) { 
 .desktop-only{
