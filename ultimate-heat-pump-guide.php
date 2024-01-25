@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Ultimate Heat Pump Guide: Selection, Efficiency & Maintenance | HVAC Essentials</title>
-    <link rel="canonical" href="https://callbillsheating.com/ultimate-heat-pump-guide.php">
+    <link rel="canonical" href="https://callbills.com/ultimate-heat-pump-guide.php">
     <meta name="description" content="Explore Heat Pumps 101: Your ultimate guide to understanding, choosing, and maintaining heat pumps for efficient home heating and cooling.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,7 +31,7 @@
     <meta property="og:title" content="Ultimate Heat Pump Guide: Selection, Efficiency & Maintenance | HVAC Essentials">
     <meta property="og:description" content="Explore Heat Pumps 101: Your ultimate guide to understanding, choosing, and maintaining heat pumps for efficient home heating and cooling.">
     <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/heat-pump-guide-social-share.webp">
-    <meta property="og:url" content="https://callbillsheating.com/ultimate-heat-pump-guide.php">
+    <meta property="og:url" content="https://callbills.com/ultimate-heat-pump-guide.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">

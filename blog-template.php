@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Blog Page</title>
-    <link rel="canonical" href="https://callbillsheating.com/blog-template.php">
+    <link rel="canonical" href="https://callbills.com/blog-template.php">
     <meta name="description" content="Description for blog page">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,7 +31,7 @@
     <meta property="og:title" content="Bill's Heating & A/C | Blog Page">
     <meta property="og:description" content="Description for blog page">
     <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/ac-main-social-share.webp">
-    <meta property="og:url" content="https://callbillsheating.com/blog-template.php">
+    <meta property="og:url" content="https://callbills.com/blog-template.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
@@ -62,7 +62,7 @@
           "dateModified": "2023-03-01",
           "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "https://callbillsheating.com/blog/efficient-heating-systems"
+            "@id": "https://callbills.com/blog/efficient-heating-systems"
           },
           "description": "This blog post discusses the various efficient heating systems for your home, including their benefits and installation tips."
         }

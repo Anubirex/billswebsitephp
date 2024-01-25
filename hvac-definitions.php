@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | HVAC Definitions</title>
-    <link rel="canonical" href="https://callbillsheating.com/hvac-definitions.php">
+    <link rel="canonical" href="https://callbills.com/hvac-definitions.php">
     <meta name="description" content="Explore our comprehensive HVAC glossary for clear, concise definitions of key terms and concepts in heating, ventilation, and air conditioning. Perfect for professionals and enthusiasts alike.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,7 +31,7 @@
     <meta property="og:title" content="Bill's Heating & A/C | HVAC Definitions">
     <meta property="og:description" content="Explore our comprehensive HVAC glossary for clear, concise definitions of key terms and concepts in heating, ventilation, and air conditioning. Perfect for professionals and enthusiasts alike.">
     <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/definitions-social-share.webp">
-    <meta property="og:url" content="https://callbillsheating.com/hvac-definitions.php">
+    <meta property="og:url" content="https://callbills.com/hvac-definitions.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">

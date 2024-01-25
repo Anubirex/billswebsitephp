@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Top Ductless Installation</title>
-    <link rel="canonical" href="https://callbillsheating.com/ductlessinstall.php">
+    <link rel="canonical" href="https://callbills.com/ductlessinstall.php">
     <meta name="description" content="Opt for Bill's Heating and AC: Expert ductless heat pump installation with Lowest Price Guarantee. Free estimates, flexible financing, and swift service">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -44,7 +44,7 @@
     <meta property="og:title" content="Bill's Heating & A/C | Top Ductless Installation">
     <meta property="og:description" content="Opt for Bill's Heating and AC: Expert ductless heat pump installation with Lowest Price Guarantee. Free estimates, flexible financing, and swift service">
     <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/ductless-install-social-share.webp">
-    <meta property="og:url" content="https://callbillsheating.com/ductlessinstall.php">
+    <meta property="og:url" content="https://callbills.com/ductlessinstall.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
@@ -59,8 +59,8 @@
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
         "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
-        "@id": "https://callbillsheating.com/",
-        "url": "https://callbillsheating.com",
+        "@id": "https://callbills.com/",
+        "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
         "priceRange": "$$",
         "address": {

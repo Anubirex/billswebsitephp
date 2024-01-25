@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Coeur d'Alene, Idaho</title>
-    <link rel="canonical" href="https://callbillsheating.com/cda.php">
+    <link rel="canonical" href="https://callbills.com/cda.php">
     <meta name="description" content="Bill's Heating & A/C in Coeur d'Alene: Superior HVAC for all seasons. No travel fees, $79 diagnostics, free estimates. Reliable, efficient, local service">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -45,7 +45,7 @@
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Coeur d'Alene, Idaho">
     <meta property="og:description" content="Bill's Heating & A/C in Coeur d'Alene: Superior HVAC for all seasons. No travel fees, $79 diagnostics, free estimates. Reliable, efficient, local service">
     <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/cda-social-share.webp">
-    <meta property="og:url" content="https://callbillsheating.com/cda.php">
+    <meta property="og:url" content="https://callbills.com/cda.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
@@ -60,8 +60,8 @@
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
         "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
-        "@id": "https://callbillsheating.com/",
-        "url": "https://callbillsheating.com",
+        "@id": "https://callbills.com/",
+        "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
         "priceRange": "$$",
         "address": {

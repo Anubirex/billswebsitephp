@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Sandpoint, Idaho</title>
-    <link rel="canonical" href="https://callbillsheating.com/sandpoint.php">
+    <link rel="canonical" href="https://callbills.com/sandpoint.php">
     <meta name="description" content="Bill's Heating & A/C in Sandpoint, ID: Specialized HVAC for all climates. Custom comfort solutions, no travel fees, $79 diagnostics, high satisfaction.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -44,7 +44,7 @@
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Sandpoint, Idaho">
     <meta property="og:description" content="Bill's Heating & A/C in Sandpoint, ID: Specialized HVAC for all climates. Custom comfort solutions, no travel fees, $79 diagnostics, high satisfaction.">
     <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/sandpoint-social-share.webp">
-    <meta property="og:url" content="https://callbillsheating.com/sandpoint.php">
+    <meta property="og:url" content="https://callbills.com/sandpoint.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
@@ -59,8 +59,8 @@
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
         "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
-        "@id": "https://callbillsheating.com/",
-        "url": "https://callbillsheating.com",
+        "@id": "https://callbills.com/",
+        "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
         "priceRange": "$$",
         "address": {

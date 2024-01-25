@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | AC Tune-ups</title>
-    <link rel="canonical" href="https://callbillsheating.com/actune.php">
+    <link rel="canonical" href="https://callbills.com/actune.php">
     <meta name="description" content="Get expert AC tune-ups with Bill's Heating and AC. Ensure efficiency and comfort with our specialized maintenance services. Over 3000 five-star reviews.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,7 +31,7 @@
     <meta property="og:title" content="Bill's Heating & A/C | AC Tune-ups">
     <meta property="og:description" content="Get expert AC tune-ups with Bill's Heating and AC. Ensure efficiency and comfort with our specialized maintenance services. Over 3000 five-star reviews.">
     <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/ac-main-social-share.webp">
-    <meta property="og:url" content="https://callbillsheating.com/actune.php">
+    <meta property="og:url" content="https://callbills.com/actune.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
@@ -46,8 +46,8 @@
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
         "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
-        "@id": "https://callbillsheating.com/",
-        "url": "https://callbillsheating.com",
+        "@id": "https://callbills.com/",
+        "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
         "priceRange": "$$",
         "address": {
