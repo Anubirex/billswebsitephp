@@ -176,7 +176,7 @@
             </div>
             <div class="landing-header-right">
                 <p>Call us 24/7 for Immediate Service</p>
-                <a href="tel:+12087775528" class="landing-phone">208-777-5528</a>
+                <a href="tel:+12082695159" class="landing-phone">208-269-5159</a>
             </div>
         </header>
         <section class="landing-hero">
@@ -430,7 +430,7 @@
                 <div class="get-started-image" data-animation="zoom-in-left"><img src="images/truck-transparent-bg.webp" loading="lazy" alt="bills truck" width="571" height="347"></div>
             <div class="lets-get-started" data-animation="zoom-in-right">
                 <h2>Lets Get Started!</h2>
-                <a href="tel:+12087775528"><button type="button" class="call-us-button">Call Us</button></a>
+                <a href="tel:+12082695159"><button type="button" class="call-us-button">Call Us</button></a>
                 <a href="#"><button type="button" class="schedule-service-button open-form-button" id="estimateButton">Get An Estimate</button></a>
                 <p>Contact Bill&apos;s Heating & A/C, your local HVAC experts, today for estimates, repairs, and service in the greater Spokane or Coeur d&apos; Alene area as well as the Lewiston, Clarkston, Moscow, Pullman, and surrounding areas.</p>
             </div>
@@ -441,6 +441,7 @@
         <script defer src="scripts/search.js"></script>
         <script defer src="scripts/cc.js"></script>
         <script defer src="scripts/forms.js"></script>
+        <script defer src="scripts/reviews.js"></script>
         <!--Chat Widget-->
         <script defer src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"></script>
 </body>

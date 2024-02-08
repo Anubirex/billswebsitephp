@@ -177,9 +177,21 @@
     <section class="learning-intro">
         <div class="learning-intro-title width-limiter"><h2>Introduction to Your HVAC System:</h2></div>
         <div class="learning-cards">
-            <div class="learning-card"><h2>Heat 101</h2></div>
-            <div class="learning-card"><h2>AC 101</h2></div>
-            <div class="learning-card"><h2>Heat Pumps 101</h2></div>
+            <a class="learning-card" href="home-heating-with-furnaces.php">
+              <h2>Understanding Furnaces</h2>
+              <p>Exploring Functions, Mechanics, and Selection Strategies</p>
+              <img src="images\furnace-guide-furnaces.webp" width="1200" height="675" alt="3 furnaces in an abstract scene">
+            </a>
+            <a class="learning-card" href="guide-to-air-conditioners.php">
+              <h2>Guide To Air Conditioners</h2>
+              <p>Understanding, Selecting, and Maintaining Your Way to a Cooler Home</p>
+              <img src="images\guide-to-ac-hero.webp" width="1200" height="675" alt="An air conditioning condenser with refrigerant gauges on it.">
+            </a>
+            <a class="learning-card" href="ultimate-heat-pump-guide.php">
+              <h2>Heat Pump Guide</h2>
+              <p>Selection, Efficiency & Maintenance</p>
+              <img src="images\heat-pump-guide-equipment.webp" width="1200" height="675" alt="a collection of heat pump equipment">
+            </a>
             <div class="learning-card"><h2>Ductless-101</h2></div>
             <div class="learning-card"><h2>Equipment Guide</h2></div>
         </div>
