@@ -174,12 +174,13 @@ body, button {
     padding-bottom: 2rem;
     color: var(--COLOR-MAIN-DARK);
 }
-.blog-section h3{
+.blog-section h3 {
   font-size: 1.8rem;
   padding:2rem 0;
   color: #4c4c4c;
 }
-.blog-section img{
+.blog-section img,
+.blog-intro img {
     margin: 2rem 0 1rem 0;
     width: 100%;
     height: auto;
@@ -284,4 +285,27 @@ dd {
 .alphabet-navigation a:focus {
   background-color: var(--COLOR-HIGHLIGHT-BRIGHT);
   color: #000; 
+}
+.in-article-list{
+  padding: 1rem 0;
+}
+.in-article-list li {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  color: #333;
+  padding: 0 2rem;
+}
+.in-article-list ul {
+  list-style-type:none;
+  text-align: left;
+  padding-left: 0; 
+  list-style-type: none; 
+}
+.in-article-list span {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem;
+  text-decoration: underline;
+  font-weight: bolder;
+  color: var(--COLOR-MAIN-DARK);
 }

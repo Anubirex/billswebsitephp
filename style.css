@@ -748,8 +748,9 @@ header .schedule-service-button{
 .form-overlay {
   display: none;
   position: fixed;
-  left: 30%;
-  top: 16%;
+  left: 50%;
+  top: 52%;
+  transform: translate(-50%, -50%);
   width: 700px;
   min-height: 650px;
   background-image: linear-gradient(to bottom, var(--COLOR-MAIN-DARK), var(--COLOR-MAIN-BRIGHT));
@@ -761,7 +762,7 @@ header .schedule-service-button{
 .body-form-overlay {
   display: none;
   position: fixed;
-  top: 52.25%;
+  top: 52%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 350px;
@@ -1798,6 +1799,7 @@ footer img {
 }
 .review-source{
   font-family: 'Poppins', sans-serif;
+  font-size: 1.6rem;
 }
 .carousel-arrow {
   stroke-width: 8px;
@@ -2184,17 +2186,17 @@ padding:0 5rem;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-color: #486a86;
+  background-image: linear-gradient(var(--COLOR-MAIN-DARK), var(--COLOR-MAIN-BRIGHT));
   padding: 3rem 0;
 }
 .learning-hero h2 {
-  color: #ead422;
+  color: white;
   text-shadow: 1px 1px 3px black;
   font-size: 4rem;
   padding: .5rem 0;
 }
 .learning-hero p {
-  color: #dea724;
+  color: white;
   text-shadow: 1px 1px 3px black;
   font-size: 2rem;
   padding-bottom: 1.5rem;
@@ -2205,15 +2207,15 @@ padding:0 5rem;
 }
 .learning-intro {
   padding-bottom: 3rem;
-  background-color: #2c8ddb;
+  background-color: var(--COLOR-MAIN-BRIGHT);
 }
 .learning-intro-title h2 {
-  color: gold;
-  text-shadow: 1px 1px 3px black;
+  color: var(--COLOR-HIGHLIGHT-BRIGHT);
+  text-shadow: 2px 2px 2px black;
   font-size: 4rem;
   padding-bottom: 3rem;
   padding-top: 1rem;
-  text-align: left;
+  text-align: center;
 }
 .learning-cards {
   display: flex; 
@@ -2222,23 +2224,30 @@ padding:0 5rem;
   justify-content: center;
   gap: 1rem;
   margin: auto;
-  width: 1200px;
+  max-width: 1200px;
 }
 .learning-cards h2 {
   font-size: 2.5rem;
   padding: 1rem;
 }
 .learning-card {
-  color: #ead422;
-  text-shadow: 2px 2px 3px black;
+  color: var(--COLOR-MAIN-DARK);
+  text-align: center;
   flex: 0 0 30%;
   min-width: 200px;
   height: 300px;
-  background-color: #db2d28;
-  border-radius: 8px;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  background-color: white;
+  border-radius: 8px; 
+  padding: .5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 2px solid #ccc;
+  text-decoration: none;
+  box-shadow: 2px 2px 5px black;
+}
+.learning-card p{
+  color: #333;
 }
 .learning-card:hover {
   background-blend-mode: multiply;
@@ -2246,23 +2255,30 @@ padding:0 5rem;
   transform: scale(1.05);
   cursor: pointer;
 }
+.learning-card img{
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
 .learning-blog {
   display: flex;
   flex-direction: column;
   padding-bottom: 5rem;
-  background: #9f161c;
+  background: white;
 }
 .more-learning h2 {
   font-size: 5rem;
-  color: #ead422;
-  text-shadow: 1px 1px 3px black;
+  color: var(--COLOR-MAIN-DARK);
   padding-bottom: 3rem;
+  text-align: center;
+  padding-top: 3rem;
 }
 .blog-lat-carousel-container,
 .blog-pop-carousel-container {
   display: flex;
   align-items: center;
   flex-direction: column;
+  padding-top: 3rem;
 }
 .learn-blog-lat-title,
 .learn-blog-pop-title {
@@ -2273,7 +2289,8 @@ padding:0 5rem;
 .learn-blog-pop-title h2 {
   padding-bottom: 2rem;
   font-size: 3rem;
-  color: #2c8ddb;
+  color: var(--COLOR-SECONDARY-DARK);
+  text-align: center;
 }
 .learn-blog-lat-carousel,
 .learn-blog-pop-carousel {
@@ -2289,13 +2306,14 @@ padding:0 5rem;
   transition: transform 0.5s ease;
   margin: 0;
   padding: 0;
-  background: #486a86;
+  background: var(--COLOR-MAIN-DARK);
 }
 .blog-post-latest h2,
 .blog-post-popular h2 {
   font-size: 2rem;
-  color: #dea724;
+  color: white;
   padding: 1rem;
+  text-align: center;
 }
 .latest-carousel-buttons,
 .pop-carousel-buttons {

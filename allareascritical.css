@@ -575,6 +575,7 @@ color: var(--COLOR-SECONDARY-DARK);
 }
 .review-source{
   font-family: 'Poppins', sans-serif;
+  font-size: 1.6rem;
 }
 .carousel-arrow {
   stroke-width: 8px;
