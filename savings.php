@@ -173,12 +173,18 @@
         <section class="savings-current-promotion-outer">
             <div class="savings-current-promotion width-limiter">
                 <div>
-                    <h2>Current Promotion</h2>
-                    <p>We apologize, but our previous promotion has just ended. Be sure to check back soon, as we'll surely be launching a new promotion in the near future. In the meantime, you can still save money on your purchase by taking advantage of our guaranteed lowest prices. Don't forget to explore the available tax credits and rebates listed below to maximize your savings.
+                <h2>0% interest for 5 years offer available on approved credit.</h2>
+                    <p>
+                      <br><br>* Limited time offer. Bill&apos;s Heating &amp; A/C reserves the right to cancel or limit promotion at any time.
+                      <br>** Subject to credit check and approval. Financing offered through pre&dash;selected third&dash;party finance
+                      companies, and subject to review and approval of customer&apos;s credit.
+                      <br>*** Offer is limited to replacement of qualifying residential equipment &#40;furnaces, air conditioners and
+                      heat pumps&#41;. Does not include commercial equipment, new construction, plumbing or electrical
+                      equipment
                     <br><br>
-                    <a href="#">Click Here</a> to read official contest rules</p>
+                    <!--<a href="#">Click Here</a> to read official contest rules</p> --> 
                 </div>
-                <img src="/images/Nov2023AdSmall.webp">
+                <img src="images\feb-financing-offer.webp" alt="zero percent financing at Bill's Heating" height="1080" width="1080">
             </div>
         </section>
         <div class="standalone-headline">More Ways To Save</div>
