@@ -402,7 +402,7 @@
             <img src="images/receptionist.webp" alt="A smiling receptionist" loading="lazy" width="300" height="196">
             <p>A customer service representive will reach out to you within 24 hours to schedule your apointment.</p>
             <h2 class="sidebar-special">Our Current Special</h2>
-            <img class="sidebar-special" src="images/Nov2023AdSmall.webp" alt="an advertisement for a free heat pump" loading="lazy" width="400" height="400">
+            <img class="sidebar-special" src="images\feb-financing-offer-small.webp" alt="an advertisement for a 0% financing for 5 years" loading="lazy" width="400" height="400">
           </div>
         <form class="form-container ajax-form" method="post">
           <div class="request-form-headline"><h3>Schedule Your FREE Estimate!</h3></div>
