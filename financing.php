@@ -176,7 +176,7 @@
     <h2 class="standalone-headline">Our Currently Offered Plans</h2>
     <section>
         <div class="financing-cards">
-            <img src="images\synchrony-logo.webp">
+        <img src="images\synchrony-logo.webp" alt="Synchrony Bank Logo" width="500" height="109">
             <div class="financing-card featured-financing-plan">
                 <p class="financing-plan-number"><strong>Plan 924</strong></p>
                 <p class="financing-plan-description">No Monthly Interest if Paid in Full within 18 Months.<span> Fixed monthly payments of 2.50&percnt; of the promo purchase balance.</span></p>

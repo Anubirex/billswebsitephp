@@ -172,7 +172,7 @@
     <section class="furnace-hero">
         <div class="furnace-hero-container width-limiter">
             <div class="furnace-hero-content">
-                <h2 class="furnace-hero-content-headline ac-directory-headline">Ductless Services</h2><h2>At Bill&apos;s Heating and AC</h2>
+            <h1 class="furnace-hero-content-headline ac-directory-headline">Ductless Services</h1><h1>At Bill&apos;s Heating and AC</h1>
                 <p>Welcome to Bill&apos;s Heating and AC, where we prioritize your comfort year&dash;round. We specialize in providing top&dash;quality, affordable ductless heat pump solutions. Our team of expert technicians is renowned for their skill and reliability in offering the best in ductless heat pump installation and maintenance. We are more than just an HVAC company&semi; we&apos;re your local partners committed to ensuring efficient heating and cooling in your home.</p>
             </div>
             <div class="furnace-hero-img">

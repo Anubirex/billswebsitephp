@@ -172,7 +172,7 @@
     <section class="furnace-hero">
         <div class="furnace-hero-container width-limiter">
             <div class="furnace-hero-content">
-                <h2 class="furnace-hero-content-headline ac-directory-headline">Air Conditioning</h2><h2>At Bill&apos;s Heating and AC</h2>
+            <h1 class="furnace-hero-content-headline ac-directory-headline">Air Conditioning</h1><h1>At Bill&apos;s Heating and AC</h1>
                 <p>Welcome to Bill&apos;s Heating and AC, where your comfort is our top priority. We specialize in providing high&dash;quality, affordable air conditioning solutions. Our team of expert technicians, known for their skill and reliability, is dedicated to offering you the best in cooling system installation and maintenance. We&apos;re not just another HVAC company&semi; we&apos;re your local partners in ensuring a cool, comfortable environment in your home.</p>
             </div>
             <!-- Hero IMG NEEDS optimized, -30% performance from just the one img -->

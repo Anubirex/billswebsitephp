@@ -174,7 +174,7 @@
             <div class="news-rebates-track width-limiter">
                 <div class="news-card">
                     <div class="news-card-img">
-                        <img src="images/Energy-Star-Logo.webp">
+                    <img src="images/Energy-Star-Logo.webp" alt="The energy star Logo">
                     </div>
                     <div class="news-card-text">
                         <h2>Air Source Heat Pumps Tax Credit</h2>
@@ -184,7 +184,7 @@
                 </div>
                 <div class="news-card">
                     <div class="news-card-img">
-                        <img src="images/Inflation-Reduction-Act.webp">
+                    <img src="images/Inflation-Reduction-Act.webp" alt="a pamphlet that readds Inflation Reduction Act on an American flag">
                     </div>
                     <div class="news-card-text">
                         <h2>The Inflation Reduction Act of 2022</h2>
@@ -194,7 +194,7 @@
                 </div>
                 <div class="news-card">
                     <div class="news-card-img">
-                        <img src="images/house-news.webp">
+                    <img src="images/house-news.webp" alt="a house surrounded by trees, representing green energy. Calculators and thermostats are in the picture representing tax savings.">
                     </div>
                     <div class="news-card-text">
                         <h2>Get Federal Tax Savings and Other Rebates for Energy Efficiency Home Upgrades</h2>
@@ -211,7 +211,7 @@
             <div class="news-general-track width-limiter">
                 <div class="news-card">
                     <div class="news-card-img">
-                        <img src="images/refrigeration-article.webp">
+                    <img src="images/refrigeration-article.webp" alt="A heat pump technician is looking at refrigerant guages hooked to a heat pump.">
                     </div>
                     <div class="news-card-text">
                         <h2>Refrigerant Sell-Through Period Extended</h2>
@@ -221,7 +221,7 @@
                 </div>
                 <div class="news-card">
                     <div class="news-card-img">
-                        <img src="images/Modine-Amp-Dawg.webp">
+                    <img src="images/Modine-Amp-Dawg.webp" alt="a Modine brand Am Dawg unit heater.">
                     </div>
                     <div class="news-card-text">
                         <h2>Modine Introduces the Amp Dawg™ Electric Residential Unit Heater</h2>
@@ -231,7 +231,7 @@
                 </div>
                 <div class="news-card">
                     <div class="news-card-img">
-                        <img src="images/refrig-removal.webp">
+                    <img src="images/refrig-removal.webp" alt="A group of people recycle refrigerant using a large machine in a room">
                     </div>
                     <div class="news-card-text">
                         <h2>Huge refrigerant removal operation continues at US nuclear plant</h2>
@@ -250,7 +250,7 @@
             <div class="news-local-track width-limiter">
                 <div class="news-card">
                     <div class="news-card-img">
-                        <img src="images/supplychainissues.webp">
+                    <img src="images/supplychainissues.webp" alt="A screen capture of the news talking about HVAC supply chain issues.">
                     </div>
                     <div class="news-card-text">
                         <h2>Supply chain problems bump HVAC prices more than 80 percent</h2>
@@ -260,7 +260,7 @@
                 </div>
                 <div class="news-card">
                     <div class="news-card-img">
-                        <img src="images/energy-savings.webp">
+                    <img src="images/energy-savings.webp" alt="a line graph with a line wavering on the horizontal axis up and down.">
                     </div>
                     <div class="news-card-text">
                         <h2>Energy Savings from New HVAC with Variable Flow</h2>
@@ -270,7 +270,7 @@
                 </div>
                 <div class="news-card">
                     <div class="news-card-img">
-                        <img src="images/idbs-art-img.webp">
+                    <img src="images/idbs-art-img.webp" alt="An image looking up through the trusses of an unfinished house.">
                     </div>
                     <div class="news-card-text">
                         <h2>Idaho building officials could make major cutbacks to energy code</h2>

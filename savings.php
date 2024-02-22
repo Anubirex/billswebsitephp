@@ -193,7 +193,7 @@
             <div class="news-rebates-track width-limiter">
                 <div class="news-card">
                     <div class="news-card-img">
-                        <img src="images/Energy-Star-Logo.webp">
+                    <img src="images/Energy-Star-Logo.webp" alt="The energy star Logo">
                     </div>
                     <div class="news-card-text">
                         <h2>Air Source Heat Pumps Tax Credit</h2>
@@ -203,7 +203,7 @@
                 </div>
                 <div class="news-card">
                     <div class="news-card-img">
-                        <img src="images/Inflation-Reduction-Act.webp">
+                    <img src="images/Inflation-Reduction-Act.webp" alt="a pamphlet that readds Inflation Reduction Act on an American flag">
                     </div>
                     <div class="news-card-text">
                         <h2>The Inflation Reduction Act of 2022</h2>
@@ -213,7 +213,7 @@
                 </div>
                 <div class="news-card">
                     <div class="news-card-img">
-                        <img src="images/house-news.webp">
+                    <img src="images/house-news.webp" alt="a house surrounded by trees, representing green energy. Calculators and thermostats are in the picture representing tax savings.">
                     </div>
                     <div class="news-card-text">
                         <h2>Get Federal Tax Savings and Other Rebates for Energy Efficiency Home Upgrades</h2>

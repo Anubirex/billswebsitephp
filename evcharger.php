@@ -288,7 +288,7 @@
           </section>
           <div class="ev-devider">
             <h2>We Proudly Supply</h2>
-            <img src="images/ChargePoint_logo.webp" loading="lazy" width="882" height="241">
+            <img src="images/ChargePoint_logo.webp" alt="Chargepoint Logo"  loading="lazy" width="882" height="241">
             <h2>EV Chargers</h2>
           </div>
           <section class="whats-next-section">

@@ -174,7 +174,7 @@
     <section class="hero-outer">
           <div class="hero width-limiter">
             <div class="hero-body">
-              <h2>THE #1 HEATING AND COOLING CONTRACTOR IN THE NORTHWEST!</h2>
+            <h1>THE #1 HEATING AND COOLING CONTRACTOR IN THE NORTHWEST!</h1>
               <p>Full service HVAC, Plumbing, and Electric Company, serving Northern Idaho and Eastern Washington. <br>
                 We offer a lowest price guarentee as well as free second opinions.</p>
               <button type="button" class="schedule-service-button hero-button open-form-button" id="openFormButton">Get a Free Estimate Now!</button>
