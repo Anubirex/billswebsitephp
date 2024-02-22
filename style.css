@@ -3450,6 +3450,7 @@ font-size: 4rem;
 }
 .savings-current-promotion img{
   width: clamp(350px, 97%, 500px);
+  height: auto;
   box-shadow: 2px 2px 5px black;
 }
 .savings-current-promotion a{
