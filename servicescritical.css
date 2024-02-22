@@ -67,7 +67,7 @@
     font-size: 6rem;
     color: var(--COLOR-HIGHLIGHT-BRIGHT);
   }
-  .furnace-hero-content-headline + h2{
+  .furnace-hero-content-headline + h1 {
     font-size: 4.4rem;
     color: var(--COLOR-HIGHLIGHT-BRIGHT);
   }

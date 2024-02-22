@@ -174,7 +174,7 @@
     <section class="furnace-hero">
         <div class="furnace-hero-container width-limiter">
             <div class="furnace-hero-content">
-                <h2 class="furnace-hero-content-headline">Furnace Services</h2><h2>At Bill&apos;s Heating and AC</h2>
+            <h1 class="furnace-hero-content-headline">Furnace Services</h1><h1>At Bill&apos;s Heating and AC</h1>
                 <p>Welcome to Bill&apos;s Heating and AC, Your Ultimate Furnace Solution! At the core of our services
                     is a commitment to excellence, offering unmatched quality, affordability, and customer
                     satisfaction in furnace services. Specializing in top-tier furnace brands backed by our Lowest

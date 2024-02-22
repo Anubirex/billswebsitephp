@@ -114,7 +114,7 @@
             <section class="services-hero">
               <div class="furnace-hero-container width-limiter">
                   <div class="furnace-hero-content">
-                      <h2 class="furnace-hero-content-headline ac-directory-headline">HVAC Services</h2><h2>At Bill&apos;s Heating and AC</h2>
+                  <h1 class="furnace-hero-content-headline ac-directory-headline">HVAC Services</h1><h1>At Bill&apos;s Heating and AC</h1>
                       <p>Welcome to Bill&apos;s Heating & A/C, where our 33+ years of dedication have made us a cornerstone in the HVAC industry across Northern Idaho and Eastern Washington. With a legacy spanning over three decades, we take pride in having earned the trust and loyalty of our community, reflected in our 3000+ five-star reviews. Our unwavering commitment to excellence drives us to deliver unparalleled service, as we strive to be the #1 HVAC company in the Northwest. Experience the difference with our expert team, where quality, reliability, and customer satisfaction are not just promises, but the foundation of our enduring reputation.</p>
                   </div>
                   <div class="furnace-hero-img">

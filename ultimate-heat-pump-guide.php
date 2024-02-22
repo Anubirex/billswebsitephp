@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Ultimate Heat Pump Guide: Selection, Efficiency & Maintenance | HVAC Essentials</title>
+    <title>Ultimate Heat Pump Guide: Selection & Maintenance</title>
     <link rel="canonical" href="https://callbills.com/ultimate-heat-pump-guide.php">
     <meta name="description" content="Explore Heat Pumps 101: Your ultimate guide to understanding, choosing, and maintaining heat pumps for efficient home heating and cooling.">
     <meta name="robots" content="index, follow">
@@ -28,14 +28,14 @@
     <!-- End Google Tag Manager -->
 
     <!-- Open Graph and Twitter Cards -->
-    <meta property="og:title" content="Ultimate Heat Pump Guide: Selection, Efficiency & Maintenance | HVAC Essentials">
+    <meta property="og:title" content="Ultimate Heat Pump Guide: Selection & Maintenance">
     <meta property="og:description" content="Explore Heat Pumps 101: Your ultimate guide to understanding, choosing, and maintaining heat pumps for efficient home heating and cooling.">
     <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/heat-pump-guide-social-share.webp">
     <meta property="og:url" content="https://callbills.com/ultimate-heat-pump-guide.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
-    <meta name="twitter:title" content="Ultimate Heat Pump Guide: Selection, Efficiency & Maintenance | HVAC Essentials">
+    <meta name="twitter:title" content="Ultimate Heat Pump Guide: Selection & Maintenance">
     <meta name="twitter:description" content="Explore Heat Pumps 101: Your ultimate guide to understanding, choosing, and maintaining heat pumps for efficient home heating and cooling.">
     <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/heat-pump-guide-summary-large-image.webp">
 
@@ -44,7 +44,7 @@
         {
           "@context": "https://schema.org",
           "@type": "BlogPosting",
-          "headline": "The Ultimate Guide to Efficient Heating Systems",
+          "headline": "Ultimate Heat Pump Guide: Selection & Maintenance",
           "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/heat-pump-guide-equipment.webp",
           "author": {
             "@type": "Organization",

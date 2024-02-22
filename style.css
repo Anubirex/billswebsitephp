@@ -1355,7 +1355,7 @@ footer img {
   padding: 5rem;
   flex: 1; 
 }
-.hero h2 {
+.hero h1 {
   color: var(--COLOR-HIGHLIGHT-BRIGHT);
   font-size: 5rem;
   margin-bottom: 4rem;
@@ -3668,7 +3668,7 @@ font-size: 4rem;
       padding: 0;
       text-align: center;
     }
-    .hero h2 {
+    .hero h1 {
       font-size: 3.5rem;
     }
     .hero-img img {
@@ -3828,7 +3828,7 @@ font-size: 4rem;
       .hero-outer{
         background-size: cover;
       }
-      .hero h2 {
+      .hero h1 {
         font-size: 3.8rem;
       }
       .right-aligned-solo{
@@ -3912,7 +3912,7 @@ font-size: 4rem;
       .get-started{
         align-items: center;
       }
-      .hero h2 {
+      .hero h1 {
         font-size: 4rem;
       }
       .service-areas-hero p{

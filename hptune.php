@@ -160,7 +160,7 @@
     <div class="diag-page-section-one">
         <div class="diag-page-inner-section-one hero width-limiter">
             <div>
-              <h2>Stay Comfortable Year-Round with Bill's Heating and AC Heat Pump Tune-Ups</h2>
+            <h1>Stay Comfortable Year-Round with Bill&apos;s Heating and AC Heat Pump Tune&dash;Ups</h1>
               <p>Experience the Best in Heat Pump Tune&dash;Ups! Over 3000 Five&dash;Star Reviews</p> 
               <button class="schedule-service-button open-form-button">Schedule Service</button>
             </div>
@@ -171,7 +171,7 @@
     <section class="areas-local-needs furn-inst-expect-section">
         <div class="local-needs-container width-limiter red-title">
             <div class="local-needs-text">
-              <h2 id="furn-install-what-to-expect">What is a Heat Pump Tune-Up?</h2>
+            <h2 id="furn-install-what-to-expect">What is a Heat Pump Tune&dash;Up?</h2>
               <p class="bottom-padding">A heat pump tune&dash;up is a detailed maintenance service conducted by HVAC professionals. It includes a comprehensive check and servicing of your heat pump to ensure optimal efficiency, safety, and performance. During a tune&dash;up, technicians clean components, check refrigerant levels, inspect electrical connections, test the thermostat, evaluate the defrost cycle, and perform other crucial maintenance tasks. Regular tune&dash;ups not only extend the lifespan of your heat pump but also improve its heating and cooling capabilities.</p>
               <h2 id="furn-install-what-to-expect">Why Choose Bill&apos;s Heating and AC for Your Heat Pump Tune&dash;Up?</h2>
                 <p>Bill&apos;s Heating and AC, with a reputation backed by over 3000 five&dash;star reviews, is the leading provider of heat pump tune&dash;ups in our area. Our team of experienced HVAC technicians is committed to delivering exceptional service and detailed care in each tune&dash;up. Using the latest tools and techniques, we ensure your heat pump is in peak condition, reinforcing our strong dedication to customer satisfaction and high&dash;quality service.</p>

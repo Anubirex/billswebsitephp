@@ -172,7 +172,7 @@
     <section class="furnace-hero">
         <div class="furnace-hero-container width-limiter">
             <div class="furnace-hero-content">
-                <h2 class="furnace-hero-content-headline generac-headline">Generac Generators</h2><h2>At Bill&apos;s Heating and AC</h2>
+            <h1 class="furnace-hero-content-headline generac-headline">Generac Generators</h1><h1>At Bill&apos;s Heating and AC</h1>
                 <p>Welcome to Bill&apos;s Heating and AC, your trusted provider of Generac whole-home standby generators. We specialize in the sales and installation of top-tier 22kw and 24kw Generac generators, designed to provide seamless, automatic power backup during outages. Protect your home and family with our reliable and efficient Generac generators, ensuring peace of mind no matter the weather.</p>
             </div>
             <div class="furnace-hero-img">

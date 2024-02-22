@@ -159,7 +159,7 @@
     <div class="diag-page-section-one">
         <div class="diag-page-inner-section-one hero width-limiter">
             <div>
-              <h2>Stay Cool and Worry&dash;Free This Summer with Bill&apos;s Heating and AC</h2>
+            <h1>Stay Cool and Worry&dash;Free This Summer with Bill&apos;s Heating and AC</h1>
               <p>Experience the Best in Air Conditioner Tune&dash;Ups! Over 3000 Five&dash;Star Reviews</p> 
               <button class="schedule-service-button open-form-button">Schedule Service</button>
             </div>

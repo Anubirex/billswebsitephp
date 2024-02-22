@@ -172,7 +172,7 @@
         <section class="furnace-hero">
         <div class="furnace-hero-container width-limiter">
             <div class="furnace-hero-content">
-                <h2 class="furnace-hero-content-headline ac-directory-headline">Tankless Services</h2><h2>At Bill&apos;s Heating and AC</h2>
+            <h1 class="furnace-hero-content-headline ac-directory-headline">Tankless Services</h1><h1>At Bill&apos;s Heating and AC</h1>
                 <p>Welcome to Bill&apos;s Heating and AC, where we are dedicated to providing you with cutting&dash;edge, energy&dash;efficient tankless water heater solutions. Our team of skilled technicians specializes in offering the best in tankless water heater installation and maintenance. We are more than just an HVAC company&semi; we're your local experts committed to ensuring you have access to endless hot water in your home.</p>
             </div>
             <div class="furnace-hero-img">
