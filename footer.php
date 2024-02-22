@@ -14,7 +14,7 @@
                     <li><a href="services.php">Services</a></li>
                     <li><a href="areas.php">Service Areas</a></li>
                     <li><a href="products.php">Products</a></li>
-                    <li><a href="learning.php">Learning Hub</a></li>
+                    <li><a href="learninghub.php">Learning Hub</a></li>
                     <li><a href="financing.php">Financing</a></li>
                     <li><a href="savings.php">Savings</a></li>
                     <li><a href="story.php">About Us</a></li>

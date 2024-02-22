@@ -5,7 +5,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Services</title>
-    <link rel="canonical" href="https://callbills.com/">
+    <link rel="canonical" href="https://callbills.com/services.php">
     <meta name="description" content="Full service heating and air conditioning company serving North Idaho and Eastern Washington. Lowest prices Guaranteed on all installs!">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -135,7 +135,7 @@
             </div>
             <div id="servTab1" class="serv-tab-displayed width-limiter">
                 <a class="serv-tab-content" href="furnaceinstall.php">
-                    <h3>Furnace Install:</h3>
+                    <h3>Furnace Install</h3>
                     <p>Furnace installation is the process of setting up a new heating system in a home or building, ensuring that residents have a reliable and efficient source of warmth.
                         The process begins with selecting the appropriate furnace type and size, considering factors such as the building's size, insulation, and heating needs.
                         Skilled technicians then safely remove any existing heating system and prepare the area for the new furnace, including ensuring proper ventilation and gas or electrical connections.
@@ -143,7 +143,7 @@
                         Finally, technicians conduct thorough testing and calibration of the furnace to ensure optimal performance and safety, and provide homeowners with guidance on operation and maintenance.<br><span>-Click Here to Find Out More-</span></p>
                 </a>
                 <a class="serv-tab-content" href="furnacediag.php">
-                    <h3>Furnace Diagnostics:</h3>
+                    <h3>Furnace Diagnostics</h3>
                     <p>Furnace diagnostics is the process of inspecting and identifying issues within a heating system to ensure it operates efficiently and safely.
                         This involves a thorough examination by skilled technicians who assess key components such as the burner, heat exchanger, blower motor, and thermostat.
                         Advanced tools are used to detect problems like blockages, leaks, or electrical malfunctions that might be impacting the furnace's performance.
@@ -151,9 +151,9 @@
                         It's a crucial step in regular furnace maintenance, ensuring the system remains reliable, especially during the colder months when heating is essential.<br><span>-Click Here to Find Out More-</span></p>
                 </a>
                 <a class="serv-tab-content" href="furnacetune.php">
-                    <h3>Furnace Tune-Up:</h3>
-                    <p>A furnace tune-up is a comprehensive maintenance service aimed at ensuring your heating system runs efficiently and reliably.
-                        During a tune-up, skilled technicians thoroughly inspect the furnace, cleaning and adjusting components like the burner, blower motor, and heat exchanger.
+                <h3>Furnace Tune&dash;Up</h3>
+                    <p>A furnace tune&dash;up is a comprehensive maintenance service aimed at ensuring your heating system runs efficiently and reliably.
+                        During a tune&dash;up, skilled technicians thoroughly inspect the furnace, cleaning and adjusting components like the burner, blower motor, and heat exchanger.
                         They also check and replace filters, test safety controls, and ensure the thermostat is accurately calibrated and functioning properly.
                         This preventive maintenance helps identify minor issues before they turn into major repairs, thereby extending the lifespan of the furnace.
                         Regular tune-ups not only enhance furnace performance but also contribute to lower energy bills and improved indoor air quality.<br><span>-Click Here to Find Out More-</span></p>
@@ -161,7 +161,7 @@
             </div>
             <div id="servTab2" class="serv-tab-displayed width-limiter">
                 <a class="serv-tab-content" href="acinstall.php">
-                    <h3>Air Conditioning Install:</h3>
+                    <h3>Air Conditioning Install</h3>
                     <p>Air conditioning installation involves setting up a new cooling system in a home or building, essential for maintaining a comfortable indoor temperature during warmer months.
                         The process starts with choosing the right type and size of air conditioner, considering factors like the size of the space, insulation levels, and specific cooling needs.
                         Professional technicians then prepare the site, ensuring proper placement for optimal efficiency and performance, and handle the electrical and ductwork connections.
@@ -169,7 +169,7 @@
                         After installation, technicians conduct a series of tests to verify that the air conditioner is functioning correctly, providing guidance on operation and maintenance to homeowners.<br><span>-Click Here to Find Out More-</span></p>
                 </a>
                 <a class="serv-tab-content" href="acdiag.php">
-                    <h3>Air Conditioning Diagnostics:</h3>
+                    <h3>Air Conditioning Diagnostics</h3>
                     <p>Air conditioning diagnostics is a systematic process used to identify and resolve issues in an air conditioning system, ensuring it operates efficiently and effectively.
                         Technicians conduct a thorough inspection of the AC unit, examining key components such as the compressor, evaporator, condenser, and thermostat.
                         Using specialized tools, they check for common problems like refrigerant leaks, electrical issues, or blockages in the ductwork or filters.
@@ -177,17 +177,17 @@
                         Regular diagnostic checks help in maintaining optimal AC performance, prolonging the system's life, and preventing costly repairs or replacements in the future.<br><span>-Click Here to Find Out More-</span></p>
                 </a>
                 <a class="serv-tab-content" href="actune.php">
-                    <h3>Air Conditioning Tune-Up:</h3>
-                    <p>An air conditioning tune-up is a preventative maintenance service designed to keep your AC system running efficiently and reliably.
-                        During the tune-up, skilled technicians inspect and clean key components of the air conditioner, including the condenser coils, evaporator, fan, and filter.
+                <h3>Air Conditioning Tune&dash;Up</h3>
+                    <p>An air conditioning tune&dash;up is a preventative maintenance service designed to keep your AC system running efficiently and reliably.
+                        During the tune&dash;up, skilled technicians inspect and clean key components of the air conditioner, including the condenser coils, evaporator, fan, and filter.
                         They also check and refill the refrigerant levels if necessary, ensure electrical connections are secure, and verify that the thermostat is functioning correctly.
                         This process helps identify and rectify minor issues before they escalate into major problems, thereby extending the lifespan of the air conditioning system.
-                        Regular AC tune-ups not only improve the unit's performance but also contribute to energy savings and enhanced indoor air quality, particularly in hot weather conditions.<br><span>-Click Here to Find Out More-</span></p>
+                        Regular AC tune&dash;ups not only improve the unit's performance but also contribute to energy savings and enhanced indoor air quality, particularly in hot weather conditions.<br><span>-Click Here to Find Out More-</span></p>
                 </a>
             </div>
             <div id="servTab3" class="serv-tab-displayed width-limiter">
                 <a class="serv-tab-content" href="hpinstall.php">
-                    <h3>Heat Pump Install:</h3>
+                    <h3>Heat Pump Install</h3>
                     <p>Heat pump installation involves setting up a system that provides both heating and cooling for a home or building, offering an efficient, year-round climate control solution.
                         The process starts with selecting the appropriate type of heat pump and sizing it correctly based on the property's specific heating and cooling demands.
                         Professional technicians handle the installation, which includes situating the indoor and outdoor units, ensuring proper ductwork connections, and setting up electrical and control systems.
@@ -195,7 +195,7 @@
                         After installation, technicians perform thorough testing to confirm that the heat pump operates effectively in both heating and cooling modes, providing the homeowner with essential guidance on usage and maintenance.<br><span>-Click Here to Find Out More-</span></p>
                 </a>
                 <a class="serv-tab-content" href="hpdiag.php">
-                    <h3>Heat Pump Diagnostics:</h3>
+                    <h3>Heat Pump Diagnostics</h3>
                     <p>Heat pump diagnostics is a specialized process of examining and identifying potential issues in a heat pump system, essential for both heating and cooling efficiency.
                         Technicians conduct a detailed inspection of the system, focusing on components like the compressor, refrigerant levels, air handler, and thermostat controls.
                         Advanced diagnostic tools are utilized to detect problems such as leaks, electrical malfunctions, or inefficiencies in the heat exchange process.
@@ -203,8 +203,8 @@
                         Regular diagnostic checks are crucial for ensuring the heat pump operates optimally, providing reliable temperature control while minimizing energy consumption.<br><span>-Click Here to Find Out More-</span></p>
                 </a>
                 <a class="serv-tab-content" href="hptune.php">
-                    <h3>Heat Pump Tune-Up:</h3>
-                    <p>A heat pump tune-up is a comprehensive maintenance service designed to ensure the efficient and effective operation of your heat pump system throughout the year.
+                <h3>Heat Pump Tune&dash;Up</h3>
+                    <p>A heat pump tune&dash;up is a comprehensive maintenance service designed to ensure the efficient and effective operation of your heat pump system throughout the year.
                         The tune-up process involves a thorough inspection and cleaning of key components, including the indoor and outdoor coils, fan motor, and air filters.
                         Technicians check and adjust refrigerant levels as needed, inspect electrical connections, and ensure that the thermostat is properly calibrated and functioning.
                         This preventive maintenance is crucial for identifying and addressing small issues before they escalate into major problems, thus extending the lifespan of the heat pump.
@@ -213,7 +213,7 @@
             </div>
             <div id="servTab4" class="serv-tab-displayed width-limiter">
                 <a class="serv-tab-content" href="ductlessinstall.php">
-                    <h3>Ductless Install:</h3>
+                    <h3>Ductless Install</h3>
                     <p>Ductless installation involves setting up a ductless heating and cooling system, also known as a mini-split system, which is ideal for spaces where traditional ducted HVAC systems are impractical or too costly to install.
                         The process begins with selecting the right size and type of ductless unit to match the specific needs of the room or area.
                         Professional technicians install an outdoor compressor unit and one or more indoor air handling units, connecting them with a small conduit that houses the power cable, refrigerant tubing, and condensate drain.
@@ -221,7 +221,7 @@
                         The installation is completed with minimal disruption to the existing structure of the property, and technicians conduct thorough testing to ensure the system operates efficiently, offering personalized climate control in each zone.<br><span>-Click Here to Find Out More-</span></p>
                 </a>
                 <a class="serv-tab-content" href="ductlessdiag.php">
-                    <h3>Ductless Diagnostics:</h3>
+                    <h3>Ductless Diagnostics</h3>
                     <p>Ductless diagnostics is a detailed process used to assess and identify issues in ductless heating and cooling systems, also known as mini-split systems.
                         During the diagnostic process, technicians meticulously examine the indoor and outdoor units, focusing on components like the compressor, air handlers, and refrigerant lines.
                         They utilize specialized tools to check for common problems such as refrigerant leaks, electrical issues, or malfunctioning controls and sensors.
@@ -229,8 +229,8 @@
                         Regular diagnostic checks help maintain the optimal performance of ductless systems, ensuring they provide effective temperature control and operate energy-efficiently.<br><span>-Click Here to Find Out More-</span></p>
                 </a>
                 <a class="serv-tab-content" href="ductlesstune.php">
-                    <h3>Ductless Tune-Up:</h3>
-                    <p>A ductless tune-up is a preventive maintenance service for ductless heating and cooling systems, also known as mini-split systems, aimed at ensuring their efficient and reliable operation.
+                <h3>Ductless Tune&dash;Up</h3>
+                    <p>A ductless tune&dash;up is a preventive maintenance service for ductless heating and cooling systems, also known as mini-split systems, aimed at ensuring their efficient and reliable operation.
                         The service includes a thorough inspection of both the indoor and outdoor units, focusing on cleaning filters, checking refrigerant levels, and ensuring the coils are free of debris.
                         Technicians also examine electrical connections, test the operation of the thermostat, and ensure that all components are functioning correctly.
                         This maintenance helps in identifying potential issues early on, preventing more significant problems and prolonging the lifespan of the system.
@@ -238,34 +238,34 @@
                 </a>
             </div>
             <div id="servTab5" class="serv-tab-displayed width-limiter">
-                <a class="serv-tab-content" href="whinstall.php">
-                    <h3>Water Heater Install:</h3>
-                    <p>Water heater installation involves setting up a new hot water system, ensuring a consistent and reliable supply of hot water for residential or commercial use.
+            <a class="serv-tab-content" href="tanklessinstall.php">
+                    <h3>Tankless Water Heater Install</h3>
+                    <p>Tankless Water heater installation involves setting up a new hot water system, ensuring a consistent and reliable supply of hot water for residential or commercial use.
                         The process begins with choosing the right type and size of water heater, based on factors like water usage, space availability, and energy efficiency preferences.
                         Skilled technicians handle the installation, which includes connecting the water heater to the water supply and drainage systems, as well as to gas or electrical lines, depending on the type of heater.
                         They ensure that the system is installed safely and complies with all local building codes and safety regulations, including proper venting for gas heaters.
                         After installation, a series of tests are conducted to ensure the water heater functions correctly, providing the end-user with guidance on operation and maintenance for optimal performance and longevity.<br><span>-Click Here to Find Out More-</span></p>
                 </a>
-                <a class="serv-tab-content" href="whdiag.php">
-                    <h3>Water Heater Diagnostics:</h3>
-                    <p>Water heater diagnostics is a systematic approach to identifying and resolving issues with a home or commercial water heating system.
+                <a class="serv-tab-content" href="tanklessdiag.php">
+                    <h3>Tankless Water Heater Diagnostics</h3>
+                    <p>Water heater diagnostics are a systematic approach to identifying and resolving issues with a home or commercial water heating system.
                         Technicians conduct a comprehensive inspection, examining elements like the heating elements, thermostat, pressure relief valves, and tank integrity in traditional water heaters, or sensors and electronics in tankless models.
                         They use specialized tools to test for common problems such as sediment build-up, corrosion, leaks, or malfunctioning heating components.
                         Accurate diagnostics are essential for pinpointing the exact causes of issues like insufficient hot water, strange noises, or leaks, leading to precise and effective repairs.
                         Regular diagnostic checks are crucial in maintaining the water heater's efficiency, prolonging its lifespan, and ensuring safe and reliable operation.<br><span>-Click Here to Find Out More-</span></p>
                 </a>
-                <a class="serv-tab-content" href="whtune.php">
-                    <h3>Water Heater Tune-Up:</h3>
-                    <p>A water heater tune-up is a preventive maintenance service aimed at ensuring the efficient and safe operation of your water heating system.
-                        The tune-up process typically includes inspecting and cleaning key components, such as the heating elements, burner (for gas heaters), and thermostat, to ensure they function properly.
-                        Technicians also check for sediment build-up in the tank, flush it if necessary, and inspect the pressure relief valve to ensure it's operating correctly.
+                <a class="serv-tab-content" href="tanklesstune.php">
+                    <h3>Tankless Water Heater Tune&dash;Up</h3>
+                    <p>A tankless water heater tune&dash;up is a preventive maintenance service aimed at ensuring the efficient and safe operation of your water heating system.
+                        The tune&dash;up process typically includes inspecting and cleaning key components, such as the heating elements, burner (for gas heaters), and thermostat, to ensure they function properly.
+                        Technicians also check for sediment build&dash;up in the tank, flush it if necessary, and inspect the pressure relief valve to ensure it's operating correctly.
                         This maintenance helps to identify potential problems early, preventing costly repairs, extending the water heater's lifespan, and maintaining energy efficiency.
                         Regular tune-ups of the water heater not only improve its performance but also enhance safety and can contribute to energy savings by ensuring the system operates at peak efficiency.<br><span>-Click Here to Find Out More-</span></p>
                 </a>
             </div>
             <div id="servTab6" class="serv-tab-displayed width-limiter">
-                <a class="serv-tab-content" href="generatorinstall.php">
-                    <h3>Generator Install:</h3>
+            <a class="serv-tab-content" href="generator.php">
+                    <h3>Generator Install</h3>
                     <p>Generator installation involves setting up a backup power system to provide electricity during outages, ensuring continuous power supply for homes or businesses.
                         The process begins with selecting the appropriate type and size of generator based on the specific power needs, considering factors like the size of the property and the essential appliances and systems that need power.
                         Professional technicians handle the installation, which includes placing the generator in a suitable location, ensuring safe and compliant fuel, electrical, and exhaust connections.
@@ -274,8 +274,8 @@
                 </a>
             </div>
             <div id="servTab7" class="serv-tab-displayed width-limiter">
-                <a class="serv-tab-content" href="evchargerinstall.php">
-                    <h3>EV Charger Install:</h3>
+            <a class="serv-tab-content" href="evcharger.php">
+                    <h3>EV Charger Install</h3>
                     <p>Electric vehicle charger installation involves setting up a charging station at a home or business to provide a convenient and efficient way to recharge electric vehicles.
                         The process includes selecting the right type of charger (Level 1, Level 2, or DC Fast Charger) based on the vehicle's requirements and the owner's charging needs, considering factors like charging speed and frequency of use.
                         Professional technicians handle the installation, which involves electrical work to ensure the charger is connected to the power supply safely and in compliance with local electrical codes.
@@ -327,7 +327,7 @@
               <h2>Lets Get Started!</h2>
               <a href="tel:+12087775528"><button type="button" class="call-us-button">Call Us</button></a>
               <button type="button" class="schedule-service-button open-form-button" id="estimateButton">Get An Estimate</button>
-              <p>Contact Bill&apos;s Heating & A/C, your local HVAC experts, today for estimates, repairs, and service in the greater Spokane or Coeur d&apos; Alene area as well as the Lewiston, Clarkston, Moscow, Pullman, and surrounding areas.</p>
+              <p>Contact Bill&apos;s Heating &amp; A/C, your local HVAC experts, today for estimates, repairs, and service in the greater Spokane or Coeur d&apos; Alene area as well as the Lewiston, Clarkston, Moscow, Pullman, and surrounding areas.</p>
             </div>
             </div>
           </section>

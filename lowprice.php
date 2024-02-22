@@ -4,9 +4,9 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Bill's Heating & A/C | Privacy Policy</title>
-    <link rel="canonical" href="https://callbills.com/privacy-policy.php">
-    <meta name="description" content="Full service heating and air conditioning company serving North Idaho and Eastern Washington. Lowest prices Guaranteed on all installs!">
+    <title>Low Price Guarantee Details</title>
+    <link rel="canonical" href="https://callbills.com/lowprice.php">
+    <meta name="description" content="Enjoy peace of mind with Bill's Heating & A/C's Low Price Guarantee. Quality HVAC service at unbeatable prices.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
@@ -29,15 +29,15 @@
   <!-- End Google Tag Manager -->
 
     <!-- Open Graph and Twitter Cards -->
-    <meta property="og:title" content="Bill's Heating & A/C | Privacy Policy">
-    <meta property="og:description" content="Full service heating and air conditioning company serving North Idaho and Eastern Washington. Lowest prices Guaranteed on all installs!">
+    <meta property="og:title" content="Low Price Guarantee Details">
+    <meta property="og:description" content="Enjoy peace of mind with Bill's Heating & A/C's Low Price Guarantee. Quality HVAC service at unbeatable prices.">
     <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg">
     <meta property="og:url" content="https://callbills.com">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
-    <meta name="twitter:title" content="Bill's Heating & A/C | Privacy Policy">
-    <meta name="twitter:description" content="Full service heating and air conditioning company serving North Idaho and Eastern Washington. Lowest prices Guaranteed on all installs!">
+    <meta name="twitter:title" content="Low Price Guarantee Details">
+    <meta name="twitter:description" content="Enjoy peace of mind with Bill's Heating & A/C's Low Price Guarantee. Quality HVAC service at unbeatable prices.">
     <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/summary-large-image.webp">
 
     <!-- Schema Markup-->
