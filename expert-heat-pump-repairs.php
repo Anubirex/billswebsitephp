@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--This is the gas furnace repair and diagnostic landing page FOR GOOGLE ADS-->
+<!--This is the heat pump repair and diagnostic landing page FOR GOOGLE ADS-->
 <html lang="en">
   <head>
     <meta charset="UTF-8">
@@ -44,7 +44,7 @@
     <meta property="og:title" content="Bill's Heating & A/C | Heat Pump Repair">
     <meta property="og:description" content="$59 heat pump diagnostics by Bill's Heating & A/C, the largest HVAC contractor in the Northwest with 3000+ reviews.">
     <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/social-share.webp">
-    <meta property="og:url" content="https://callbills.com/ah.php">
+    <meta property="og:url" content="https://callbills.com/expert-heat-pump-repairs.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">

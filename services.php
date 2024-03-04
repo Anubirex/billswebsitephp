@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Services</title>
     <link rel="canonical" href="https://callbills.com/services.php">
-    <meta name="description" content="Full service heating and air conditioning company serving North Idaho and Eastern Washington. Lowest prices Guaranteed on all installs!">
+    <meta name="description" content="Explore top-notch HVAC solutions at Bill's Heating & A/C: expert installations, repairs, and maintenance services for all your heating and cooling needs.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -44,14 +44,14 @@
     
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Services">
-    <meta property="og:description" content="Full service heating and air conditioning company serving North Idaho and Eastern Washington. Lowest prices Guaranteed on all installs!">
+    <meta property="og:description" content="Explore top-notch HVAC solutions at Bill's Heating & A/C: expert installations, repairs, and maintenance services for all your heating and cooling needs.">
     <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg">
     <meta property="og:url" content="https://callbills.com">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Services">
-    <meta name="twitter:description" content="Full service heating and air conditioning company serving North Idaho and Eastern Washington. Lowest prices Guaranteed on all installs!">
+    <meta name="twitter:description" content="Explore top-notch HVAC solutions at Bill's Heating & A/C: expert installations, repairs, and maintenance services for all your heating and cooling needs.">
     <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/summary-large-image.webp">
 
     <!-- Schema Markup-->

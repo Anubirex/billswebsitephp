@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<!--This is the gas furnace repair and diagnostic landing page FOR GOOGLE ADS-->
+<!--This is the ac repair and diagnostic landing page FOR GOOGLE ADS-->
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Bill's Heating & A/C | Expert Furnace Repair</title>
-    <link rel="canonical" href="https://callbills.com/expert-furnace-repairs.php">
-    <meta name="description" content="Get fast, reliable furnace repair from Bill's Heating & A/C. Our expert team ensures your home stays cozy. Affordable HVAC solutions with top-rated service!">
+    <title>Bill's Heating & A/C | AC Repair</title>
+    <link rel="canonical" href="https://callbills.com/expert-air-conditioner-repairs.php">
+    <meta name="description" content="$59 air conditioner diagnostics by Bill's Heating & A/C, the largest HVAC contractor in the Northwest with 3000+ reviews.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -41,15 +41,15 @@
   <!-- End Google Tag Manager -->
 
     <!-- Open Graph and Twitter Cards -->
-    <meta property="og:title" content="Bill's Heating & A/C | Expert Furnace Repair">
-    <meta property="og:description" content="Get fast, reliable furnace repair from Bill's Heating & A/C. Our expert team ensures your home stays cozy. Affordable HVAC solutions with top-rated service!">
+    <meta property="og:title" content="Bill's Heating & A/C | AC Repair">
+    <meta property="og:description" content="$59 air conditioner diagnostics by Bill's Heating & A/C, the largest HVAC contractor in the Northwest with 3000+ reviews.">
     <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/social-share.webp">
-    <meta property="og:url" content="https://callbills.com/expert-furnace-repairs.php">
+    <meta property="og:url" content="https://callbills.com/expert-air-conditioner-repairs.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
-    <meta name="twitter:title" content="Bill's Heating & A/C | Expert Furnace Repair">
-    <meta name="twitter:description" content="Get fast, reliable furnace repair from Bill's Heating & A/C. Our expert team ensures your home stays cozy. Affordable HVAC solutions with top-rated service!">
+    <meta name="twitter:title" content="Bill's Heating & A/C | AC Repair">
+    <meta name="twitter:description" content="$59 air conditioner diagnostics by Bill's Heating & A/C, the largest HVAC contractor in the Northwest with 3000+ reviews.">
     <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -77,7 +77,7 @@
           "latitude": 47.718688,
           "longitude": -116.999777
         },
-        "areaServed":"Airway Heights, WA",
+        "areaServed":"Coeur d'Alene, ID",
         "openingHoursSpecification": [
           {
             "@type": "OpeningHoursSpecification",
@@ -192,11 +192,11 @@
                     aria-hidden="true">
                 <div class="landing-hero-inner width-limiter">
                     <div class="hero-content">
-                        <h1>$59 Furnace Diagnostics</h1>
-                        <p>Regain your comfort quickly with our expert furnace solutions! Our seasoned professionals are ready to assist you seven days a week, offering same&dash;day appointments to address your heating needs promptly. Don&apos;t let a faulty furnace disrupt your peace of mind. Trust us to get your heat running smoothly again at an unbeatable price.
-                        
+                        <h1>$59 Air Conditioner Diagnostics</h1>
+                        <p>Stay cool and comfortable with our expert Air Conditioner diagnostics and services! Our experienced team is available 7 days a week, providing same&dash;day appointments to swiftly resolve your cooling challenges. No more discomfort from a malfunctioning AC &dash; trust us for fast, efficient, and cost&dash;effective solutions to keep your air conditioning perfect. Contact us now for reliable AC repair at unbeatable prices!
+
                         </p>
-                        <img src="images/techs-arriving.webp">
+                        <img src="images/techs-arriving.webp" alt="two air conditioning technicians walking and carrying ac repair tools.">
                         <div class="center-things">
                         <div class="landing-hero-checkmarked-reasons">
                             <span class="nowrap">
@@ -211,7 +211,7 @@
                 <div class="hero-form">
                     <div class="visible-body-form-overlay">
                         <form class="visible-body-form-container ajax-form" method="post">
-                            <div class="request-form-headline"><h3>Schedule Your Furnace Diagnostic</h3></div>
+                            <div class="request-form-headline"><h3>Schedule Your Air Conditioning Diagnostic</h3></div>
                             <label for="name-body">Full Name: <input id="name-body" type="text" autocomplete="name" placeholder="Enter Full Name" name="name" required></label>
                             <label for="email-body">Email: <input id="email-body" type="email" autocomplete="email" placeholder="Enter Email" name="email" required></label>
                             <label for="phone-body">Phone: <input id="phone-body" type="tel" autocomplete="tel" placeholder="123-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" name="phone" required></label>
@@ -270,8 +270,8 @@
         <section class="landing-more-info-outer">
            <div class="landing-more-info width-limiter">
                 <div class="landing-more-info-half">
-                    <h2>Trust the Northwest&apos;s <br>Top&dash;Rated Furnace Experts</h2>
-                    <p>Struggling with furnace troubles? As the Northwest&apos;s largest and most trusted HVAC contractor, we&apos;re here to bring the heat back into your home. With over 3,000 glowing reviews, our expert team provides unparalleled furnace diagnostics, ensuring your system runs efficiently and reliably. By choosing us, you&apos;re not just getting a service; you&apos;re getting the assurance of top&dash;quality care backed by a wealth of satisfied customers. Don&apos;t let a minor furnace issue escalate into a costly problem. Call us now for a comprehensive check-up and join thousands of happy homeowners who trust us to keep their spaces cozy and energy&dash;efficient. Your comfort is our top priority &dash; experience the difference with our expert care today!</p>
+                    <h2>Trust the Northwest&apos;s <br>Top&dash;Rated Air Conditioning Experts</h2>
+                    <p>Struggling with AC issues? As the Northwest&apos;s leading HVAC contractor, we&apos;re equipped to optimize your homes comfort. With over 3,000 glowing reviews, our seasoned team excels in precise air conditioner diagnostics, ensuring your system delivers efficient and reliable cooling. Choosing us means securing peace of mind with top&dash;quality service, supported by countless satisfied customers. Don&apos;t allow a small air conditioning hiccup to turn into a major expense. Contact us today for a thorough inspection and join the ranks of happy homeowners who rely on us for their comfort needs. Your satisfaction is our mission &dash; discover the excellence of our expert service now!</p>
                 </div>
                 <div class="landing-more-info half">
                     <img src="images/ac-brazing.webp">

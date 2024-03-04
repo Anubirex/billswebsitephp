@@ -159,7 +159,7 @@
     <div class="diag-page-section-one">
         <div class="diag-page-inner-section-one hero width-limiter">
             <div>
-              <h2>Stay Comfortable Year-Round with Bill's Heating and AC Ductless Tune-Ups</h2>
+            <h1>Stay Comfortable Year-Round with Bill&apos;s Heating and AC Ductless Tune&dash;Ups</h1>
               <p>Experience the Best in Ductless Heat Pump Tune&dash;Ups! Over 3000 Five&dash;Star Reviews</p> 
               <button class="schedule-service-button open-form-button">Schedule Service</button>
             </div>
