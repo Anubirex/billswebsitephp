@@ -413,7 +413,7 @@
         <div class="serv-areas-loc-title-id width-limiter">
           <h2 id="Washingtonserviceareas">Idaho:</h2>
         </div>
-        <div data-animation="zoom-in-right" class="serv-areas-loc-cols-id width-limiter">
+        <div data-animation="fadeIn" class="serv-areas-loc-cols-id width-limiter">
           <ul>
             <a href="cda.php"><li>Coeur D&apos;Alene</li></a>
             <a href="pf.php"><li>Post Falls</li></a>
@@ -446,7 +446,7 @@
         <div class="serv-areas-loc-title-wa width-limiter">
           <h2>Washington:</h2>
         </div>
-        <div data-animation="zoom-in-left" class="serv-areas-loc-cols-wa width-limiter">
+        <div data-animation="fadeIn" class="serv-areas-loc-cols-wa width-limiter">
           <ul>
             <a href="spokane.php"><li>Spokane</li></a>
             <a href="sv.php"><li>Spokane Valley</li></a>
