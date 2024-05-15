@@ -54,12 +54,6 @@
       "description": "Bill's Heating & A/C: Premier HVAC services in Hayden, ID, tailored to the city's unique climate."
   },
   {
-      "title": "Best HVAC in Lewiston, Idaho",
-      "url": "/lewiston.php",
-      "keywords": "Lewiston, lewiston",
-      "description": "Bill's Heating & A/C: Premier HVAC services in Lewiston, ID, tailored to the city's unique climate."
-  },
-  {
       "title": "Best HVAC in Moscow, Idaho",
       "url": "/moscow.php",
       "keywords": "Moscow, moscow",
@@ -390,12 +384,6 @@
       "description": "Experience the efficiency and convenience of our state-of-the-art Tankless Water Heaters, designed to provide endless hot water while reducing energy costs. Explore our selection of compact, eco-friendly models that offer quick heating, space-saving design, and long-term savings for your home or business."
   },
   {
-      "title": "Bills Heating & A/C | Blog",
-      "url": "/blog.php",
-      "keywords": "Blog, blog, articles, Articles, Information, information, Tips, tips",
-      "description": "Dive into our Blog page for a treasure trove of insightful articles, expert tips, and the latest trends in the HVAC industry, all designed to enhance your understanding and experience of home climate solutions. Stay informed and engaged with our regularly updated content, covering everything from energy-saving advice to innovative home comfort technologies."
-  },
-  {
       "title": "Bills Heating & A/C | Privacy Policy",
       "url": "/privacy-policy.php",
       "keywords": "Privacy Policy, privacy policy",
@@ -460,5 +448,59 @@
     "url": "/tanklesstune.php",
     "keywords": "Tankless Tune-Up, tankless tune-up, Tune-Up, tune-up, water heater, Water Heater",
     "description": "Maximize the efficiency and lifespan of your tankless water heater with our specialized Tune-Up services. Our trained technicians provide thorough maintenance to ensure your system operates at peak performance, offering you continuous, energy-efficient hot water."
+},
+{
+    "title": "Bills Heating & A/C | Low Price Guarantee",
+    "url": "/lowprice.php",
+    "keywords": "low price, Low Price, Guarantee, guarantee",
+    "description": "Our commitment is to provide you with the lowest prices on the best equipment for your residence. We honor this commitment 365 days per year."
+},
+{
+    "title": "Bills Heating & A/C | Free Second Opinion",
+    "url": "/freesecop.php",
+    "keywords": "Free Second Opinion, free second opinion",
+    "description": "At Bill's Heating & A/C, we understand that dealing with HVAC issues can often be stressful, especially when you receive a diagnosis or quote that doesn't quite seem right. That's why we're proud to offer free second opinions to give you the peace of mind you deserve."
+},
+{
+    "title": "Bills Heating & A/C | Guide to Home Heating",
+    "url": "/home-heating-with-furnaces.php",
+    "keywords": "Guide to Home Heating, Understanding Furnaces",
+    "description": "In a world where home comfort is paramount and environmental consciousness is rising, understanding home heating systems, particularly furnaces, has never been more important."
+},
+{
+    "title": "Bills Heating & A/C | Guide to Air Conditioners",
+    "url": "/guide-to-air-conditioners.php",
+    "keywords": "Guide to Air Conditioners, Beginner's Guide",
+    "description": "Selecting the right air conditioner can feel as daunting as the heat itself. That's precisely why we've created A Beginner's Guide to Air Conditioners."
+},
+{
+    "title": "Bills Heating & A/C | Ultimate Heat Pump Guide",
+    "url": "/ultimate-heat-pump-guide.php",
+    "keywords": "Heat Pump Guide, Ultimate Heat Pump Guide",
+    "description": "Welcome to Heat Pumps 101, your go‐to guide for demystifying one of the most efficient and versatile home heating and cooling systems available today."
+},
+{
+    "title": "Bills Heating & A/C | Ultimate Heat Pump Guide",
+    "url": "/ultimate-heat-pump-guide.php",
+    "keywords": "Heat Pump Guide, Ultimate Heat Pump Guide",
+    "description": "Welcome to Heat Pumps 101, your go‐to guide for demystifying one of the most efficient and versatile home heating and cooling systems available today."
+},
+{
+    "title": "Bills Heating & A/C | Ductless Comfort: Your Complete Guide",
+    "url": "/complete-ductless-guide.php",
+    "keywords": "Ductless Comfort, Complete Guide, Ductless Comfort Your Complete Guide",
+    "description": "In response to the growing interest in efficient and flexible home heating and cooling solutions, this blog article delves into the world of ductless HVAC systems."
+},
+{
+    "title": "Bills Heating & A/C | Understanding Thermostats",
+    "url": "/guide-to-thermostats.php",
+    "keywords": "Thermostats, Understanding Thermostats",
+    "description": "Navigating the world of thermostats can seem daunting at first glance, yet these small devices play a pivotal role in our daily comfort and energy consumption."
+},
+{
+    "title": "Bills Heating & A/C | Heat Pump VS Air Conditioner",
+    "url": "/ac-vs-heat-pump-2024-guide.php",
+    "keywords": "Heat Pump, Air Conditioner",
+    "description": "Welcome to our comprehensive 2024 guide for a critical decision every homeowner faces: choosing between a heat pump and a traditional air conditioner."
 }
 ]

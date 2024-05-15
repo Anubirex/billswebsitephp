@@ -184,11 +184,11 @@
               <div class="areas-hero-container width-limiter">
                 <h1>Spokane, WA</h1>
                 <div class="responsive-video">
-                <div class="video-wrapper" onclick="loadVideo(this, 'https://www.youtube.com/embed/m4KVBKSQ_sg?si=sQtXIuq-TdrQXwxC')">
-                      <img class="area-video-placeholder" src="images/placeholder.webp" alt="Video Thumbnail" width="669" height="403">
+                  <div class="video-wrapper" onclick="loadVideo(this, 'https://www.youtube.com/embed/m4KVBKSQ_sg?si=sQtXIuq-TdrQXwxC')">
+                      <img class="area-video-placeholder" src="images/placeholder.webp" alt="Video Thumbnail">
                   </div>
                 </div>
-                </div>
+              </div>
                 <div class="areas-hero-checkmarked-reasons">
                 <span class="nowrap">
                         <img class="checkmark-img" src="images/check-mark.svg" alt="checkmark" aria-hidden="true" width="256" height="256"><h3>Lowest Price Guarantee</h3></span>

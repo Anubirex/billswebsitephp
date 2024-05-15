@@ -4,8 +4,8 @@ function loadVideo(element, url) {
     iframe.setAttribute('src', autoplayUrl);
     iframe.setAttribute('frameborder', '0');
     iframe.setAttribute('allowfullscreen', 'true');
-    iframe.setAttribute('width', '560'); // Set appropriate width
-    iframe.setAttribute('height', '315'); // Set appropriate height
+    iframe.setAttribute('width', '669'); // Set appropriate width
+    iframe.setAttribute('height', '403'); // Set appropriate height
 
     // Replace the placeholder with the iframe
     element.innerHTML = '';
