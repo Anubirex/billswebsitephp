@@ -218,7 +218,7 @@
         <section class="areas-commitment  black-orange-gradient">
           <div class="areas-commitment-container width-limiter">
               <div class="areas-commitment-img" data-animation="zoom-in-left">
-                  <img class="twobyone-image" src="images/shaking-hands.webp" alt="A Bill's Heating generator installer is shaking hand with a woman at the front door to her home." loading="lazy" width="600" height="300">
+                  <img class="twobyone-image" src="blogimages/shaking-hands.webp" alt="A Bill's Heating generator installer is shaking hand with a woman at the front door to her home." loading="lazy" width="600" height="300">
               </div>
               <div class="areas-commitment-text">
                     <h2 id="generac-install-process">Our Installation Process</h2>

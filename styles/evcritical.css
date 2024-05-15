@@ -110,23 +110,24 @@
   }
   .responsive-video {
     position: relative;
-    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    /* padding-bottom: 56.25%;   16:9 aspect ratio */
     padding-top: 25px;
-    height: 0;
+    height: auto;
   }
   .responsive-video iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+    position: relative;
+    margin:auto;
+    width: 90%;
+    max-width: 669px;
+    max-height: 403;
   }
   .area-video-placeholder {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+    position: relative;
+    margin:auto;
+    width: 95%;
+    height: auto;
+    max-width: 669px;
+    max-height: 403;
   }
   .checkmark-img{
     width: 20px;

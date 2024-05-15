@@ -242,7 +242,7 @@
                     informed and comfortable with the choices you make for your home&#39;s heating needs.</p>
                 </div>
                 <div class="local-needs-img" data-animation="zoom-in-right">
-                    <img class="twobyone-image" loading="lazy" src="../images/shaking-hands.webp" alt="A Bill's Heating furnace technician is shaking hand with a woman at the front door to her home." width="600" height="300">
+                    <img class="twobyone-image" loading="lazy" src="blogimages/shaking-hands.webp" alt="A Bill's Heating furnace technician is shaking hand with a woman at the front door to her home." width="600" height="300">
                 </div>
             </div>
             </section>

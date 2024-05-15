@@ -176,7 +176,7 @@
                 <p>With over 3000 five&dash;star reviews, Bill&apos;s Heating and AC is a leader in providing tune&dash;ups for ductless heat pumps in our region. Our team of experienced HVAC technicians is dedicated to delivering exceptional service and thorough care with each maintenance session. We use the latest tools and techniques to ensure your ductless system or mini&dash;split is in top working condition, reinforcing our commitment to customer satisfaction and premium service.</p>
             </div>
             <div class="local-needs-img" data-animation="zoom-in-right">
-                <img class="twobyone-image" loading="lazy" src="../images/shaking-hands.webp" alt="A Bill's Heating ductless heat pump technician is shaking hand with a woman at the front door to her home." width="600" height="300">
+                <img class="twobyone-image" loading="lazy" src="blogimages/shaking-hands.webp" alt="A Bill's Heating ductless heat pump technician is shaking hand with a woman at the front door to her home." width="600" height="300">
             </div>
         </div>
         </section>

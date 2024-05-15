@@ -176,7 +176,7 @@
                 <p>Bill&apos;s Heating and AC, with a reputation supported by over 3000 five&dash;star reviews, is a top provider of tankless water heater tune&dash;ups in our area. Our team of skilled HVAC technicians is committed to delivering exceptional service and meticulous care in every tune&dash;up. Utilizing the latest tools and techniques, we ensure your tankless water heater is in optimal condition, underlining our dedication to customer satisfaction and high&dash;quality service.</p>
             </div>
             <div class="local-needs-img" data-animation="zoom-in-right">
-                <img class="twobyone-image" loading="lazy" src="../images/shaking-hands.webp" alt="A Bill's Heating ductless tankless water heater technician is shaking hand with a woman at the front door to her home." width="600" height="300">
+                <img class="twobyone-image" loading="lazy" src="blogimages/shaking-hands.webp" alt="A Bill's Heating ductless tankless water heater technician is shaking hand with a woman at the front door to her home." width="600" height="300">
             </div>
         </div>
         </section>

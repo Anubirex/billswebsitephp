@@ -176,7 +176,7 @@
                 <p>Bill&apos;s Heating and AC is the leading provider of AC tune&dash;ups in our area, with a track record of over 3000 five&dash;star reviews. Our experienced team of HVAC professionals is dedicated to delivering exceptional service and meticulous care in every tune&dash;up. We use state&dash;of&dash;the&dash;art tools and techniques to ensure your air conditioner is in top condition. Our commitment to customer satisfaction and excellence makes us the go&dash;to choice for AC maintenance.</p>
             </div>
             <div class="local-needs-img" data-animation="zoom-in-right">
-                <img class="twobyone-image" loading="lazy" src="../images/shaking-hands.webp" alt="A Bill's Heating air conditioning technician is shaking hand with a woman at the front door to her home." width="600" height="300">
+                <img class="twobyone-image" loading="lazy" src="blogimages/shaking-hands.webp" alt="A Bill's Heating air conditioning technician is shaking hand with a woman at the front door to her home." width="600" height="300">
             </div>
         </div>
         </section>
