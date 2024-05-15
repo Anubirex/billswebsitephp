@@ -165,14 +165,9 @@
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
     <?php include 'header.php'; ?> 
-    <div class="under-construction-page width-limiter">
-      <h1>Page Under Construction</h1>
-      <img src="images\UnderConstructionBanner.webp" width="1800" height="1000" alt="Vector image of the web developers next to a construction cone">
-  </div>
     <section class="learning-hero">
         <h2>From Beginner to Pro:</h2>
         <p>Everything you need to know about your HVAC system.</p>
-        <img src="/images/dials.png" alt="Picture of HVAC Equipment">
     </section>
     <section class="learning-intro">
         <div class="learning-intro-title width-limiter"><h2>Introduction to Your HVAC System:</h2></div>
@@ -180,23 +175,31 @@
             <a class="learning-card" href="home-heating-with-furnaces.php">
               <h2>Understanding Furnaces</h2>
               <p>Exploring Functions, Mechanics, and Selection Strategies</p>
-              <img src="images\furnace-guide-furnaces.webp" width="1200" height="675" alt="3 furnaces in an abstract scene">
+              <img src="blogimages\furnace-guide-furnaces.webp" width="1200" height="675" alt="3 furnaces in an abstract scene">
             </a>
             <a class="learning-card" href="guide-to-air-conditioners.php">
               <h2>Guide To Air Conditioners</h2>
               <p>Understanding, Selecting, and Maintaining Your Way to a Cooler Home</p>
-              <img src="images\guide-to-ac-hero.webp" width="1200" height="675" alt="An air conditioning condenser with refrigerant gauges on it.">
+              <img src="blogimages\guide-to-ac-hero.webp" width="1200" height="675" alt="An air conditioning condenser with refrigerant gauges on it.">
             </a>
             <a class="learning-card" href="ultimate-heat-pump-guide.php">
               <h2>Heat Pump Guide</h2>
               <p>Selection, Efficiency & Maintenance</p>
-              <img src="images\heat-pump-guide-equipment.webp" width="1200" height="675" alt="a collection of heat pump equipment">
+              <img src="blogimages\heat-pump-guide-equipment.webp" width="1200" height="675" alt="a collection of heat pump equipment">
             </a>
-            <div class="learning-card"><h2>Ductless-101</h2></div>
-            <div class="learning-card"><h2>Equipment Guide</h2></div>
+            <a class="learning-card" href="complete-ductless-guide.php">
+              <h2>Complete Ductless Guide</h2>
+              <p>Efficiency and Flexibility in Heating and Cooling</p>
+              <img src="blogimages\guide-to-ductless-hero.webp" width="1200" height="675" alt="a man and woman are talking in front of a ductless heat pump">
+            </a>
+            <a class="learning-card" href="guide-to-thermostats.php">
+              <h2>Understanding Thermostats</h2>
+              <p>A Comprehensive Guide for Homeowners</p>
+              <img src="blogimages\thermostat-guide-header.webp" width="1200" height="675" alt="a hand changes the temperature on a NEST thermostat">
+            </a>
         </div>
     </section>
-    <section class="learning-intro">
+    <!-- <section class="learning-intro">
         <div class="learning-intro-title width-limiter"><h2>What You Need to Know About Home Comfort:</h2></div>
         <div class="learning-cards">
             <div class="learning-card"><h2>Air Quality</h2></div>
@@ -253,7 +256,7 @@
         <div class="more-vids-button-cont width-limiter">
             <button class="more-learn-videos">More Videos...</button>
         </div>
-    </div>
+    </div>  -->
     <?php include 'footer.php'; ?>
     <script defer src="scripts/src.js"></script>
     <script defer src="scripts/search.js"></script> 
