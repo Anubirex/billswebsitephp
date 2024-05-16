@@ -25,7 +25,7 @@
         <link rel="preload" href="https://fonts.gstatic.com" crossorigin>
         <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
         <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap"></noscript>
-        <link rel="stylesheet" href="styles/style.css">
+        <link rel="stylesheet" href="styles/learningcritical.css">
         <link rel="stylesheet" href="styles/headerstyle.css">
         <link rel="stylesheet" href="styles/footerstyle.css">
 
