@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 62.5%;
+    box-sizing: border-box
+  }
+  :root {
+    --COLOR-MAIN-BRIGHT: #2c8ddb;
+    --COLOR-MAIN-DARK: #003a71;
+    --COLOR-SECONDARY-BRIGHT: #db2d28;
+    --COLOR-SECONDARY-DARK: #9f161c;
+    --COLOR-HIGHLIGHT-BRIGHT: #ead422;
+    --COLOR-HIGHLIGHT-DARK: #dea724
+  }
+  html{
+    scroll-behavior: smooth;
+  }
+  main, section{
+    overflow-x: hidden;
+  }
+  .width-limiter {
+    max-width: 1250px;
+    width: 98%;
+    margin: auto;
+  }
+  .nowrap{
+    white-space: nowrap;
+  }
+  .no-scroll {
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+  }
+  .img-shadow{
+    box-shadow: 2px 2px 5px black;
+  }
+  .img-border{
+    border: .5rem solid white;
+  }
+  body,button {
+    font-family: 'Roboto',sans-serif;
+    background-color: #fff
+  }
+  
+  p {
+    font-family: 'Poppins',sans-serif;
+    font-size: 1.6rem
+  }
+  
+  ul {
+    list-style-type: none
+  }
+  /* ///////////////////////////END ulitity classes\\\\\\\\\\\\\\\\\\\\\\\*/
+  .learning-hero {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(var(--COLOR-MAIN-DARK), var(--COLOR-MAIN-BRIGHT));
+    padding: 9rem 0;
+  }
+  .learning-hero h2 {
+    color: white;
+    text-shadow: 1px 1px 3px black;
+    font-size: 4rem;
+    padding: .5rem 0;
+  }
+  .learning-hero p {
+    color: white;
+    text-shadow: 1px 1px 3px black;
+    font-size: 2rem;
+    padding-bottom: 1.5rem;
+  }
+  .learning-hero img {
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.5), -5px -5px 10px rgba(0, 0, 0, 0.8);
+  }
+  .learning-intro {
+    padding-bottom: 3rem;
+    background-color: var(--COLOR-MAIN-BRIGHT);
+  }
+  .learning-intro-title h2 {
+    color: var(--COLOR-HIGHLIGHT-BRIGHT);
+    text-shadow: 2px 2px 2px black;
+    font-size: 4rem;
+    padding-bottom: 3rem;
+    padding-top: 1rem;
+    text-align: center;
+  }
+  .learning-cards {
+    display: flex; 
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin: auto;
+    max-width: 1200px;
+  }
+  .learning-cards h2 {
+    font-size: 2.5rem;
+    padding: 1rem;
+  }
+  .learning-card {
+    color: var(--COLOR-MAIN-DARK);
+    text-align: center;
+    flex: 0 0 30%;
+    min-width: 200px;
+    height: 300px;
+    background-color: white;
+    border-radius: 8px; 
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 2px solid #ccc;
+    text-decoration: none;
+    box-shadow: 2px 2px 5px black;
+  }
+  .learning-card p{
+    color: #333;
+  }
+  .learning-card:hover {
+    background-blend-mode: multiply;
+    box-shadow: 0 0 15px black;
+    transform: scale(1.05);
+    cursor: pointer;
+  }
+  .learning-card img{
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
