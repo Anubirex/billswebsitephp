@@ -385,15 +385,32 @@ header{
     transition: all 0.2s ease;
     padding: 2.1rem 1.5rem .5rem 1.5rem;
   }   
-  .service-submenu {
+  .service-submenu,
+  .equipment-submenu {
     display: inline-block;
+  }
+  .equipment-submenu-container {
+    position: absolute;
+    bottom: -10.5rem;
+    left: 100%;
+    background-color: white;
+    border: 3px solid var(--COLOR-MAIN-DARK);
+    white-space: nowrap;
+    border-radius: 1.2rem;
+    box-shadow: 1rem 1rem 3rem rgba(0, 0, 0, 0.5);     
+    opacity: 0;
+    transform: translate(1rem, 1rem);
+    visibility: hidden;
+    transition: all 0.2s ease;
+    padding: 1rem 1rem .5rem 1rem;
   }
   .submenu-text {
     font-size: 1.4rem;
     color: white;
     padding-left: 2rem;
   }
-  .service-submenu-text {
+  .service-submenu-text,
+  .equipment-submenu-text {
     font-size: 1.2rem;
     color: var(--COLOR-MAIN-DARK);
   }
@@ -420,7 +437,9 @@ header{
   .menu-item:hover  .submenu, 
   .menu-item:focus  .submenu, 
   .submenu-item:hover > .service-submenu-container,
-  .submenu-item:focus > .service-submenu-container {
+  .submenu-item:focus > .service-submenu-container,
+  .submenu-item:hover > .equipment-submenu-container,
+  .submenu-item:focus > .equipment-submenu-container {
   display: block;
   opacity: 1;
   visibility: visible;
@@ -434,7 +453,9 @@ header{
   transform: translate(-6.3rem, 0rem);
   }
   .submenu-item:hover > .service-submenu-container,
-  .submenu-item:focus > .service-submenu-container {
+  .submenu-item:focus > .service-submenu-container,
+  .submenu-item:hover > .equipment-submenu-container,
+  .submenu-item:focus > .equipment-submenu-container {
   transform: translate(.2rem, 0);
   }
   .menu-item  a:hover,
@@ -449,7 +470,10 @@ header{
   }
   .service-submenu a:hover,
   .service-submenu a:focus,
-  .service-submenu a:active{
+  .service-submenu a:active,
+  .equipment-submenu a:hover,
+  .equipment-submenu a:focus,
+  .equipment-submenu a:active {
   background-color: hsl(206, 53%, 22%);
   transform: scale(1);
   border-radius: 0;
@@ -485,11 +509,13 @@ header{
   .submenu-item:hover .submenu-text,
   .submenu-item:focus .submenu-text,
   .service-submenu-item:hover .service-submenu-text,
-  .service-submenu-item:focus .service-submenu-text{
+  .service-submenu-item:focus .service-submenu-text {
   color: var(--COLOR-SECONDARY-BRIGHT);
   }
   .service-submenu-item a:hover .service-submenu-text,
-  .service-submenu-item a:focus .service-submenu-text{
+  .service-submenu-item a:focus .service-submenu-text,
+  .equipment-submenu-item:hover .equipment-submenu-text,
+  .equipment-submenu-item:focus .equipment-submenu-text {
   color: white;
   }
   .menu-text {
