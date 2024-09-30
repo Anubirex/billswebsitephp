@@ -30,7 +30,7 @@
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Ductless HVAC Guide: Efficient Climate Solutions">
     <meta property="og:description" content="Explore the benefits of ductless HVAC systems for efficient heating and cooling. Learn how to select, install, and maintain the perfect unit.">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/social-share.webp">
+    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg">
     <meta property="og:url" content="https://callbills.com/complete-ductless-guide.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
@@ -45,7 +45,7 @@
           "@context": "https://schema.org",
           "@type": "BlogPosting",
           "headline": "The Ultimate Guide to Efficient Heating Systems",
-          "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/blog-post-image.jpg",
+          "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
           "author": {
             "@type": "Organization",
             "name": "Bill's Heating & A/C"

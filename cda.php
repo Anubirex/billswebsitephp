@@ -204,7 +204,7 @@
             <div class="local-needs-container width-limiter">
                 <div class="local-needs-text">
                     <h2>Coeur D&apos;Alene Heating/Cooling Needs</h2>
-                    <p>Nestled in the heart of North Idaho, Coeur d&apos;Alene is a vibrant city known for its stunning natural beauty and a climate that keeps you on your toes. With its cold, snowy winters and comfortably warm summers, the region demands a robust heating and cooling solution. Whether it&apos;s keeping your home cozy during those frosty winter nights or ensuring a cool retreat from the summer heat, understanding and adapting to these diverse climate conditions is crucial. Living in Coeur d&apos;Alene isn&apos;t just about enjoying its scenic lake views and outdoor adventures; it&apos;s also about ensuring your home&apos;s comfort throughout the year&apos;s changing seasons.</p>
+                    <p>Nestled in the heart of North Idaho, Coeur d&apos; Alene is known for its stunning natural beauty and diverse climate. With cold, snowy winters and comfortably warm summers, the region demands robust HVAC solutions. Bill&apos;s Heating &amp; A/C ensures your home stays cozy in winter and cool in summer with top&dash;notch HVAC services tailored for Coeur d&apos;Alene&apos;s unique climate needs. Enjoy year&dash;round comfort and reliability with our expert team.</p>
                 </div>
                 <div class="local-needs-img" data-animation="zoom-in-right">
                     <img loading="lazy" class="twobyone-image" src="images/hot-cold-landscape.webp" alt="A photo of an Idaho landscape. The left half is summer. The right half is winter." width="600" height="300">
@@ -218,14 +218,14 @@
                     </div>
                     <div class="areas-commitment-text">
                         <h2>Our Commitment to Coeur d&apos;Alene</h2>
-                        <p>In Coeur d&apos;Alene, Bill&apos;s Heating & A/C is a name synonymous with reliability and expert service. Our team is deeply familiar with the unique heating and cooling challenges faced by residents. We&apos;re not just another HVAC contractor; we&apos;re your neighbors, actively working in your community. Our experienced technicians are always ready to provide timely and efficient service, ensuring that your HVAC systems are running optimally. With us, help is always just a call away, ensuring that you get the comfort you deserve, regardless of the season.</p>
+                        <p>In Coeur d&apos;Alene, Bill&apos;s Heating &amp; A/C is synonymous with reliable HVAC services. Our team understands the unique heating and cooling challenges faced by residents. As your local HVAC contractor, we offer comprehensive heating services in Coeur d&apos;Alene, ensuring your systems run optimally. Whether it&apos;s winter heating or summer cooling, we&apos;re here to keep your home comfortable. With experienced technicians ready to help, you can count on us for all your HVAC needs in Coeur d&apos;Alene.</p>
                     </div>
                 </div>
           </section>
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Choosing the right HVAC service in Coeur d&apos;Alene doesn&apos;t have to be a daunting task. At Bill&apos;s Heating & A/C, we blend local expertise with unparalleled service quality. Our commitment to no travel fees and our extensive service area coverage means we&apos;re always accessible and affordable. Plus, with offers like free second opinions, $79 diagnostics and tune-ups, and free estimates, we ensure that your decision is as comfortable as your home will be. Our dedication to customer satisfaction and our high review ratings are testaments to our promise of quality service. Let us take care of your heating and cooling needs, so you can focus on enjoying the Coeur d&apos;Alene lifestyle to the fullest.</p>
+                <p>Choosing the right HVAC service in Coeur d&apos;Alene doesn&apos;t have to be daunting. At Bill&apos;s Heating &amp; A/C, we combine local expertise with top&dash;notch service quality. Our no travel fees and extensive service area make us accessible and affordable. With offers like free second opinions, $79 diagnostics and tune&dash;ups, and free estimates, we make your decision easy. Our high ratings and dedication to customer satisfaction ensure you receive quality service. Let us handle your heating and cooling needs, so you can enjoy the Coeur d&apos;Alene lifestyle.</p>
             </div>
           </section>
           <div class="commendations-outer">

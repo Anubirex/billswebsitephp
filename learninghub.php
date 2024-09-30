@@ -199,6 +199,26 @@
             </a>
         </div>
     </section>
+    <section class="learning-intro">
+        <div class="learning-intro-title width-limiter"><h2>Popular Blog Articles</h2></div>
+        <div class="learning-cards">
+          <a class="learning-card" href="ac-vs-heat-pump-2024-guide.php">
+            <h2>Heat Pump VS AC 2024 Guide</h2>
+            <p>Comparing the pros and cons of each</p>
+            <img src="blogimages\heat-pump-vs-ac-2024-guide.webp" width="1200" height="675" alt="An air conditioning condenser with refrigerant gauges on it.">
+          </a>
+            <a class="learning-card" href="heat-pump-rebates-and-tax-credits-2024.php">
+              <h2>Heat Pump Rebates & Tax Credits</h2>
+              <p>Maximize Savings with Rebates & Credits</p>
+              <img src="blogimages\heat-pump-tax-credits.webp" width="1200" height="675" alt="Money is overlayed over Heat Pump Equipment">
+            </a>
+            <a class="learning-card" href="hvac-definitions.php">
+              <h2>HVAC Definitions</h2>
+              <p>Understand HVAC Terms</p>
+              <img src="images\hvac-definitions-blocks.webp" width="1200" height="675" alt="Wood Blocks that spell the word HVAC">
+            </a>
+        </div>
+    </section>
     <!-- <section class="learning-intro">
         <div class="learning-intro-title width-limiter"><h2>What You Need to Know About Home Comfort:</h2></div>
         <div class="learning-cards">

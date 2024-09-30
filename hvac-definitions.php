@@ -112,17 +112,17 @@
                 <div class="blog-share-article">
                     <a href="https://www.facebook.com/sharer/sharer.php?u=https://callbills.com/hvac-definitions.php" target="_blank" class="share-button">Share on Facebook</a>
                     <div class="blog-author-container">
-                        <div class="blog-author-profile">
-                            <img src="images\author-picture-jacob.webp" alt="Jacob Darrah" class="blog-author-image" width="50" height="50">
-                            <div class="blog-author-details">
-                                <p><span class="blog-author-label">Author&colon;</span></p>
-                                <p><span class="blog-author-name">Jacob Darrah</span></p>
+                    <div class="blog-author-profile">
+                        <img src="blogimages\author-picture-jacob.webp" alt="Jacob Darrah" class="blog-author-image" width="50" height="50">
+                        <div class="blog-author-details">
+                            <p><span class="blog-author-label">Author:</span></p>
+                            <p><span class="blog-author-name">Jacob Darrah</span></p>
                             </div>
                         </div>
                         <div class="blog-author-revised">
-                            <p><span class="blog-author-label">Revised&colon;</span></p>
-                            <p><span class="blog-author-date">Jan 22nd, 2024</span></p>
-                        </div>
+                        <p><span class="blog-author-label">Revised:</span></p>
+                        <p><span class="blog-author-date">Sept 27th, 2024</span></p>
+                    </div>
                     </div>
                 </div>
             </section>
