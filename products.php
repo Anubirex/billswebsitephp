@@ -4,22 +4,35 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Bill's Heating & A/C | Products</title>
+    <title>Bill's Heating & A/C Products</title>
     <link rel="canonical" href="https://callbills.com/products.php">
-    <meta name="description" content="This page is currently under construction.">
+    <meta name="description" content="View and compare Bill's Heating & A/C's HVAC products. Heat and Cool your home with knowledge and confidence.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='dns-prefetch' href='//www.gstatic.com'/>
+    <link rel='dns-prefetch' href='//gstatic.com'/>
+    <link rel='dns-prefetch' href='//ajax.googleapis.com'/>
+    <link rel='dns-prefetch' href='//google-analytics.com'/>
+    <link rel='dns-prefetch' href='//www.google-analytics.com'/>
+    <link rel='dns-prefetch' href='//googletagmanager.com'/>
+    <link rel='dns-prefetch' href='//www.googletagmanager.com'/>
+    <link rel='dns-prefetch' href='//widgets.leadconnectorhq.com'/>
+    <link rel=preconnect href='//www.google.com/recaptcha/api.js?onload=onRecaptchaLoad&render=explicit'/>
+    <link rel='dns-prefetch' href='//callbillsheating.s3.us-west-2.amazonaws.com'/>
+    <link rel=preconnect href="https://www.google.com">
+    <link rel=preconnect href="https://googleads.g.doubleclick.net">
+    <link rel=preconnect href="https://widgets.leadconnectorhq.com">
     <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
     <link rel="icon" type="image/webp" sizes="32x32" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-32x32.webp">
     <link rel="icon" type="image/svg+xml" href="https://callbillsheating.s3.us-west-2.amazonaws.com/large-favicon.svg">
     <link rel="apple-touch-icon" sizes="180x180" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon180x180.png">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles/style.css">
+    <link rel="preload" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap"></noscript>
     <link rel="stylesheet" href="styles/headerstyle.css">
     <link rel="stylesheet" href="styles/footerstyle.css">
-      
+    <link rel="stylesheet" href="styles/productstyles.css">
+
     <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -29,16 +42,16 @@
   <!-- End Google Tag Manager -->
 
     <!-- Open Graph and Twitter Cards -->
-    <meta property="og:title" content="Bill's Heating & A/C | Privacy Policy">
-    <meta property="og:description" content="This page is currently under construction.">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg">
-    <meta property="og:url" content="https://callbills.com/products.php">
+    <meta property="og:title" content="Bill's Heating & A/C Products">
+    <meta property="og:description" content="View and compare Bill's Heating & A/C's HVAC products. Heat and Cool your home with knowledge and confidence.">
+    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/products-social-share.webp">
+    <meta property="og:url" content="https://callbills.com">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
-    <meta name="twitter:title" content="Bill's Heating & A/C | Privacy Policy">
-    <meta name="twitter:description" content="This page is currently under construction.">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/summary-large-image.webp">
+    <meta name="twitter:title" content="Bill's Heating & A/C Products">
+    <meta name="twitter:description" content="View and compare Bill's Heating & A/C's HVAC products. Heat and Cool your home with knowledge and confidence.">
+    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/products-summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -46,7 +59,7 @@
         "@context": "https://schema.org",
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
+        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/products-social-share.webp",
         "@id": "https://callbills.com/",
         "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
@@ -155,25 +168,105 @@
     <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZQJPVRS"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
+  <!-- End Google Tag Manager (noscript) --><!DOCTYPE html>
+<html lang="en">
+<body>
     <?php include 'header.php'; ?>
-        <div class="under-construction-page width-limiter">
-            <h1>Page Under Construction</h1>
-            <img src="images\UnderConstructionBanner.webp" width="1800" height="1000" alt="Vector image of the web developers next to a construction cone">
+    <section class="furn-install-hero">
+          <img class="hero-image" src="images\equipment-header-800w.webp"
+                srcset="images\equipment-header-450w.webp 450w, 
+                        images\equipment-header-800w.webp 800w, 
+                        images\equipment-header-2000w.webp 2000w"
+                sizes="(max-width: 450px) 450px, 
+                       (max-width: 799px) 800px, 
+                        2000px"
+                alt="Background of furnace and heating equipment."
+                width="800" height="450"
+                aria-hidden="true"></img>
+            <div class="furn-install-hero-inner width-limiter">
+              <div class="furn-install-hero-container width-limiter">
+                <h1>PRODUCTS</h1>
+              </div>
+            </div>     
+    </section> 
+    <div class="products-divider"></div>
+    <section class="products-body-outer">
+        <div class="products-body width-limiter">
+            <h2>Filtering &amp; Sorting Options</h2>
+        <div class="filter-sort">
+            <div class="filters">
+                <div class="filter-group">
+                    <label>Popular Brands:</label>
+                    <div class="checkbox-group" id="brandFilter">
+                      <label class="checkbox-label"><input type="checkbox" value="Generac"> Generac</label>
+                      <label class="checkbox-label"><input type="checkbox" value="Heat N Glo"> Heat N Glo</label>
+                      <label class="checkbox-label"><input type="checkbox" value="Mitsubishi"> Mitsubishi</label>
+                      <label class="checkbox-label"><input type="checkbox" value="Napoleon"> Napoleon</label>
+                      <label class="checkbox-label"><input type="checkbox" value="Regency"> Regency</label>
+                      <label class="checkbox-label"><input type="checkbox" value="Revolv"> Revolv</label>
+                      <label class="checkbox-label"><input type="checkbox" value="Rinnai"> Rinnai</label>
+                      <label class="checkbox-label"><input type="checkbox" value="York"> York</label>
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <label>Equipment Types:</label>
+                    <div class="checkbox-group" id="typeFilter">
+                      <label class="checkbox-label"><input type="checkbox" value="Air Conditioner"> Air Conditioner</label>
+                      <label class="checkbox-label"><input type="checkbox" value="Air Handler"> Air Handler</label>
+                      <label class="checkbox-label"><input type="checkbox" value="Ductless System"> Ductless System</label>
+                      <label class="checkbox-label"><input type="checkbox" value="Fireplace"> Fireplace</label>
+                        <label class="checkbox-label"><input type="checkbox" value="Furnace"> Furnace</label>
+                        <label class="checkbox-label"><input type="checkbox" value="Generator"> Generator</label>
+                        <label class="checkbox-label"><input type="checkbox" value="Heat Pump"> Heat Pump</label>
+                        <label class="checkbox-label"><input type="checkbox" value="Shop Heater"> Shop Heater</label>
+                        <label class="checkbox-label"><input type="checkbox" value="Thermostat"> Thermostat</label>
+                        <label class="checkbox-label"><input type="checkbox" value="Water Heater"> Water Heater</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sorts">
+                <label>Sort By:</label>
+                <select id="sortOption">
+                    <option value="none">No Sorting</option>
+                    <option value="comfort">Comfort Level</option>
+                    <option value="cost">Cost</option>
+                    <option value="efficiency">Efficiency Rating</option>
+                </select>
+            </div>
         </div>
-        <div class="standalone-headline">What's Coming?</div>
-        <div class="under-construction-preview width-limiter">
-            <p>This page will feature a place for you to view all of our products (furnaces, heat pumps, etc) and filter and
-                Compare them. You will be able to see efficiency, noise levels, warranty information, and photos at a glance.
-                The purpose of this page is to help educate you, the customer, on all your options so you can make an informed
-                decision and be confident in your purchase!<br><br>
-                The complexity of this page, unfortunately, means that it will take a while longer to complete. If you have any 
-                questions in the mean time, give us a call. We'd be happy to answer them!
-            </p>
+        <div class="product-grid" id="productGrid">
+            <!-- Product cards will be injected here by JavaScript -->
         </div>
-    <?php include 'footer.php'; ?>  
-    <script defer src="scripts/src.js"></script> 
-    <script defer src="scripts/search.js"></script> 
-    <script src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js" defer></script>
-  </body>
+</div>
+</section>
+<div class="body-form-overlay">
+            <form class="body-form-container ajax-form" method="post">
+              <div class="request-form-headline"><h3>Schedule Your FREE Estimate!</h3></div>
+              <label for="name-body">Full Name: <input id="name-body" type="text" autocomplete="name" placeholder="Enter Full Name" name="name" required></label>
+              <label for="email-body">Email: <input id="email-body" type="email" autocomplete="email" placeholder="Enter Email" name="email" required></label>
+              <label for="phone-body">Phone: <input id="phone-body" type="tel" autocomplete="tel" placeholder="123-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" name="phone" required></label>
+              <label for="street-body">Street: <input id="street-body" type="text" autocomplete="address-line1" placeholder="Street" name="street" required></label>
+              <label for="city-body">City: <input type="text" id="city-body" autocomplete="address-level2" placeholder="City" name="city" required></label>
+              <label for="state-body">State: <input type="text" id="state-body" autocomplete="address-level1" placeholder="State" name="state" required></label>
+              <label for="message-body">Message: <textarea id="message-body" name="message" autocomplete="on" placeholder="Enter message here" rows="4" required></textarea></label>
+              <div class="recaptcha-placeholder"></div>
+              <button type="submit" class="btn">Submit</button>
+              <button type="button" class="btn cancel">Close</button>
+            </form>
+          </div>
+          <div class="modal">
+            <div class="modal-content">
+                <span class="close-button">&times;</span>
+                <p>Thank you for your submission!</p>
+            </div>
+          </div>
+          <?php include 'footer.php'; ?>  
+          <script defer src="scripts/src.js"></script> 
+          <script defer src="scripts/search.js"></script>
+          <script defer src="scripts/forms.js"></script>
+          <script defer src="scripts/products-script.js"></script>
+          <script defer src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"></script>  
+</body>
 </html>

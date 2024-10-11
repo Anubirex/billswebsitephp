@@ -748,9 +748,8 @@ header .schedule-service-button{
 .form-overlay {
   display: none;
   position: fixed;
-  left: 50%;
-  top: 52%;
-  transform: translate(-50%, -50%);
+  left: 30%;
+  top: 16%;
   width: 700px;
   min-height: 650px;
   background-image: linear-gradient(to bottom, var(--COLOR-MAIN-DARK), var(--COLOR-MAIN-BRIGHT));
@@ -762,7 +761,7 @@ header .schedule-service-button{
 .body-form-overlay {
   display: none;
   position: fixed;
-  top: 52%;
+  top: 52.25%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 350px;
@@ -2226,7 +2225,7 @@ padding:0 5rem;
   margin: auto;
   max-width: 1200px;
 }
-.learning-cards h2 {
+.learning-card h2 {
   font-size: 2.5rem;
   padding: 1rem;
 }
@@ -2237,7 +2236,7 @@ padding:0 5rem;
   min-width: 200px;
   height: 300px;
   background-color: white;
-  border-radius: 8px; 
+  border-radius: 8px;
   padding: .5rem;
   display: flex;
   flex-direction: column;
@@ -3427,7 +3426,8 @@ font-size: 4rem;
   padding: 3rem 1rem 2rem 1rem;
 }
 .savings-current-promotion-outer{
-  background-color: var(--COLOR-MAIN-BRIGHT);
+  
+  background-image: linear-gradient(to bottom, rgb(4, 0, 0),rgb(55, 20, 3));
 }
 .savings-current-promotion{
   display: flex;

@@ -1,0 +1,212 @@
+.furn-install-hero {
+    width: 100%;
+    padding-bottom: 15rem;
+    padding-top: 9rem;
+    position: relative;
+  }
+  .furn-install-hero-inner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .furn-install-hero-container {
+    margin-top: 8rem;
+    color:white;
+    text-align: center;
+    padding: 0 1.5rem;
+    width:clamp(300px, 90vw, 700px);
+  }
+  .furn-install-hero-container h1::before{
+    content:"Bill's Heating and A/C";
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1;
+    position:absolute;
+    margin-left: .5rem;
+  }
+  .furn-install-hero-container h1 {
+    font-size: 7rem;
+    margin-bottom: 3rem;
+    position: relative;
+    text-shadow: 2px 2px 2px black;
+  }
+  .hero-image{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index:-2;
+  }
+  .furn-install-hero-inner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .furnace-hero-img,
+  .furnace-hero-content {
+  flex: 1;
+  }
+  .products-divider{
+    height: 4rem;
+    background-image: linear-gradient(to bottom, white 10%, var(--COLOR-SECONDARY-DARK) 10% 90% , white 90%);
+  }
+  .products-body-outer{
+    background-image: linear-gradient(to bottom, var(--COLOR-MAIN-DARK), var(--COLOR-MAIN-BRIGHT));
+} 
+.products-body{
+    padding: 35px; 
+}
+.products-body h2{
+    color: white;
+    font-size: 4rem;
+    text-align: center;
+}
+.filter-sort {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 1rem;
+}
+
+.filters {
+    display: inline-block;
+    text-align: left;
+    background-color: white;
+    border-radius: 2rem;
+    max-width: 800px;
+
+}
+.filter-group {
+    margin-bottom: 10px;
+    font-size: 3.5rem;
+    padding: 0 2rem;
+    color: var(--COLOR-MAIN-DARK);
+}
+.checkbox-group{
+    font-size: 3rem;
+}
+.checkbox-group label {
+    display: inline-block;
+    margin-right: 10px;
+    color: #4c4c4c;
+    margin-bottom: 10px;
+}
+input[type=checkbox] {
+    accent-color: var(--COLOR-SECONDARY-DARK);
+  }
+.checkbox-label:has(input:checked){
+    color: var(--COLOR-SECONDARY-DARK);
+}
+.sorts {
+    margin-top: 10px;
+    font-size: 3rem;
+    color: white;
+    padding-bottom: 2rem;
+    border-bottom: 3px solid white;
+}
+.sorts select{
+    font-size: 1.5rem;
+    padding: 0.5em 6em 0.5em 1em;
+    background-color: #fff;
+    border: 1px solid #caced1;
+    border-radius: 0.5rem;
+    color: #000;
+}
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 5rem;
+}
+.product-grid a{
+    text-decoration: none;
+}
+
+.product-card {
+    border: 1px solid #c4c4c4;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #fff;
+}
+
+.product-card:hover {
+    transform: scale(1.02);
+    transition: transform .2s;
+    box-shadow: .5rem .5rem 1rem rgba(0, 0, 0, 0.7);
+}
+
+.product-image img {
+    width: 100%;
+    height: auto;
+}
+
+.product-info {
+    padding: 15px;  
+}
+
+.product-info h3 {
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    font-size: 2.5rem;
+    color: var(--COLOR-MAIN-DARK);
+    border-bottom: 2px solid var(--COLOR-MAIN-DARK);
+   
+}
+.meter-label {
+    margin-bottom: 5px;
+    font-size: 1.5rem;
+    color: var(--COLOR-MAIN-DARK);
+}
+
+.meter {
+    height: 20px;
+    background-color: #e7e7e7;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 10px;
+    border: 1px solid #4c4c4c;
+}
+
+.meter > span {
+    display: block;
+    height: 100%;
+}
+
+.features {
+    list-style-type: disc;
+    padding-left: 20px;
+    font-size: 2.2rem;
+    color: var(--COLOR-MAIN-DARK);
+}
+/* Add these styles to your existing CSS */
+
+.cost {
+    margin: 10px 0px;
+   
+}
+
+.cost-label {
+    font-size: 1.5rem;
+    color: var(--COLOR-MAIN-DARK);
+}
+
+.cost-value {
+    font-weight: bolder;
+    color: rgb(1, 61, 1); 
+    font-size: 1.5rem;
+}
+
+
+@media (max-width: 600px) {
+    .filter-sort {
+        flex-direction: column;
+        gap: 10px;
+    }
+    .furn-install-hero-container h1 {
+        font-size: 6rem;
+        margin-bottom: 3rem;
+        position: relative;
+        text-shadow: 2px 2px 2px black;
+      }
+}

@@ -79,7 +79,7 @@
                     <h1>How to Choose the Right Air Conditioner for Your Home</h1>
                     <p>A Comprehensive Guide to Cooling Solutions by Bill's Heating & A/C</p>
                     <figure>
-                        <img class="blog-main-image" src="blogimages\guide-to-ac-hero.webp" alt="Modern air conditioner installed in a living room" width="1200" height="675">
+                        <img class="blog-main-image" src="blogimages\guide-to-ac-hero.webp" alt="An air conditioning unit with refrigerant guages hanging on it." width="1200" height="675">
                     </figure>
                     <div class="blog-author-container">
                         <div class="blog-author-profile">
@@ -124,7 +124,7 @@
                 <img src="blogimages\guide-to-ac-comfortable.webp" alt="Family enjoying cool indoor temperature with new air conditioner" width="800" height="236">
                 <p>At Bill's Heating & A/C, we believe that informed customers make the best decisions. Our goal is to provide you with the knowledge you need to select an air conditioning system that not only meets your cooling needs but also aligns with your budget and energy efficiency goals. Let's begin the journey to finding your perfect cooling solution.</p>
             </section>
-
+        
             <section class="blog-section blog-width-limiter">
                 <h2 id="types-of-air-conditioners">Types of Air Conditioners</h2>
                 <p>Understanding the different types of air conditioners is the first step in choosing the right system for your home. Each type has its advantages and is suited to specific situations and requirements.</p>
@@ -139,7 +139,7 @@
                 <img src="images\equipment-header-800w.webp" alt="Various types of air conditioners displayed" width="800" height="450">
                 <p>Choosing the right type depends on factors such as your home's layout, existing infrastructure, cooling needs, and budget. For whole-house cooling, central air or ductless systems are typically the best options, while window and portable units may suffice for single rooms or small spaces.</p>
             </section>
-
+        
             <section class="blog-section blog-width-limiter">
                 <h2 id="sizing-and-capacity">Sizing and Capacity Considerations</h2>
                 <p>Proper sizing is crucial for the efficiency and effectiveness of your air conditioning system. An undersized unit will struggle to cool your home, running continuously and increasing energy costs. An oversized unit will cycle on and off too frequently, leading to inconsistent temperatures, increased wear and tear, and higher humidity levels.</p>
@@ -162,7 +162,7 @@
                     Correct sizing is the cornerstone of an efficient and effective air conditioning system.
                 </blockquote>
             </section>
-
+        
             <section class="blog-section blog-width-limiter">
                 <h2 id="energy-efficiency">Understanding Energy Efficiency</h2>
                 <p>Energy efficiency is a critical factor when selecting an air conditioner, as it directly affects your energy bills and environmental impact. Efficient systems use less electricity to achieve the same level of cooling, saving you money over the system's lifespan.</p>
@@ -195,7 +195,7 @@
                 </div>
                 <p>Prioritize features that align with your specific needs and enhance the overall functionality of your air conditioning system.</p>
             </section>
-
+        
             <section class="blog-section blog-width-limiter">
                 <h2 id="budget-and-costs">Budget and Installation Costs</h2>
                 <p>Understanding the financial aspects of purchasing and installing a new air conditioner is essential. Costs can vary widely based on the type of system, features, efficiency ratings, and installation complexity.</p>
@@ -218,7 +218,7 @@
                     Investing wisely today can lead to significant savings and comfort for years to come.
                 </blockquote>
             </section>
-
+        
             <section class="blog-section blog-width-limiter">
                 <h2 id="professional-installation">The Importance of Professional Installation</h2>
                 <p>Even the best air conditioning system will underperform if not installed correctly. Professional installation ensures that your system operates efficiently, safely, and meets all manufacturer specifications and local codes.</p>
@@ -231,7 +231,7 @@
                 <img src="blogimages\guide-to-ac-installation.webp" alt="Professional technician installing an air conditioner" width="800" height="417">
                 <p>At Bill's Heating & A/C, our certified professionals are committed to providing top-quality installation services. We ensure your system is set up for optimal performance and longevity.</p>
             </section>
-
+        
             <section class="blog-section blog-width-limiter">
                 <h2 id="conclusion">Conclusion</h2>
                 <p>Choosing the right air conditioner for your home involves careful consideration of various factors, including the type of system, proper sizing, energy efficiency, desired features, and budget. By understanding these elements, you can make an informed decision that ensures comfort, efficiency, and satisfaction.</p>
