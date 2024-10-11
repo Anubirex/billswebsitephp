@@ -1,3 +1,9 @@
+<?php
+include 'articles.php';
+
+$hvac_basics_articles = array_slice($articles, 0, 5);
+$remaining_articles = array_slice($articles, 5);
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -40,7 +46,7 @@
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Learning Hub">
     <meta property="og:description" content="Bill's Heating & A/C: Learning Hub. Then internets most complete source of consumer HVAC knowledge!">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/social-share.webp">
+    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.webp">
     <meta property="og:url" content="https://callbills.com/learninghub.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
@@ -166,121 +172,135 @@
   <!-- End Google Tag Manager (noscript) -->
     <?php include 'header.php'; ?> 
     <section class="learning-hero">
-        <h2>From Beginner to Pro:</h2>
-        <p>Everything you need to know about your HVAC system.</p>
+      <h2>Learning Hub</h2>
+      <p>From Beginner to Pro&dash;Everything you need to know about your HVAC system.</p>
+      <img class="blog-main-image" src="blogimages\learning-feature.webp">
     </section>
-    <section class="learning-intro">
-        <div class="learning-intro-title width-limiter"><h2>Introduction to Your HVAC System:</h2></div>
-        <div class="learning-cards">
-            <a class="learning-card" href="home-heating-with-furnaces.php">
-              <h2>Understanding Furnaces</h2>
-              <p>Exploring Functions, Mechanics, and Selection Strategies</p>
-              <img src="blogimages\furnace-guide-furnaces.webp" width="1200" height="675" alt="3 furnaces in an abstract scene">
-            </a>
-            <a class="learning-card" href="guide-to-air-conditioners.php">
-              <h2>Guide To Air Conditioners</h2>
-              <p>Understanding, Selecting, and Maintaining Your Way to a Cooler Home</p>
-              <img src="blogimages\guide-to-ac-hero.webp" width="1200" height="675" alt="An air conditioning condenser with refrigerant gauges on it.">
-            </a>
-            <a class="learning-card" href="ultimate-heat-pump-guide.php">
-              <h2>Heat Pump Guide</h2>
-              <p>Selection, Efficiency & Maintenance</p>
-              <img src="blogimages\heat-pump-guide-equipment.webp" width="1200" height="675" alt="a collection of heat pump equipment">
-            </a>
-            <a class="learning-card" href="complete-ductless-guide.php">
-              <h2>Complete Ductless Guide</h2>
-              <p>Efficiency and Flexibility in Heating and Cooling</p>
-              <img src="blogimages\guide-to-ductless-hero.webp" width="1200" height="675" alt="a man and woman are talking in front of a ductless heat pump">
-            </a>
-            <a class="learning-card" href="guide-to-thermostats.php">
-              <h2>Understanding Thermostats</h2>
-              <p>A Comprehensive Guide for Homeowners</p>
-              <img src="blogimages\thermostat-guide-header.webp" width="1200" height="675" alt="a hand changes the temperature on a NEST thermostat">
-            </a>
-        </div>
-    </section>
-    <section class="learning-intro">
-        <div class="learning-intro-title width-limiter"><h2>Popular Blog Articles</h2></div>
-        <div class="learning-cards">
-          <a class="learning-card" href="ac-vs-heat-pump-2024-guide.php">
-            <h2>Heat Pump VS AC 2024 Guide</h2>
-            <p>Comparing the pros and cons of each</p>
-            <img src="blogimages\heat-pump-vs-ac-2024-guide.webp" width="1200" height="675" alt="An air conditioning condenser with refrigerant gauges on it.">
-          </a>
-            <a class="learning-card" href="heat-pump-rebates-and-tax-credits-2024.php">
-              <h2>Heat Pump Rebates & Tax Credits</h2>
-              <p>Maximize Savings with Rebates & Credits</p>
-              <img src="blogimages\heat-pump-tax-credits.webp" width="1200" height="675" alt="Money is overlayed over Heat Pump Equipment">
-            </a>
-            <a class="learning-card" href="hvac-definitions.php">
-              <h2>HVAC Definitions</h2>
-              <p>Understand HVAC Terms</p>
-              <img src="images\hvac-definitions-blocks.webp" width="1200" height="675" alt="Wood Blocks that spell the word HVAC">
-            </a>
-        </div>
-    </section>
-    <!-- <section class="learning-intro">
-        <div class="learning-intro-title width-limiter"><h2>What You Need to Know About Home Comfort:</h2></div>
-        <div class="learning-cards">
-            <div class="learning-card"><h2>Air Quality</h2></div>
-            <div class="learning-card"><h2>Zoned vs Not Zoned Systems</h2></div>
-            <div class="learning-card"><h2>Maintenance</h2></div>
-            <div class="learning-card"><h2>Advanced Heat 102</h2></div>
-            <div class="learning-card"><h2>Advanced AC 102</h2></div>
-        </div>
-    </section>
-    <div class="learning-blog-container">
-        <div class="learning-blog">
-            <div class="more-learning width-limiter"><h2>More Learning:</h2></div>
-            <div class="blog-lat-carousel-container width-limiter">
-                <div class="learn-blog-lat-title"><h2>Latest Blog Posts:</h2></div>
-                <div class="learn-blog-lat-carousel width-limiter">
-                    <div class="blog-post-latest"><h2>Article #1</h2></div>
-                    <div class="blog-post-latest"><h2>Article #2</h2></div>
-                    <div class="blog-post-latest"><h2>Article #3</h2></div>
-                    <div class="blog-post-latest"><h2>Article #4</h2></div>
-                    <div class="blog-post-latest"><h2>Article #5</h2></div>
-                    <div class="blog-post-latest"><h2>Article #6</h2></div>
-                    <div class="blog-post-latest"><h2>Article #7</h2></div>
-                    <div class="blog-post-latest"><h2>Article #8</h2></div>
-                </div>
-                <div class="latest-carousel-buttons">
-                    <button class="latest-prev">Prev</button>
-                    <button class="latest-next">Next</button>
-                </div>
+    <div class="decorative-divider"></div>
+    <section class="blog-section-outer">
+    <div class="blog-section blog-section-first-headline">
+    <h2>Introduction to Your HVAC System&colon;</h2>
+    <div class="blog-cards">
+        <?php foreach ($hvac_basics_articles as $article): ?>
+            <?php
+            // Create a comma-separated list of categories for data-category attribute
+            $categories_str = implode(',', array_map('htmlspecialchars', $article['categories']));
+            // Calculate read time
+            $read_time = ceil($article['word_count'] / 200); // Assuming 200 words per minute
+            ?>
+            <div class="blog-card" data-category="<?php echo $categories_str; ?>" data-date="<?php echo htmlspecialchars($article['date']); ?>">
+                <a href="<?php echo htmlspecialchars($article['url']); ?>" aria-label="Read more about <?php echo htmlspecialchars($article['title']); ?>">
+                    <img src="<?php echo htmlspecialchars($article['image']); ?>" alt="<?php echo htmlspecialchars($article['alt_text']); ?>" loading="lazy">
+                    <div class="card-content">
+                        <h2><?php echo htmlspecialchars($article['title']); ?></h2>
+                        <p class="article-meta">By <?php echo htmlspecialchars($article['author']); ?> on <?php echo htmlspecialchars($article['date']); ?> • <?php echo $read_time; ?> min read</p>
+                        <p><?php echo htmlspecialchars($article['description']); ?></p>
+                    </div>
+                </a>
             </div>
-            <div class="blog-pop-carousel-container width-limiter">
-                <div class="learn-blog-pop-title"><h2>Popular Blog Posts:</h2></div>
-                <div class="learn-blog-pop-carousel width-limiter">
-                    <div class="blog-post-popular"><h2>Article #1</h2></div>
-                    <div class="blog-post-popular"><h2>Article #2</h2></div>
-                    <div class="blog-post-popular"><h2>Article #3</h2></div>
-                    <div class="blog-post-popular"><h2>Article #4</h2></div>
-                    <div class="blog-post-popular"><h2>Article #5</h2></div>
-                    <div class="blog-post-popular"><h2>Article #6</h2></div>
-                    <div class="blog-post-popular"><h2>Article #7</h2></div>
-                    <div class="blog-post-popular"><h2>Article #8</h2></div>
-                </div>
-                <div class="pop-carousel-buttons">
-                    <button class="pop-prev">Prev</button>
-                    <button class="pop-next">Next</button>
-                </div>
-            </div>
-        </div>
+        <?php endforeach; ?>
     </div>
-    <div class="learn-video-container">
-        <div class="video-title width-limiter"><h2>Educational Videos:</h2></div>
-        <div class="learn-video width-limiter">
-            <iframe src="https://www.youtube.com/embed/m4KVBKSQ_sg?si=sQtXIuq-TdrQXwxC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+</section>
+       <!-- Back to Top Button -->
+       <button id="back-to-top" title="Back to Top" aria-label="Back to Top">↑<br>TOP</button>
+<!-- All Articles Section -->
+<section class="blog-section blog-section-second-headline">
+    <h2>All Articles</h2>
+    <!-- Search Bar and Sorting Options -->
+    <section class="controls">
+        <div class="blog-search-bar">
+            <input type="text" id="search-input" placeholder="Search articles..." aria-label="Search articles">
         </div>
-        <div class="more-vids-button-cont width-limiter">
-            <button class="more-learn-videos">More Videos...</button>
+        <div class="sort-options">
+            <label for="sort-select">Sort by:</label>
+            <select id="sort-select" aria-label="Sort articles">
+                <option value="default">Default</option>
+                <option value="date">New</option>
+                <option value="title">Alphabetical</option>
+                <!-- Add more sorting options if needed -->
+            </select>
         </div>
-    </div>  -->
-    <?php include 'footer.php'; ?>
-    <script defer src="scripts/src.js"></script>
-    <script defer src="scripts/search.js"></script> 
-    <script defer src="scripts/blogcarousel.js"></script> 
-    <script defer src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"></script>
+    </section>
+
+    <!-- Filter Options -->
+    <section class="filter-section">
+        <div class="filter-options">
+            <?php
+            // Get all unique categories from the remaining articles
+            $all_categories = [];
+            foreach ($remaining_articles as $article) {
+                foreach ($article['categories'] as $category) {
+                    if (!in_array($category, $all_categories)) {
+                        $all_categories[] = $category;
+                    }
+                }
+            }
+            // Sort categories alphabetically
+            sort($all_categories);
+
+            // Output buttons for each category
+            foreach ($all_categories as $category):
+            ?>
+                <button class="filter-button active" data-category="<?php echo htmlspecialchars($category); ?>">
+                    <?php echo htmlspecialchars($category); ?>
+                </button>
+            <?php endforeach; ?>
+        </div>
+    </section>
+
+    <!-- Remaining Articles -->
+    <div class="blog-cards" id="all-articles">
+        <?php foreach ($remaining_articles as $article): ?>
+            <?php
+            // Create a comma-separated list of categories for data-category attribute
+            $categories_str = implode(',', array_map('htmlspecialchars', $article['categories']));
+            // Calculate read time
+            $read_time = ceil($article['word_count'] / 200); // Assuming 200 words per minute
+            ?>
+            <div class="blog-card" data-category="<?php echo $categories_str; ?>" data-date="<?php echo htmlspecialchars($article['date']); ?>">
+                <a href="<?php echo htmlspecialchars($article['url']); ?>" aria-label="Read more about <?php echo htmlspecialchars($article['title']); ?>">
+                    <img src="<?php echo htmlspecialchars($article['image']); ?>" alt="<?php echo htmlspecialchars($article['alt_text']); ?>" loading="lazy">
+                    <div class="card-content">
+                        <h2><?php echo htmlspecialchars($article['title']); ?></h2>
+                        <p class="article-meta">By <?php echo htmlspecialchars($article['author']); ?> on <?php echo htmlspecialchars($article['date']); ?> • <?php echo $read_time; ?> min read</p>
+                        <p><?php echo htmlspecialchars($article['description']); ?></p>
+                    </div>
+                </a>
+            </div>
+        <?php endforeach; ?>
+    </div>
+</section>
+<div class="body-form-overlay">
+            <form class="body-form-container ajax-form" method="post">
+              <div class="request-form-headline"><h3>Schedule Your FREE Estimate!</h3></div>
+              <label for="name-body">Full Name: <input id="name-body" type="text" autocomplete="name" placeholder="Enter Full Name" name="name" required></label>
+              <label for="email-body">Email: <input id="email-body" type="email" autocomplete="email" placeholder="Enter Email" name="email" required></label>
+              <label for="phone-body">Phone: <input id="phone-body" type="tel" autocomplete="tel" placeholder="123-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" name="phone" required></label>
+              <label for="street-body">Street: <input id="street-body" type="text" autocomplete="address-line1" placeholder="Street" name="street" required></label>
+              <label for="city-body">City: <input type="text" id="city-body" autocomplete="address-level2" placeholder="City" name="city" required></label>
+              <label for="state-body">State: <input type="text" id="state-body" autocomplete="address-level1" placeholder="State" name="state" required></label>
+              <label for="message-body">Message: <textarea id="message-body" name="message" autocomplete="on" placeholder="Enter message here" rows="4" required></textarea></label>
+              <div class="recaptcha-placeholder"></div>
+              <button type="submit" class="btn">Submit</button>
+              <button type="button" class="btn cancel">Close</button>
+            </form>
+          </div>
+          <div class="modal">
+            <div class="modal-content">
+                <span class="close-button">&times;</span>
+                <p>Thank you for your submission!</p>
+            </div>
+          </div>
+          <?php include 'footer.php'; ?>  
+          <script defer src="scripts/src.js"></script> 
+          <script defer src="scripts/search.js"></script>
+          <script defer src="scripts/forms.js"></script>
+          <script defer src="scripts/blogfilter.js"></script>  
+          <script defer src="scripts/blogcarousel.js"></script> 
+          <script defer src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"></script>          
+    
+    
+
 </body>
 </html>

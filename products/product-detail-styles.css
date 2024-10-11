@@ -1,0 +1,285 @@
+/* Universal reset from existing stylesheets
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.6rem;
+}
+ul {
+    list-style-type: none;
+}
+
+Product Detail Page Styles 
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
+*/
+main.product-detail {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.product-overview {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+
+.product-image {
+    flex: 1 1 40%;
+    padding: 20px;
+    text-align: center;
+}
+
+.product-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+.product-summary {
+    flex: 1 1 60%;
+    padding: 20px;
+}
+
+.product-summary h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.product-summary p {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
+
+.product-meters {
+    margin-bottom: 20px;
+}
+
+.meter {
+    margin-bottom: 15px;
+}
+
+.meter label {
+    display: block;
+    font-size: 1.6rem;
+    margin-bottom: 5px;
+}
+
+.meter-bar {
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    overflow: hidden;
+    height: 20px;
+}
+
+.meter-fill {
+    height: 100%;
+    background-color: #76c7c0;
+}
+
+.cost {
+    font-size: 1.6rem;
+}
+
+.cost-value {
+    color: #ff9900;
+    font-size: 2rem;
+    margin-left: 5px;
+}
+
+.product-actions {
+    margin-top: 20px;
+}
+
+.action-link {
+    display: inline-block;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    font-size: 1.6rem;
+    color: #fff;
+    background-color: #007BFF;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.action-link:hover {
+    background-color: #0056b3;
+}
+
+.section-divider {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 40px 0;
+}
+
+.product-description,
+.product-features,
+.product-downloads-warranty,
+.product-faq {
+    margin-bottom: 40px;
+}
+
+.product-description h2,
+.product-features h2,
+.product-downloads h2,
+.product-warranty h2,
+.product-faq h2 {
+    font-size: 2.4rem;
+    margin-bottom: 15px;
+}
+
+.product-description p {
+    font-size: 1.6rem;
+    margin-bottom: 15px;
+}
+
+/* Moved Image Section */
+.features-image {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.features-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Key Features Section with Two Columns */
+.product-features {
+    padding: 20px;
+}
+
+.features-list {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    column-gap: 40px;
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.features-list li {
+    font-size: 1.6rem;
+    margin-bottom: 10px;
+}
+
+/* Downloads and Warranty Styling */
+.downloads-warranty-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product-downloads,
+.product-warranty {
+    flex: 1 1 50%;
+    padding: 20px;
+}
+
+.product-downloads h2,
+.product-warranty h2 {
+    font-size: 2.4rem;
+    margin-bottom: 15px;
+}
+
+.product-downloads ul,
+.product-warranty ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.product-downloads li,
+.product-warranty li {
+    margin-bottom: 10px;
+}
+
+.download-link {
+    font-size: 1.6rem;
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.download-link:hover {
+    text-decoration: underline;
+}
+
+.product-warranty p {
+    font-size: 1.6rem;
+    margin-bottom: 15px;
+}
+
+.product-warranty li {
+    font-size: 1.6rem;
+    margin-bottom: 10px;
+}
+
+/* FAQ Styling */
+.product-faq h2 {
+    font-size: 2.4rem;
+    margin-bottom: 15px;
+}
+
+.faq-item {
+    margin-bottom: 15px;
+}
+
+.faq-question {
+    width: 100%;
+    text-align: left;
+    font-size: 1.8rem;
+    padding: 10px;
+    border: none;
+    background-color: #f7f7f7;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.3s;
+}
+
+.faq-question:hover {
+    background-color: #e0e0e0;
+}
+
+.faq-question.active {
+    background-color: #e0e0e0;
+}
+
+.faq-answer {
+    padding: 10px;
+    background-color: #fafafa;
+    display: none;
+}
+
+.faq-answer p {
+    font-size: 1.6rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .product-overview,
+    .downloads-warranty-container {
+        flex-direction: column;
+    }
+
+    .product-image,
+    .product-summary,
+    .product-downloads,
+    .product-warranty {
+        flex: 1 1 100%;
+        padding: 10px;
+    }
+
+    /* Features List to Single Column on Small Screens */
+    .features-list {
+        columns: 1;
+        -webkit-columns: 1;
+        -moz-columns: 1;
+    }
+}

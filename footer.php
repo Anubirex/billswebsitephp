@@ -1,3 +1,6 @@
+<?php
+$base_url = 'https://callbills.com/';
+?>
 <footer class="site-footer">
         <div class="footer-container width-limiter">
             <div class="footer-gonzaga">
@@ -5,35 +8,35 @@
                     Proud Supporters of the<br>
                     Gonzaga Bulldogs
                 </p>
-                <a href="https://gozags.com/"><img src="images/gonzaga-logo.webp" alt="Gonazga Bulldogs Logo" loading="lazy" width="600" height="600"></a>
+                <a href="https://gozags.com/"><img src="<?php echo $base_url; ?>images/gonzaga-logo.webp" alt="Gonazga Bulldogs Logo" loading="lazy" width="600" height="600"></a>
             </div>
             <div class="footer-nav">
                 <h2>Quick Links</h2>
                 <ul class="footer-areas-list">
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="services.php">Services</a></li>
-                    <li><a href="areas.php">Service Areas</a></li>
-                    <li><a href="products.php">Products</a></li>
-                    <li><a href="learninghub.php">Learning Hub</a></li>
-                    <li><a href="financing.php">Financing</a></li>
-                    <li><a href="savings.php">Savings</a></li>
-                    <li><a href="story.php">About Us</a></li>
+                    <li><a href="<?php echo $base_url; ?>index.php">Home</a></li>
+                    <li><a href="<?php echo $base_url; ?>services.php">Services</a></li>
+                    <li><a href="<?php echo $base_url; ?>areas.php">Service Areas</a></li>
+                    <li><a href="<?php echo $base_url; ?>products.php">Products</a></li>
+                    <li><a href="<?php echo $base_url; ?>learninghub.php">Learning Hub</a></li>
+                    <li><a href="<?php echo $base_url; ?>financing.php">Financing</a></li>
+                    <li><a href="<?php echo $base_url; ?>savings.php">Savings</a></li>
+                    <li><a href="<?php echo $base_url; ?>story.php">About Us</a></li>
                 </ul>
             </div>
             <div class="footer-social">
                 <h2>Follow Us</h2>
                 <div class="social-link-logos">
                     <a href="https://www.facebook.com/billsheating" aria-label="Visit Bill's Heating and AC on Facebook">
-                      <img src="images/facebook-logo-white.webp" alt="Bill's Heating and AC's Facebook Page" loading="lazy" width="128" height="128">
+                      <img src="<?php echo $base_url; ?>images/facebook-logo-white.webp" alt="Bill's Heating and AC's Facebook Page" loading="lazy" width="128" height="128">
                       </a>
                       <a href="https://www.instagram.com/billsheatingandac/" aria-label="Visit Bill's Heating and AC on Instagram">
-                      <img src="images/Instagram_logo-filled.webp" alt="Bill's Heating and AC's Instagram Page" loading="lazy" width="128" height="128">
+                      <img src="<?php echo $base_url; ?>images/Instagram_logo-filled.webp" alt="Bill's Heating and AC's Instagram Page" loading="lazy" width="128" height="128">
                       </a>
                     <a href="https://www.youtube.com/@billsheatingandac" aria-label="Visit Bill's Heating and AC on Youtube">
-                      <img src="images/youtube-logo.webp" alt="Bill's Heating and Ac's YouTube Page" loading="lazy" width="128" height="128">
+                      <img src="<?php echo $base_url; ?>images/youtube-logo.webp" alt="Bill's Heating and Ac's YouTube Page" loading="lazy" width="128" height="128">
                       </a>
                 </div>
-                <a href="lowprice.php"><img class="low-price-logo" src="images/lowprice.webp" alt="We have a lowest price guarantee" loading="lazy" width="358" height="362"></a>
+                <a href="<?php echo $base_url; ?>lowprice.php"><img class="low-price-logo" src="<?php echo $base_url; ?>images/lowprice.webp" alt="We have a lowest price guarantee" loading="lazy" width="358" height="362"></a>
             </div>
             <div class="footer-contact">
                 <h2>Contact Us</h2>

@@ -58,8 +58,8 @@
               "url": "https://callbillsheating.s3.us-west-2.amazonaws.com/logo.jpg"
             }
           },
-          "datePublished": "2023-03-01",
-          "dateModified": "2023-03-01",
+          "datePublished": "2024-02-07",
+          "dateModified": "2024-10-03",
           "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://callbills.com/guide-to-air-conditioners.php"

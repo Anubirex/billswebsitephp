@@ -173,18 +173,13 @@
         <section class="savings-current-promotion-outer">
             <div class="savings-current-promotion width-limiter">
                 <div>
-                <h2>0% interest for 5 years offer available on approved credit.</h2>
+                    <h2>Full System Tune-up For Only $89</h2>
                     <p>
-                      <br><br>* Limited time offer. Bill&apos;s Heating &amp; A/C reserves the right to cancel or limit promotion at any time.
-                      <br>** Subject to credit check and approval. Financing offered through pre&dash;selected third&dash;party finance
-                      companies, and subject to review and approval of customer&apos;s credit.
-                      <br>*** Offer is limited to replacement of qualifying residential equipment &#40;furnaces, air conditioners and
-                      heat pumps&#41;. Does not include commercial equipment, new construction, plumbing or electrical
-                      equipment
-                    <br><br>
-                    <!--<a href="#">Click Here</a> to read official contest rules</p> --> 
+                      <br><br>Take advantage of our $89 HVAC Tune-Up Special! For just $89, we&apos;ll provide a comprehensive tune-up for both your heating and cooling systems. This includes servicing your indoor furnace or air handler as well as your air conditioning unit or heat pump condenser, ensuring your system runs efficiently all year round. Keep your home comfortable while avoiding costly breakdowns&#8212;schedule your full-system tune-up today with Bill&apos;s Heating &amp; A/C!
+                    <br></p>
+                   <!--<a href="#">Click Here</a> to read official contest rules</p> --> 
                 </div>
-                <img src="images\feb-financing-offer.webp" alt="zero percent financing at Bill's Heating" height="1080" width="1080">
+                <img src="images\tune-special-fall-2024.webp" alt="zero percent financing at Bill's Heating" height="1080" width="1080">
             </div>
         </section>
         <div class="standalone-headline">More Ways To Save</div>
@@ -193,7 +188,7 @@
             <div class="news-rebates-track width-limiter">
                 <div class="news-card">
                     <div class="news-card-img">
-                    <img src="images/Energy-Star-Logo.webp" alt="The energy star Logo">
+                        <img src="images/Energy-Star-Logo.webp" alt="The energy star Logo">
                     </div>
                     <div class="news-card-text">
                         <h2>Air Source Heat Pumps Tax Credit</h2>
@@ -203,7 +198,7 @@
                 </div>
                 <div class="news-card">
                     <div class="news-card-img">
-                    <img src="images/Inflation-Reduction-Act.webp" alt="a pamphlet that readds Inflation Reduction Act on an American flag">
+                        <img src="images/Inflation-Reduction-Act.webp" alt="a pamphlet that readds Inflation Reduction Act on an American flag">
                     </div>
                     <div class="news-card-text">
                         <h2>The Inflation Reduction Act of 2022</h2>
@@ -213,7 +208,7 @@
                 </div>
                 <div class="news-card">
                     <div class="news-card-img">
-                    <img src="images/house-news.webp" alt="a house surrounded by trees, representing green energy. Calculators and thermostats are in the picture representing tax savings.">
+                        <img src="images/house-news.webp" alt="a house surrounded by trees, representing green energy. Calculators and thermostats are in the picture representing tax savings.">
                     </div>
                     <div class="news-card-text">
                         <h2>Get Federal Tax Savings and Other Rebates for Energy Efficiency Home Upgrades</h2>

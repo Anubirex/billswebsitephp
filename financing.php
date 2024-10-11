@@ -176,21 +176,27 @@
     <h2 class="standalone-headline">Our Currently Offered Plans</h2>
     <section>
         <div class="financing-cards">
-        <img src="images\synchrony-logo.webp" alt="Synchrony Bank Logo" width="500" height="109">
+            <img src="images\synchrony-logo.webp" alt="Synchrony Bank Logo" width="500" height="109">
             <div class="financing-card featured-financing-plan">
                 <p class="financing-plan-number"><strong>Plan 924</strong></p>
-                <p class="financing-plan-description">No Monthly Interest if Paid in Full within 18 Months.<span> Fixed monthly payments of 2.50&percnt; of the promo purchase balance.</span></p>
+                <p class="financing-plan-description">No Monthly Interest if Paid in Full within 18 Months. &sup1;  &sup2; <span> Fixed monthly payments of 2.50&percnt; of the promo purchase balance.</span></p>
             </div>
             <div class="financing-card">
                 <p class="financing-plan-number"><strong>Plan 920</strong></p>
-                <p class="financing-plan-description">No Monthly Interest if Paid in Full within 6 Months.<span> Fixed monthly payments of 2.50&percnt; of the promo purchase balance.</span></p>
+                <p class="financing-plan-description">No Monthly Interest if Paid in Full within 6 Months. &sup1;  &sup2; <span> Fixed monthly payments of 2.50&percnt; of the promo purchase balance.</span></p>
             </div>
             <div class="financing-card">
                 <p class="financing-plan-number"><strong>Plan 943</strong></p>
-                <p class="financing-plan-description">9.99&percnt; APR Until Paid in Full. <span>Fixed monthly payments equal to 1.25&percnt; of promo purchase amount.</span></p>
+                <p class="financing-plan-description">9.99&percnt; APR Until Paid in Full. &sup1; <span>Fixed monthly payments equal to 1.25&percnt; of promo purchase amount.</span></p>
             </div>
-            <div><p class="financing-disclosures">
+            <div class="width-limiter"><p class="financing-disclosures">
                 Note&colon; Synchrony financing is available exclusively for purchases of new furnaces, heat pumps, air conditioners, or ductless heat pumps, for residential customers only.
+                <br>
+                For more information on deferred interest promotional purchases, visit <a href="https://www.synchrony.com/consumer-resources/deferred-interest">Synchrony&apos;s Deferred Interest Page.</a>
+                <br>
+                &sup1; $69 &#40;one-time fee charged at time first purchase posts to account&#41;
+                <br>
+                &sup2; *NO INTEREST IF PAID IN FULL WITHIN PROMOTIONAL PERIOD (Deferred Interest) The length of the promotional period will depend on the specific promotion offered by merchant. Interest at the rate of 26.99% will be charged to your account from the date of purchase if the promotional purchase is not paid in full within the promotional period. To avoid late fees, you must make your Total Minimum Monthly Payments by the due date each month. These Minimum Monthly Payments may or may not pay off the promotional purchase before the end of the promotional period. To make sure that you are not charged the interest accrued at 26.99% you must pay the total promotional purchase amount within the promotional period.
             </p></div>
         </div>       
         <hr class="width-limiter">
@@ -209,8 +215,8 @@
                 <p class="financing-plan-description">Fixed interest rate of 12.99&percnt; for a term of 120 months.</p>
             </div>
         </div>
-        <div><p class="financing-disclosures width-limiter minimum-padding">
-            Financing options are subject to credit approval and terms may change at any time. The plans listed are currently available but are subject to change. For Synchrony accounts: Purchase APR is 26.99&percnt;; Minimum Interest Charge is $2. One-time Account Activation Fee of $29 may apply. For more information on deferred interest promotional purchases, visit <a href="https://www.synchrony.com/consumer-resources/deferred-interest">Synchrony&apos;s Deferred Interest Page.</a>
+        <div><p class="financing-disclosures width-limiter minimum-padding centered-text">
+            Financing options are subject to credit approval and terms may change at any time. The plans listed are currently available but are subject to change. 
         </p></div>        
     </section>
     <section class="four-card-outer">
