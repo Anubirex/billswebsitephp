@@ -3,7 +3,7 @@ $articles = [
     [
         'title' => 'Understanding Furnaces',
         'description' => 'A comprehensive guide to how furnaces work and how to choose the right one for your home.',
-        'url' => 'home-heating-with-furnaces.php',
+        'url' => 'articles\home-heating-with-furnaces.php',
         'image' => 'blogimages/furnace-guide-furnaces.webp',
         'alt_text' => 'Three furnaces displayed side by side in a promotional shot',
         'categories' => ['Furnaces'],
@@ -14,7 +14,7 @@ $articles = [
     [
         'title' => 'Guide To Air Conditioners',
         'description' => 'Everything you need to know about air conditioners to keep your home cool.',
-        'url' => 'guide-to-air-conditioners.php',
+        'url' => 'articles\guide-to-air-conditioners.php',
         'image' => 'blogimages/guide-to-ac-hero.webp',
         'alt_text' => 'An air conditioning condenser with refrigerant gauges on it.',
         'categories' => ['Air Conditioners'],
@@ -25,7 +25,7 @@ $articles = [
     [
         'title' => 'Heat Pump Guide',
         'description' => 'Discover the benefits of heat pumps and how they can improve your home\'s efficiency.',
-        'url' => 'ultimate-heat-pump-guide.php',
+        'url' => 'articles\ultimate-heat-pump-guide.php',
         'image' => 'blogimages/heat-pump-guide-equipment.webp',
         'alt_text' => 'A collection of heat pump equipment',
         'categories' => ['Heat Pumps', 'Air Conditioners'],
@@ -36,7 +36,7 @@ $articles = [
     [
         'title' => 'Complete Ductless Guide',
         'description' => 'Learn about ductless systems and how they offer flexible heating and cooling solutions.',
-        'url' => 'complete-ductless-guide.php',
+        'url' => 'articles\complete-ductless-guide.php',
         'image' => 'blogimages/guide-to-ductless-hero.webp',
         'alt_text' => 'A man and woman are talking in front of a ductless heat pump',
         'categories' => ['Heat Pumps', 'Energy Savings'],
@@ -47,7 +47,7 @@ $articles = [
     [
         'title' => 'Understanding Thermostats',
         'description' => 'A homeowner\'s guide to choosing and using thermostats effectively.',
-        'url' => 'guide-to-thermostats.php',
+        'url' => 'articles\guide-to-thermostats.php',
         'image' => 'blogimages/thermostat-guide-header.webp',
         'alt_text' => 'A hand changes the temperature on a NEST thermostat',
         'categories' => ['Energy Savings','Thermostats'],
@@ -58,7 +58,7 @@ $articles = [
     [
         'title' => 'Heat Pump VS Air Conditioner 2024 Guide',
         'description' => 'Benefits, disadvantages, and recommendations on your choices for cooling this summer.',
-        'url' => 'ac-vs-heat-pump-2024-guide.php',
+        'url' => 'articles\ac-vs-heat-pump-2024-guide.php',
         'image' => 'blogimages\heat-pump-vs-ac-2024-guide.webp',
         'alt_text' => 'A heat pump and air conditioner are pictured with a versus in between them',
         'categories' => ['Energy Savings', 'Heat Pumps','Air Conditioners'],
@@ -69,7 +69,7 @@ $articles = [
     [
         'title' => 'Heat Pump Rebates & Tax Credits In 2024',
         'description' => 'Maximize Savings on Heat Pumps with Utility Rebates and Tax Credits',
-        'url' => 'heat-pump-rebates-and-tax-credits-2024.php',
+        'url' => 'articles\heat-pump-rebates-and-tax-credits-2024.php',
         'image' => 'blogimages\heat-pump-tax-credits.webp',
         'alt_text' => 'Money is overlayed over Heat Pump Equipment',
         'categories' => ['Heat Pumps', 'Energy Savings'],
@@ -80,7 +80,7 @@ $articles = [
     [
         'title' => 'How to Choose the Right Air Conditioner for Your Home',
         'description' => 'A Comprehensive Guide to Cooling Solutions by Bill\'s Heating & A/C',
-        'url' => 'how-to-choose-the-right-air-conditioner.php',
+        'url' => 'articles\how-to-choose-the-right-air-conditioner.php',
         'image' => 'blogimages\guide-to-ac-hero.webp',
         'alt_text' => 'An air conditioning unit with refrigerant guages hanging on it.',
         'categories' => ['Air Conditioners'],
@@ -91,7 +91,7 @@ $articles = [
     [
         'title' => 'HVAC Definitions',
         'description' => 'A complete glossary of terms related to HVAC',
-        'url' => 'hvac-definitions.php',
+        'url' => 'articles\hvac-definitions.php',
         'image' => 'images\hvac-definitions-blocks.webp',
         'alt_text' => 'Wood Blocks that spell the word HVAC',
         'categories' => ['Other'],
@@ -102,7 +102,7 @@ $articles = [
     [
         'title' => 'The Benefits of Regular HVAC Maintenance',
         'description' => 'Why Routine Check-Ups Are Essential for Your Comfort and Savings',
-        'url' => 'the-benefits-of-regular-hvac-maintenance.php',
+        'url' => 'articles\the-benefits-of-regular-hvac-maintenance.php',
         'image' => 'blogimages\changing-filter.webp',
         'alt_text' => 'A homeowner removes an air filter from a furnace during maintenance',
         'categories' => ['Other', 'Energy Savings'],
@@ -113,7 +113,7 @@ $articles = [
     [
         'title' => 'Understanding SEER Ratings: What They Mean for Your Energy Bills',
         'description' => 'A Comprehensive Guide by Bill\'s Heating & A/C',
-        'url' => 'understanding-seer-ratings.php',
+        'url' => 'articles\understanding-seer-ratings.php',
         'image' => 'blogimages\energyguide.webp',
         'alt_text' => 'EnergyGuide label displaying SEER rating on an air conditioner',
         'categories' => ['Energy Savings'],
@@ -124,7 +124,7 @@ $articles = [
     [
         'title' => 'Top 5 Signs Your Furnace Needs Repair',
         'description' => 'Stay Warm and Safe by Recognizing These Warning Signals',
-        'url' => 'top-5-signs-your-furnace-needs-repair.php',
+        'url' => 'articles\top-5-signs-your-furnace-needs-repair.php',
         'image' => 'blogimages\smiling-tech-large.webp',
         'alt_text' => 'A Bills Heating technician works on a gas furnace',
         'categories' => ['Furnaces'],
@@ -135,7 +135,7 @@ $articles = [
     [
         'title' => 'The Advantages of Programmable Thermostats',
         'description' => 'Enhancing Comfort and Efficiency with Bill\'s Heating & A/C',
-        'url' => 'advantages-of-programmable-thermostats.php',
+        'url' => 'articles\advantages-of-programmable-thermostats.php',
         'image' => 'blogimages/thermostat-guide-header.webp',
         'alt_text' => 'Hand adjusting a modern smart thermostat on the wall',
         'categories' => ['Thermostats'],
@@ -143,6 +143,28 @@ $articles = [
         'author' => 'Jacob D',
         'word_count' => 975,
     ],
+    [
+        'title' => 'Heat Pumps vs. Traditional HVAC Systems: Which Is Right for You',
+        'description' => 'Making the Best Choice with Bill\'s Heating & A/C',
+        'url' => 'articles/heat-pumps-vs-traditional-hvac-systems.php',
+        'image' => 'blogimages/heat-pump-guide-equipment.webp',
+        'alt_text' => 'Various types of York heating and cooling equipment',
+        'categories' => ['Heat Pumps'],
+        'date' => '2024-10-15',
+        'author' => 'Jacob D',
+        'word_count' => 1800,
+    ],
+    [
+        'title' => 'Preparing Your HVAC System for Winter',
+        'description' => 'Stay Warm with Tips from Bill\'s Heating & A/C',
+        'url' => 'articles/preparing-your-hvac-system-for-winter.php',
+        'image' => 'blogimages/winter-hvac-preparation.webp',
+        'alt_text' => 'Home covered in snow representing winter HVAC preparation',
+        'categories' => ['Other'],
+        'date' => '2024-10-16',
+        'author' => 'Jacob D',
+        'word_count' => 475,
+    ]
     // Add more articles as needed
 ];
 ?>

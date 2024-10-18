@@ -3,6 +3,7 @@
 
 <html lang="en">
   <head>
+    <base href="https://callbills.com/">
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Air Conditioning Services</title>
     <link rel="canonical" href="https://callbills.com/ac.php">

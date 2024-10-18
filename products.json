@@ -164,7 +164,7 @@
         "cost": 2,
         "features": ["Electric Heat", "ECM Blower"],
         "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/revolv-furnace-image.webp",
-        "link": "products/revolv-mg1e.php",
+        "link": "products/aspen-aed.php",
         "AFUE": null,
         "SEER": null
     },
@@ -476,7 +476,7 @@
         "cost": 1,
         "features": ["Popular Smart Thermostat", "Easy To Use App"],
         "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/nest-image.webp",
-        "link": "products/google-nest.php",
+        "link": "products/google-nest-3rd-gen.php",
         "AFUE": null,
         "SEER": null
     },

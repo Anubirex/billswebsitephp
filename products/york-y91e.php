@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <title>York Y91E Single-Stage Gas Furnace | Bill's Heating & A/C</title>
     <link rel="canonical" href="https://callbills.com/products/york-y91e.php">
+    <meta name="description" content="Discover the features and benefits of the York Y91E Single-Stage Gas Furnace ">
+    <meta name="robots" content="index, follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
     <link rel='dns-prefetch' href='//gstatic.com'/>
     <link rel='dns-prefetch' href='//ajax.googleapis.com'/>
@@ -28,6 +31,88 @@
     <link rel="stylesheet" href="../styles/footerstyle.css">
     <link rel="stylesheet" href="../styles/animations.css">
     <link rel="stylesheet" href="product-detail-styles.css">
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NZQJPVRS');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Open Graph and Twitter Cards -->
+    <meta property="og:title" content="Bill's Heating & A/C | Heat Pump VS AC 2024 Guide">
+    <meta property="og:description" content="The complete 2024 guide for choosing and comparing heat pumps and air conditioners. Covering differences, similarities, strengths, and weaknesses.">
+    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/heat-pump-vs-ac-social.webp">
+    <meta property="og:url" content="https://callbills.com/articles/ac-vs-heat-pump-2024-guide.php">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@BillsAir">
+    <meta name="twitter:title" content="Bill's Heating & A/C | Heat Pump VS AC 2024 Guide">
+    <meta name="twitter:description" content="The complete 2024 guide for choosing and comparing heat pumps and air conditioners. Covering differences, similarities, strengths, and weaknesses.">
+    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/heat-pump-vs-ac-summary.webp">
+
+    <!-- Schema Markup for York Y91E Product Page -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "York Y91E Single-Stage, Condensing Gas Furnace",
+  "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/york-furnace-image.webp",
+  "description": "The YORK® Y91E Compact Gas Furnace is engineered to provide exceptional comfort and efficiency for your home. With an impressive 96% AFUE rating, this furnace ensures maximum warmth from the fuel you pay for, significantly reducing your energy costs. Its compact 33-inch height allows for installation in tight spaces, making it a versatile choice for various home configurations.",
+  "sku": "Y91E",
+  "mpn": "Y91E",
+  "brand": {
+    "@type": "Brand",
+    "name": "York",
+    "logo": "https://callbillsheating.s3.us-west-2.amazonaws.com/york-logo.webp"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "York",
+    "logo": "https://callbillsheating.s3.us-west-2.amazonaws.com/york-logo.webp",
+    "url": "https://www.york.com/"
+  },
+  "url": "https://callbills.com/products/york-y91e.php",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "AFUE Rating",
+      "value": "96%"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Type",
+      "value": "Single-Stage, Condensing Gas Furnace"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Fuel Type",
+      "value": "Natural Gas or Propane"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Comfort Level",
+      "value": "90%"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "0.0",
+    "priceValidUntil": "2024-12-31",
+    "itemCondition": "https://schema.org/NewCondition",
+    "availability": "https://schema.org/InStock",
+    "url": "https://callbills.com/products/york-y91e.php"
+  },
+  "potentialAction": {
+    "@type": "Action",
+    "name": "Request a Quote",
+    "target": "https://callbills.com"
+  }
+}
+</script>
+
 </head>
 <body>
 
@@ -39,7 +124,7 @@
             <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/york-furnace-image.webp" alt="York Y91E Furnace">
         </div>
         <div class="product-summary">
-            <h1>York Y91E Single-Stage, Condensing Gas Furnace</h1>
+            <h1>York Y91E<br><span>Single-Stage, Condensing Gas Furnace</span></h1>
             <p>Available in Natural Gas or Propane</p>
             <div class="product-meters">
                 <div class="meter">
@@ -60,9 +145,9 @@
                 </div>
             </div>
             <div class="product-actions">
-                <a href="callbills.com/energy-calculator.php" class="action-link">Energy Calculator</a>
-                <a href="https://www.york.com/residential-equipment/heating-and-cooling/gas-furnaces/y91e_ds/y91e-96-afue-single-stage-furnace" class="action-link" target="_blank">Manufacturer's Website</a>
-                <a href="callbills.com/financing.php" class="action-link">Financing Available</a>
+                <a href="https://callbills.com/energy-calculator.php" class="action-link" target="_blank">Energy Calculator</a>
+                <a href="https://callbills.com/financing.php" class="action-link">Financing Options</a>
+                <button type="button" class="schedule-service-button open-form-button" id="estimateButton">Get An Estimate</button>
             </div>
         </div>
     </section>
@@ -76,10 +161,6 @@
         <p>Designed, engineered, and assembled in the United States, the Y91E furnace embodies quality craftsmanship and advanced technology. It features a single-stage gas valve and an ECM blower motor, delivering consistent and quiet airflow throughout your home. The integrated self-diagnostic control module simplifies maintenance by providing quick and accurate system diagnostics.</p>
     </section>
 
-    
-    <hr class="section-divider">
-
-    
     <section class="features-image">
         <img src="productimages\happy-family-on-couch.webp" alt="A happy and comfortable family laugh on the couch" width="1200" height="702">
     </section>
@@ -88,14 +169,14 @@
     <section class="product-features">
         <h2>Key Features</h2>
         <ul class="features-list">
-            <li><strong>High Efficiency:</strong> 96% AFUE rating helps you save on energy costs by utilizing more heat from the fuel.</li>
-            <li><strong>Compact Design:</strong> The 33-inch height fits into tight spaces, ideal for homes with limited installation areas.</li>
-            <li><strong>Airflow Excellence:</strong> Less than 2% airflow leakage ensures optimal performance and comfort.</li>
-            <li><strong>Enhanced Safety:</strong> 100% shut-off main gas valve provides an extra layer of safety for your home.</li>
-            <li><strong>Versatile Capacity:</strong> Available up to 120 MBH, with a 26 MBH option for multi-family housing applications.</li>
-            <li><strong>Energy-Saving Ignition:</strong> Hot-surface ignition system improves reliability and efficiency over traditional pilot lights.</li>
-            <li><strong>Smart Diagnostics:</strong> Integrated, self-diagnostic control module allows for quick troubleshooting and reduced downtime.</li>
-            <li><strong>Efficient Motor:</strong> 5-speed, direct-drive Standard ECM high-efficiency DC motor ensures quiet and efficient operation.</li>
+            <li><span>High Efficiency&colon;</span> 96% AFUE rating helps you save on energy costs by utilizing more heat from the fuel.</li>
+            <li><span>Compact Design&colon;</span> The 33-inch height fits into tight spaces, ideal for homes with limited installation areas.</li>
+            <li><span>Airflow Excellence&colon;</span> Less than 2% airflow leakage ensures optimal performance and comfort.</li>
+            <li><span>Enhanced Safety&colon;</span> 100% shut-off main gas valve provides an extra layer of safety for your home.</li>
+            <li><span>Versatile Capacity&colon;</span> Available up to 120 MBH, with a 26 MBH option for multi-family housing applications.</li>
+            <li><span>Energy-Saving Ignition&colon;</span> Hot-surface ignition system improves reliability and efficiency over traditional pilot lights.</li>
+            <li><span>Smart Diagnostics&colon;</span> Integrated, self-diagnostic control module allows for quick troubleshooting and reduced downtime.</li>
+            <li><span>Efficient Motor&colon;</span> 5-speed, direct-drive Standard ECM high-efficiency DC motor ensures quiet and efficient operation.</li>
         </ul>
     </section>
 
@@ -108,21 +189,21 @@
             <div class="product-downloads">
                 <h2>Downloads & Links</h2>
                 <ul>
-                    <li><a href="#" class="download-link">Product Brochure</a></li>
-                    <li><a href="#" class="download-link">Installation Manual</a></li>
-                    <li><a href="#" class="download-link">Spec Sheet</a></li>
-                    <li><a href="callbills.com/energy-calculator.php" class="download-link">Energy Calculator</a></li>
+                    <li><a href="https://callbillsheating.s3.us-west-2.amazonaws.com/york-y91e-brochure.pdf" class="download-link" target="_blank">Product Brochure</a></li>
+                    <li><a href="https://callbillsheating.s3.us-west-2.amazonaws.com/york-y91e-installation-manual.pdf" class="download-link" target="_blank">Installation Manual</a></li>
+                    <li><a href="https://callbillsheating.s3.us-west-2.amazonaws.com/york-y91e-techguide.pdf" class="download-link" target="_blank">Technical Guide</a></li>
+                    <li><a href="https://callbills.com/energy-calculator.php" class="download-link">Energy Calculator</a></li>
                     <li><a href="https://www.york.com/residential-equipment/heating-and-cooling/gas-furnaces/y91e_ds/y91e-96-afue-single-stage-furnace" class="download-link" target="_blank">Manufacturer's Website</a></li>
-                    <li><a href="callbills.com/financing.php" class="download-link">Financing Options</a></li>
+                    <li><a href="https://callbills.com/financing.php" class="download-link">Financing Options</a></li>
                 </ul>
             </div>
             <div class="product-warranty">
                 <h2>Warranty Information</h2>
                 <p>With a YORK® residential system, comfort is more than a feeling—it's a promise. YORK® home comfort systems are built to the highest standards and backed by industry-leading warranties, providing you with peace of mind for years to come.</p>
                 <ul>
-                    <li><strong>Lifetime Heat Exchanger Limited Warranty:</strong> Ensures long-term reliability and performance.</li>
-                    <li><strong>10-Year Parts Limited Warranty:</strong> Covers all functional parts to protect your investment.</li>
-                    <li><strong>10-Year Labor Guarantee:</strong> We stand behind our work with a comprehensive labor warranty.</li>
+                    <li><span>Lifetime Heat Exchanger Limited Warranty:</span> Ensures long-term reliability and performance.</li>
+                    <li><span>10-Year Parts Limited Warranty:</span> Covers all functional parts to protect your investment.</li>
+                    <li><span>10-Year Labor Guarantee:</span> We stand behind our work with a comprehensive labor warranty.</li>
                 </ul>
             </div>
         </div>
@@ -135,40 +216,52 @@
     <section class="product-faq">
         <h2>Frequently Asked Questions</h2>
         <div class="faq-item">
-            <button class="faq-question active">Is this the first question?</button>
+            <button class="faq-question active">What are the key features of the York Y91E furnace?</button>
             <div class="faq-answer" style="display: block;">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.</p>
+                <p>The York Y91E furnace is designed for efficient home heating. It features a high&dash;efficiency ECM motor for quieter operation and consistent temperatures. With an AFUE rating of up to 96%, it helps reduce energy consumption, saving you money on heating bills. Additionally, its compact design allows for flexible installation in various spaces.</p>
             </div>
         </div>
         <div class="faq-item">
-            <button class="faq-question">Is this the second question?</button>
+            <button class="faq-question">How energy-efficient is the York Y91E furnace?</button>
             <div class="faq-answer">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.</p>
+                <p>The Y91E furnace has an Annual Fuel Utilization Efficiency &#40;AFUE&#41; rating of up to 96%, which means it converts 96% of the fuel it consumes into usable heat. This high efficiency helps you save on energy costs compared to older, lower&dash;efficiency models. It&apos;s a great choice for homeowners looking to reduce their carbon footprint and heating expenses.</p>
             </div>
         </div>
         <div class="faq-item">
-            <button class="faq-question">Is this the third question?</button>
+            <button class="faq-question">Is the York Y91E furnace compatible with smart thermostats?</button>
             <div class="faq-answer">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.</p>
+                <p>Yes, the York Y91E furnace is compatible with most smart thermostats, including popular brands like Nest, Ecobee, and Honeywell. Pairing it with a smart thermostat can further enhance your system&apos;s energy efficiency by allowing for more precise control over your home&apos;s temperature and heating schedules. We include the latest generation NEST with all Y91E installations.</p>
             </div>
         </div>
         <div class="faq-item">
-            <button class="faq-question">Is this the fourth question?</button>
+            <button class="faq-question">What kind of maintenance does the York Y91E furnace require?</button>
             <div class="faq-answer">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.</p>
+                <p>To keep the York Y91E furnace running efficiently, it's recommended to schedule annual maintenance with a professional HVAC technician. Regular filter changes, checking the thermostat settings, and ensuring that the ventilation system is clear of obstructions can help maintain optimal performance. The annual maintenance service typically includes cleaning components, inspecting for wear and tear, and adjusting any settings as needed.
+                    To learn more about the benefits of maintenance <a href="https://callbills.com/articles/the-benefits-of-regular-hvac-maintenance.php">click here.</a>
+                </p>
             </div>
         </div>
         <div class="faq-item">
-            <button class="faq-question">Is this the fifth question?</button>
+            <button class="faq-question">Does the York Y91E furnace come with a warranty?</button>
             <div class="faq-answer">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.</p>
+                <p>Yes, the Y91E furnace comes with a limited lifetime heat exchanger warranty, a 10-year parts limited warranty, and a 10 year labor guarantee when registered within 90 days of installation. We handle the registration for you which ensures you are covered for any manufacturing defects and provides peace of mind regarding the furnace&apos;s long&dash;term performance.</p>
             </div>
         </div>
     </section>
-
-    <!-- Call to action and contact links will be added here -->
-
 </main>
+
+    <section class="get-started-outer">
+        <div class="get-started width-limiter">
+          <div class="get-started-image" data-animation="zoom-in-left"><img src="../images/truck-transparent-bg.webp" loading="lazy" alt="bills truck" width="571" height="347"></div>
+        <div class="lets-get-started" data-animation="zoom-in-right">
+          <h2>Want A Free Quote?</h2>
+          <a href="tel:+12087775528"><button type="button" class="call-us-button">Call Us</button></a>
+          <button type="button" class="schedule-service-button open-form-button" id="estimateButton">Get An Estimate</button>
+          <p>Contact Bill&apos;s Heating & A/C, your local HVAC experts, today for estimates, repairs, and service in the greater Spokane or Coeur d&apos; Alene area as well as the Lewiston, Clarkston, Moscow, Pullman, and surrounding areas.</p>
+        </div>
+        </div>
+      </section>
+
     <div class="body-form-overlay">
         <form class="body-form-container ajax-form" method="post">
               <div class="request-form-headline"><h3>Schedule Your FREE Estimate!</h3></div>

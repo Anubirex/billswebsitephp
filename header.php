@@ -16,7 +16,7 @@ $base_url = 'https://callbills.com/';
               <span></span>
           </div>
         </div>
-        <a href="<?php echo $base_url; ?>https://callbills.com/index.php"><img class="header-logo" alt="Bills Heating Logo" src="<?php echo $base_url; ?>images\header-logo-shadowed.webp" width="400" height="177"></a>
+        <a href="https://callbills.com/index.php"><img class="header-logo" alt="Bills Heating Logo" src="<?php echo $base_url; ?>images\header-logo-shadowed.webp" width="400" height="177"></a>
         <button class="schedule-service-button desktop-only" id="toggleFormButton">Schedule Service</button>
         <a href="tel:+12087775528" class="phone-number desktop-only"> 208-777-5528</a>
         <div class="burger-menu-container" id="burgerMenu">
@@ -228,130 +228,130 @@ $base_url = 'https://callbills.com/';
                       </div>
                         <ul class="service-submenu" role="menu">
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>cda.php"><span class="service-submenu-text">Coeur D&apos;Alene</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/cda.php"><span class="service-submenu-text">Coeur D&apos;Alene</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>pf.php"><span class="service-submenu-text">Post Falls</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/pf.php"><span class="service-submenu-text">Post Falls</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>hayden.php"><span class="service-submenu-text">Hayden</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/hayden.php"><span class="service-submenu-text">Hayden</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>rathdrum.php"><span class="service-submenu-text">Rathdrum</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/rathdrum.php"><span class="service-submenu-text">Rathdrum</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>athol.php"><span class="service-submenu-text">Athol</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/athol.php"><span class="service-submenu-text">Athol</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>sandpoint.php"><span class="service-submenu-text">Sandpoint</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/sandpoint.php"><span class="service-submenu-text">Sandpoint</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>pr.php"><span class="service-submenu-text">Priest River</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/pr.php"><span class="service-submenu-text">Priest River</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>sl.php"><span class="service-submenu-text">Spirit Lake</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/sl.php"><span class="service-submenu-text">Spirit Lake</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>moscow.php"><span class="service-submenu-text">Moscow</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/moscow.php"><span class="service-submenu-text">Moscow</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>lewiston.php"><span class="service-submenu-text">Lewiston</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/lewiston.php"><span class="service-submenu-text">Lewiston</span></a>
                           </li>
                         </ul>
                         <ul class="service-submenu" role="menu">
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>hauser.php"><span class="service-submenu-text">Hauser</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/hauser.php"><span class="service-submenu-text">Hauser</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>dg.php"><span class="service-submenu-text">Dalton Gardens</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/dg.php"><span class="service-submenu-text">Dalton Gardens</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>blanchard.php"><span class="service-submenu-text">Blanchard</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/blanchard.php"><span class="service-submenu-text">Blanchard</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>bayview.php"><span class="service-submenu-text">Bayview</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/bayview.php"><span class="service-submenu-text">Bayview</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>cocolalla.php"><span class="service-submenu-text">Cocolalla</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/cocolalla.php"><span class="service-submenu-text">Cocolalla</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>sagle.php"><span class="service-submenu-text">Sagle</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/sagle.php"><span class="service-submenu-text">Sagle</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>lapwai.php"><span class="service-submenu-text">Lapwai</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/lapwai.php"><span class="service-submenu-text">Lapwai</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>genesee.php"><span class="service-submenu-text">Genesee</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/genesee.php"><span class="service-submenu-text">Genesee</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>kendrick.php"><span class="service-submenu-text">Kendrick</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/kendrick.php"><span class="service-submenu-text">Kendrick</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>troy.php"><span class="service-submenu-text">Troy</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/troy.php"><span class="service-submenu-text">Troy</span></a>
                           </li>
                         </ul>
                         <ul class="service-submenu">
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>spokane.php"><span class="service-submenu-text">Spokane</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/spokane.php"><span class="service-submenu-text">Spokane</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>sv.php"><span class="service-submenu-text">Spokane Valley</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/sv.php"><span class="service-submenu-text">Spokane Valley</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>ll.php"><span class="service-submenu-text">Liberty Lake</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/ll.php"><span class="service-submenu-text">Liberty Lake</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>ml.php"><span class="service-submenu-text">Medical Lake</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/ml.php"><span class="service-submenu-text">Medical Lake</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>ah.php"><span class="service-submenu-text">Airway Heights</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/ah.php"><span class="service-submenu-text">Airway Heights</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>cheney.php"><span class="service-submenu-text">Cheney</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/cheney.php"><span class="service-submenu-text">Cheney</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>dp.php"><span class="service-submenu-text">Deer Park</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/dp.php"><span class="service-submenu-text">Deer Park</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>newport.php"><span class="service-submenu-text">Newport</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/newport.php"><span class="service-submenu-text">Newport</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>pullman.php"><span class="service-submenu-text">Pullman</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/pullman.php"><span class="service-submenu-text">Pullman</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>clarkston.php"><span class="service-submenu-text">Clarkston</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/clarkston.php"><span class="service-submenu-text">Clarkston</span></a>
                           </li>
                         </ul>
                         <ul class="service-submenu" role="menu">
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>oo.php"><span class="service-submenu-text">Otis Orchards</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/oo.php"><span class="service-submenu-text">Otis Orchards</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>nl.php"><span class="service-submenu-text">Newman Lake</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/nl.php"><span class="service-submenu-text">Newman Lake</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>mead.php"><span class="service-submenu-text">Mead</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/mead.php"><span class="service-submenu-text">Mead</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>spangle.php"><span class="service-submenu-text">Spangle</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/spangle.php"><span class="service-submenu-text">Spangle</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>nmf.php"><span class="service-submenu-text">Nine Mile Falls</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/nmf.php"><span class="service-submenu-text">Nine Mile Falls</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>asotin.php"><span class="service-submenu-text">Asotin</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/asotin.php"><span class="service-submenu-text">Asotin</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>uniontown.php"><span class="service-submenu-text">Uniontown</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/uniontown.php"><span class="service-submenu-text">Uniontown</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>pomeroy.php"><span class="service-submenu-text">Pomeroy</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/pomeroy.php"><span class="service-submenu-text">Pomeroy</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>chattaroy.php"><span class="service-submenu-text">Chattaroy</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/chattaroy.php"><span class="service-submenu-text">Chattaroy</span></a>
                           </li>
                           <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>colton.php"><span class="service-submenu-text">Colton</span></a>
+                            <a href="<?php echo $base_url; ?>serviceareas/colton.php"><span class="service-submenu-text">Colton</span></a>
                           </li>
                         </ul>
                     </div>
