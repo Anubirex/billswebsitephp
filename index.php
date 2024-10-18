@@ -12,6 +12,8 @@
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
     <link rel='dns-prefetch' href='//gstatic.com'/>
     <link rel='dns-prefetch' href='//ajax.googleapis.com'/>
+    <link rel='dns-prefetch' href='//google-analytics.com'/>
+    <link rel='dns-prefetch' href='//www.google-analytics.com'/>
     <link rel='dns-prefetch' href='//googletagmanager.com'/>
     <link rel='dns-prefetch' href='//www.googletagmanager.com'/>
     <link rel='dns-prefetch' href='//widgets.leadconnectorhq.com'/>
@@ -33,7 +35,7 @@
     <link rel="stylesheet" href="styles/animations.css">
 
     <!-- Google Tag Manager -->
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -43,32 +45,33 @@
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Top HVAC Company">
     <meta property="og:description" content="Full service heating and air conditioning company serving North Idaho and Eastern Washington. Lowest prices Guaranteed on all installs!">
-    <meta property="og:image" content="social-share-image.webp">
+    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg">
     <meta property="og:url" content="https://callbills.com">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Top HVAC Company">
     <meta name="twitter:description" content="Full service heating and air conditioning company serving North Idaho and Eastern Washington. Lowest prices Guaranteed on all installs!">
-    <meta name="twitter:image" content="summary-large-image.webp">
+    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
-        "@type": "HVACBusiness",
+        "@type": ["HVACBusiness", "LocalBusiness"],
         "name": "Bill's Heating & A/C",
         "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
         "@id": "https://callbills.com/",
         "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
+        "email": "mailto:info@callbills.com",
         "priceRange": "$$",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "1007 N Boulder ct.",
+          "streetAddress": "1007 N Boulder Ct.",
           "addressLocality": "Post Falls",
           "addressRegion": "ID",
-          "postalCode":"83854",
+          "postalCode": "83854",
           "addressCountry": "US"
         },
         "award": ["York 2023 Dealer of the Year", "Inlander North Idaho's Best HVAC Service 2023", "York Top Sales Growth Northwest Region 2020", "Top York Sales Northwest Region 2020", "Top York Sales Northwest Region 2019", "Mitsubishi Ductless Residential New Construction Excellence 2022-23", "Gensco Sales Excellence 2017 Platinum Level Mountain Region", "Gensco Sales Excellence 2018 Platinum Level Mountain Region", "Best Of Reader Poll 2023 Inander North Idaho"],
@@ -100,8 +103,16 @@
         ],
         "sameAs": [
         "https://www.facebook.com/billsheating",
-        "https://www.instagram.com/billsheatingandac"
+        "https://www.instagram.com/billsheatingandac",
+        "https://www.youtube.com/@billsheatingandac"
       ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+1-208-777-5528",
+        "contactType": "Customer Service",
+        "areaServed": "US",
+        "availableLanguage": ["English"]
+      },
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9", // 
@@ -172,7 +183,7 @@
     <section class="hero-outer">
           <div class="hero width-limiter">
             <div class="hero-body">
-            <h1>THE #1 HEATING AND COOLING CONTRACTOR IN THE NORTHWEST!</h1>
+              <h1>THE #1 HEATING AND COOLING CONTRACTOR IN THE NORTHWEST!</h1>
               <p>Full service HVAC, Plumbing, and Electric Company, serving Northern Idaho and Eastern Washington. <br>
                 We offer a lowest price guarentee as well as free second opinions.</p>
               <button type="button" class="schedule-service-button hero-button open-form-button" id="openFormButton">Get a Free Estimate Now!</button>
@@ -472,27 +483,27 @@
               <div class="loc-col">
                 <h2 data-animation="fade-in">Idaho</h2>
                 <ul>
-                  <li data-animation="fade-in"><a href="pf.php">Post Falls</a></li>
-                  <li data-animation="fade-in"><a href="cda.php">Coeur D&apos;Alene</a></li>
-                  <li data-animation="fade-in"><a href="hayden.php">Hayden</a></li>
-                  <li data-animation="fade-in"><a href="rathdrum.php">Rathdrum</a></li>
-                  <li data-animation="fade-in"><a href="athol.php">Athol</a></li>
-                  <li data-animation="fade-in"><a href="sandpoint.php">Sandpoint</a></li>
-                  <li data-animation="fade-in"><a href="pr.php">Priest River</a></li>
-                  <li data-animation="fade-in"><a href="sl.php">Spirit Lake</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/pf.php">Post Falls</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/cda.php">Coeur D&apos;Alene</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/hayden.php">Hayden</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/rathdrum.php">Rathdrum</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/athol.php">Athol</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/sandpoint.php">Sandpoint</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/pr.php">Priest River</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/sl.php">Spirit Lake</a></li>
                 </ul>
               </div>
               <div class="loc-col">
                 <h2 data-animation="fade-in">Washington</h2>
                 <ul>
-                  <li data-animation="fade-in"><a href="spokane.php">Spokane</a></li>
-                  <li data-animation="fade-in"><a href="sv.php">Spokane Valley</a></li>
-                  <li data-animation="fade-in"><a href="dp.php">Deer Park</a></li>
-                  <li data-animation="fade-in"><a href="newport.php">Newport</a></li>
-                  <li data-animation="fade-in"><a href="ll.php">Liberty Lake</a></li>
-                  <li data-animation="fade-in"><a href="ml.php">Medical Lake</a></li>
-                  <li data-animation="fade-in"><a href="ah.php">Airway Heights</a></li>
-                  <li data-animation="fade-in"><a href="cheney.php">Cheney</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/spokane.php">Spokane</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/sv.php">Spokane Valley</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/dp.php">Deer Park</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/newport.php">Newport</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/ll.php">Liberty Lake</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/ml.php">Medical Lake</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/ah.php">Airway Heights</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/cheney.php">Cheney</a></li>
                 </ul>
               </div>
             </div>
@@ -504,24 +515,24 @@
               <div class="loc-col">
                 <h2 data-animation="fade-in">Idaho</h2>
                 <ul>
-                  <li data-animation="fade-in"><a href="moscow.php">Moscow</a></li>
-                  <li data-animation="fade-in"><a href="lewiston.php">Lewiston</a></li>
-                  <li data-animation="fade-in"><a href="lapwai.php">Lapwai</a></li>
-                  <li data-animation="fade-in"><a href="genesee.php">Genesee</a></li>
-                  <li data-animation="fade-in"><a href="kendrick.php">Kendrick</a></li>
-                  <li data-animation="fade-in"><a href="troy.php">Troy</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/moscow.php">Moscow</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/lewiston.php">Lewiston</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/lapwai.php">Lapwai</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/genesee.php">Genesee</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/kendrick.php">Kendrick</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/troy.php">Troy</a></li>
                 </ul>
               </div>
               <div class="loc-col">
                 <h2 data-animation="fade-in">Washington</h2>
                 <ul>
-                  <li data-animation="fade-in"><a href="pullman.php">Pullman</a></li>
-                  <li data-animation="fade-in"><a href="clarkston.php">Clarkston</a></li>
-                  <li data-animation="fade-in"><a href="asotin.php">Asotin</a></li>
-                  <li data-animation="fade-in"><a href="uniontown.php">Uniontown</a></li>
-                  <li data-animation="fade-in"><a href="pomeroy.php">Pomeroy</a></li>
-                  <li data-animation="fade-in"><a href="chattaroy.php">Chattaroy</a></li>
-                  <li data-animation="fade-in"><a href="colton.php">Colton</a></li> 
+                  <li data-animation="fade-in"><a href="serviceareas/pullman.php">Pullman</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/clarkston.php">Clarkston</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/asotin.php">Asotin</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/uniontown.php">Uniontown</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/pomeroy.php">Pomeroy</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/chattaroy.php">Chattaroy</a></li>
+                  <li data-animation="fade-in"><a href="serviceareas/colton.php">Colton</a></li> 
                 </ul>
               </div>
             </div>

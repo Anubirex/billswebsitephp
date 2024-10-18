@@ -1,26 +1,10 @@
-/* Universal reset from existing stylesheets
-* {
-    margin: 0;
-    padding: 0;
-    font-size: 62.5%;
-    box-sizing: border-box;
-}
-p {
-    font-family: 'Poppins', sans-serif;
-    font-size: 1.6rem;
-}
-ul {
-    list-style-type: none;
-}
 
-Product Detail Page Styles 
-
-body {
+.main {
     font-family: 'Poppins', sans-serif;
     color: #333;
     line-height: 1.6;
 }
-*/
+
 main.product-detail {
     max-width: 1200px;
     margin: 0 auto;
@@ -31,6 +15,7 @@ main.product-detail {
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 40px;
+    margin-top: 3rem;
 }
 
 .product-image {
@@ -47,16 +32,23 @@ main.product-detail {
 .product-summary {
     flex: 1 1 60%;
     padding: 20px;
+    
 }
 
 .product-summary h1 {
-    font-size: 3rem;
+    font-size: 3.5rem;
     margin-bottom: 10px;
+  
+}
+.product-summary h1 span {
+    font-style: italic;
 }
 
 .product-summary p {
     font-size: 1.8rem;
     margin-bottom: 20px;
+    color: var(--COLOR-MAIN-DARK);
+    font-style: italic;
 }
 
 .product-meters {
@@ -78,41 +70,47 @@ main.product-detail {
     border-radius: 10px;
     overflow: hidden;
     height: 20px;
+    border: 1px solid #4c4c4c;
 }
 
 .meter-fill {
     height: 100%;
-    background-color: #76c7c0;
+    background-color: #c4c4c4;
 }
 
-.cost {
+.cost :first-child{
     font-size: 1.6rem;
 }
 
 .cost-value {
     color: #ff9900;
-    font-size: 2rem;
+    font-size: 2.5rem;
     margin-left: 5px;
 }
 
 .product-actions {
     margin-top: 20px;
 }
-
-.action-link {
+.product-actions .schedule-service-button,
+.action-link{
+    color: white;
+    background-image: none;
     display: inline-block;
     margin-right: 15px;
     margin-bottom: 10px;
     font-size: 1.6rem;
     color: #fff;
-    background-color: #007BFF;
+    background-color: var(--COLOR-MAIN-DARK);
     padding: 10px 15px;
     text-decoration: none;
     border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    border: none;
 }
-
-.action-link:hover {
-    background-color: #0056b3;
+.product-actions .schedule-service-button:hover,
+.action-link:hover{
+    background-color: var(--COLOR-MAIN-BRIGHT);
+    transform: none;
 }
 
 .section-divider {
@@ -135,6 +133,10 @@ main.product-detail {
 .product-faq h2 {
     font-size: 2.4rem;
     margin-bottom: 15px;
+    color: var(--COLOR-MAIN-DARK);
+}
+.product-features h2{
+    color: var(--COLOR-SECONDARY-DARK);
 }
 
 .product-description p {
@@ -151,6 +153,10 @@ main.product-detail {
 .features-image img {
     max-width: 100%;
     height: auto;
+}
+.faq-item a {
+    color: var(--COLOR-SECONDARY-BRIGHT);
+    font-size: 1.6rem;
 }
 
 /* Key Features Section with Two Columns */
@@ -170,6 +176,11 @@ main.product-detail {
 .features-list li {
     font-size: 1.6rem;
     margin-bottom: 10px;
+    color: #4c4c4c;
+}
+.features-list span{
+    color: var(--COLOR-MAIN-DARK);
+    font-size: 2rem;
 }
 
 /* Downloads and Warranty Styling */
@@ -183,7 +194,13 @@ main.product-detail {
     flex: 1 1 50%;
     padding: 20px;
 }
-
+.product-warranty{
+    background-color: var(--COLOR-MAIN-DARK);
+    color: white;
+}
+.product-warranty h2{
+    color: var(--COLOR-HIGHLIGHT-BRIGHT);
+}
 .product-downloads h2,
 .product-warranty h2 {
     font-size: 2.4rem;
@@ -203,7 +220,7 @@ main.product-detail {
 
 .download-link {
     font-size: 1.6rem;
-    color: #007BFF;
+    color: var(--COLOR-MAIN-BRIGHT);
     text-decoration: none;
 }
 
@@ -217,8 +234,15 @@ main.product-detail {
 }
 
 .product-warranty li {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     margin-bottom: 10px;
+    font-family: 'Poppins',sans-serif;
+    font-style: italic;
+}
+.product-warranty span{
+    font-size: 1.6rem;
+    font-family: 'Roboto',sans-serif;
+    color: var(--COLOR-HIGHLIGHT-BRIGHT)
 }
 
 /* FAQ Styling */
@@ -237,18 +261,20 @@ main.product-detail {
     font-size: 1.8rem;
     padding: 10px;
     border: none;
-    background-color: #f7f7f7;
+    background-color: #c4c4c4;
     cursor: pointer;
     outline: none;
     transition: background-color 0.3s;
 }
 
 .faq-question:hover {
-    background-color: #e0e0e0;
+    background-color: #4c4c4c;
+    color: white;
 }
 
 .faq-question.active {
-    background-color: #e0e0e0;
+    background-color: var(--COLOR-SECONDARY-DARK);
+    color: white;
 }
 
 .faq-answer {
@@ -260,7 +286,59 @@ main.product-detail {
 .faq-answer p {
     font-size: 1.6rem;
 }
-
+/*Get Started section */
+.get-started-outer{
+    background-color: var(--COLOR-MAIN-BRIGHT);
+  }
+.get-started {
+    display: flex;
+    height: 100%;
+    align-items: flex-start;
+    flex-wrap: wrap-reverse;
+}
+.get-started-image{
+    flex: 1 1 425px;
+    padding-bottom: 2rem;
+}
+.get-started-image img{
+    width: 90%;
+    height: auto;
+    padding: 2rem 1rem 2rem 5rem;
+}
+.lets-get-started {
+    flex: 1 1 425px;
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding: 2rem 3rem 4rem 3rem;
+}
+.get-started h2 {
+    font-size: 5rem;
+    color: white;
+    padding: 2rem;
+}
+.get-started p{
+    margin-top: 3rem;
+}
+.call-us-button{
+    background-color: transparent;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all .2s ease;
+    margin-top: 10px;
+    width: auto;
+    padding: 1rem 7.4rem;
+    font-size: 2rem;
+    border: 2px solid white;
+}
+.call-us-button:hover{
+    transform: scale(1.05);
+    background-color: var(--COLOR-MAIN-DARK);
+}
 /* Responsive Design */
 @media (max-width: 768px) {
     .product-overview,

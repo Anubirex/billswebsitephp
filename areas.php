@@ -415,32 +415,32 @@
         </div>
         <div data-animation="fadeIn" class="serv-areas-loc-cols-id width-limiter">
           <ul>
-            <a href="cda.php"><li>Coeur D&apos;Alene</li></a>
-            <a href="pf.php"><li>Post Falls</li></a>
-            <a href="hayden.php"><li>Hayden</li></a>
-            <a href="rathdrum.php"><li>Rathdrum</li></a>
-            <a href="athol.php"><li>Athol</li></a>
+            <a href="serviceareas/cda.php"><li>Coeur D&apos;Alene</li></a>
+            <a href="serviceareas/pf.php"><li>Post Falls</li></a>
+            <a href="serviceareas/hayden.php"><li>Hayden</li></a>
+            <a href="serviceareas/rathdrum.php"><li>Rathdrum</li></a>
+            <a href="serviceareas/athol.php"><li>Athol</li></a>
           </ul>
           <ul>
-            <a href="sandpoint.php"><li>Sandpoint</li></a>
-            <a href="pr.php"><li>Priest River</li></a>
-            <a href="sl.php"><li>Spirit Lake</li></a>
-            <a href="dg.php"><li>Dalton Gardens</li></a>
-            <a href="blanchard.php"><li>Blancahrd</li></a>
+            <a href="serviceareas/sandpoint.php"><li>Sandpoint</li></a>
+            <a href="serviceareas/pr.php"><li>Priest River</li></a>
+            <a href="serviceareas/sl.php"><li>Spirit Lake</li></a>
+            <a href="serviceareas/dg.php"><li>Dalton Gardens</li></a>
+            <a href="serviceareas/blanchard.php"><li>Blancahrd</li></a>
           </ul>
           <ul>
-            <a href="bayview.php"><li>Bayview</li></a>
-            <a href="cocolalla.php"><li>Cocolalla</li></a>
-            <a href="hauser.php"><li>Hauser</li></a>
-            <a href="sagle.php"><li>Sagle</li></a>
-            <a href="troy.php"><li>Troy</li></a>
+            <a href="serviceareas/bayview.php"><li>Bayview</li></a>
+            <a href="serviceareas/cocolalla.php"><li>Cocolalla</li></a>
+            <a href="serviceareas/hauser.php"><li>Hauser</li></a>
+            <a href="serviceareas/sagle.php"><li>Sagle</li></a>
+            <a href="serviceareas/troy.php"><li>Troy</li></a>
           </ul>
           <ul>
-            <a href="moscow.php"><li>Moscow</li></a>
-            <a href="lewiston.php"><li>Lewiston</li></a>
-            <a href="genesee.php"><li>Genesee</li></a>
-            <a href="kendrick.php"><li>Kendrick</li></a>
-            <a href="lapwai.php"><li>Lapwai</li></a>
+            <a href="serviceareas/moscow.php"><li>Moscow</li></a>
+            <a href="serviceareas/lewiston.php"><li>Lewiston</li></a>
+            <a href="serviceareas/genesee.php"><li>Genesee</li></a>
+            <a href="serviceareas/kendrick.php"><li>Kendrick</li></a>
+            <a href="serviceareas/lapwai.php"><li>Lapwai</li></a>
           </ul>
         </div>
         <div class="serv-areas-loc-title-wa width-limiter">
@@ -448,32 +448,32 @@
         </div>
         <div data-animation="fadeIn" class="serv-areas-loc-cols-wa width-limiter">
           <ul>
-            <a href="spokane.php"><li>Spokane</li></a>
-            <a href="sv.php"><li>Spokane Valley</li></a>
-            <a href="ah.php"><li>Airway Heights</li></a>
-            <a href="ml.php"><li>Medical Lake</li></a>
-            <a href="ll.php"><li>Liberty Lake</li></a>
+            <a href="serviceareas/spokane.php"><li>Spokane</li></a>
+            <a href="serviceareas/sv.php"><li>Spokane Valley</li></a>
+            <a href="serviceareas/ah.php"><li>Airway Heights</li></a>
+            <a href="serviceareas/ml.php"><li>Medical Lake</li></a>
+            <a href="serviceareas/ll.php"><li>Liberty Lake</li></a>
           </ul>
           <ul>
-            <a href="oo.php"><li>Otis Orchards</li></a>
-            <a href="cheney.php"><li>Cheney</li></a>
-            <a href="dp.php"><li>Deer Park</li></a>
-            <a href="newport.php"><li>Newport</li></a>
-            <a href="nl.php"><li>Newman Lake</li></a>
+            <a href="serviceareas/oo.php"><li>Otis Orchards</li></a>
+            <a href="serviceareas/cheney.php"><li>Cheney</li></a>
+            <a href="serviceareas/dp.php"><li>Deer Park</li></a>
+            <a href="serviceareas/newport.php"><li>Newport</li></a>
+            <a href="serviceareas/nl.php"><li>Newman Lake</li></a>
           </ul>
           <ul>
-            <a href="mead.php"><li>Mead</li></a>
-            <a href="nmf.php"><li>Nine Mile Falls</li></a>
-            <a href="chattaroy.php"><li>Chattaroy</li></a>
-            <a href="spangle.php"><li>Spangle</li></a>
-            <a href="pomeroy.php"><li>Pomeroy</li></a>
+            <a href="serviceareas/mead.php"><li>Mead</li></a>
+            <a href="serviceareas/nmf.php"><li>Nine Mile Falls</li></a>
+            <a href="serviceareas/chattaroy.php"><li>Chattaroy</li></a>
+            <a href="serviceareas/spangle.php"><li>Spangle</li></a>
+            <a href="serviceareas/pomeroy.php"><li>Pomeroy</li></a>
           </ul>
           <ul>
-            <a href="pullman.php"><li>Pullman</li></a>
-            <a href="clarkston.php"><li>Clarkston</li></a>
-            <a href="colton.php"><li>Colton</li></a>
-            <a href="uniontown.php"><li>Uniontown</li></a>
-            <a href="asotin.php"><li>Asotin</li></a>
+            <a href="serviceareas/pullman.php"><li>Pullman</li></a>
+            <a href="serviceareas/clarkston.php"><li>Clarkston</li></a>
+            <a href="serviceareas/colton.php"><li>Colton</li></a>
+            <a href="serviceareas/uniontown.php"><li>Uniontown</li></a>
+            <a href="serviceareas/asotin.php"><li>Asotin</li></a>
           </ul>
         </div>
       </section>

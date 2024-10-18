@@ -2,9 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Bill's Heating & A/C | HVAC Definitions</title>
-    <link rel="canonical" href="https://callbills.com/hvac-definitions.php">
-    <meta name="description" content="Explore our comprehensive HVAC glossary for clear, concise definitions of key terms and concepts in heating, ventilation, and air conditioning. Perfect for professionals and enthusiasts alike.">
+    <title>Bill's Heating & A/C | Promotion Terms</title>
+    <link rel="canonical" href="https://callbills.com/contest-rules.php">
+    <meta name="description" content="Official Terms and Conditions for the current promotion at Bill's Heating & A/C.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
@@ -28,16 +28,16 @@
   <!-- End Google Tag Manager -->
 
     <!-- Open Graph and Twitter Cards -->
-    <meta property="og:title" content="Bill's Heating & A/C | HVAC Definitions">
-    <meta property="og:description" content="Explore our comprehensive HVAC glossary for clear, concise definitions of key terms and concepts in heating, ventilation, and air conditioning. Perfect for professionals and enthusiasts alike.">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/definitions-social-share.webp">
-    <meta property="og:url" content="https://callbills.com/hvac-definitions.php">
+    <meta property="og:title" content="Bill's Heating & A/C | Promotion Terms">
+    <meta property="og:description" content="Official Terms and Conditions for the current promotion at Bill's Heating & A/C.">
+    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg">
+    <meta property="og:url" content="https://callbills.com/contest-rules.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | HVAC Definitions">
-    <meta name="twitter:description" content="Explore our comprehensive HVAC glossary for clear, concise definitions of key terms and concepts in heating, ventilation, and air conditioning. Perfect for professionals and enthusiasts alike.">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/definitions-summary-large-image.webp">
+    <meta name="twitter:description" content="Official Terms and Conditions for the current promotion at Bill's Heating & A/C.">
+    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/summary-large-image.webp">
 
     <!-- Schema Markup-->
         
@@ -53,13 +53,13 @@
                 <h1>Free Heat Pump Promotion</h1>
                 <p>Offical Terms and Conditions</p>
                 <figure>
-                    <img class="blog-main-image" src="images/SeptHP2.webp" alt="Wood Blocks that spell the word HVAC" width="1200" height="675">
+                    <img class="blog-main-image" src="images\SeptHP2.png" alt="Promotional Image shoing a heat pump system" width="1200" height="675">
                 </figure>
                 <div class="blog-share-article">
-                    <a href="https://www.facebook.com/sharer/sharer.php?u=https://callbills.com/hvac-definitions.php" target="_blank" class="share-button">Share on Facebook</a>
+                    <a href="https://www.facebook.com/sharer/sharer.php?u=https://callbills.com/contest-rules.php" target="_blank" class="share-button">Share on Facebook</a>
                     <div class="blog-author-container">
                         <div class="blog-author-profile">
-                            <img src="blogimages/author-picture-jacob.webp" alt="Jacob Darrah" class="blog-author-image" width="50" height="50">
+                            <img src="images\author-picture-jacob.webp" alt="Jacob Darrah" class="blog-author-image" width="50" height="50">
                             <div class="blog-author-details">
                                 <p><span class="blog-author-label">Author&colon;</span></p>
                                 <p><span class="blog-author-name">Jacob Darrah</span></p>
