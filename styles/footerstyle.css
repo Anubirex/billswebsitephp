@@ -27,7 +27,7 @@
   margin: 5px;
 }
 /* do not change blue and red around gonzaga, those are the red and blue we are legally required to use */
-.footer-gonzaga{
+.footer-gonzaga {
   border: 2px solid white;
   background-color: #041E42;
   box-shadow: 0 0 0 3px #C8102E;
@@ -44,29 +44,29 @@
   text-decoration: underline;
   color: var(--COLOR-MAIN-BRIGHT);
 }
-.footer-areas-list a:active{
-  color:var(--COLOR-SECONDARY-DARK);
+.footer-areas-list a:active {
+  color: var(--COLOR-SECONDARY-DARK);
 }
-.footer-nav{
+.footer-nav {
   padding-bottom: 1rem;
 }
-.footer-nav h2{
-  padding: 1rem ;
+.footer-nav h2 {
+  padding: 1rem;
   color: #2a2a2a;
   background-color: white;
 }
-.footer-social{
+.footer-social {
   max-height: 220px;
 }
-.footer-social h2{
+.footer-social h2 {
   padding: 1rem 2rem;
   border-bottom: 2px solid white;
 }
-.social-link-logos{
+.social-link-logos {
   display: flex;
   justify-content: center;
 }
-.social-link-logos img{
+.social-link-logos img {
   max-width: 60px;
   height: auto;
   flex: 1;
@@ -74,20 +74,20 @@
   transition: all 0.3s ease;
 }
 .social-link-logos img:hover,
-.social-link-logos img:focus{
+.social-link-logos img:focus {
   transform: scale(1.05);
   opacity: 80%;
 }
-.social-link-logos img:active{
-  transform: scale(.9);
+.social-link-logos img:active {
+  transform: scale(0.9);
   opacity: 75%;
 }
-.low-price-logo{
+.low-price-logo {
   max-width: 100px;
   height: auto;
 }
 .footer-location-icon {
-  fill: white;       
+  fill: white;
   width: 30px;
   height: 30px;
   margin-right: 2rem;
@@ -102,12 +102,12 @@
 .email-icon-main {
   stroke: white;
   fill: white;
-  width:20px;
+  width: 20px;
   height: 20px;
   margin-right: 1rem;
   margin-left: 12%;
 }
-.footer-contact a{
+.footer-contact a {
   color: white;
   text-decoration: none;
 }
@@ -118,7 +118,7 @@
 .footer-contact a:hover .footer-location-icon,
 .footer-contact a:focus .footer-location-icon,
 .footer-contact a:hover #email-icon,
-.footer-contact a:focus #email-icon{
+.footer-contact a:focus #email-icon {
   color: var(--COLOR-MAIN-BRIGHT);
   fill: var(--COLOR-MAIN-BRIGHT);
   stroke: var(--COLOR-MAIN-BRIGHT);
@@ -126,7 +126,7 @@
 .footer-contact a:active,
 .footer-contact a:active #phone-icon,
 .footer-contact a:active .footer-location-icon,
-.footer-contact a:active #email-icon{
+.footer-contact a:active #email-icon {
   color: var(--COLOR-SECONDARY-DARK);
   fill: var(--COLOR-SECONDARY-DARK);
   stroke: var(--COLOR-SECONDARY-DARK);
@@ -136,7 +136,7 @@
   color: #2a2a2a;
   background-color: white;
 }
-.footer-contact div{
+.footer-contact div {
   display: flex;
   padding: 1rem;
   justify-content: center;
@@ -161,54 +161,54 @@
   width: 100vw;
 }
 .license-columns {
-  display: flex; 
+  display: flex;
 }
 .license {
-  flex: 1; 
+  flex: 1;
   list-style: none;
 }
-.license a{
+.license a {
   text-decoration: none;
-  font-size: .9rem;
+  font-size: 0.9rem;
   color: white;
-} 
-.license a:hover, 
-.license a:focus{
+}
+.license a:hover,
+.license a:focus {
   color: var(--COLOR-MAIN-BRIGHT);
 }
-.license a:active{
+.license a:active {
   color: var(--COLOR-SECONDARY-DARK);
 }
 .footer-license h3 {
   font-size: 1.5rem;
-  padding: .25rem;
+  padding: 0.25rem;
 }
 .footer-license li {
   font-family: 'Poppins', sans-serif;
-  font-size: .9rem;
+  font-size: 0.9rem;
 }
-.license-idaho li:first-child::before{
-  content: "HVAC";
+.license-idaho li:first-child::before {
+  content: 'HVAC';
   color: #7ab6e6;
   margin-right: 1rem;
 }
-.license-idaho li:nth-child(2)::before{
-  content: "Electrical";
+.license-idaho li:nth-child(2)::before {
+  content: 'Electrical';
   color: #7ab6e6;
   margin-right: 2.1rem;
 }
-.license-idaho li:nth-child(3)::before{
-  content: "Plumbing";
+.license-idaho li:nth-child(3)::before {
+  content: 'Plumbing';
   color: #7ab6e6;
   margin-right: 1.7rem;
 }
-.license-wa li:first-child::before{
-  content: "Contractor";
+.license-wa li:first-child::before {
+  content: 'Contractor';
   color: #7ab6e6;
   margin-right: 1rem;
 }
-.license-wa li:last-child::before{
-  content: "Electrical";
+.license-wa li:last-child::before {
+  content: 'Electrical';
   color: #7ab6e6;
   margin-right: 1.1rem;
 }
@@ -217,26 +217,26 @@
   font-size: 1rem;
   justify-content: center;
 }
-.footer-bottom a{
+.footer-bottom a {
   text-decoration: none;
   font-size: 1rem;
   color: white;
 }
-.footer-bottom a:hover{
+.footer-bottom a:hover {
   color: var(--COLOR-MAIN-BRIGHT);
 }
 .hr-style-1 {
   width: 80%;
   max-width: 200px;
   margin: 0 auto;
-  border: 0; 
+  border: 0;
   height: 1px;
   background-color: white;
 }
 .hr-style-2 {
   width: 80%;
   margin: 0 auto;
-  border: 0; 
+  border: 0;
   height: 1px;
   background-color: white;
 }
@@ -244,23 +244,17 @@ footer img {
   max-width: 50%;
   height: auto;
 }
-.chat-widget{
+.chat-widget {
   font-size: 1.6rem;
 }
 /* /////////////END OF FOOTER/////////////////////////////////////*/
-@media screen and (max-width:768px) { 
-.desktop-only{
-  display: none;
+@media screen and (max-width: 768px) {
+  .desktop-only {
+    display: none;
   }
-.social-sidebar{
-  display: none;
+  .chat-widget {
+    display: none;
+  }
 }
-.chat-widget {
-  display: none;
-}
-}
-@media screen and (min-width: 769px) and (max-width: 972px){
-.social-sidebar{
-  display: none;
-}
+@media screen and (min-width: 769px) and (max-width: 972px) {
 }

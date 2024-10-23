@@ -1,57 +1,4 @@
-* {
-  margin: 0;
-  padding: 0;
-  font-size: 62.5%;
-  box-sizing: border-box
-}
-:root {
-  --COLOR-MAIN-BRIGHT: #2c8ddb;
-  --COLOR-MAIN-DARK: #003a71;
-  --COLOR-SECONDARY-BRIGHT: #db2d28;
-  --COLOR-SECONDARY-DARK: #9f161c;
-  --COLOR-HIGHLIGHT-BRIGHT: #ead422;
-  --COLOR-HIGHLIGHT-DARK: #dea724
-}
-html{
-  scroll-behavior: smooth;
-}
-main, section{
-  overflow-x: hidden;
-}
-.width-limiter {
-  max-width: 1250px;
-  width: 98%;
-  margin: auto;
-}
-.nowrap{
-  white-space: nowrap;
-}
-.no-scroll {
-  overflow: hidden;
-  height: 100%;
-  width: 100%;
-  position: fixed;
-}
-.img-shadow{
-  box-shadow: 2px 2px 5px black;
-}
-.img-border{
-  border: .5rem solid white;
-}
-body,button {
-  font-family: 'Roboto',sans-serif;
-  background-color: #fff
-}
 
-p {
-  font-family: 'Poppins',sans-serif;
-  font-size: 1.6rem
-}
-
-ul {
-  list-style-type: none
-}
-/* ///////////////////////////END ulitity classes\\\\\\\\\\\\\\\\\\\\\\\*/
 .furnace-hero {
   background-color: var(--COLOR-MAIN-DARK);
   background-image: url(https://callbillsheating.s3.us-west-2.amazonaws.com/lighted-bg.webp);
@@ -83,7 +30,7 @@ ul {
   font-size: 6rem;
   color: var(--COLOR-HIGHLIGHT-BRIGHT);
 }
-.furnace-hero-content-headline + h1 {
+.furnace-hero-content-headline + h1{
   font-size: 4.4rem;
   color: var(--COLOR-HIGHLIGHT-BRIGHT);
 }

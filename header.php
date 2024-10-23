@@ -358,7 +358,7 @@ $base_url = 'https://callbills.com/';
                 </li>
           </ul>
         </li>
-        <li class="menu-item" role="menuitem"><a href="<?php echo $base_url; ?>products.php"><span class="menu-text">Products</span></a></li>
+        <li class="menu-item" role="menuitem"><a href="<?php echo $base_url; ?>equipment.php"><span class="menu-text">Equipment</span></a></li>
         <li class="menu-item" role="menuitem"><a href="<?php echo $base_url; ?>learninghub.php"><span class="menu-text">Learning Hub</span></a></li>
         <li class="menu-item" role="menuitem"><a href="<?php echo $base_url; ?>financing.php"><span class="menu-text">Financing</span></a></li>
         <li class="menu-item" role="menuitem"><a href="<?php echo $base_url; ?>savings.php"><span class="menu-text">Savings</span></a></li>
@@ -431,7 +431,7 @@ $base_url = 'https://callbills.com/';
       <a href="<?php echo $base_url; ?>index.php" role="menuitem"><li class="bm-main-menu-item"><span class="bm-main-menu-text">Home</span></li></a>
       <a role="menuitem"><li class="bm-main-menu-item"><span class="bm-main-menu-text">Services</span></li></a>
       <a href="<?php echo $base_url; ?>areas.php" role="menuitem"><li class="bm-main-menu-item"><span class="bm-main-menu-text">Service Areas</span></li></a>
-      <a href="<?php echo $base_url; ?>products.php" role="menuitem"><li class="bm-main-menu-item"><span class="bm-main-menu-text">Products</span></li></a>
+      <a href="<?php echo $base_url; ?>equipment.php" role="menuitem"><li class="bm-main-menu-item"><span class="bm-main-menu-text">Equipment</span></li></a>
       <a href="<?php echo $base_url; ?>learninghub.php" role="menuitem"><li class="bm-main-menu-item"><span class="bm-main-menu-text">Learning Hub</span></li></a>
       <a href="<?php echo $base_url; ?>financing.php" role="menuitem"><li class="bm-main-menu-item"><span class="bm-main-menu-text">Financing</span></li></a>
       <a href="<?php echo $base_url; ?>savings.php" role="menuitem"><li class="bm-main-menu-item"><span class="bm-main-menu-text">Savings</span></li></a>
