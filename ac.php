@@ -28,9 +28,9 @@
     <link rel="preload" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap"></noscript>
-    <link rel="stylesheet" href="styles/equiplpcritical.css">
     <link rel="stylesheet" href="styles/headerstyle.css">
     <link rel="stylesheet" href="styles/footerstyle.css">
+    <link rel="stylesheet" href="styles/equiplpcritical.css">
     <link rel="stylesheet" href="styles/animations.css">
 
     <!-- Google Tag Manager -->
@@ -173,7 +173,7 @@
     <section class="furnace-hero">
         <div class="furnace-hero-container width-limiter">
             <div class="furnace-hero-content">
-            <h1 class="furnace-hero-content-headline ac-directory-headline">Air Conditioning</h1><h1>At Bill&apos;s Heating and AC</h1>
+                <h1 class="furnace-hero-content-headline ac-directory-headline">Air Conditioning</h1><h1>At Bill&apos;s Heating and AC</h1>
                 <p>Welcome to Bill&apos;s Heating and AC, where your comfort is our top priority. We specialize in providing high&dash;quality, affordable air conditioning solutions. Our team of expert technicians, known for their skill and reliability, is dedicated to offering you the best in cooling system installation and maintenance. We&apos;re not just another HVAC company&semi; we&apos;re your local partners in ensuring a cool, comfortable environment in your home.</p>
             </div>
             <!-- Hero IMG NEEDS optimized, -30% performance from just the one img -->

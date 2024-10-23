@@ -14,7 +14,7 @@ function getSelectedCheckboxValues(container) {
 
 async function fetchProducts() {
     try {
-        const response = await fetch('products.json');
+        const response = await fetch('productlist.json');
         products = await response.json();
         displayProducts(products);
     } catch (error) {

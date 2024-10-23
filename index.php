@@ -29,11 +29,11 @@
     <link rel="preload" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap"></noscript>
-    <link rel="stylesheet" href="styles/indexcritical.css">
     <link rel="stylesheet" href="styles/headerstyle.css">
     <link rel="stylesheet" href="styles/footerstyle.css">
+    <link rel="stylesheet" href="styles/indexcritical.css">
     <link rel="stylesheet" href="styles/animations.css">
-
+    
     <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -276,8 +276,8 @@
             </div>
           </div>
         </div>
-        <section>
-        <div class="our-services-header"><h2>We&apos;ve Got You Covered</h2></div>
+        <section class="our-services-outer">
+        <div class="our-services-header width-limiter"><h2>We&apos;ve Got You Covered</h2></div>
         <div class="our-services">
           <div class="our-services-container">
             <div class="os-cards" data-animation="slide-in-card-1"><a href="services.php">
@@ -295,6 +295,7 @@
           </div>
         </div>
       </section>
+      <div class="brag-outer">
         <section class="brag-container width-limiter">
           <div class="counter-container">
             <div id="yearsOfService" class="counter" data-target="33">0</div>
@@ -313,6 +314,7 @@
               <span class="part-of-counter">&#x207A;</span><h2> Awards<br>Won</h2>
           </div>
         </section>
+      </div>
       </main>
       <section class="get-started-outer">
         <div class="get-started width-limiter">
