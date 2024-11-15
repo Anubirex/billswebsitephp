@@ -21,10 +21,10 @@
     <link rel=preconnect href="https://www.google.com">
     <link rel=preconnect href="https://googleads.g.doubleclick.net">
     <link rel=preconnect href="https://widgets.leadconnectorhq.com">
-    <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
-    <link rel="icon" type="image/webp" sizes="32x32" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-32x32.webp">
-    <link rel="icon" type="image/svg+xml" href="https://callbillsheating.s3.us-west-2.amazonaws.com/large-favicon.svg">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon180x180.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="icon" type="image/webp" sizes="32x32" href="images/favicon-32x32.webp">
+    <link rel="icon" type="image/svg+xml" href="images/large-favicon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon180x180.png">
     <link rel="preload" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap"></noscript>
@@ -44,14 +44,14 @@
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Sandpoint, Idaho">
     <meta property="og:description" content="Bill's Heating & A/C in Sandpoint, ID: Specialized HVAC for all climates. Custom comfort solutions, no travel fees, $79 diagnostics, high satisfaction.">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/sandpoint-social-share.webp">
+    <meta property="og:image" content="images/sandpoint-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/sandpoint.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Sandpoint, Idaho">
     <meta name="twitter:description" content="Bill's Heating & A/C in Sandpoint, ID: Specialized HVAC for all climates. Custom comfort solutions, no travel fees, $79 diagnostics, high satisfaction.">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/sandpoint-summary-large-image.webp">
+    <meta name="twitter:image" content="images/sandpoint-summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -59,7 +59,7 @@
         "@context": "https://schema.org",
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
+        "image": "images/sandpoint-social-share.webp",
         "@id": "https://callbills.com/",
         "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
@@ -512,7 +512,7 @@
                 <p>Thank you for your submission!</p>
             </div>
           </div>
-          <?php include '../footer.php'; ?>  
+          <?php include '../footer.php'; ?> 
           <script defer src="scripts/src.js"></script> 
           <script defer src="scripts/search.js"></script>
           <script defer src="scripts/photogallery.js"></script>

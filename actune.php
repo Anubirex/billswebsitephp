@@ -7,10 +7,10 @@
     <meta name="description" content="Get expert AC tune-ups with Bill's Heating and AC. Ensure efficiency and comfort with our specialized maintenance services. Over 3000 five-star reviews.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
-    <link rel="icon" type="image/webp" sizes="32x32" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-32x32.webp">
-    <link rel="icon" type="image/svg+xml" href="https://callbillsheating.s3.us-west-2.amazonaws.com/large-favicon.svg">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon180x180.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="icon" type="image/webp" sizes="32x32" href="images/favicon-32x32.webp">
+    <link rel="icon" type="image/svg+xml" href="images/large-favicon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon180x180.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" rel="stylesheet">
@@ -30,14 +30,14 @@
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | AC Tune-ups">
     <meta property="og:description" content="Get expert AC tune-ups with Bill's Heating and AC. Ensure efficiency and comfort with our specialized maintenance services. Over 3000 five-star reviews.">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/ac-main-social-share.webp">
+    <meta property="og:image" content="images/ac-main-social-share.webp">
     <meta property="og:url" content="https://callbills.com/actune.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | AC Tune-ups">
     <meta name="twitter:description" content="Get expert AC tune-ups with Bill's Heating and AC. Ensure efficiency and comfort with our specialized maintenance services. Over 3000 five-star reviews.">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/ac-main-summary-large-image.webp">
+    <meta name="twitter:image" content="images/ac-main-summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -45,7 +45,7 @@
         "@context": "https://schema.org",
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
+        "image": "images/ac-main-social-share.webp",
         "@id": "https://callbills.com/",
         "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
@@ -160,6 +160,7 @@
         <div class="diag-page-inner-section-one hero width-limiter">
             <div>
             <h1>Stay Cool and Worry&dash;Free This Summer with Bill&apos;s Heating and AC</h1>
+            <img class="diag-page-hero-image" src="blogimages\heat-pump-guide-maintenance.webp" alt="an air conditioning technician smiles" width="800" height="259">
               <p>Experience the Best in Air Conditioner Tune&dash;Ups! Over 3000 Five&dash;Star Reviews</p> 
               <button class="schedule-service-button open-form-button">Schedule Service</button>
             </div>

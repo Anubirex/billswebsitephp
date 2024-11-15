@@ -20,16 +20,16 @@
     <link rel=preconnect href="https://www.google.com">
     <link rel=preconnect href="https://googleads.g.doubleclick.net">
     <link rel=preconnect href="https://widgets.leadconnectorhq.com">
-    <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
-    <link rel="icon" type="image/webp" sizes="32x32" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-32x32.webp">
-    <link rel="icon" type="image/svg+xml" href="https://callbillsheating.s3.us-west-2.amazonaws.com/large-favicon.svg">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon180x180.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="icon" type="image/webp" sizes="32x32" href="images/favicon-32x32.webp">
+    <link rel="icon" type="image/svg+xml" href="images/large-favicon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon180x180.png">
     <link rel="preload" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap"></noscript>
-    <link rel="stylesheet" href="styles/generatorcritical.css">
     <link rel="stylesheet" href="styles/headerstyle.css">
     <link rel="stylesheet" href="styles/footerstyle.css">
+    <link rel="stylesheet" href="styles/generatorcritical.css">
     <link rel="stylesheet" href="styles/animations.css">
 
     <!-- Google Tag Manager -->
@@ -43,14 +43,14 @@
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Generac Generators">
     <meta property="og:description" content="Discover reliable Generac whole-home standby generators with Bill's Heating and AC. Expert installation, free estimates, and top models for uninterrupted power.">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/generator-social-share.webp">
+    <meta property="og:image" content="images/generator-social-share.webp">
     <meta property="og:url" content="https://callbills.com/generator.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Generac Generators">
     <meta name="twitter:description" content="Discover reliable Generac whole-home standby generators with Bill's Heating and AC. Expert installation, free estimates, and top models for uninterrupted power.">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/generator-summary-large-image.webp">
+    <meta name="twitter:image" content="images/generator-summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -58,7 +58,7 @@
         "@context": "https://schema.org",
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
+        "image": "images/generator-social-share.webp",
         "@id": "https://callbills.com/",
         "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
@@ -189,7 +189,7 @@
         <div class="faq-body">
             <div class="faq-col-1">
                 <ul>
-                    <li><a href=#>How much does a generator cost?</a></li>
+                    <li><a href=#estimateButton>How much does a generator cost?</a></li>
                     <li><a href=#choose-a-generac>Why should I choose a Generac Generator?</a></li>
                     <li><a href=#generac-install-process>What is the installation process like?</a></li>
                 </ul>
@@ -215,7 +215,7 @@
             </div>
         </div>
         </section>
-        <section class="areas-commitment  black-orange-gradient">
+        <section class="areas-commitment">
           <div class="areas-commitment-container width-limiter">
               <div class="areas-commitment-img" data-animation="zoom-in-left">
                   <img class="twobyone-image" src="blogimages/shaking-hands.webp" alt="A Bill's Heating generator installer is shaking hand with a woman at the front door to her home." loading="lazy" width="600" height="300">
@@ -226,16 +226,17 @@
               </div>
           </div>
     </section>
-      <section class="furn-inst-process-section orange-to-white">
+      <section class="furn-inst-process-section">
         <h2 class="furn-install-installation-process" id="furn-install-installation-process">Expert Installation and Comprehensive Service</h2>
         <div class="furn-install-process width-limiter">
           <div class="furn-inst-process-body-content">
-            <img data-animation="zoom-in-down" src="images/generac-installers.webp" alt="An electrician and plumber from Bill's Heating and AC setting a Generac Generator in place." loading="lazy" loading="lazy" width="400" height="267">
-          <p>Our team comprises experienced professionals, including licensed electricians and HVAC technicians, who are well-versed in high&dash;quality generator installations. This expertise ensures a quick turnaround time, thanks to our well-stocked inventory. We provide a comprehensive service package, from the initial assessment to post-installation support, ensuring your complete satisfaction.</p>
+            
+          <p>Our team comprises experienced professionals, including licensed electricians and HVAC technicians, who are well-versed in high&dash;quality generator installations. This expertise ensures a quick turnaround time, thanks to our well-stocked inventory. We provide a comprehensive service package, from the initial assessment to post-installation support, ensuring your complete satisfaction.
+            <br><br>Prepare for unforeseen power outages with a Generac generator from Bill&apos;s Heating and AC. Contact us today to schedule your free estimate and discover the right Generac solution for your home. Our dedicated team is ready to equip your home with a dependable power backup solution.
+          </p>
             </div>
             <div class="furn-inst-process-body-content">
-            <img data-animation="zoom-in-down" src="images/house-in-storm.webp" alt="In the middle of a storm, a house has its light on thanks to a whole home generator." loading="lazy" loading="lazy" width="400" height="266"><p>
-                Prepare for unforeseen power outages with a Generac generator from Bill&apos;s Heating and AC. Contact us today to schedule your free estimate and discover the right Generac solution for your home. Our dedicated team is ready to equip your home with a dependable power backup solution.</p>
+              <img data-animation="zoom-in-down" src="images/generac-installers.webp" alt="An electrician and plumber from Bill's Heating and AC setting a Generac Generator in place." loading="lazy" loading="lazy" width="400" height="267">
         </div>
         </div>
       </section>
@@ -262,6 +263,7 @@
         <div class="whats-next-title width-limiter">
             <h2 class="furn-install-after-install" id="generator-after-install">What Happens After Installation? </h2>
             <h2>&mdash;Your Satisfaction, Our Priority&mdash;</h2>
+            <img src="products/productimages/happy-family-on-couch.webp" width="1200" height="702" alt="A happy family on the couch enjoying having the power on">
             <p>Post-installation, our commitment to excellence and customer satisfaction continues. We ensure
                 every step is taken to guarantee your confidence and comfort with your new furnace installation.</p>
         </div>
@@ -294,13 +296,13 @@
         </div>
         <div class="whats-next-body whats-next-body-bottom width-limiter generator-quote"><p>By structuring our post-installation process this way, we make certain that every aspect of our
             work is up to the mark, and that you, as our customer, are fully satisfied and knowledgeable about
-            your new standby generator.</p></div>
+            your new standby generator!</p></div>
       </section>
       <section class="get-started-outer">
         <div class="get-started width-limiter">
             <div class="get-started-image" data-animation="zoom-in-left"><img loading="lazy" src="images/truck-transparent-bg.webp" alt="bills truck" width="571" height="347"></div>
             <div class="lets-get-started" data-animation="zoom-in-right">
-                <h2>Lets Get Started!</h2>
+                <h2>Get A Free Quote!</h2>
                 <a href="tel:+12087775528"><button type="button" class="call-us-button">Call Us</button></a>
                 <button type="button" class="schedule-service-button open-form-button" id="estimateButton">Get An Estimate</button>
                 <p>Contact Bill&apos;s Heating & A/C, your local HVAC experts, today for estimates, repairs, and service in the greater Spokane or Coeur d&apos; Alene area as well as the Lewiston, Clarkston, Moscow, Pullman, and surrounding areas.</p>

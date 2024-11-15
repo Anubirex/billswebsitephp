@@ -3,9 +3,9 @@
   <head>
     <base href="https://callbills.com/">
     <meta charset="UTF-8">
-    <title>Bill's Heating & A/C | Best HVAC in Colton, WA</title>
-    <link rel="canonical" href="https://callbills.com/serviceareas/colton.php">
-    <meta name="description" content="Bill's Heating & A/C in Colton, WA: Custom HVAC for chilly winters & warm summers. Efficient, no-fee service, $79 diagnostics. Superior comfort all year.">
+    <title>Bill's Heating & A/C | Best HVAC in Dalton Gardens, Idaho</title>
+    <link rel="canonical" href="https://callbills.com/serviceareas/dg.php">
+    <meta name="description" content="Bill's Heating & A/C in Dalton Gardens, ID: Specialized HVAC for chilly winters & mild summers. Efficient service, $79 diagnostics, ensuring year-round comfort.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -21,10 +21,10 @@
     <link rel=preconnect href="https://www.google.com">
     <link rel=preconnect href="https://googleads.g.doubleclick.net">
     <link rel=preconnect href="https://widgets.leadconnectorhq.com">
-    <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
-    <link rel="icon" type="image/webp" sizes="32x32" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-32x32.webp">
-    <link rel="icon" type="image/svg+xml" href="https://callbillsheating.s3.us-west-2.amazonaws.com/large-favicon.svg">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon180x180.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="icon" type="image/webp" sizes="32x32" href="images/favicon-32x32.webp">
+    <link rel="icon" type="image/svg+xml" href="images/large-favicon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon180x180.png">
     <link rel="preload" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap"></noscript>
@@ -42,16 +42,16 @@
   <!-- End Google Tag Manager -->
 
     <!-- Open Graph and Twitter Cards -->
-    <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Colton, WA">
-    <meta property="og:description" content="Bill's Heating & A/C in Colton, WA: Custom HVAC for chilly winters & warm summers. Efficient, no-fee service, $79 diagnostics. Superior comfort all year.">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/colton-social-share.webp">
-    <meta property="og:url" content="https://callbills.com/serviceareas/colton.php">
+    <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Dalton Gardens, Idaho">
+    <meta property="og:description" content="Bill's Heating & A/C in Dalton Gardens, ID: Specialized HVAC for chilly winters & mild summers. Efficient service, $79 diagnostics, ensuring year-round comfort.">
+    <meta property="og:image" content="images/dg-social-share.webp">
+    <meta property="og:url" content="https://callbills.com/serviceareas/dg.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
-    <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Colton, WA">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Colton, WA: Custom HVAC for chilly winters & warm summers. Efficient, no-fee service, $79 diagnostics. Superior comfort all year.">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/colton-summary-large-image.webp">
+    <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Dalton Gardens, Idaho">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Dalton Gardens, ID: Specialized HVAC for chilly winters & mild summers. Efficient service, $79 diagnostics, ensuring year-round comfort.">
+    <meta name="twitter:image" content="images/dg-summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -59,26 +59,26 @@
         "@context": "https://schema.org",
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
+        "image": "images/dg-social-share.webp",
         "@id": "https://callbills.com/",
         "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
         "priceRange": "$$",
         "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "1332 G St.",
-            "addressLocality": "Lewiston",
-            "addressRegion": "ID",
-            "postalCode":"83501",
-            "addressCountry": "US"
-          },
-          "award": ["York 2023 Dealer of the Year", "Inlander North Idaho's Best HVAC Service 2023", "York Top Sales Growth Northwest Region 2020", "Top York Sales Northwest Region 2020", "Top York Sales Northwest Region 2019", "Mitsubishi Ductless Residential New Construction Excellence 2022-23", "Gensco Sales Excellence 2017 Platinum Level Mountain Region", "Gensco Sales Excellence 2018 Platinum Level Mountain Region", "Best Of Reader Poll 2023 Inander North Idaho"],
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 46.41670,
-            "longitude": -117.01430
-          },
-          "areaServed":"Colton, WA",
+          "@type": "PostalAddress",
+          "streetAddress": "1007 N Boulder ct.",
+          "addressLocality": "Post Falls",
+          "addressRegion": "ID",
+          "postalCode":"83854",
+          "addressCountry": "US"
+        },
+        "award": ["York 2023 Dealer of the Year", "Inlander North Idaho's Best HVAC Service 2023", "York Top Sales Growth Northwest Region 2020", "Top York Sales Northwest Region 2020", "Top York Sales Northwest Region 2019", "Mitsubishi Ductless Residential New Construction Excellence 2022-23", "Gensco Sales Excellence 2017 Platinum Level Mountain Region", "Gensco Sales Excellence 2018 Platinum Level Mountain Region", "Best Of Reader Poll 2023 Inander North Idaho"],
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 47.718688,
+          "longitude": -116.999777
+        },
+        "areaServed":"Dalton Gardens, ID",
         "openingHoursSpecification": [
           {
             "@type": "OpeningHoursSpecification",
@@ -171,61 +171,64 @@
   <!-- End Google Tag Manager (noscript) -->
         <?php include '../header.php'; ?>
           <section class="areas-hero">
-            <img class="hero-image" src="images/colton-header-800w.webp"
-                srcset="images/colton-header-450w.webp 450w, 
-                        images/colton-header-800w.webp 800w, 
-                        images/colton-header-2000w.webp 2000w"
+            <img class="hero-image" src="images/dg-header-800w.webp"
+                srcset="images/dg-header-450w.webp 450w, 
+                        images/dg-header-800w.webp 800w, 
+                        images/dg-header-1000w.webp 1000w"
                 sizes="(max-width: 450px) 450px, 
                        (max-width: 799px) 800px, 
-                        2000px"
-                alt="Background photo of Colton, WA"
-                width="800" height="600"
+                        1000px"
+                alt="Background photo of Dalton Gardens, Idaho"
+                width="800" height="450"
                 class="hero-image" aria-hidden="true">
             <div class="areas-hero-inner width-limiter">
               <div class="areas-hero-container width-limiter">
-                <h1>Colton, WA</h1>
-                <div class="responsive-video">
-                  <div class="video-wrapper" onclick="loadVideo(this, 'https://www.youtube.com/embed/m4KVBKSQ_sg?si=sQtXIuq-TdrQXwxC')">
-                      <img class="area-video-placeholder" src="images/placeholder.webp" alt="Video Thumbnail" width="669" height="403">
-                  </div>
-                </div>
-                <div class="areas-hero-checkmarked-reasons">
-                <span class="nowrap">
-                        <img class="checkmark-img" src="images/check-mark.svg" alt="checkmark" aria-hidden="true" width="256" height="256"><h3>Lowest Price Guarantee</h3></span>
-                    <span class="nowrap">
-                        <img class="checkmark-img" src="images/check-mark.svg" alt="checkmark" aria-hidden="true" width="256" height="256"><h3>Free Second Opinions</h3></span>
-                    <span class="nowrap">
-                        <img class="checkmark-img" src="images/check-mark.svg" alt="checkmark" aria-hidden="true" width="256" height="256"><h3>3000&plus; 5&hyphen;Star Reviews</h3></span></div>
+                <h1>Dalton Gardens, ID</h1>
+                  <div class="responsive-video">
+                    <div class="video-wrapper" onclick="loadVideo(this, 'https://www.youtube.com/embed/m4KVBKSQ_sg?si=sQtXIuq-TdrQXwxC')">
+                        <img class="area-video-placeholder" src="images/placeholder.webp" alt="Video Thumbnail">
                     </div>
-                    <div class="center-things">
-                <button class="schedule-service-button open-form-button">Schedule Service</button></div>
+                  </div>
+              </div>
+              <div class="areas-hero-checkmarked-reasons">
+                <span class="nowrap">
+                    <img class="checkmark-img" src="images/check-mark.svg" alt="checkmark" aria-hidden="true" width="256" height="256"><h3>Lowest Price Guarantee</h3></span>
+                <span class="nowrap">
+                    <img class="checkmark-img" src="images/check-mark.svg" alt="checkmark" aria-hidden="true" width="256" height="256"><h3>Free Second Opinions</h3></span>
+                <span class="nowrap">
+                    <img class="checkmark-img" src="images/check-mark.svg" alt="checkmark" aria-hidden="true" width="256" height="256"><h3>3000&plus; 5&hyphen;Star Reviews</h3></span>
+              </div>
+            </div>
+              <div class="center-things">
+                <button class="schedule-service-button open-form-button">Schedule Service</button>
+              </div>
           </section> 
           <section class="areas-local-needs">
             <div class="local-needs-container width-limiter">
                 <div class="local-needs-text">
                     <h2>Local Climate and Heating/Cooling Needs</h2>
-                    <p>Colton, WA, a small town with a strong sense of community and agricultural roots, experiences a climate that underscores the need for dependable heating and cooling systems. The winters in Colton can be chilly, requiring effective heating systems to ensure a cozy indoor environment. Summers, characterized by their warmth, necessitate efficient air conditioning to maintain comfortable living conditions during the hotter months. This range of weather conditions not only contributes to Colton’s rural lifestyle but also highlights the importance of versatile HVAC systems for year-round comfort.</p>
+                    <p>Dalton Gardens, ID, a city known for its picturesque landscapes and tranquil living, faces a climate that underscores the importance of effective heating and cooling solutions. The winters here are characterized by their chilly temperatures and occasional snowfall, requiring robust heating systems to ensure a cozy indoor experience. Summers in Dalton Gardens are generally mild, but they can have periods of warmth that make efficient air conditioning essential for maintaining a comfortable indoor atmosphere. This range of weather conditions not only enhances the city's natural charm but also highlights the need for adaptable HVAC systems to provide year-round comfort for its residents.</p>
                 </div>
                 <div class="local-needs-img" data-animation="zoom-in-right">
-                    <img loading="lazy" class="twobyone-image" src="images/hot-cold-landscape.webp" alt="A photo of an Washington landscape. The left half is summer. The right half is winter." width="600" height="300">
+                    <img loading="lazy" class="twobyone-image" src="images/hot-cold-landscape.webp" alt="A photo of an Idaho landscape. The left half is summer. The right half is winter." width="600" height="300">
                 </div>
             </div>
             </section>
             <section class="areas-commitment">
                 <div class="areas-commitment-container width-limiter">
                     <div class="areas-commitment-img" data-animation="zoom-in-left">
-                        <img loading="lazy" class="twobyone-image" src="images/techs-arriving.webp" alt="Two HVAC technicians arriving at a customers home in Colton, Washington for a service call." width="600" height="300">
+                        <img loading="lazy" class="twobyone-image" src="images/techs-arriving.webp" alt="Two HVAC technicians arriving at a customers home in Dalton Gardens, Idaho for a service call." width="600" height="300">
                     </div>
                     <div class="areas-commitment-text">
-                        <h2>Our Commitment to Colton</h2>
-                        <p>Bill's Heating & A/C is committed to serving the Colton community with superior HVAC services. Our team, well-versed in the specific climate challenges of Colton, offers customized heating and cooling solutions. We ensure a consistent presence in Colton, with skilled technicians available to provide prompt and effective service. Our dedication to Colton is more than just servicing systems; it’s about enhancing the comfort and well-being of each home and business in the town.</p>
+                        <h2>Our Commitment to Dalton Gardens</h2>
+                        <p>At Bill's Heating & A/C, we have a deep-seated commitment to serving the Dalton Gardens community with superior HVAC services. Our expertise in the local climate enables us to offer heating and cooling solutions that are specifically tailored to meet the needs of Dalton Gardens. With our team of skilled technicians regularly available in the area, we ensure prompt and efficient service, keeping your HVAC systems in optimal condition. Our dedication to Dalton Gardens goes beyond service provision; we strive to enhance the comfort and well-being of every home and business we serve.</p>
                     </div>
                 </div>
           </section>
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Choosing Bill's Heating & A/C for your HVAC needs in Colton means selecting a service that combines local expertise with excellent service quality. Our no travel fee policy and extensive service area reflect our commitment to affordability and accessibility for our clients. With competitive services like $79 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our clients in Colton receive the best value. Our high customer satisfaction ratings are a testament to our dedication to exceeding service expectations. Trust us to keep your Colton home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to the specific needs of the community.</p>
+                <p>Choosing Bill's Heating & A/C for your HVAC needs in Dalton Gardens means selecting a service that combines local knowledge with exceptional service quality. Our no travel fee policy and extensive service area reflect our commitment to making our services both affordable and accessible. We offer competitive pricing, including $79 diagnostics and tune-ups, free estimates, and second opinions, ensuring that our clients in Dalton Gardens receive the best possible value. Our high customer satisfaction ratings are a testament to our dedication to exceeding service expectations. Trust us to maintain the comfort of your Dalton Gardens home or business throughout the year with dependable, efficient, and tailored HVAC solutions.</p>
             </div>
           </section>
           <div class="commendations-outer">
@@ -304,7 +307,7 @@
           </main>
           <section class="get-started-outer">
             <div class="get-started width-limiter">
-              <div class="get-started-image" data-animation="zoom-in-left"><img loading="lazy" src="images/truck-transparent-bg.webp" alt="bills truck" width="571" height="347"></div>
+            <div class="get-started-image" data-animation="zoom-in-left"><img loading="lazy" src="images/truck-transparent-bg.webp" alt="bills truck" width="571" height="347"></div>
             <div class="lets-get-started" data-animation="zoom-in-right">
               <h2>Lets Get Started!</h2>
               <a href="tel:+12087775528"><button type="button" class="call-us-button">Call Us</button></a>
@@ -473,7 +476,7 @@
                 <div class="thumbnail-container">
                     <button id="scrollLeft" onclick="previousImage()">&#10094;</button>
                     <div class="areas-gallery-imgs">
-                      <img loading="lazy" src="images/furnace-one.webp" class="thumbnail active" alt="A high efficiency York furnace installed by Bills Heating and AC in Colton, Washington." onclick="changeImage(this)" width="800" height="600">
+                      <img loading="lazy" src="images/furnace-one.webp" class="thumbnail active" alt="A high efficiency York furnace installed by Bills Heating and AC in Dalton Gardens, Idaho." onclick="changeImage(this)" width="800" height="600">
                       <img loading="lazy" src="images/ac-one.webp" class="thumbnail" alt="An installation of a York air conditioner by Bills Heating and AC." onclick="changeImage(this)" width="800" height="600">
                       <img loading="lazy" src="images/furnace-two.webp" class="thumbnail" alt="A clean installation of a York TM9E high efficiency furnace by Bills Heating and AC. " onclick="changeImage(this)" width="800" height="600">
                       <img loading="lazy" src="images/boilers.webp" class="thumbnail" alt="A split screen of two impressive boiler installations. Both display crafstmanship in the complex piping." onclick="changeImage(this)" width="800" height="600">
@@ -484,7 +487,7 @@
                       <img loading="lazy" src="images/furnace-four.webp" class="thumbnail" alt="A side shot of a quality furnace install that showcases the complex drain piping and Bills Heating and AC's professionalism." onclick="changeImage(this)" width="800" height="600">
                       <img loading="lazy" src="images/heat-pump-three.webp" class="thumbnail" alt="A Mitsubishi Ductless condenser from their hyper-heat line, mounted on an exterior wall of a building." onclick="changeImage(this)" width="800" height="600">
                       <img loading="lazy" src="images/furnace-five.webp" class="thumbnail" alt="A natural gas furnace installed horizontally in a crawl space with clean and creative duct work connections." onclick="changeImage(this)" width="800" height="600">
-                      <img loading="lazy" src="images/ac-three.webp" class="thumbnail" alt="A freshly installed York air conditioner in Colton, WA that will make the customer's home cooler and more comfortable." onclick="changeImage(this)" width="800" height="600">
+                      <img loading="lazy" src="images/ac-three.webp" class="thumbnail" alt="A freshly installed York air conditioner in Dalton Gardens, ID that will make the customer's home cooler and more comfortable." onclick="changeImage(this)" width="800" height="600">
                   </div>
                     <button id="scrollRight" onclick="nextImage()">&#10095;</button>
                 </div>

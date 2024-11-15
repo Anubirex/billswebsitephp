@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="furnace-icon" data-name="Furnace Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 211.5 283.5" aria-hidden="true">
+  <defs>
+    <style>
+    <!--cut and paste this part into styles.css to avoid bloat IMPORTANT - fill and stroke must be same color on this one-->
+      .furnace-icon {
+        fill: none;
+        stroke: black;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 13.5px;
+      }
+    </style>
+  </defs>
+    <g>
+      <path class="furnace-icon" d="m6.75,186.75c0,49.75,40.25,90,90,90"/>
+      <path class="furnace-icon" d="m204.75,186.75c0,49.75-40.25,90-90,90"/>
+      <path class="furnace-icon" d="m60.75,222.75c0,29.85,18,54,45,54"/>
+      <path class="furnace-icon" d="m60.75,222.75c0-39.8,32.2-72,72-72"/>
+      <path class="furnace-icon" d="m150.75,240.75c0,19.9-18,36-45,36"/>
+      <path class="furnace-icon" d="m132.75,150.75c-18,54,18,54,18,90"/>
+      <line class="furnace-icon" x1="96.75" y1="276.75" x2="114.75" y2="276.75"/>
+      <path class="furnace-icon" d="m6.75,186.75C6.75,114.75,96.75,96.75,60.75,6.75"/>
+      <path class="furnace-icon" d="m132.75,114.75c0-59.7-32.2-108-72-108"/>
+      <path class="furnace-icon" d="m204.75,186.75c0-54-36-54-36-108"/>
+      <path class="furnace-icon" d="m168.75,78.75c-18,0-18,36-36,36"/>
+      <line class="furnace-icon" x1="96.75" y1="276.75" x2="114.75" y2="276.75"/>
+    </g>
+</svg>

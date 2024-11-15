@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="heatpump-icon" data-name="Heat Pump Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 278.17 283.5" aria-hidden="true">
+  <defs>
+    <style>
+     <!--cut and paste this part into styles.css to avoid bloat IMPORTANT - fill and stroke must be same color on this one-->
+      .heatpump-icon {
+        fill: none;
+        stroke: black;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 13.5px;
+      }
+    </style>
+  </defs>
+    <g>
+      <path class="heatpump-icon" d="m141.75,204.75c-34.79,0-63-28.21-63-63s28.21-63,63-63"/>
+      <line class="heatpump-icon" x1="6.75" y1="141.75" x2="42.75" y2="141.75"/>
+      <line class="heatpump-icon" x1="46.29" y1="237.21" x2="71.75" y2="211.75"/>
+      <line class="heatpump-icon" x1="46.29" y1="46.29" x2="71.75" y2="71.75"/>
+      <line class="heatpump-icon" x1="141.75" y1="276.75" x2="141.75" y2="6.75"/>
+      <line class="heatpump-icon" x1="186.75" y1="18" x2="141.75" y2="63"/>
+      <line class="heatpump-icon" x1="186.75" y1="265.5" x2="141.75" y2="220.5"/>
+      <line class="heatpump-icon" x1="258.66" y1="209.25" x2="141.75" y2="141.75"/>
+      <line class="heatpump-icon" x1="226.42" y1="242.6" x2="209.95" y2="181.13"/>
+      <line class="heatpump-icon" x1="271.42" y1="164.65" x2="209.95" y2="181.13"/>
+      <line class="heatpump-icon" x1="141.75" y1="141.75" x2="258.66" y2="74.25"/>
+      <line class="heatpump-icon" x1="226.42" y1="40.9" x2="209.95" y2="102.38"/>
+      <line class="heatpump-icon" x1="271.42" y1="118.85" x2="209.95" y2="102.38"/>
+    </g>
+</svg>

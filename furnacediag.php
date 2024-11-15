@@ -7,17 +7,17 @@
     <meta name="description" content="Trust Bill's Heating and AC for expert furnace diagnostics. Skilled technicians ensure your comfort with rapid, reliable service and clear pricing.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
-    <link rel="icon" type="image/webp" sizes="32x32" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-32x32.webp">
-    <link rel="icon" type="image/svg+xml" href="https://callbillsheating.s3.us-west-2.amazonaws.com/large-favicon.svg">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon180x180.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="icon" type="image/webp" sizes="32x32" href="images/favicon-32x32.webp">
+    <link rel="icon" type="image/svg+xml" href="images/large-favicon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon180x180.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles/headerstyle.css">
     <link rel="stylesheet" href="styles/footerstyle.css">
-    <link rel="stylesheet" href="styles/animations.css">
     <link rel="stylesheet" href="styles/tunediagcritical.css">
+    <link rel="stylesheet" href="styles/animations.css">
 
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -30,14 +30,14 @@
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Furnace Diagnostics">
     <meta property="og:description" content="Trust Bill's Heating and AC for expert furnace diagnostics. Skilled technicians ensure your comfort with rapid, reliable service and clear pricing.">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/furnace-social-share.webp">
+    <meta property="og:image" content="images/furnace-social-share.webp">
     <meta property="og:url" content="https://callbills.com/furnacediag.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Furnace Diagnostics">
     <meta name="twitter:description" content="Trust Bill's Heating and AC for expert furnace diagnostics. Skilled technicians ensure your comfort with rapid, reliable service and clear pricing.">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/furnace-summary-large-image.webp">
+    <meta name="twitter:image" content="images/furnace-summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -45,7 +45,7 @@
         "@context": "https://schema.org",
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
+        "image": "images/furnace-social-share.webp",
         "@id": "https://callbills.com/",
         "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
@@ -181,7 +181,8 @@
         <div class="diag-page-inner-section-one hero width-limiter">
             <div>
             <h1>Precision in Identifying and Resolving Your Furnace Issues</h1>
-              <p>At Bill&rsquo;s Heating and AC, the leading HVAC contractor in the Northwest with a reputation backed by over 3000 five-star reviews, we specialize in advanced furnace diagnostics. Our skilled technicians, equipped with expertise and state-of-the-art technology, are adept at accurately diagnosing and effectively resolving any issues your furnace may face, ensuring your home remains warm and safe throughout the year.</p> 
+            <img class="diag-page-hero-image" src="blogimages\smiling-tech-large.webp" alt="a furnace technician smiles" width="1200" height="625">
+              <p>At Bill&rsquo;s Heating and AC, the leading HVAC contractor in the Northwest with a reputation backed by over 5000 five-star reviews, we specialize in advanced furnace diagnostics. Our skilled technicians, equipped with expertise and state-of-the-art technology, are adept at accurately diagnosing and effectively resolving any issues your furnace may face, ensuring your home remains warm and safe throughout the year.</p> 
               <button class="schedule-service-button open-form-button">Schedule Service</button>
             </div>
             <div class="desktop-only"></div>
@@ -349,8 +350,8 @@
           <button class="carousel-nav prev" aria-label="previous review"><svg class="carousel-arrow prev-arrow" id="dropdown-arrow-4" data-name="Dropdown Arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.62 14.18"><polyline  class="main-icon-stroke" points="1.06 1.56 11.56 12.06 22.56 1.06"/></svg></button>
           <button class="carousel-nav next" aria-label="next review"><svg class="carousel-arrow next-arrow" id="dropdown-arrow-5" data-name="Dropdown Arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.62 14.18"><polyline  class="main-icon-stroke" points="1.06 1.56 11.56 12.06 22.56 1.06"/></svg></button>
           <div class="leave-a-review">
-            <a href="https://g.page/r/CZj2149xPopPEB0/review"><img src="https://callbillsheating.s3.us-west-2.amazonaws.com/google-review-button.webp" alt="google review" width="250" height="80"></a>
-            <a href="https://www.facebook.com/billsheating/reviews"><img src="https://callbillsheating.s3.us-west-2.amazonaws.com/facebook-review-button.webp" alt="facebook review" width="250" height="80"></a>
+            <a href="https://g.page/r/CZj2149xPopPEB0/review"><img src="images/google-review-button.webp" alt="google review" width="250" height="80"></a>
+            <a href="https://www.facebook.com/billsheating/reviews"><img src="images/facebook-review-button.webp" alt="facebook review" width="250" height="80"></a>
             </div>
         </div>
       </div>

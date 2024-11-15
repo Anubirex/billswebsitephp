@@ -20,10 +20,10 @@
     <link rel=preconnect href="https://www.google.com">
     <link rel=preconnect href="https://googleads.g.doubleclick.net">
     <link rel=preconnect href="https://widgets.leadconnectorhq.com">
-    <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
-    <link rel="icon" type="image/webp" sizes="32x32" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-32x32.webp">
-    <link rel="icon" type="image/svg+xml" href="https://callbillsheating.s3.us-west-2.amazonaws.com/large-favicon.svg">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon180x180.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="icon" type="image/webp" sizes="32x32" href="images/favicon-32x32.webp">
+    <link rel="icon" type="image/svg+xml" href="images/large-favicon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon180x180.png">
     <link rel="preload" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap"></noscript>
@@ -44,14 +44,14 @@
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Savings and Promos">
     <meta property="og:description" content="Discover current promotions, rebates, and tax credits to save on HVAC services with Bill's Heating & A/C. Maximize your savings today!">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/social-share.webp">
+    <meta property="og:image" content="images/social-share.webp">
     <meta property="og:url" content="https://callbills.com/savings.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Savings and Promos">
     <meta name="twitter:description" content="Discover current promotions, rebates, and tax credits to save on HVAC services with Bill's Heating & A/C. Maximize your savings today!">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/summary-large-image.webp">
+    <meta name="twitter:image" content="images/summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -59,7 +59,7 @@
         "@context": "https://schema.org",
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
+        "image": "images/social-share-image.jpg",
         "@id": "https://callbills.com/",
         "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
@@ -173,13 +173,13 @@
         <section class="savings-current-promotion-outer">
             <div class="savings-current-promotion width-limiter">
                 <div>
-                    <h2>Full System Tune-up For Only $89</h2>
+                  <h2>FREE Tankless Water Heater *</h2>
                     <p>
-                      <br><br>Take advantage of our $89 HVAC Tune-Up Special! For just $89, we&apos;ll provide a comprehensive tune-up for both your heating and cooling systems. This includes servicing your indoor furnace or air handler as well as your air conditioning unit or heat pump condenser, ensuring your system runs efficiently all year round. Keep your home comfortable while avoiding costly breakdowns&#8212;schedule your full-system tune-up today with Bill&apos;s Heating &amp; A/C!
+                      <br><br>From November 1st 2024 until December 31st 2024, customers who purchase a heating and cooling system from Bill's Heating & A/C will have a high efficiency tankless water heater installed at no additional cost! Click <a href="https://callbills.com/contest-rules.php">here</a> for official terms and conditions.
                     <br></p>
                    <!--<a href="#">Click Here</a> to read official contest rules</p> --> 
                 </div>
-                <img src="images\tune-special-fall-2024.webp" alt="zero percent financing at Bill's Heating" height="1080" width="1080">
+                <img src="blogimages/CalifornianFreeTankless.png" alt="an advertisement for a free tankless water heater from Bill's Heating & AC" height="1080" width="1080">
             </div>
         </section>
         <div class="standalone-headline">More Ways To Save</div>

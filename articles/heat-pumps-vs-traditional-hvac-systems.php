@@ -8,10 +8,10 @@
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Favicon and Touch Icons -->
-    <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
-    <link rel="icon" type="image/webp" sizes="32x32" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-32x32.webp">
-    <link rel="icon" type="image/svg+xml" href="https://callbillsheating.s3.us-west-2.amazonaws.com/large-favicon.svg">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon180x180.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../imagesfavicon-16x16.png">
+    <link rel="icon" type="image/webp" sizes="32x32" href="../imagesfavicon-32x32.webp">
+    <link rel="icon" type="image/svg+xml" href="../imageslarge-favicon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="../imagesfavicon180x180.png">
     <!-- Fonts and Stylesheets -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -34,14 +34,14 @@
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Heat Pumps vs. Traditional HVAC Systems: Choosing the Right One">
     <meta property="og:description" content="Learn the key differences between heat pumps and traditional HVAC systems to make an informed decision for your home.">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/heat-pumps-vs-traditional-social-share.webp">
+    <meta property="og:image" content="../imagesheat-pumps-vs-traditional-social-share.webp">
     <meta property="og:url" content="https://callbills.com/articles/heat-pumps-vs-traditional-hvac-systems.php">
     <meta property="og:type" content="article">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Heat Pumps vs. Traditional HVAC Systems: Choosing the Right One">
     <meta name="twitter:description" content="Discover whether a heat pump or traditional HVAC system is the right choice for your home with insights from Bill's Heating & A/C.">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/heat-pumps-vs-traditional-summary-large-image.webp">
+    <meta name="twitter:image" content="../imagesheat-pumps-vs-traditional-summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -51,7 +51,7 @@
   "headline": "Heat Pumps vs. Traditional HVAC Systems: Choosing the Right One",
   "image": {
     "@type": "ImageObject",
-    "url": "https://callbillsheating.s3.us-west-2.amazonaws.com/heat-pumps-vs-traditional-social-share.webp",
+    "url": "../imagesheat-pumps-vs-traditional-social-share.webp",
     "width": 1200,
     "height": 675
   },
@@ -65,7 +65,7 @@
     "name": "Bill's Heating & A/C",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://callbillsheating.s3.us-west-2.amazonaws.com/header-logo-shadowed.webp",
+      "url": "../imagesheader-logo-shadowed.webp",
       "width": 400,
       "height": 177
     }

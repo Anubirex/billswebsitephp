@@ -4,7 +4,8 @@ $base_url = 'https://callbills.com/';
 <header>
     <div class="message-banner">
       <div class="scroll-text">
-        <h3>The area&apos;s largest and most trusted HVAC company - Serving Northern Idaho and Eastern Washington</h3>
+      <a href="https://callbills.com/contest-rules.php"> <h3>Get a FREE Tankless Water Heater with an HVAC system Install before DEC 31st. callbills.com/contest-rules for terms</h3></a>
+      <!--   <h3>The area&apos;s largest and most trusted HVAC company - Serving Northern Idaho and Eastern Washington</h3> -->
       </div>
     </div>   
     <div class="top-bar width-limiter">

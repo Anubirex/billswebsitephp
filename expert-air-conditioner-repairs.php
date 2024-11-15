@@ -21,10 +21,10 @@
     <link rel=preconnect href="https://www.google.com">
     <link rel=preconnect href="https://googleads.g.doubleclick.net">
     <link rel=preconnect href="https://widgets.leadconnectorhq.com">
-    <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
-    <link rel="icon" type="image/webp" sizes="32x32" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-32x32.webp">
-    <link rel="icon" type="image/svg+xml" href="https://callbillsheating.s3.us-west-2.amazonaws.com/large-favicon.svg">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon180x180.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="icon" type="image/webp" sizes="32x32" href="images/favicon-32x32.webp">
+    <link rel="icon" type="image/svg+xml" href="images/large-favicon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon180x180.png">
     <link rel="preload" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap"></noscript>
@@ -43,14 +43,14 @@
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | AC Repair">
     <meta property="og:description" content="$59 air conditioner diagnostics by Bill's Heating & A/C, the largest HVAC contractor in the Northwest with 3000+ reviews.">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/social-share.webp">
+    <meta property="og:image" content="images/social-share.webp">
     <meta property="og:url" content="https://callbills.com/expert-air-conditioner-repairs.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | AC Repair">
     <meta name="twitter:description" content="$59 air conditioner diagnostics by Bill's Heating & A/C, the largest HVAC contractor in the Northwest with 3000+ reviews.">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/summary-large-image.webp">
+    <meta name="twitter:image" content="images/summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -58,7 +58,7 @@
         "@context": "https://schema.org",
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
+        "image": "images/social-share-image.jpg",
         "@id": "https://callbills.com/",
         "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
@@ -194,7 +194,7 @@
                     <div class="hero-content">
                         <h1>$59 Air Conditioner Diagnostics</h1>
                         <p>Stay cool and comfortable with our expert Air Conditioner diagnostics and services! Our experienced team is available 7 days a week, providing same&dash;day appointments to swiftly resolve your cooling challenges. No more discomfort from a malfunctioning AC &dash; trust us for fast, efficient, and cost&dash;effective solutions to keep your air conditioning perfect. Contact us now for reliable AC repair at unbeatable prices!
-
+                        
                         </p>
                         <img src="images/techs-arriving.webp" alt="two air conditioning technicians walking and carrying ac repair tools.">
                         <div class="center-things">
@@ -445,4 +445,3 @@
         <!--Chat Widget-->
         <script defer src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"></script>
 </body>
-</html>
