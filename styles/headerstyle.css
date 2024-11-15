@@ -59,15 +59,18 @@ header{
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
   }
   .message-banner {
-    background-color: #4c4c4c;
+    background-color: var(--COLOR-HIGHLIGHT-BRIGHT);
     height: 2rem;
     white-space: nowrap;
     overflow: hidden;
     position: relative;
     text-align: center;
   }
+  .message-banner a{
+    text-decoration: none;
+  }
   .message-banner h3 {
-    color: white;
+    color: black;
     font-size: 1.3rem;
     padding: .25rem;
   }

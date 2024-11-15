@@ -24,10 +24,10 @@ $remaining_articles = array_slice($articles, 5);
         <link rel=preconnect href="https://www.google.com">
         <link rel=preconnect href="https://googleads.g.doubleclick.net">
         <link rel=preconnect href="https://widgets.leadconnectorhq.com">
-        <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
-        <link rel="icon" type="image/webp" sizes="32x32" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-32x32.webp">
-        <link rel="icon" type="image/svg+xml" href="https://callbillsheating.s3.us-west-2.amazonaws.com/large-favicon.svg">
-        <link rel="apple-touch-icon" sizes="180x180" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon180x180.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+        <link rel="icon" type="image/webp" sizes="32x32" href="images/favicon-32x32.webp">
+        <link rel="icon" type="image/svg+xml" href="images/large-favicon.svg">
+        <link rel="apple-touch-icon" sizes="180x180" href="images/favicon180x180.png">
         <link rel="preload" href="https://fonts.gstatic.com" crossorigin>
         <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
         <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap"></noscript>
@@ -46,14 +46,14 @@ $remaining_articles = array_slice($articles, 5);
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Learning Hub">
     <meta property="og:description" content="Bill's Heating & A/C: Learning Hub. Then internets most complete source of consumer HVAC knowledge!">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.webp">
+    <meta property="og:image" content="images/social-share-image.webp">
     <meta property="og:url" content="https://callbills.com/learninghub.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Learning Hub">
     <meta name="twitter:description" content="Bill's Heating & A/C: Learning Hub. Then internets most complete source of consumer HVAC knowledge!">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/summary-large-image.webp">
+    <meta name="twitter:image" content="images/summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -61,7 +61,7 @@ $remaining_articles = array_slice($articles, 5);
         "@context": "https://schema.org",
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
+        "image": "images/social-share-image.jpg",
         "@id": "https://callbills.com/",
         "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
@@ -296,11 +296,10 @@ $remaining_articles = array_slice($articles, 5);
           <script defer src="scripts/src.js"></script> 
           <script defer src="scripts/search.js"></script>
           <script defer src="scripts/forms.js"></script>
-          <script defer src="scripts/blogfilter.js"></script>  
-          <script defer src="scripts/blogcarousel.js"></script> 
           <script defer src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"></script>          
     
-    
+    <script src="scripts\blogfilter.js"></script>  
+    <script defer src="scripts/blogcarousel.js"></script> 
 
 </body>
 </html>

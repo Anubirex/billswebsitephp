@@ -7,10 +7,10 @@
     <meta name="description" content="Explore our comprehensive HVAC glossary for clear, concise definitions of key terms and concepts in heating, ventilation, and air conditioning. Perfect for professionals and enthusiasts alike.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
-    <link rel="icon" type="image/webp" sizes="32x32" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-32x32.webp">
-    <link rel="icon" type="image/svg+xml" href="https://callbillsheating.s3.us-west-2.amazonaws.com/large-favicon.svg">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon180x180.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../imagesfavicon-16x16.png">
+    <link rel="icon" type="image/webp" sizes="32x32" href="../imagesfavicon-32x32.webp">
+    <link rel="icon" type="image/svg+xml" href="../imageslarge-favicon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="../imagesfavicon180x180.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" rel="stylesheet">
@@ -30,14 +30,14 @@
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | HVAC Definitions">
     <meta property="og:description" content="Explore our comprehensive HVAC glossary for clear, concise definitions of key terms and concepts in heating, ventilation, and air conditioning. Perfect for professionals and enthusiasts alike.">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/definitions-social-share.webp">
+    <meta property="og:image" content="../imagesdefinitions-social-share.webp">
     <meta property="og:url" content="https://callbills.com/articles/hvac-definitions.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | HVAC Definitions">
     <meta name="twitter:description" content="Explore our comprehensive HVAC glossary for clear, concise definitions of key terms and concepts in heating, ventilation, and air conditioning. Perfect for professionals and enthusiasts alike.">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/definitions-summary-large-image.webp">
+    <meta name="twitter:image" content="../imagesdefinitions-summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -45,7 +45,7 @@
           "@context": "https://schema.org",
           "@type": "BlogPosting",
           "headline": "The Complete HVAC Glossary and Definitions",
-          "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/hvac-definitions-blocks.webp",
+          "image": "../imageshvac-definitions-blocks.webp",
           "author": {
             "@type": "Organization",
             "name": "Bill's Heating & A/C"
@@ -55,7 +55,7 @@
             "name": "Bill's Heating & A/C",
             "logo": {
               "@type": "ImageObject",
-              "url": "https://callbillsheating.s3.us-west-2.amazonaws.com/header-logo-shadowed.webp"
+              "url": "../imagesheader-logo-shadowed.webp"
             }
           },
           "datePublished": "2024-01-22",

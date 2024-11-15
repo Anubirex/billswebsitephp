@@ -7,17 +7,17 @@
     <meta name="description" content="Ensure your furnace efficiency and safety with Bill's Heating and AC's expert tune-ups. Over 3000 five-star reviews back our commitment to quality maintenance">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
-    <link rel="icon" type="image/webp" sizes="32x32" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-32x32.webp">
-    <link rel="icon" type="image/svg+xml" href="https://callbillsheating.s3.us-west-2.amazonaws.com/large-favicon.svg">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon180x180.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="icon" type="image/webp" sizes="32x32" href="images/favicon-32x32.webp">
+    <link rel="icon" type="image/svg+xml" href="images/large-favicon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon180x180.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles/headerstyle.css">
     <link rel="stylesheet" href="styles/footerstyle.css">
-    <link rel="stylesheet" href="styles/animations.css">
     <link rel="stylesheet" href="styles/tunediagcritical.css">
+    <link rel="stylesheet" href="styles/animations.css">
 
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -30,14 +30,14 @@
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Furnace Tune-ups">
     <meta property="og:description" content="Ensure your furnace efficiency and safety with Bill's Heating and AC's expert tune-ups. Over 3000 five-star reviews back our commitment to quality maintenance">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/furnace-social-share.webp">
+    <meta property="og:image" content="images/furnace-social-share.webp">
     <meta property="og:url" content="https://callbills.com/furnacetune.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Furnace Tune-ups">
     <meta name="twitter:description" content="Ensure your furnace efficiency and safety with Bill's Heating and AC's expert tune-ups. Over 3000 five-star reviews back our commitment to quality maintenance">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/furnace-summary-large-image.webp">
+    <meta name="twitter:image" content="images/furnace-summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -45,7 +45,7 @@
         "@context": "https://schema.org",
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
+        "image": "images/furnace-social-share.webp",
         "@id": "https://callbills.com/",
         "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
@@ -160,7 +160,8 @@
         <div class="diag-page-inner-section-one hero width-limiter">
             <div>
             <h1>Stay Warm and Worry&dash;Free This Winter with Bill's Heating and AC</h1>
-              <p>Experience the Best in Furnace Tune&dash;Ups! Over 3000 Five&dash;Star Reviews</p> 
+            <img class="diag-page-hero-image" src="blogimages\smiling-tech-large.webp" alt="a furnace technician smiles" width="1200" height="625">
+              <p>Experience the Best in Furnace Tune&dash;Ups! Over 5000 Five&dash;Star Reviews</p> 
               <button class="schedule-service-button open-form-button">Schedule Service</button>
             </div>
             <div class="desktop-only"></div>
@@ -173,7 +174,7 @@
               <h2 id="furn-install-what-to-expect">What is a Furnace Tune&dash;Up?</h2>
               <p class="bottom-padding">A furnace tune&dash;up is a comprehensive maintenance check&dash;up performed by HVAC professionals. It involves a detailed inspection and servicing of your furnace to ensure it operates efficiently, safely, and reliably. During a tune&dash;up, technicians clean the furnace, check and replace filters, inspect the heating elements, test the thermostat, examine the exhaust system, and perform other crucial maintenance tasks. This process not only extends the life of your furnace but also enhances its performance.</p>
               <h2 id="furn-install-what-to-expect">Why Choose Bill&apos;s Heating and AC for Your Furnace Tune&dash;Up?</h2>
-                <p>Bill&apos;s Heating and AC is the leading provider of furnace tune&dash;ups in our area, with a track record of over 3000 five&dash;star reviews. Our experienced team of HVAC professionals is dedicated to delivering exceptional service and meticulous care in every tune&dash;up. We use state&dash;of&dash;the&dash;art tools and techniques to ensure your furnace is in top condition. Our commitment to customer satisfaction and excellence makes us the go&dash;to choice for furnace maintenance.</p>
+                <p>Bill&apos;s Heating and AC is the leading provider of furnace tune&dash;ups in our area, with a track record of over 5000 five&dash;star reviews. Our experienced team of HVAC professionals is dedicated to delivering exceptional service and meticulous care in every tune&dash;up. We use state&dash;of&dash;the&dash;art tools and techniques to ensure your furnace is in top condition. Our commitment to customer satisfaction and excellence makes us the go&dash;to choice for furnace maintenance.</p>
             </div>
             <div class="local-needs-img" data-animation="zoom-in-right">
                 <img class="twobyone-image" loading="lazy" src="blogimages/shaking-hands.webp" alt="A Bill's Heating furnace technician is shaking hand with a woman at the front door to her home." width="600" height="300">
@@ -336,8 +337,8 @@
           <button class="carousel-nav prev" aria-label="previous review"><svg class="carousel-arrow prev-arrow" id="dropdown-arrow-4" data-name="Dropdown Arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.62 14.18"><polyline  class="main-icon-stroke" points="1.06 1.56 11.56 12.06 22.56 1.06"/></svg></button>
           <button class="carousel-nav next" aria-label="next review"><svg class="carousel-arrow next-arrow" id="dropdown-arrow-5" data-name="Dropdown Arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.62 14.18"><polyline  class="main-icon-stroke" points="1.06 1.56 11.56 12.06 22.56 1.06"/></svg></button>
           <div class="leave-a-review">
-            <a href="https://g.page/r/CZj2149xPopPEB0/review"><img src="https://callbillsheating.s3.us-west-2.amazonaws.com/google-review-button.webp" alt="google review" width="250" height="80"></a>
-            <a href="https://www.facebook.com/billsheating/reviews"><img src="https://callbillsheating.s3.us-west-2.amazonaws.com/facebook-review-button.webp" alt="facebook review" width="250" height="80"></a>
+            <a href="https://g.page/r/CZj2149xPopPEB0/review"><img src="images/google-review-button.webp" alt="google review" width="250" height="80"></a>
+            <a href="https://www.facebook.com/billsheating/reviews"><img src="images/facebook-review-button.webp" alt="facebook review" width="250" height="80"></a>
             </div>
         </div>
       </div>

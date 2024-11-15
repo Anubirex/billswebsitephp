@@ -7,7 +7,7 @@
         "comfortLevel": 90,
         "cost": 2,
         "features": ["Single-Stage Gas Valve", "ECM Blower"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/york-furnace-image.webp",
+        "image": "images/york-furnace-image.webp",
         "link": "products/york-y91e.php",
         "AFUE": 96,
         "SEER": null
@@ -20,7 +20,7 @@
         "comfortLevel": 95,
         "cost": 3,
         "features": ["Two-Stage Gas Valve", "ECM Blower"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/york-furnace-image.webp",
+        "image": "images/york-furnace-image.webp",
         "link": "products/york-tm9y.php",
         "AFUE": 96,
         "SEER": null
@@ -33,7 +33,7 @@
         "comfortLevel": 98,
         "cost": 4,
         "features": ["Two-Stage Gas Valve", "Variable Speed Blower"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/york-furnace-image.webp",
+        "image": "images/york-furnace-image.webp",
         "link": "products/york-tm9v.php",
         "AFUE": 96,
         "SEER": null
@@ -46,7 +46,7 @@
         "comfortLevel": 90,
         "cost": 2,
         "features": ["Single-Stage Gas Valve", "ECM Blower"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/york-furnace-image.webp",
+        "image": "images/york-furnace-image.webp",
         "link": "products/york-tm8e.php",
         "AFUE": 80,
         "SEER": null
@@ -59,7 +59,7 @@
         "comfortLevel": 95,
         "cost": 3,
         "features": ["Two-Stage Gas Valve", "ECM Blower"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/york-furnace-image.webp",
+        "image": "images/york-furnace-image.webp",
         "link": "products/york-tm8y.php",
         "AFUE": 80,
         "SEER": null
@@ -72,7 +72,7 @@
         "comfortLevel": 98,
         "cost": 4,
         "features": ["Two-Stage Gas Valve", "Variable Speed Blower"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/york-furnace-image.webp",
+        "image": "images/york-furnace-image.webp",
         "link": "products/york-tm8v.php",
         "AFUE": 80,
         "SEER": null
@@ -85,7 +85,7 @@
         "comfortLevel": 76,
         "cost": 2,
         "features": ["Single-Stage Compressor", "Top Discharge"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/york-ac-image.webp",
+        "image": "images/york-ac-image.webp",
         "link": "products/york-yc2d.php",
         "AFUE": null,
         "SEER": 14.3
@@ -98,7 +98,7 @@
         "comfortLevel": 95,
         "cost": 3,
         "features": ["Two-Stage Gas Valve", "ECM Blower"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/york-furnace-image.webp",
+        "image": "images/york-furnace-image.webp",
         "link": "products/york-y92e.php",
         "AFUE": 97,
         "SEER": null
@@ -111,7 +111,7 @@
         "comfortLevel": 80,
         "cost": 3,
         "features": ["Two-Stage Compressor", "Top Discharge"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/york-ac-image.webp",
+        "image": "images/york-ac-image.webp",
         "link": "products/york-yh2f.php",
         "AFUE": null,
         "SEER": null
@@ -124,7 +124,7 @@
         "comfortLevel": 90,
         "cost": 4,
         "features": ["Inverter Driven Compressor", "Side Discharge"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/york-hmh7-image.webp",
+        "image": "images/york-hmh7-image.webp",
         "link": "products/york-hmh7.php",
         "AFUE": null,
         "SEER": 18
@@ -137,7 +137,7 @@
         "comfortLevel": 90,
         "cost": 2,
         "features": ["Two-Stage Operation", "ECM Blower"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/air-handler-image.webp",
+        "image": "images/air-handler-image.webp",
         "link": "products/york-jhet.php",
         "AFUE": 0,
         "SEER": null
@@ -150,7 +150,7 @@
         "comfortLevel": 95,
         "cost": 4,
         "features": ["Premium Air Handler", "Variable Speed Blower"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/air-handler-image.webp",
+        "image": "images/air-handler-image.webp",
         "link": "products/york-jhvt.php",
         "AFUE": 0,
         "SEER": null
@@ -163,7 +163,7 @@
         "comfortLevel": 85,
         "cost": 2,
         "features": ["Electric Heat", "ECM Blower"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/revolv-furnace-image.webp",
+        "image": "images/revolv-furnace-image.webp",
         "link": "products/aspen-aed.php",
         "AFUE": null,
         "SEER": null
@@ -176,7 +176,7 @@
         "comfortLevel": 90,
         "cost": 3,
         "features": ["Single-Stage Gas Valve", "ECM Blower"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/revolv-furnace-image.webp",
+        "image": "images/revolv-furnace-image.webp",
         "link": "products/revolv-vmc2.php",
         "AFUE": 95,
         "SEER": null
@@ -189,7 +189,7 @@
         "comfortLevel": 95,
         "cost": 3,
         "features": ["Tankless", "Non-Recirculating"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/tankless-image.webp",
+        "image": "images/tankless-image.webp",
         "link": "products/rinnai-rx199.php",
         "AFUE": null,
         "SEER": null
@@ -202,7 +202,7 @@
         "comfortLevel": 99,
         "cost": 4,
         "features": ["Tankless", "Recirculating"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/tankless-image.webp",
+        "image": "images/tankless-image.webp",
         "link": "products/rinnai-rxp199.php",
         "AFUE": null,
         "SEER": null
@@ -215,7 +215,7 @@
         "comfortLevel": "NA",
         "cost": 4,
         "features": ["Automatic Operation", "Transfer Switch Included"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/generac-image.webp",
+        "image": "images/generac-image.webp",
         "link": "products/generac-22kw-guardian.php",
         "AFUE": null,
         "SEER": null
@@ -228,7 +228,7 @@
         "comfortLevel": "NA",
         "cost": 5,
         "features": ["Automatic Operation", "Transfer Switch Included"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/generac-image.webp",
+        "image": "images/generac-image.webp",
         "link": "products/generac-24kw-guardian.php",
         "AFUE": null,
         "SEER": null
@@ -241,7 +241,7 @@
         "comfortLevel": "NA",
         "cost": 5,
         "features": ["Automatic Operation", "Transfer Switch Included"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/generac-image.webp",
+        "image": "images/generac-image.webp",
         "link": "products/generac-26kw-guardian.php",
         "AFUE": null,
         "SEER": null
@@ -254,7 +254,7 @@
         "comfortLevel": 85,
         "cost": 3,
         "features": ["Single Indoor Head", "Great For Single Rooms"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/ductless-image.webp",
+        "image": "images/ductless-image.webp",
         "link": "products/mitsubishi-single-zone.php",
         "AFUE": null,
         "SEER": 29.8
@@ -267,7 +267,7 @@
         "comfortLevel": 95,
         "cost": 5,
         "features": ["Hyper Heat Operation", "Whole Home Solution"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/ductless-image.webp",
+        "image": "images/ductless-image.webp",
         "link": "products/mitsubishi-multi-zone.php",
         "AFUE": null,
         "SEER": 23
@@ -280,7 +280,7 @@
         "comfortLevel": 85,
         "cost": 2,
         "features": ["Power Vented", "Many Capacities Available"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/hot-dawg-image.webp",
+        "image": "images/hot-dawg-image.webp",
         "link": "products/modine-hot-dawg.php",
         "AFUE": 80,
         "SEER": null
@@ -293,7 +293,7 @@
         "comfortLevel": 90,
         "cost": 3,
         "features": ["Power Vented", "Many Capacities Available"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/reznor-image.webp",
+        "image": "images/reznor-image.webp",
         "link": "products/reznor-udxc.php",
         "AFUE": 83,
         "SEER": null
@@ -306,7 +306,7 @@
         "comfortLevel": 80,
         "cost": 2,
         "features": ["50 Gallon Capacity", "Electronic Pilot"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/water-heater-image.webp",
+        "image": "images/water-heater-image.webp",
         "link": "products/bradford-white-rg.php",
         "AFUE": 80,
         "SEER": null
@@ -319,7 +319,7 @@
         "comfortLevel": 80,
         "cost": 2,
         "features": ["50 Gallon Capacity", "Electronic Pilot"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/water-heater-image.webp",
+        "image": "images/water-heater-image.webp",
         "link": "products/ao-smith-proline.php",
         "AFUE": 80,
         "SEER": null
@@ -332,7 +332,7 @@
         "comfortLevel": 80,
         "cost": 3,
         "features": ["40,000 BTU's", "36 in Fireplace"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/6kx-image.webp",
+        "image": "images/6kx-image.webp",
         "link": "products/heat-n-glo-6kx.php",
         "AFUE": null,
         "SEER": null
@@ -345,7 +345,7 @@
         "comfortLevel": 85,
         "cost": 4,
         "features": ["45,000 BTU's", "42 in Fireplace"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/6kx-image.webp",
+        "image": "images/6kx-image.webp",
         "link": "products/heat-n-glo-8kx.php",
         "AFUE": null,
         "SEER": null
@@ -358,7 +358,7 @@
         "comfortLevel": 85,
         "cost": 4,
         "features": ["40,000 BTU's", "High End Fireplace Insert"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/escape-image.webp",
+        "image": "images/escape-image.webp",
         "link": "products/heat-n-glo-escape.php",
         "AFUE": null,
         "SEER": null
@@ -371,7 +371,7 @@
         "comfortLevel": 80,
         "cost": 3,
         "features": ["35,000 BTU's", "Mid Level Fireplace Insert"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/supreme-image.webp",
+        "image": "images/supreme-image.webp",
         "link": "products/heat-n-glo-supreme.php",
         "AFUE": null,
         "SEER": null
@@ -384,7 +384,7 @@
         "comfortLevel": 75,
         "cost": 2,
         "features": ["20,000 BTU's", "Entry Level 36 in. Fireplace"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/tahoe-image.webp",
+        "image": "images/tahoe-image.webp",
         "link": "products/white-mountain-hearth-tahoe-dvd36.php",
         "AFUE": null,
         "SEER": null
@@ -397,7 +397,7 @@
         "comfortLevel": 75,
         "cost": 3,
         "features": ["25,000 BTU's", "Entry Level 42 in. Fireplace"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/tahoe-image.webp",
+        "image": "images/tahoe-image.webp",
         "link": "products/white-mountain-hearth-tahoe-dvd42.php",
         "AFUE": null,
         "SEER": null
@@ -410,7 +410,7 @@
         "comfortLevel": 75,
         "cost": 3,
         "features": ["24,000 BTU Linear Fireplace", "36 or 46 in. Available"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/ascent-image.webp",
+        "image": "images/ascent-image.webp",
         "link": "products/napoleon-ascent.php",
         "AFUE": null,
         "SEER": null
@@ -423,7 +423,7 @@
         "comfortLevel": 75,
         "cost": 3,
         "features": ["40,000 BTU Gas Stove", "Bay Window"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/u39-image.webp",
+        "image": "images/u39-image.webp",
         "link": "products/regency-u39.php",
         "AFUE": null,
         "SEER": null
@@ -436,7 +436,7 @@
         "comfortLevel": 85,
         "cost": 3,
         "features": ["Single Indoor Head", "Great For Single Rooms"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/hitachi-image.webp",
+        "image": "images/hitachi-image.webp",
         "link": "products/hitachi-single.php",
         "AFUE": null,
         "SEER": 20.5
@@ -449,7 +449,7 @@
         "comfortLevel": 95,
         "cost": 5,
         "features": ["Comtrol With Smart Phone", "Whole Home Solution"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/hitachi-image.webp",
+        "image": "images/hitachi-image.webp",
         "link": "products/hitachi-multi.php",
         "AFUE": null,
         "SEER": 22
@@ -462,7 +462,7 @@
         "comfortLevel": 90,
         "cost": 4,
         "features": ["Heat And Domestic Hot Water", "Many Capacities Available"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/tankless-image.webp",
+        "image": "images/tankless-image.webp",
         "link": "products/rinnai-combi-boiler.php",
         "AFUE": 95.5,
         "SEER": null
@@ -475,7 +475,7 @@
         "comfortLevel": 90,
         "cost": 1,
         "features": ["Popular Smart Thermostat", "Easy To Use App"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/nest-image.webp",
+        "image": "images/nest-image.webp",
         "link": "products/google-nest-3rd-gen.php",
         "AFUE": null,
         "SEER": null
@@ -488,7 +488,7 @@
         "comfortLevel": 86,
         "cost": 2,
         "features": ["Wifi Enabled", "Touchscreen Display"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/honeywell-8000-image.webp",
+        "image": "images/honeywell-8000-image.webp",
         "link": "products/honeywell-8000.php",
         "AFUE": null,
         "SEER": null
@@ -501,7 +501,7 @@
         "comfortLevel": 81,
         "cost": 1,
         "features": ["Programmable Therostat", "Easy Scheduling"],
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/t4-image.webp",
+        "image": "images/t4-image.webp",
         "link": "products/honeywell-t4.php",
         "AFUE": null,
         "SEER": null

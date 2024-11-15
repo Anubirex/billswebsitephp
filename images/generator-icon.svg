@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="generator-icon" data-name="Generator Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.28 43.5" aria-hidden="true">
+  <defs>
+    <style>
+     <!--cut and paste this part into styles.css to avoid bloat IMPORTANT - fill and stroke must be same color on this one-->
+      .generator-icon {
+        fill: none;
+        stroke: black;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+    <polygon class="generator-icon" points="22.28 1 12.23 1 2.62 25 6.96 25 1 42.5 18.62 18 12.62 18 22.28 1"/>
+</svg>

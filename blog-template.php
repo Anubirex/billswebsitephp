@@ -7,10 +7,10 @@
     <meta name="description" content="Description for blog page">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
-    <link rel="icon" type="image/webp" sizes="32x32" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-32x32.webp">
-    <link rel="icon" type="image/svg+xml" href="https://callbillsheating.s3.us-west-2.amazonaws.com/large-favicon.svg">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon180x180.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="icon" type="image/webp" sizes="32x32" href="images/favicon-32x32.webp">
+    <link rel="icon" type="image/svg+xml" href="images/large-favicon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon180x180.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" rel="stylesheet">
@@ -30,14 +30,14 @@
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Blog Page">
     <meta property="og:description" content="Description for blog page">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/ac-main-social-share.webp">
+    <meta property="og:image" content="images/ac-main-social-share.webp">
     <meta property="og:url" content="https://callbills.com/blog-template.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Blog Page">
     <meta name="twitter:description" content="Description for blog page">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/ac-main-summary-large-image.webp">
+    <meta name="twitter:image" content="images/ac-main-summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -45,7 +45,7 @@
           "@context": "https://schema.org",
           "@type": "BlogPosting",
           "headline": "The Ultimate Guide to Efficient Heating Systems",
-          "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/blog-post-image.jpg",
+          "image": "images/blog-post-image.jpg",
           "author": {
             "@type": "Organization",
             "name": "Bill's Heating & A/C"
@@ -55,7 +55,7 @@
             "name": "Bill's Heating & A/C",
             "logo": {
               "@type": "ImageObject",
-              "url": "https://callbillsheating.s3.us-west-2.amazonaws.com/logo.jpg"
+              "url": "images/logo.jpg"
             }
           },
           "datePublished": "2023-03-01",

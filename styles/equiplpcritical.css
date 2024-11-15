@@ -1,4 +1,3 @@
-
 .furnace-hero {
   background-color: var(--COLOR-MAIN-DARK);
   background-image: url(https://callbillsheating.s3.us-west-2.amazonaws.com/lighted-bg.webp);
@@ -58,7 +57,7 @@ flex: 1;
   font-size: 3.5rem;
   color: var(--COLOR-SECONDARY-DARK);
   margin-bottom: 2rem;
-  border-bottom: 2px solid var(--COLOR-SECONDARY-DARK);
+  border-bottom: 2px solid var(--COLOR-MAIN-DARK);
 }
 .furnace-installation p{
   font-size: 1.5rem;
@@ -118,7 +117,7 @@ flex: 1;
   background-color: var(--COLOR-MAIN-DARK);
 }
 .buttons {
-background-color: #486a86;
+background-color: var(--COLOR-MAIN-DARK);
 color: white;
 border: none;
 border-radius: 5px;
@@ -134,9 +133,17 @@ border: 2px solid transparent;
 border: 2px solid var(--COLOR-MAIN-BRIGHT);
 background-color: #5983a5;
 }
-@media screen and (min-width: 769px) and (max-width: 972px){
+
+@media screen and (max-width: 972px){
   .get-started{
       align-items: center;
+    }
+    .standalone-headline{
+      font-size: 3rem;
+    }
+    .furnace-hero-content-headline + h1{
+      font-size: 2.4rem;
+      color: var(--COLOR-HIGHLIGHT-BRIGHT);
     }
 }
 @media screen and (min-width: 973px) and (max-width: 1250px) {

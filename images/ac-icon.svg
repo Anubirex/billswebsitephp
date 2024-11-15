@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="careers-icon" data-name="Careers Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 272.84 283.5" aria-hidden="true">
+  <defs>
+    <style>
+        <!--cut and paste this part into styles.css to avoid bloat IMPORTANT - fill and stroke must be same color on this one-->
+      .ac-icon {
+        fill: none;
+        stroke: black;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 13.5px;
+      }
+    </style>
+  </defs>
+    <g>
+      <line class="ac-icon" x1="136.42" y1="276.75" x2="136.42" y2="6.75"/>
+      <line class="ac-icon" x1="91.42" y1="18" x2="136.42" y2="63"/>
+      <line class="ac-icon" x1="181.42" y1="18" x2="136.42" y2="63"/>
+      <line class="ac-icon" x1="91.42" y1="265.5" x2="136.42" y2="220.5"/>
+      <line class="ac-icon" x1="181.42" y1="265.5" x2="136.42" y2="220.5"/>
+      <line class="ac-icon" x1="253.33" y1="209.25" x2="19.51" y2="74.25"/>
+      <line class="ac-icon" x1="6.75" y1="118.85" x2="68.22" y2="102.38"/>
+      <line class="ac-icon" x1="51.75" y1="40.9" x2="68.22" y2="102.38"/>
+      <line class="ac-icon" x1="221.09" y1="242.6" x2="204.62" y2="181.13"/>
+      <line class="ac-icon" x1="266.09" y1="164.65" x2="204.62" y2="181.13"/>
+      <line class="ac-icon" x1="19.51" y1="209.25" x2="253.33" y2="74.25"/>
+      <line class="ac-icon" x1="221.09" y1="40.9" x2="204.62" y2="102.38"/>
+      <line class="ac-icon" x1="266.09" y1="118.85" x2="204.62" y2="102.38"/>
+      <line class="ac-icon" x1="6.75" y1="164.65" x2="68.22" y2="181.13"/>
+      <line class="ac-icon" x1="51.75" y1="242.6" x2="68.22" y2="181.13"/>
+    </g>
+</svg>

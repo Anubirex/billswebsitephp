@@ -18,10 +18,10 @@
         <link rel=preconnect href="https://www.google.com">
         <link rel=preconnect href="https://googleads.g.doubleclick.net">
         <link rel=preconnect href="https://widgets.leadconnectorhq.com">
-        <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
-        <link rel="icon" type="image/webp" sizes="32x32" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-32x32.webp">
-        <link rel="icon" type="image/svg+xml" href="https://callbillsheating.s3.us-west-2.amazonaws.com/large-favicon.svg">
-        <link rel="apple-touch-icon" sizes="180x180" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon180x180.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+        <link rel="icon" type="image/webp" sizes="32x32" href="images/favicon-32x32.webp">
+        <link rel="icon" type="image/svg+xml" href="images/large-favicon.svg">
+        <link rel="apple-touch-icon" sizes="180x180" href="images/favicon180x180.png">
         <link rel="preload" href="https://fonts.gstatic.com" crossorigin>
         <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
         <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap"></noscript>
@@ -41,14 +41,14 @@
          <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | HVAC News">
     <meta property="og:description" content="Stay informed with the latest in HVAC: Get news, rebates, local updates, and industry insights with Bill's Heating & A/C.">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/social-share.webp">
+    <meta property="og:image" content="images/social-share.webp">
     <meta property="og:url" content="https://callbills.com/news.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Careers">
     <meta name="twitter:description" content="Stay informed with the latest in HVAC: Get news, rebates, local updates, and industry insights with Bill's Heating & A/C.">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/summary-large-image.webp">
+    <meta name="twitter:image" content="images/summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -56,7 +56,7 @@
         "@context": "https://schema.org",
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
+        "image": "images/social-share-image.jpg",
         "@id": "https://callbills.com/",
         "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
@@ -174,7 +174,7 @@
             <div class="news-rebates-track width-limiter">
                 <div class="news-card">
                     <div class="news-card-img">
-                    <img src="images/Energy-Star-Logo.webp" alt="The energy star Logo">
+                        <img src="images/Energy-Star-Logo.webp" alt="The energy star Logo">
                     </div>
                     <div class="news-card-text">
                         <h2>Air Source Heat Pumps Tax Credit</h2>
@@ -184,7 +184,7 @@
                 </div>
                 <div class="news-card">
                     <div class="news-card-img">
-                    <img src="images/Inflation-Reduction-Act.webp" alt="a pamphlet that readds Inflation Reduction Act on an American flag">
+                        <img src="images/Inflation-Reduction-Act.webp" alt="a pamphlet that readds Inflation Reduction Act on an American flag">
                     </div>
                     <div class="news-card-text">
                         <h2>The Inflation Reduction Act of 2022</h2>
@@ -194,7 +194,7 @@
                 </div>
                 <div class="news-card">
                     <div class="news-card-img">
-                    <img src="images/house-news.webp" alt="a house surrounded by trees, representing green energy. Calculators and thermostats are in the picture representing tax savings.">
+                        <img src="images/house-news.webp" alt="a house surrounded by trees, representing green energy. Calculators and thermostats are in the picture representing tax savings.">
                     </div>
                     <div class="news-card-text">
                         <h2>Get Federal Tax Savings and Other Rebates for Energy Efficiency Home Upgrades</h2>
@@ -211,7 +211,7 @@
             <div class="news-general-track width-limiter">
                 <div class="news-card">
                     <div class="news-card-img">
-                    <img src="images/refrigeration-article.webp" alt="A heat pump technician is looking at refrigerant guages hooked to a heat pump.">
+                        <img src="images/refrigeration-article.webp" alt="A heat pump technician is looking at refrigerant guages hooked to a heat pump.">
                     </div>
                     <div class="news-card-text">
                         <h2>Refrigerant Sell-Through Period Extended</h2>
@@ -221,7 +221,7 @@
                 </div>
                 <div class="news-card">
                     <div class="news-card-img">
-                    <img src="images/Modine-Amp-Dawg.webp" alt="a Modine brand Am Dawg unit heater.">
+                        <img src="images/Modine-Amp-Dawg.webp" alt="a Modine brand Am Dawg unit heater.">
                     </div>
                     <div class="news-card-text">
                         <h2>Modine Introduces the Amp Dawg™ Electric Residential Unit Heater</h2>
@@ -231,7 +231,7 @@
                 </div>
                 <div class="news-card">
                     <div class="news-card-img">
-                    <img src="images/refrig-removal.webp" alt="A group of people recycle refrigerant using a large machine in a room">
+                        <img src="images/refrig-removal.webp" alt="A group of people recycle refrigerant using a large machine in a room">
                     </div>
                     <div class="news-card-text">
                         <h2>Huge refrigerant removal operation continues at US nuclear plant</h2>
@@ -250,7 +250,7 @@
             <div class="news-local-track width-limiter">
                 <div class="news-card">
                     <div class="news-card-img">
-                    <img src="images/supplychainissues.webp" alt="A screen capture of the news talking about HVAC supply chain issues.">
+                        <img src="images/supplychainissues.webp" alt="A screen capture of the news talking about HVAC supply chain issues.">
                     </div>
                     <div class="news-card-text">
                         <h2>Supply chain problems bump HVAC prices more than 80 percent</h2>
@@ -260,7 +260,7 @@
                 </div>
                 <div class="news-card">
                     <div class="news-card-img">
-                    <img src="images/energy-savings.webp" alt="a line graph with a line wavering on the horizontal axis up and down.">
+                        <img src="images/energy-savings.webp" alt="a line graph with a line wavering on the horizontal axis up and down.">
                     </div>
                     <div class="news-card-text">
                         <h2>Energy Savings from New HVAC with Variable Flow</h2>
@@ -270,7 +270,7 @@
                 </div>
                 <div class="news-card">
                     <div class="news-card-img">
-                    <img src="images/idbs-art-img.webp" alt="An image looking up through the trusses of an unfinished house.">
+                        <img src="images/idbs-art-img.webp" alt="An image looking up through the trusses of an unfinished house.">
                     </div>
                     <div class="news-card-text">
                         <h2>Idaho building officials could make major cutbacks to energy code</h2>

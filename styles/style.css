@@ -3426,8 +3426,7 @@ font-size: 4rem;
   padding: 3rem 1rem 2rem 1rem;
 }
 .savings-current-promotion-outer{
-  
-  background-image: linear-gradient(to bottom, rgb(4, 0, 0),rgb(55, 20, 3));
+  background-color: var(--COLOR-MAIN-DARK);
 }
 .savings-current-promotion{
   display: flex;

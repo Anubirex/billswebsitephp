@@ -20,16 +20,16 @@
     <link rel=preconnect href="https://www.google.com">
     <link rel=preconnect href="https://googleads.g.doubleclick.net">
     <link rel=preconnect href="https://widgets.leadconnectorhq.com">
-    <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
-    <link rel="icon" type="image/webp" sizes="32x32" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-32x32.webp">
-    <link rel="icon" type="image/svg+xml" href="https://callbillsheating.s3.us-west-2.amazonaws.com/large-favicon.svg">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon180x180.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="icon" type="image/webp" sizes="32x32" href="images/favicon-32x32.webp">
+    <link rel="icon" type="image/svg+xml" href="images/large-favicon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon180x180.png">
     <link rel="preload" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap"></noscript>
-    <link rel="stylesheet" href="styles/equiplpcritical.css">
     <link rel="stylesheet" href="styles/headerstyle.css">
     <link rel="stylesheet" href="styles/footerstyle.css">
+    <link rel="stylesheet" href="styles/equiplpcritical.css">
     <link rel="stylesheet" href="styles/animations.css">
 
     <!-- Google Tag Manager -->
@@ -43,14 +43,14 @@
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Tankless Services">
     <meta property="og:description" content="Bill's Heating and AC: Premier tankless water heater services with fast installations, tune-ups, and diagnostics. Lowest Price Guarantee, trusted by 30,000+.">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/tankless-social-share.webp">
+    <meta property="og:image" content="images/tankless-social-share.webp">
     <meta property="og:url" content="https://callbills.com/tankless.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Tankless Services">
     <meta name="twitter:description" content="Bill's Heating and AC: Premier tankless water heater services with fast installations, tune-ups, and diagnostics. Lowest Price Guarantee, trusted by 30,000+.">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/tankless-summary-large-image.webp">
+    <meta name="twitter:image" content="images/tankless-summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -58,7 +58,7 @@
         "@context": "https://schema.org",
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
+        "image": "images/social-share-image.jpg",
         "@id": "https://callbills.com/",
         "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
@@ -172,11 +172,11 @@
         <section class="furnace-hero">
         <div class="furnace-hero-container width-limiter">
             <div class="furnace-hero-content">
-            <h1 class="furnace-hero-content-headline ac-directory-headline">Tankless Services</h1><h1>At Bill&apos;s Heating and AC</h1>
+                <h1 class="furnace-hero-content-headline ac-directory-headline">Tankless Services</h1><h1>At Bill&apos;s Heating and AC</h1>
                 <p>Welcome to Bill&apos;s Heating and AC, where we are dedicated to providing you with cutting&dash;edge, energy&dash;efficient tankless water heater solutions. Our team of skilled technicians specializes in offering the best in tankless water heater installation and maintenance. We are more than just an HVAC company&semi; we're your local experts committed to ensuring you have access to endless hot water in your home.</p>
             </div>
             <div class="furnace-hero-img">
-                <img src="https://callbillsheating.s3.us-west-2.amazonaws.com/tankless-image.webp" alt="A Rinnai Tankless water heater" width="750" height="528">
+                <img src="images/tankless-image.webp" alt="A Rinnai Tankless water heater" width="750" height="528">
             </div>
         </div>
     </section>
@@ -206,7 +206,7 @@
     </section>
     <section class="get-started-outer">
         <div class="get-started width-limiter">
-            <div class="get-started-image" data-animation="zoom-in-left"><img src="https://callbillsheating.s3.us-west-2.amazonaws.com/truck-transparent-bg.webp" alt="bills truck" width="571" height="347" loading="lazy"></div>
+            <div class="get-started-image" data-animation="zoom-in-left"><img src="images/truck-transparent-bg.webp" alt="bills truck" width="571" height="347" loading="lazy"></div>
             <div class="lets-get-started" data-animation="zoom-in-right">
                 <h2>Lets Get Started!</h2>
                 <a href="tel:+12087775528"><button type="button" class="call-us-button">Call Us</button></a>

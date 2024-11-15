@@ -235,74 +235,7 @@ left: 0;
 width: 100%;
 height: 100%;
 }
-.energy-calculator-hero{
-margin-top: 7rem;
-}
-.energy-calculator-hero h1{
-color: var(--COLOR-MAIN-DARK);
-text-shadow: none;
-}
-.energy-calculator {
-position: relative;
-display: flex;
-margin-left: auto;
-margin-right: auto;
-height: 794px;
-max-width: 1196px;
-}
-.energy-calculator iframe{
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
--webkit-transform: scale(0.8);
-}
 
-/* Calc Definitions Section */
-.calc-definitions-section {
-background-color: #f9f9f9;
-padding: 3rem 1rem;
-}
-
-.calc-definitions-section h2 {
-font-size: 2.8rem;
-text-align: center;
-color: var(--COLOR-MAIN-DARK);
-margin-bottom: 2rem;
-}
-
-.calc-definitions-container {
-display: grid;
-grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-gap: 2rem;
-}
-
-.calc-definitions-item {
-background-color: white;
-border: 1px solid #e0e0e0;
-border-radius: 8px;
-padding: 1.5rem;
-box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-transition: transform 0.3s, box-shadow 0.3s;
-}
-
-.calc-definitions-item:hover {
-transform: translateY(-5px);
-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
-}
-
-.calc-definitions-item h3 {
-font-size: 1.8rem;
-color: var(--COLOR-MAIN-BRIGHT);
-margin-bottom: 1rem;
-}
-
-.calc-definitions-item p {
-font-size: 1.6rem;
-color: #555;
-line-height: 1.6;
-}
 
 
 
@@ -540,29 +473,5 @@ padding: 20px;
 @media (max-width: 900px) {
 .blog-card {
     flex: 1 1 calc(50% - 20px);
-}
-}
-
-@media (max-width: 903px) {
-.energy-calculator{
-  height: 1600px;
-}
-
-}
-@media (max-width: 600px) {
-.calc-definitions-section {
-  padding: 2rem 1rem;
-}
-
-.calc-definitions-section h2 {
-  font-size: 2.4rem;
-}
-
-.calc-definitions-item h3 {
-  font-size: 1.6rem;
-}
-
-.calc-definitions-item p {
-  font-size: 1.4rem;
 }
 }

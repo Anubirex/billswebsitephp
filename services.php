@@ -22,10 +22,10 @@
     <link rel=preconnect href="https://googleads.g.doubleclick.net">
     <link rel=preconnect href="https://widgets.leadconnectorhq.com">
     <link rel='dns-prefetch' href='//callbillsheating.s3.us-west-2.amazonaws.com'/>
-    <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
-    <link rel="icon" type="image/webp" sizes="32x32" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-32x32.webp">
-    <link rel="icon" type="image/svg+xml" href="https://callbillsheating.s3.us-west-2.amazonaws.com/large-favicon.svg">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon180x180.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="icon" type="image/webp" sizes="32x32" href="images/favicon-32x32.webp">
+    <link rel="icon" type="image/svg+xml" href="images/large-favicon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon180x180.png">
     <link rel="preload" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap"></noscript>
@@ -45,14 +45,14 @@
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Services">
     <meta property="og:description" content="Explore top-notch HVAC solutions at Bill's Heating & A/C: expert installations, repairs, and maintenance services for all your heating and cooling needs.">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg">
+    <meta property="og:image" content="images/social-share-image.jpg">
     <meta property="og:url" content="https://callbills.com">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Services">
     <meta name="twitter:description" content="Explore top-notch HVAC solutions at Bill's Heating & A/C: expert installations, repairs, and maintenance services for all your heating and cooling needs.">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/summary-large-image.webp">
+    <meta name="twitter:image" content="images/summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -60,7 +60,7 @@
         "@context": "https://schema.org",
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
+        "image": "images/social-share-image.jpg",
         "@id": "https://callbills.com/",
         "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
@@ -114,7 +114,7 @@
             <section class="services-hero">
               <div class="furnace-hero-container width-limiter">
                   <div class="furnace-hero-content">
-                  <h1 class="furnace-hero-content-headline ac-directory-headline">HVAC Services</h1><h1>At Bill&apos;s Heating and AC</h1>
+                      <h1 class="furnace-hero-content-headline ac-directory-headline">HVAC Services</h1><h1>At Bill&apos;s Heating and AC</h1>
                       <p>Welcome to Bill&apos;s Heating & A/C, where our 33+ years of dedication have made us a cornerstone in the HVAC industry across Northern Idaho and Eastern Washington. With a legacy spanning over three decades, we take pride in having earned the trust and loyalty of our community, reflected in our 3000+ five-star reviews. Our unwavering commitment to excellence drives us to deliver unparalleled service, as we strive to be the #1 HVAC company in the Northwest. Experience the difference with our expert team, where quality, reliability, and customer satisfaction are not just promises, but the foundation of our enduring reputation.</p>
                   </div>
                   <div class="furnace-hero-img">
@@ -151,7 +151,7 @@
                         It's a crucial step in regular furnace maintenance, ensuring the system remains reliable, especially during the colder months when heating is essential.<br><span>-Click Here to Find Out More-</span></p>
                 </a>
                 <a class="serv-tab-content" href="furnacetune.php">
-                <h3>Furnace Tune&dash;Up</h3>
+                    <h3>Furnace Tune&dash;Up</h3>
                     <p>A furnace tune&dash;up is a comprehensive maintenance service aimed at ensuring your heating system runs efficiently and reliably.
                         During a tune&dash;up, skilled technicians thoroughly inspect the furnace, cleaning and adjusting components like the burner, blower motor, and heat exchanger.
                         They also check and replace filters, test safety controls, and ensure the thermostat is accurately calibrated and functioning properly.
@@ -177,7 +177,7 @@
                         Regular diagnostic checks help in maintaining optimal AC performance, prolonging the system's life, and preventing costly repairs or replacements in the future.<br><span>-Click Here to Find Out More-</span></p>
                 </a>
                 <a class="serv-tab-content" href="actune.php">
-                <h3>Air Conditioning Tune&dash;Up</h3>
+                    <h3>Air Conditioning Tune&dash;Up</h3>
                     <p>An air conditioning tune&dash;up is a preventative maintenance service designed to keep your AC system running efficiently and reliably.
                         During the tune&dash;up, skilled technicians inspect and clean key components of the air conditioner, including the condenser coils, evaporator, fan, and filter.
                         They also check and refill the refrigerant levels if necessary, ensure electrical connections are secure, and verify that the thermostat is functioning correctly.
@@ -203,7 +203,7 @@
                         Regular diagnostic checks are crucial for ensuring the heat pump operates optimally, providing reliable temperature control while minimizing energy consumption.<br><span>-Click Here to Find Out More-</span></p>
                 </a>
                 <a class="serv-tab-content" href="hptune.php">
-                <h3>Heat Pump Tune&dash;Up</h3>
+                    <h3>Heat Pump Tune&dash;Up</h3>
                     <p>A heat pump tune&dash;up is a comprehensive maintenance service designed to ensure the efficient and effective operation of your heat pump system throughout the year.
                         The tune-up process involves a thorough inspection and cleaning of key components, including the indoor and outdoor coils, fan motor, and air filters.
                         Technicians check and adjust refrigerant levels as needed, inspect electrical connections, and ensure that the thermostat is properly calibrated and functioning.
@@ -229,7 +229,7 @@
                         Regular diagnostic checks help maintain the optimal performance of ductless systems, ensuring they provide effective temperature control and operate energy-efficiently.<br><span>-Click Here to Find Out More-</span></p>
                 </a>
                 <a class="serv-tab-content" href="ductlesstune.php">
-                <h3>Ductless Tune&dash;Up</h3>
+                    <h3>Ductless Tune&dash;Up</h3>
                     <p>A ductless tune&dash;up is a preventive maintenance service for ductless heating and cooling systems, also known as mini-split systems, aimed at ensuring their efficient and reliable operation.
                         The service includes a thorough inspection of both the indoor and outdoor units, focusing on cleaning filters, checking refrigerant levels, and ensuring the coils are free of debris.
                         Technicians also examine electrical connections, test the operation of the thermostat, and ensure that all components are functioning correctly.
@@ -238,7 +238,7 @@
                 </a>
             </div>
             <div id="servTab5" class="serv-tab-displayed width-limiter">
-            <a class="serv-tab-content" href="tanklessinstall.php">
+                <a class="serv-tab-content" href="tanklessinstall.php">
                     <h3>Tankless Water Heater Install</h3>
                     <p>Tankless Water heater installation involves setting up a new hot water system, ensuring a consistent and reliable supply of hot water for residential or commercial use.
                         The process begins with choosing the right type and size of water heater, based on factors like water usage, space availability, and energy efficiency preferences.
@@ -264,7 +264,7 @@
                 </a>
             </div>
             <div id="servTab6" class="serv-tab-displayed width-limiter">
-            <a class="serv-tab-content" href="generator.php">
+                <a class="serv-tab-content" href="generator.php">
                     <h3>Generator Install</h3>
                     <p>Generator installation involves setting up a backup power system to provide electricity during outages, ensuring continuous power supply for homes or businesses.
                         The process begins with selecting the appropriate type and size of generator based on the specific power needs, considering factors like the size of the property and the essential appliances and systems that need power.
@@ -274,7 +274,7 @@
                 </a>
             </div>
             <div id="servTab7" class="serv-tab-displayed width-limiter">
-            <a class="serv-tab-content" href="evcharger.php">
+                <a class="serv-tab-content" href="evcharger.php">
                     <h3>EV Charger Install</h3>
                     <p>Electric vehicle charger installation involves setting up a charging station at a home or business to provide a convenient and efficient way to recharge electric vehicles.
                         The process includes selecting the right type of charger (Level 1, Level 2, or DC Fast Charger) based on the vehicle's requirements and the owner's charging needs, considering factors like charging speed and frequency of use.
@@ -489,27 +489,27 @@
                   <div class="loc-col">
                     <h2 data-animation="fade-in">Idaho</h2>
                     <ul>
-                      <li data-animation="fade-in"><a href="pf.php">Post Falls</a></li>
-                      <li data-animation="fade-in"><a href="cda.php">Coeur D&apos;Alene</a></li>
-                      <li data-animation="fade-in"><a href="hayden.php">Hayden</a></li>
-                      <li data-animation="fade-in"><a href="rathdrum.php">Rathdrum</a></li>
-                      <li data-animation="fade-in"><a href="athol.php">Athol</a></li>
-                      <li data-animation="fade-in"><a href="sandpoint.php">Sandpoint</a></li>
-                      <li data-animation="fade-in"><a href="pr.php">Priest River</a></li>
-                      <li data-animation="fade-in"><a href="sl.php">Spirit Lake</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/pf.php">Post Falls</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/cda.php">Coeur D&apos;Alene</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/hayden.php">Hayden</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/rathdrum.php">Rathdrum</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/athol.php">Athol</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/sandpoint.php">Sandpoint</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/pr.php">Priest River</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/sl.php">Spirit Lake</a></li>
                     </ul>
                   </div>
                   <div class="loc-col">
                     <h2 data-animation="fade-in">Washington</h2>
                     <ul>
-                      <li data-animation="fade-in"><a href="spokane.php">Spokane</a></li>
-                      <li data-animation="fade-in"><a href="sv.php">Spokane Valley</a></li>
-                      <li data-animation="fade-in"><a href="dp.php">Deer Park</a></li>
-                      <li data-animation="fade-in"><a href="newport.php">Newport</a></li>
-                      <li data-animation="fade-in"><a href="ll.php">Liberty Lake</a></li>
-                      <li data-animation="fade-in"><a href="ml.php">Medical Lake</a></li>
-                      <li data-animation="fade-in"><a href="ah.php">Airway Heights</a></li>
-                      <li data-animation="fade-in"><a href="cheney.php">Cheney</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/spokane.php">Spokane</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/sv.php">Spokane Valley</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/dp.php">Deer Park</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/newport.php">Newport</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/ll.php">Liberty Lake</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/ml.php">Medical Lake</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/ah.php">Airway Heights</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/cheney.php">Cheney</a></li>
                     </ul>
                   </div>
                 </div>
@@ -521,24 +521,24 @@
                   <div class="loc-col">
                     <h2 data-animation="fade-in">Idaho</h2>
                     <ul>
-                      <li data-animation="fade-in"><a href="moscow.php">Moscow</a></li>
-                      <li data-animation="fade-in"><a href="lewiston.php">Lewiston</a></li>
-                      <li data-animation="fade-in"><a href="lapwai.php">Lapwai</a></li>
-                      <li data-animation="fade-in"><a href="genesee.php">Genesee</a></li>
-                      <li data-animation="fade-in"><a href="kendrick.php">Kendrick</a></li>
-                      <li data-animation="fade-in"><a href="troy.php">Troy</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/moscow.php">Moscow</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/lewiston.php">Lewiston</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/lapwai.php">Lapwai</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/genesee.php">Genesee</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/kendrick.php">Kendrick</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/troy.php">Troy</a></li>
                     </ul>
                   </div>
                   <div class="loc-col">
                     <h2 data-animation="fade-in">Washington</h2>
                     <ul>
-                      <li data-animation="fade-in"><a href="pullman.php">Pullman</a></li>
-                      <li data-animation="fade-in"><a href="clarkston.php">Clarkston</a></li>
-                      <li data-animation="fade-in"><a href="asotin.php">Asotin</a></li>
-                      <li data-animation="fade-in"><a href="uniontown.php">Uniontown</a></li>
-                      <li data-animation="fade-in"><a href="pomeroy.php">Pomeroy</a></li>
-                      <li data-animation="fade-in"><a href="chattaroy.php">Chattaroy</a></li>
-                      <li data-animation="fade-in"><a href="colton.php">Colton</a></li> 
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/pullman.php">Pullman</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/clarkston.php">Clarkston</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/asotin.php">Asotin</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/uniontown.php">Uniontown</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/pomeroy.php">Pomeroy</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/chattaroy.php">Chattaroy</a></li>
+                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/colton.php">Colton</a></li> 
                     </ul>
                   </div>
                 </div>

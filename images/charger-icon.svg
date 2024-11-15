@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="charger-icon" data-name="Charger Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 247.5 283.5" aria-hidden="true">
+  <defs>
+    <style>  
+    <!--cut and paste this part into styles.css to avoid bloat IMPORTANT - fill and stroke must be same color on this one-->
+      .charger-icon {
+        stroke-miterlimit: 10;
+        fill: none;
+        stroke: #1d1d1b;
+        stroke-linecap: round;
+        stroke-width: 13.5px;
+        stroke-linejoin: round;
+      }
+
+    </style>
+  </defs>
+    <g>
+      <path class="charger-icon" d="m6.75,24.75C6.75,14.8,14.8,6.75,24.75,6.75"/>
+      <path class="charger-icon" d="m168.75,24.75c0-9.95-8.05-18-18-18"/>
+      <line class="charger-icon" x1="24.75" y1="6.75" x2="150.75" y2="6.75"/>
+      <path class="charger-icon" d="m168.75,222.75c0,9.95-8.05,18-18,18"/>
+      <path class="charger-icon" d="m6.75,222.75c0,9.95,8.05,18,18,18"/>
+      <line class="charger-icon" x1="150.75" y1="240.75" x2="24.75" y2="240.75"/>
+      <line class="charger-icon" x1="6.75" y1="24.75" x2="6.75" y2="222.75"/>
+      <line class="charger-icon" x1="168.75" y1="24.75" x2="168.75" y2="222.75"/>
+      <line class="charger-icon" x1="60.75" y1="240.75" x2="60.75" y2="276.75"/>
+      <line class="charger-icon" x1="114.75" y1="240.75" x2="114.75" y2="276.75"/>
+      <path class="charger-icon" d="m51.75,186.75c0-9.95,8.05-18,18-18"/>
+      <path class="charger-icon" d="m123.75,186.75c0-9.95-8.05-18-18-18"/>
+      <line class="charger-icon" x1="51.75" y1="186.75" x2="51.75" y2="240.75"/>
+      <line class="charger-icon" x1="123.75" y1="186.75" x2="123.75" y2="240.75"/>
+      <line class="charger-icon" x1="69.75" y1="168.75" x2="105.75" y2="168.75"/>
+      <line class="charger-icon" x1="78.75" y1="195.75" x2="96.75" y2="195.75"/>
+      <line class="charger-icon" x1="87.75" y1="51.75" x2="69.75" y2="87.75"/>
+      <line class="charger-icon" x1="105.75" y1="87.75" x2="69.75" y2="87.75"/>
+      <line class="charger-icon" x1="87.75" y1="123.75" x2="105.75" y2="87.75"/>
+      <path class="charger-icon" d="m204.75,78.75c0,4.97,4.03,9,9,9"/>
+      <line class="charger-icon" x1="204.75" y1="78.75" x2="204.75" y2="60.75"/>
+      <line class="charger-icon" x1="240.75" y1="78.75" x2="240.75" y2="60.75"/>
+      <line class="charger-icon" x1="204.75" y1="60.75" x2="240.75" y2="60.75"/>
+      <line class="charger-icon" x1="211.5" y1="42.75" x2="211.5" y2="60.75"/>
+      <line class="charger-icon" x1="234" y1="42.75" x2="234" y2="60.75"/>
+      <line class="charger-icon" x1="213.75" y1="87.75" x2="231.75" y2="87.75"/>
+      <path class="charger-icon" d="m240.75,78.75c0,4.97-4.03,9-9,9"/>
+      <line class="charger-icon" x1="168.75" y1="204.75" x2="204.75" y2="204.75"/>
+      <path class="charger-icon" d="m222.75,186.75c0,9.95-8.05,18-18,18"/>
+      <line class="charger-icon" x1="222.75" y1="186.75" x2="222.75" y2="87.75"/>
+    </g>
+</svg>

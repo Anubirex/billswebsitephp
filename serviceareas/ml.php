@@ -21,10 +21,10 @@
     <link rel=preconnect href="https://www.google.com">
     <link rel=preconnect href="https://googleads.g.doubleclick.net">
     <link rel=preconnect href="https://widgets.leadconnectorhq.com">
-    <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
-    <link rel="icon" type="image/webp" sizes="32x32" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-32x32.webp">
-    <link rel="icon" type="image/svg+xml" href="https://callbillsheating.s3.us-west-2.amazonaws.com/large-favicon.svg">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon180x180.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="icon" type="image/webp" sizes="32x32" href="images/favicon-32x32.webp">
+    <link rel="icon" type="image/svg+xml" href="images/large-favicon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon180x180.png">
     <link rel="preload" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap"></noscript>
@@ -44,14 +44,14 @@
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Medical Lake, WA">
     <meta property="og:description" content="Bill's Heating & A/C in Medical Lake, WA: Expert HVAC for cold winters & moderate summers. No travel fees, $79 diagnostics, dedicated to top-quality comfort.">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/ml-social-share.webp">
+    <meta property="og:image" content="images/ml-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/ml.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Medical Lake, WA">
     <meta name="twitter:description" content="Bill's Heating & A/C in Medical Lake, WA: Expert HVAC for cold winters & moderate summers. No travel fees, $79 diagnostics, dedicated to top-quality comfort.">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/ml-summary-large-image.webp">
+    <meta name="twitter:image" content="images/ml-summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -59,7 +59,7 @@
         "@context": "https://schema.org",
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
+        "image": "images/ml-social-share.webp",
         "@id": "https://callbills.com/",
         "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
