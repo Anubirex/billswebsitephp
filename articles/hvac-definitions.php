@@ -107,13 +107,13 @@
                 <h1>HVAC Definitions</h1>
                 <p>A complete glossary of terms related to HVAC</p>
                 <figure>
-                    <img class="blog-main-image" src="../images\hvac-definitions-blocks.webp" alt="Wood Blocks that spell the word HVAC" width="1200" height="675">
+                    <img class="blog-main-image" src="../images/hvac-definitions-blocks.webp" alt="Wood Blocks that spell the word HVAC" width="1200" height="675">
                 </figure>
                 <div class="blog-share-article">
                     <a href="https://www.facebook.com/sharer/sharer.php?u=https://callbills.com/articles/hvac-definitions.php" target="_blank" class="share-button">Share on Facebook</a>
                     <div class="blog-author-container">
                       <div class="blog-author-profile">
-                        <img src="../blogimages\author-picture-jacob.webp" alt="Jacob Darrah" class="blog-author-image" width="50" height="50">
+                        <img src="../blogimages/author-picture-jacob.webp" alt="Jacob Darrah" class="blog-author-image" width="50" height="50">
                         <div class="blog-author-details">
                             <p><span class="blog-author-label">Author:</span></p>
                             <p><span class="blog-author-name">Jacob Darrah</span></p>

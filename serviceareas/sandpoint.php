@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Sandpoint, Idaho</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/sandpoint.php">
-    <meta name="description" content="Bill's Heating & A/C in Sandpoint, ID: Specialized HVAC for all climates. Custom comfort solutions, no travel fees, $79 diagnostics, high satisfaction.">
+    <meta name="description" content="Bill's Heating & A/C in Sandpoint, ID: Specialized HVAC for all climates. Custom comfort solutions, no travel fees, $59 diagnostics, high satisfaction.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Sandpoint, Idaho">
-    <meta property="og:description" content="Bill's Heating & A/C in Sandpoint, ID: Specialized HVAC for all climates. Custom comfort solutions, no travel fees, $79 diagnostics, high satisfaction.">
+    <meta property="og:description" content="Bill's Heating & A/C in Sandpoint, ID: Specialized HVAC for all climates. Custom comfort solutions, no travel fees, $59 diagnostics, high satisfaction.">
     <meta property="og:image" content="images/sandpoint-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/sandpoint.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Sandpoint, Idaho">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Sandpoint, ID: Specialized HVAC for all climates. Custom comfort solutions, no travel fees, $79 diagnostics, high satisfaction.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Sandpoint, ID: Specialized HVAC for all climates. Custom comfort solutions, no travel fees, $59 diagnostics, high satisfaction.">
     <meta name="twitter:image" content="images/sandpoint-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -226,7 +226,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Opting for Bill's Heating & A/C in Sandpoint means choosing a service steeped in local expertise and distinguished by quality. Our policy of no travel fees and our extensive service area reflect our dedication to making our services accessible and affordable. We offer competitive pricing with $79 diagnostics and tune-ups, along with free estimates and second opinions, ensuring our clients in Sandpoint receive the best possible value. Our high customer satisfaction ratings speak volumes about our commitment to exceeding service expectations. Rely on us to keep your Sandpoint home or business comfortable in every season, with solutions that are reliable, efficient, and tailored to the local climate.</p>
+                <p>Opting for Bill's Heating & A/C in Sandpoint means choosing a service steeped in local expertise and distinguished by quality. Our policy of no travel fees and our extensive service area reflect our dedication to making our services accessible and affordable. We offer competitive pricing with $59 diagnostics and tune-ups, along with free estimates and second opinions, ensuring our clients in Sandpoint receive the best possible value. Our high customer satisfaction ratings speak volumes about our commitment to exceeding service expectations. Rely on us to keep your Sandpoint home or business comfortable in every season, with solutions that are reliable, efficient, and tailored to the local climate.</p>
             </div>
           </section>
           <div class="commendations-outer">

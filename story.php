@@ -193,9 +193,9 @@
             the same spirit of dedication and quality service that Grandpa Bill envisioned.
         </p> 
         <div class="story-container">
-            <img src="images\hayden-office.webp" alt="Bill's Heating & AC's Hayden Location" class="story-image" width="400" height="240" loading="lazy">
-            <img src="images\post-falls-office.webp" alt="Bill's Heating & AC's Post Falls Location" class="story-image" width="400" height="240" loading="lazy">
-            <img src="images\lewiston-office.webp" alt="Bill's Heating & AC's Lewiston Location" class="story-image" width="400" height="240" loading="lazy">
+            <img src="images/hayden-office.webp" alt="Bill's Heating & AC's Hayden Location" class="story-image" width="400" height="240" loading="lazy">
+            <img src="images/post-falls-office.webp" alt="Bill's Heating & AC's Post Falls Location" class="story-image" width="400" height="240" loading="lazy">
+            <img src="images/lewiston-office.webp" alt="Bill's Heating & AC's Lewiston Location" class="story-image" width="400" height="240" loading="lazy">
         </div>           
         <h2>Expanding Horizons</h2>
         <p>In 2021, our journey of growth led us to expand our service area to encompass the communities of 
@@ -221,9 +221,9 @@
             effectively, ensuring peace of mind without the burden of excessive costs.  
         </p>
         <div class="story-container">
-            <img src="images\parking-full-lewiston.webp" alt="The Bill's Heating and AC Lewiston parking lot is full of company trucks" class="story-image" width="400" height="240" loading="lazy">
-            <img src="images\employee-in-lewiston.webp" alt=" A Bill's Heating & AC's smiles as he talks to a customer from behind the counter in our Lewiston location." class="story-image" width="400" height="240" loading="lazy">
-            <img src="images\line-in-lewiston.webp" alt="A line of approximately 200 people wait to enter Bill's Heating & AC's Lewiston Location while they give away free space heaters during a natural gas outage." class="story-image" width="400" height="240" loading="lazy">
+            <img src="images/parking-full-lewiston.webp" alt="The Bill's Heating and AC Lewiston parking lot is full of company trucks" class="story-image" width="400" height="240" loading="lazy">
+            <img src="images/employee-in-lewiston.webp" alt=" A Bill's Heating & AC's smiles as he talks to a customer from behind the counter in our Lewiston location." class="story-image" width="400" height="240" loading="lazy">
+            <img src="images/line-in-lewiston.webp" alt="A line of approximately 200 people wait to enter Bill's Heating & AC's Lewiston Location while they give away free space heaters during a natural gas outage." class="story-image" width="400" height="240" loading="lazy">
         </div>        
         <h2>A Legacy of Trust and Excellence</h2>
         <p>Our reputation for excellence is not just a claim &dash; it's a promise backed by a long list of satisfied customers.

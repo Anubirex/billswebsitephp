@@ -170,24 +170,20 @@
         <div class="financing-header width-limiter">
             <h1>Flexible Financing Options at Bill&apos;s Heating &amp; A/C</h1>
             <p>At Bill&apos;s Heating &amp; A/C, we believe that everyone deserves a comfortable home, regardless of budget constraints. That&apos;s why we offer a range of flexible financing options through Greensky and Synchrony, making it easier for you to invest in new furnaces, heat pumps, air conditioners, or ductless heat pumps.</p>
-            <img src="images\piggy-bank.webp" width="1000" height="394" alt="A piggy bank with money around it">
+            <img src="images/piggy-bank.webp" width="1000" height="394" alt="A piggy bank with money around it">
         </div>
     </section>
     <h2 class="standalone-headline">Our Currently Offered Plans</h2>
     <section>
         <div class="financing-cards">
-            <img src="images\synchrony-logo.webp" alt="Synchrony Bank Logo" width="500" height="109">
+            <img src="images/synchrony-logo.webp" alt="Synchrony Bank Logo" width="500" height="109">
             <div class="financing-card featured-financing-plan">
-                <p class="financing-plan-number"><strong>Plan 924</strong></p>
-                <p class="financing-plan-description">No Monthly Interest if Paid in Full within 18 Months. &sup1;  &sup2; <span> Fixed monthly payments of 2.50&percnt; of the promo purchase balance.</span></p>
-            </div>
-            <div class="financing-card">
                 <p class="financing-plan-number"><strong>Plan 920</strong></p>
                 <p class="financing-plan-description">No Monthly Interest if Paid in Full within 6 Months. &sup1;  &sup2; <span> Fixed monthly payments of 2.50&percnt; of the promo purchase balance.</span></p>
             </div>
             <div class="financing-card">
-                <p class="financing-plan-number"><strong>Plan 943</strong></p>
-                <p class="financing-plan-description">9.99&percnt; APR Until Paid in Full. &sup1; <span>Fixed monthly payments equal to 1.25&percnt; of promo purchase amount.</span></p>
+                <p class="financing-plan-number"><strong>Plan 965</strong></p>
+                <p class="financing-plan-description">11.99&percnt; APR Until Paid in Full. &sup1; <span>Fixed monthly payments equal to 1.75&percnt; of promo purchase amount.</span></p>
             </div>
             <div class="width-limiter"><p class="financing-disclosures">
                 Note&colon; Synchrony financing is available exclusively for purchases of new furnaces, heat pumps, air conditioners, or ductless heat pumps, for residential customers only.
@@ -201,18 +197,18 @@
         </div>       
         <hr class="width-limiter">
         <div class="financing-cards">
-            <img src="images\greensky-logo.webp" width="500" height="132" alt="GreenSky financing Logo">
+            <img src="images/greensky-logo.webp" width="500" height="132" alt="GreenSky financing Logo">
             <div class="financing-card featured-financing-plan">
-                <p class="financing-plan-number"><strong>Plan 2601</strong></p>
-                <p class="financing-plan-description">No Monthly Interest if Paid in Full within 6 Months.<span> 36 monthly payments required, including during the promo period. Rates range from 17.99&percnt; to 24.99&percnt; APR.</span></p>
+                <p class="financing-plan-number"><strong>Plan 2602</strong></p>
+                <p class="financing-plan-description">No Monthly Interest if Paid in Full within 6 Months.<span> 84 monthly payments required, including during the promo period. Rates range from 17.99&percnt; to 24.99&percnt; APR.</span></p>
             </div>
             <div class="financing-card">
-                <p class="financing-plan-number"><strong>Plan 9992</strong></p>
-                <p class="financing-plan-description">Fixed interest rate ranging from 7.99&percnt; to 19.99&percnt; based on credit, for a term of 120 months.</p>
+                <p class="financing-plan-number"><strong>Plan 2740</strong></p>
+                <p class="financing-plan-description">Fixed interest rate of 9.99&percnt; APR for a term of 120 months.</p>
             </div>
             <div class="financing-card">
-                <p class="financing-plan-number"><strong>Plan 2832</strong></p>
-                <p class="financing-plan-description">Fixed interest rate of 12.99&percnt; for a term of 120 months.</p>
+                <p class="financing-plan-number"><strong>Plan 1519</strong></p>
+                <p class="financing-plan-description">Fixed interest rate of 11.99&percnt; APR for a term of 180 months.</p>
             </div>
         </div>
         <div><p class="financing-disclosures width-limiter minimum-padding centered-text">

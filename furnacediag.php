@@ -181,7 +181,7 @@
         <div class="diag-page-inner-section-one hero width-limiter">
             <div>
             <h1>Precision in Identifying and Resolving Your Furnace Issues</h1>
-            <img class="diag-page-hero-image" src="blogimages\smiling-tech-large.webp" alt="a furnace technician smiles" width="1200" height="625">
+            <img class="diag-page-hero-image" src="blogimages/smiling-tech-large.webp" alt="a furnace technician smiles" width="1200" height="625">
               <p>At Bill&rsquo;s Heating and AC, the leading HVAC contractor in the Northwest with a reputation backed by over 5000 five-star reviews, we specialize in advanced furnace diagnostics. Our skilled technicians, equipped with expertise and state-of-the-art technology, are adept at accurately diagnosing and effectively resolving any issues your furnace may face, ensuring your home remains warm and safe throughout the year.</p> 
               <button class="schedule-service-button open-form-button">Schedule Service</button>
             </div>

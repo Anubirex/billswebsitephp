@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Spirit Lake, Idaho</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/sl.php">
-    <meta name="description" content="Bill's Heating & A/C in Spirit Lake, ID: Tailored HVAC for chilly winters & mild summers. Efficient systems, no travel fees, $79 diagnostics, high satisfaction.">
+    <meta name="description" content="Bill's Heating & A/C in Spirit Lake, ID: Tailored HVAC for chilly winters & mild summers. Efficient systems, no travel fees, $59 diagnostics, high satisfaction.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Spirit Lake, Idaho">
-    <meta property="og:description" content="Bill's Heating & A/C in Spirit Lake, ID: Tailored HVAC for chilly winters & mild summers. Efficient systems, no travel fees, $79 diagnostics, high satisfaction.">
+    <meta property="og:description" content="Bill's Heating & A/C in Spirit Lake, ID: Tailored HVAC for chilly winters & mild summers. Efficient systems, no travel fees, $59 diagnostics, high satisfaction.">
     <meta property="og:image" content="images/sl-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/sl.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Spirit Lake, Idaho">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Spirit Lake, ID: Tailored HVAC for chilly winters & mild summers. Efficient systems, no travel fees, $79 diagnostics, high satisfaction.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Spirit Lake, ID: Tailored HVAC for chilly winters & mild summers. Efficient systems, no travel fees, $59 diagnostics, high satisfaction.">
     <meta name="twitter:image" content="images/sl-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -226,7 +226,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Opting for Bill's Heating & A/C in Spirit Lake means choosing a service that blends local expertise with exceptional service quality. Our no travel fee policy and wide service area demonstrate our dedication to making our services accessible and affordable. With competitive offerings like $79 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our clients in Spirit Lake receive excellent service at great value. Our high customer satisfaction ratings are a testament to our commitment to exceeding expectations in service quality. Rely on us to keep your Spirit Lake home or business comfortable year-round, with solutions that are as dependable as they are efficient.</p>
+                <p>Opting for Bill's Heating & A/C in Spirit Lake means choosing a service that blends local expertise with exceptional service quality. Our no travel fee policy and wide service area demonstrate our dedication to making our services accessible and affordable. With competitive offerings like $59 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our clients in Spirit Lake receive excellent service at great value. Our high customer satisfaction ratings are a testament to our commitment to exceeding expectations in service quality. Rely on us to keep your Spirit Lake home or business comfortable year-round, with solutions that are as dependable as they are efficient.</p>
             </div>
           </section>
           <div class="commendations-outer">

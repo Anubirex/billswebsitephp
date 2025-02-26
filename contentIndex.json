@@ -1,506 +1,842 @@
 [
-  {
-      "title": "Home",
-      "url": "/index.php",
-      "keywords": "Home, home, Main, main",
-      "description": "Bill's Heating & A/C website main page."
-  },
-  {
-      "title": "Service Areas",
-      "url": "/areas.php",
-      "keywords": "Service Area, service area, service, Service, area, Area, service areas, Service Areas, Locations, locations",
-      "description": "Bill's Heating & A/C's Service Areas, most areas we service are included in the service areas page."
-  },
-  {
-      "title": "Best HVAC in Coeur D'Alene, Idaho",
-      "url": "/cda.php",
-      "keywords": "cda, CDA, Coeur D'Alene, coeur d'alene, ceour, couer",
-      "description": "Bill's Heating & A/C premier HVAC Services in Coeur D'alene."
-  },
-  {
-      "title": "Best HVAC in Spokane, Washington",
-      "url": "/spokane.php",
-      "keywords": "spk, Spk, spokane, Spokane",
-      "description": "Bill's Heating & A/C's HVAC Services in Spokane."
-  },
-  {
-      "title": "Best HVAC in Athol, Idaho",
-      "url": "/athol.php",
-      "keywords": "athol, Athol",
-      "description": "Premium HVAC services in Athol, ID. Tailored to Athol's unique climate."
-  },
-  {
-      "title": "Best HVAC in Blanchard, Idaho",
-      "url": "/blanchard.php",
-      "keywords": "blanchard, Blanchard",
-      "description": "Premier HVAC services in Blanchard, ID, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Dalton Gardens, Idaho",
-      "url": "/dg.php",
-      "keywords": "Dalton Gardens, dalton gardens",
-      "description": "Premier HVAC services in Dalton Gardens, ID, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Hauser, Idaho",
-      "url": "/hauser.php",
-      "keywords": "Hauser, hauser",
-      "description": "Premier HVAC services in Hauser, ID, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Hayden, Idaho",
-      "url": "/hayden.php",
-      "keywords": "Hayden, hayden",
-      "description": "Premier HVAC services in Hayden, ID, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Moscow, Idaho",
-      "url": "/moscow.php",
-      "keywords": "Moscow, moscow",
-      "description": "Premier HVAC services in Moscow, ID, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Post Falls, Idaho",
-      "url": "/pf.php",
-      "keywords": "Post Falls, post falls",
-      "description": "Premier HVAC services in Post Falls, ID, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Priest River, Idaho",
-      "url": "/pr.php",
-      "keywords": "Priest River, priest river",
-      "description": "Premier HVAC services in Priest River, ID, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Rathdrum, Idaho",
-      "url": "/rathdrum.php",
-      "keywords": "Rathdrum, rathdrum",
-      "description": "Premier HVAC services in Rathdrum, ID, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Sandpoint, Idaho",
-      "url": "/sandpoint.php",
-      "keywords": "Sandpoint, sandpoint",
-      "description": "Premier HVAC services in Sandpoint, ID, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Spirit Lake, Idaho",
-      "url": "/sl.php",
-      "keywords": "Spirit Lake, spirit lake",
-      "description": "Premier HVAC services in Spirit Lake, ID, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Asotin, Wasington",
-      "url": "/asotin.php",
-      "keywords": "Asotin, asotin",
-      "description": "Premier HVAC services in Asotin, WA, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Bayview, Idaho",
-      "url": "/bayview.php",
-      "keywords": "Bayview, bayview",
-      "description": "Premier HVAC services in Bayview, ID, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Chattaroy, Wasington",
-      "url": "/chattaroy.php",
-      "keywords": "Chattaroy, chattaroy",
-      "description": "Premier HVAC services in Chattaroy, WA, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Cheney, Wasington",
-      "url": "/cheney.php",
-      "keywords": "Cheney, cheney",
-      "description": "Premier HVAC services in Cheney, WA, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Clarkston, Wasington",
-      "url": "/clarkston.php",
-      "keywords": "Clarkston, clarkston",
-      "description": "Premier HVAC services in Clarkston, WA, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Cocolalla, Idaho",
-      "url": "/cocolalla.php",
-      "keywords": "Cocolalla, cocolalla",
-      "description": "Premier HVAC services in Cocolalla, ID, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Colton, Wasington",
-      "url": "/colton.php",
-      "keywords": "Colton, colton",
-      "description": "Premier HVAC services in Colton, WA, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Deer Park, Wasington",
-      "url": "/dp.php",
-      "keywords": "Deer Park, deer park",
-      "description": "Premier HVAC services in Deer Park, WA, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Genesee, Idaho",
-      "url": "/genesee.php",
-      "keywords": "Genesee, genesee",
-      "description": "Premier HVAC services in Genesee, ID, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Kendrick, Idaho",
-      "url": "/kendrick.php",
-      "keywords": "Kendrick, kendrick",
-      "description": "Premier HVAC services in Kendrick, ID, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Lapwai, Idaho",
-      "url": "/lapwai.php",
-      "keywords": "Lapwai, lapwai",
-      "description": "Premier HVAC services in Lapwai, ID, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Lewiston, Idaho",
-      "url": "/lewiston.php",
-      "keywords": "Lewiston, lewiston",
-      "description": "Premier HVAC services in Lewiston, ID, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Liberty Lake, Wasington",
-      "url": "/ll.php",
-      "keywords": "Liberty Lake, liberty lake",
-      "description": "Premier HVAC services in Liberty Lake, WA, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Mead, Wasington",
-      "url": "/mead.php",
-      "keywords": "Mead, mead",
-      "description": "Premier HVAC services in Mead, WA, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Medical Lake, Wasington",
-      "url": "/ml.php",
-      "keywords": "Medical Lake, medical lake",
-      "description": "Premier HVAC services in Medical Lake, WA, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Newport, Wasington",
-      "url": "/newport.php",
-      "keywords": "Newport, newport",
-      "description": "Premier HVAC services in Newport, WA, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Newman Lake, Wasington",
-      "url": "/nl.php",
-      "keywords": "Newman Lake, newman lake",
-      "description": "Premier HVAC services in Newman Lake, WA, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Nine Mile Falls, Wasington",
-      "url": "/nmf.php",
-      "keywords": "Nine Mile Falls, nine mile falls",
-      "description": "Premier HVAC services in Nine Mile Falls, WA, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Otis Orchards, Wasington",
-      "url": "/oo.php",
-      "keywords": "Otis Orchards, otis orchards",
-      "description": "Premier HVAC services in Otis Orchards, WA, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Pomeroy, Wasington",
-      "url": "/pomeroy.php",
-      "keywords": "Pomeroy, pomeroy",
-      "description": "Premier HVAC services in Pomeroy, WA, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Pullman, Wasington",
-      "url": "/pullman.php",
-      "keywords": "Pullman, pullman",
-      "description": "Premier HVAC services in Pullman, WA, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Sagle, Idaho",
-      "url": "/sagle.php",
-      "keywords": "Sagle, sagle",
-      "description": "Premier HVAC services in Sagle, ID, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Spangle, Wasington",
-      "url": "/spangle.php",
-      "keywords": "Spangle, spangle",
-      "description": "Premier HVAC services in Spangle, WA, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Spokane Valley, Wasington",
-      "url": "/sv.php",
-      "keywords": "Spokane Valley, spokane valley",
-      "description": "Premier HVAC services in Spokane Valley, WA, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Troy, Idaho",
-      "url": "/troy.php",
-      "keywords": "Troy, troy",
-      "description": "Premier HVAC services in Troy, ID, tailored to the city's unique climate."
-  },
-  {
-      "title": "Best HVAC in Uniontown, Idaho",
-      "url": "/uniontown.php",
-      "keywords": "Uniontown, uniontown",
-      "description": "Premier HVAC services in Uniontown, ID, tailored to the city's unique climate."
-  },
-  {
-      "title": "About Us",
-      "url": "/about.php",
-      "keywords": "About Us, about us",
-      "description": "Bill's Heating & A/C is a leading provider in its industry, dedicated to offering high-quality services and products. Learn more about our mission, values, and the team behind our success on our About Us page."
-  },
-  {
-      "title": "Air Conditioning",
-      "url": "/ac.php",
-      "keywords": "Air Conditioning, air conditioning, AC, ac, Cooling, cooling, heat pump, Heat Pump",
-      "description": "Explore our wide range of premium Air Conditioners, designed for efficiency and comfort. Discover the perfect blend of innovation and reliability with our Air Conditioners, ensuring a cooler, more comfortable environment in your home or office."
-  },
-  {
-      "title": "Air Conditioning Diagnostics",
-      "url": "/acdiag.php",
-      "keywords": "Air Conditioning Diagnostics, air conditioning diagnostics, ac diag, AC Diag, Broken AC, AC Broken, broken ac, ac broken",
-      "description": "Bill's Heating & A/C offers comprehensive troubleshooting and diagnostic services for your air conditioning systems. Whether you're facing issues with cooling efficiency, strange noises, or irregular cycling, our goal is to ensure your air conditioning unit runs optimally, providing a comfortable and energy-efficient environment in your home or office."
-  },
-  {
-      "title": "Air Conditioning Installation",
-      "url": "/acinstall.php",
-      "keywords": "Air Conditioning Installation, air conditioning installation, ac install, AC Install",
-      "description": "Bill's Heating & A/C, we specialize in providing professional and efficient installation services for a wide range of air conditioning units. We prioritize customer satisfaction, offering personalized solutions that cater to your specific needs and space requirements."
-  },
-  {
-      "title": "Air Conditioning Tune-Up",
-      "url": "/actune.php",
-      "keywords": "Air Conditioning Tune-Up, air conditioning tune-up, ac tune-up, AC Tune-Up",
-      "description": "Bill's Heating & A/C offers specialized services to enhance the efficiency and extend the lifespan of your air conditioning system. Through comprehensive maintenance checks, cleaning, and performance optimization, we ensure your unit operates at its peak throughout the seasons."
-  },
-  {
-      "title": "Airway Heights",
-      "url": "/ah.php",
-      "keywords": "Airway Heights, air handlers, Electric Furnace, electric furnace",
-      "description": "Premier HVAC services in Airway Heights, WA, tailored to the city's unique climate."
-  },
-  {
-      "title": "Careers",
-      "url": "/careers.php",
-      "keywords": "Careers, careers, Jobs, jobs, Employment, employment, job application, Job Application",
-      "description": "Join our dynamic team at Bills Heating & A/C, a leader in the HVAC industry, where your skills and passion can shape the future of home comfort and energy solutions. Explore exciting career opportunities in a variety of roles, dedicated to customer service, quality, and creating sustainable, efficient heating and cooling solutions."
-  },
-  {
-      "title": "Ductless",
-      "url": "/ductless.php",
-      "keywords": "Ductless, ductless, Mini Split, mini split, wall mount AC, no ducts",
-      "description": "Explore our top-of-the-line Ductless Heat Pumps, designed for unparalleled efficiency and customizable comfort in any space. These innovative units offer a versatile heating and cooling solution, providing consistent temperature control with minimal energy consumption."
-  },
-  {
-      "title": "EV Charger",
-      "url": "/evcharger.php",
-      "keywords": "EV Charger, ev charger, electric charger, Electric Charger, Car Charger, car charger, Electric Vechicle Charger, electric vehicle charger",
-      "description": "Elevate your green driving experience with our professional Electric Vehicle Charger Installation services, tailored to meet the needs of modern electric vehicles. Our skilled team ensures seamless and efficient installation of EV chargers, providing you with the convenience and reliability of at-home charging."
-  },
-  {
-      "title": "Financing",
-      "url": "/financing.php",
-      "keywords": "Financing, financing, deals, Deals, Loan, loan",
-      "description": "Make your home comfort upgrades more affordable with our flexible financing options, designed to fit your budget and lifestyle. Discover easy, accessible financing plans that enable you to invest in quality HVAC products and services without financial strain."
-  },
-  {
-      "title": "Furnace",
-      "url": "/furnace.php",
-      "keywords": "Furnace, furnace, gas furnace, Gas Furnace, Heater, heater, Propane Furnace, propane furnace",
-      "description": "Discover our comprehensive furnace services, designed to ensure your home's warmth and comfort throughout the colder months. From expert installation and maintenance to efficient repair solutions, we provide everything you need for optimal furnace performance and longevity."
-  },
-  {
-      "title": "Furnace Diagnostics",
-      "url": "/furnacediag.php",
-      "keywords": "Furnace Diagnostics, furnace diagnostics, broken furnace, Broken Furnace, Fix Furnace, fix furnace, furnace stopped, Furnace Stopped",
-      "description": "Ensure the peak performance of your furnace with our specialized diagnostic services, identifying and resolving any heating issues with precision and expertise. Our team offers thorough assessments and solutions, tailored to keep your furnace running efficiently and reliably."
-  },
-  {
-      "title": "Furnace Install",
-      "url": "/furnaceinstall.php",
-      "keywords": "Furnace Install, furnace install, new furnace, need new furnace, furnace replacement, replacement furnace",
-      "description": "Elevate your home's heating system with our expert Furnace Installation services, ensuring a warm, comfortable environment tailored to your needs. Our skilled professionals specialize in seamless installation of the latest furnace models, offering reliability, efficiency, and peace of mind."
-  },
-  {
-      "title": "Furnace Tune-Up",
-      "url": "/furnacetune.php",
-      "keywords": "Furnace Tune-Up, furnace tune-up, tune-up furnace, need tune-up",
-      "description": "Keep your furnace running at its best with our professional Furnace Tune-Up services, designed to optimize performance and enhance longevity. Our detailed maintenance routine covers thorough inspections and adjustments, ensuring your furnace operates efficiently and safely season after season."
-  },
-  {
-      "title": "Generator",
-      "url": "/generator.php",
-      "keywords": "Generator, generator, whole home generator, backup power",
-      "description": "Ensure uninterrupted power and peace of mind with our expert Generator Installation services, tailored to meet your specific energy needs. Our team of skilled technicians provides reliable and efficient installation, guaranteeing a seamless integration of generators for your home."
-  },
-  {
-      "title": "Heat Pump",
-      "url": "/hp.php",
-      "keywords": "Heat Pump, heat pump, cooling, heating, Cooling, Heating, A/C, AC, ac",
-      "description": "Transform your home's heating and cooling efficiency with our professional Heat Pump Installation services, designed for optimal climate control and energy savings. Our experienced team ensures a precise and seamless installation process, delivering a high-performance heat pump system tailored to your unique comfort needs."
-  },
-  {
-      "title": "Learning Hub",
-      "url": "/learninghub.php",
-      "keywords": "Learning, learning, education, information, lessons",
-      "description": "Dive into our Learning Hub to gain insightful knowledge about HVAC equipment and services, empowering you to make informed decisions for your home comfort needs. Explore a wealth of resources including expert tips, detailed guides, and the latest industry trends to keep your HVAC systems running optimally."
-  },
-  {
-      "title": "News",
-      "url": "/news.php",
-      "keywords": "News, news, latest, updates",
-      "description": "Stay up-to-date with the latest in the HVAC industry on our News page, where we bring you the most recent developments, innovations, and updates. From advancements in energy-efficient technologies to essential maintenance tips, our news coverage keeps you informed and ahead in home comfort solutions."
-  },
-  {
-      "title": "Products",
-      "url": "/products.php",
-      "keywords": "Products, products, equipment, Equipment",
-      "description": "Discover our extensive range of HVAC products on our Products page, each carefully selected to provide maximum comfort and efficiency for your home or business. From state-of-the-art air conditioners to energy-efficient heat pumps, explore our diverse offerings to find the perfect solution for your climate control needs."
-  },
-  {
-      "title": "Savings",
-      "url": "/savings.php",
-      "keywords": "Savings, savings, deals, Deals, discount, Discount",
-      "description": "Unlock exceptional savings and exclusive deals on our HVAC products and services on our Savings page, designed to offer you the best value for your investment. Browse through a variety of discounts, special offers, and rebate programs to make your next home comfort upgrade more affordable and rewarding."
-  },
-  {
-      "title": "Services",
-      "url": "/services.php",
-      "keywords": "Services, services, installs, furnace, ac, heat pump, ductless",
-      "description": "Explore our comprehensive range of HVAC services on our Services page, designed to meet all your heating, cooling, and air quality needs with expertise and reliability. From routine maintenance to complex installations, our skilled professionals are committed to delivering top-notch service and ensuring your ultimate comfort and satisfaction."
-  },
-  {
-      "title": "Our Story",
-      "url": "/story.php",
-      "keywords": "Story, story, Our Story, our story",
-      "description": "Delve into Our Story to discover the journey of our company, where we share the passion, milestones, and values that have shaped our identity in the HVAC industry. Learn about our commitment to innovation, customer satisfaction, and environmental responsibility, which drives our pursuit of delivering exceptional home comfort solutions."
-  },
-  {
-      "title": "Tankless Water Heaters",
-      "url": "/tankless.php",
-      "keywords": "Tankless, tankless, Water Heater, water heater, hot water, endless hot water",
-      "description": "Experience the efficiency and convenience of our state-of-the-art Tankless Water Heaters, designed to provide endless hot water while reducing energy costs. Explore our selection of compact, eco-friendly models that offer quick heating, space-saving design, and long-term savings for your home or business."
-  },
-  {
-      "title": "Privacy Policy",
-      "url": "/privacy-policy.php",
-      "keywords": "Privacy Policy, privacy policy",
-      "description": "Visit our Privacy Policy page for a clear and comprehensive understanding of the Policies governing your use of our services and products. We ensure transparency and clarity in our policies to help you navigate your rights and responsibilities as a valued customer."
-  },
-  {
-    "title": "Reviews",
-    "url": "/reviews.php",
-    "keywords": "Reviews, reviews",
-    "description": "Explore genuine insights on our Reviews Page, where we bring you honest and detailed evaluations from real users and experts. Dive into a world of comprehensive feedback across various categories, helping you make informed decisions with confidence. Discover top picks, user stories, and expert analyses all in one place!"
-},
-{
-    "title": "Heat Pump Install",
-    "url": "/hpinstall.php",
-    "keywords": "Heat Pump Install, heat pump install, Install, install",
-    "description": "Discover the essentials of heat pump installation on our dedicated page. Learn about the process, benefits, and expert tips to ensure efficient and effective installation. Whether you're considering an upgrade or a new setup, our guide provides all the information you need for a smooth and informed installation experience."
-},
-{
-    "title": "Heat Pump Diagnostics",
-    "url": "/hpdiag.php",
-    "keywords": "Heat Pump Diagnostics, heat pump diagnostics, Diagnostics, diagnostics",
-    "description": "Troubleshoot your heat pump issues with our expert diagnostics services. Trust our team to accurately identify and resolve your heat pump challenges, ensuring optimal performance and longevity."
-},
-{
-    "title": "Heat Pump Tune-Up",
-    "url": "/hptune.php",
-    "keywords": "Heat Pump Tune-Up, heat pump tune-up, Tune-Up, tune-up",
-    "description": "Revitalize your home's heating and cooling efficiency with our specialized Heat Pump Tune-Up services. Our skilled technicians meticulously inspect and optimize your system, ensuring maximum performance and energy savings."
-},
-{
-    "title": "Ductless Install",
-    "url": "/ductlessinstall.php",
-    "keywords": "Ductless Install, ductless install, Install, install",
-    "description": "Transform your home's comfort with our expert Ductless Install services. Our team specializes in seamless, efficient installations of ductless systems, providing you with a versatile, energy-saving heating and cooling solution."
-},
-{
-    "title": "Ductless Diagnostics",
-    "url": "/ductlessdiag.php",
-    "keywords": "Ductless Diagnostics, ductless diagnostics, Diagnostics, diagnostics",
-    "description": "Experience unparalleled efficiency and comfort in your home with our Ductless Diagnostics services. Our skilled technicians use advanced tools to accurately identify and resolve any issues with your ductless system, ensuring optimal performance and longevity."
-},
-{
-    "title": "Ductless Tune-Up",
-    "url": "/ductlesstune.php",
-    "keywords": "Ductless Tune-Up, ductless tune-up, Tune-Up, tune-up",
-    "description": "Keep your ductless system in top-notch condition with our specialized Ductless Tune-Up services. Our experienced technicians deliver meticulous maintenance, ensuring your system runs efficiently and reliably."
-},
-{
-    "title": "Tankless Water Heater Install",
-    "url": "/tanklessinstall.php",
-    "keywords": "Tankless Install, tankless install, Install, install, water heater, Water Heater",
-    "description": "Upgrade to endless hot water and energy efficiency with our Tankless Water Heater Install services. Our skilled team specializes in professional and seamless installation, ensuring you enjoy continuous hot water supply and reduced energy bills."
-},
-{
-    "title": "Tankless Water Heater Diagnostics",
-    "url": "/tanklessdiag.php",
-    "keywords": "Tankless Diagnostics, tankless diagnostics, Diagnostics, diagnostics, water heater, Water Heater",
-    "description": "Ensure your tankless water heater performs flawlessly with our expert Diagnostics services. Our experienced technicians utilize advanced techniques to accurately identify and resolve any issues, guaranteeing maximum efficiency and reliability."
-},
-{
-    "title": "Tankless Water Heater Tune-Up",
-    "url": "/tanklesstune.php",
-    "keywords": "Tankless Tune-Up, tankless tune-up, Tune-Up, tune-up, water heater, Water Heater",
-    "description": "Maximize the efficiency and lifespan of your tankless water heater with our specialized Tune-Up services. Our trained technicians provide thorough maintenance to ensure your system operates at peak performance, offering you continuous, energy-efficient hot water."
-},
-{
-    "title": "Low Price Guarantee",
-    "url": "/lowprice.php",
-    "keywords": "low price, Low Price, Guarantee, guarantee",
-    "description": "Our commitment is to provide you with the lowest prices on the best equipment for your residence. We honor this commitment 365 days per year."
-},
-{
-    "title": "Free Second Opinion",
-    "url": "/freesecop.php",
-    "keywords": "Free Second Opinion, free second opinion",
-    "description": "At Bill's Heating & A/C, we understand that dealing with HVAC issues can often be stressful, especially when you receive a diagnosis or quote that doesn't quite seem right. That's why we're proud to offer free second opinions to give you the peace of mind you deserve."
-},
-{
-    "title": "Guide to Home Heating",
-    "url": "/home-heating-with-furnaces.php",
-    "keywords": "Guide to Home Heating, Understanding Furnaces",
-    "description": "In a world where home comfort is paramount and environmental consciousness is rising, understanding home heating systems, particularly furnaces, has never been more important."
-},
-{
-    "title": "Guide to Air Conditioners",
-    "url": "/guide-to-air-conditioners.php",
-    "keywords": "Guide to Air Conditioners, Beginner's Guide",
-    "description": "Selecting the right air conditioner can feel as daunting as the heat itself. That's precisely why we've created A Beginner's Guide to Air Conditioners."
-},
-{
-    "title": "Ultimate Heat Pump Guide",
-    "url": "/ultimate-heat-pump-guide.php",
-    "keywords": "Heat Pump Guide, Ultimate Heat Pump Guide",
-    "description": "Welcome to Heat Pumps 101, your go‐to guide for demystifying one of the most efficient and versatile home heating and cooling systems available today."
-},
-{
-    "title": "Ductless Comfort: Your Complete Guide",
-    "url": "/complete-ductless-guide.php",
-    "keywords": "Ductless Comfort, Complete Guide, Ductless Comfort Your Complete Guide",
-    "description": "In response to the growing interest in efficient and flexible home heating and cooling solutions, this blog article delves into the world of ductless HVAC systems."
-},
-{
-    "title": "Understanding Thermostats",
-    "url": "/guide-to-thermostats.php",
-    "keywords": "Thermostats, Understanding Thermostats",
-    "description": "Navigating the world of thermostats can seem daunting at first glance, yet these small devices play a pivotal role in our daily comfort and energy consumption."
-},
-{
-    "title": "Heat Pump VS Air Conditioner",
-    "url": "/ac-vs-heat-pump-2024-guide.php",
-    "keywords": "Heat Pump, Air Conditioner",
-    "description": "Welcome to our comprehensive 2024 guide for a critical decision every homeowner faces: choosing between a heat pump and a traditional air conditioner."
-},
-{
-    "title": "Heat Pump Rebates & Tax Credits In 2024",
-    "url": "/heat-pump-rebates-and-tax-credits-2024.php",
-    "keywords": "Heat Pump, Air Conditioner, Tax Credits, Savings",
-    "description": "Initial cost can be a barrier. Fortunately, utility rebates and tax incentives like the 25C tax credit make these systems more affordable."
-}
-]
+    {
+        "title": "Home",
+        "url": "/index.php",
+        "keywords": "Home, home, Main, main",
+        "description": "Bill's Heating & A/C website main page."
+    },
+    {
+        "title": "Service Areas",
+        "url": "/areas.php",
+        "keywords": "Service Area, service area, service, Service, area, Area, service areas, Service Areas, Locations, locations",
+        "description": "Bill's Heating & A/C's Service Areas, most areas we service are included in the service areas page."
+    },
+    {
+        "title": "Best HVAC in Coeur D'Alene, Idaho",
+        "url": "serviceareas/cda.php",
+        "keywords": "cda, CDA, Coeur D'Alene, coeur d'alene, ceour, couer",
+        "description": "Bill's Heating & A/C premier HVAC Services in Coeur D'alene."
+    },
+    {
+        "title": "Best HVAC in Spokane, Washington",
+        "url": "serviceareas/spokane.php",
+        "keywords": "spk, Spk, spokane, Spokane",
+        "description": "Bill's Heating & A/C's HVAC Services in Spokane."
+    },
+    {
+        "title": "Best HVAC in Athol, Idaho",
+        "url": "serviceareas/athol.php",
+        "keywords": "athol, Athol",
+        "description": "Premium HVAC services in Athol, ID. Tailored to Athol's unique climate."
+    },
+    {
+        "title": "Best HVAC in Blanchard, Idaho",
+        "url": "serviceareas/blanchard.php",
+        "keywords": "blanchard, Blanchard",
+        "description": "Premier HVAC services in Blanchard, ID, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Dalton Gardens, Idaho",
+        "url": "serviceareas/dg.php",
+        "keywords": "Dalton Gardens, dalton gardens",
+        "description": "Premier HVAC services in Dalton Gardens, ID, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Hauser, Idaho",
+        "url": "serviceareas/hauser.php",
+        "keywords": "Hauser, hauser",
+        "description": "Premier HVAC services in Hauser, ID, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Hayden, Idaho",
+        "url": "serviceareas/hayden.php",
+        "keywords": "Hayden, hayden",
+        "description": "Premier HVAC services in Hayden, ID, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Moscow, Idaho",
+        "url": "serviceareas/moscow.php",
+        "keywords": "Moscow, moscow",
+        "description": "Premier HVAC services in Moscow, ID, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Post Falls, Idaho",
+        "url": "serviceareas/pf.php",
+        "keywords": "Post Falls, post falls",
+        "description": "Premier HVAC services in Post Falls, ID, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Priest River, Idaho",
+        "url": "serviceareas/pr.php",
+        "keywords": "Priest River, priest river",
+        "description": "Premier HVAC services in Priest River, ID, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Rathdrum, Idaho",
+        "url": "serviceareas/rathdrum.php",
+        "keywords": "Rathdrum, rathdrum",
+        "description": "Premier HVAC services in Rathdrum, ID, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Sandpoint, Idaho",
+        "url": "serviceareas/sandpoint.php",
+        "keywords": "Sandpoint, sandpoint",
+        "description": "Premier HVAC services in Sandpoint, ID, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Spirit Lake, Idaho",
+        "url": "serviceareas/sl.php",
+        "keywords": "Spirit Lake, spirit lake",
+        "description": "Premier HVAC services in Spirit Lake, ID, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Asotin, Wasington",
+        "url": "serviceareas/asotin.php",
+        "keywords": "Asotin, asotin",
+        "description": "Premier HVAC services in Asotin, WA, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Bayview, Idaho",
+        "url": "serviceareas/bayview.php",
+        "keywords": "Bayview, bayview",
+        "description": "Premier HVAC services in Bayview, ID, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Chattaroy, Wasington",
+        "url": "serviceareas/chattaroy.php",
+        "keywords": "Chattaroy, chattaroy",
+        "description": "Premier HVAC services in Chattaroy, WA, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Cheney, Wasington",
+        "url": "serviceareas/cheney.php",
+        "keywords": "Cheney, cheney",
+        "description": "Premier HVAC services in Cheney, WA, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Clarkston, Wasington",
+        "url": "serviceareas/clarkston.php",
+        "keywords": "Clarkston, clarkston",
+        "description": "Premier HVAC services in Clarkston, WA, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Cocolalla, Idaho",
+        "url": "serviceareas/cocolalla.php",
+        "keywords": "Cocolalla, cocolalla",
+        "description": "Premier HVAC services in Cocolalla, ID, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Colton, Wasington",
+        "url": "serviceareas/colton.php",
+        "keywords": "Colton, colton",
+        "description": "Premier HVAC services in Colton, WA, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Deer Park, Wasington",
+        "url": "serviceareas/dp.php",
+        "keywords": "Deer Park, deer park",
+        "description": "Premier HVAC services in Deer Park, WA, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Genesee, Idaho",
+        "url": "serviceareas/genesee.php",
+        "keywords": "Genesee, genesee",
+        "description": "Premier HVAC services in Genesee, ID, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Kendrick, Idaho",
+        "url": "serviceareas/kendrick.php",
+        "keywords": "Kendrick, kendrick",
+        "description": "Premier HVAC services in Kendrick, ID, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Lapwai, Idaho",
+        "url": "serviceareas/lapwai.php",
+        "keywords": "Lapwai, lapwai",
+        "description": "Premier HVAC services in Lapwai, ID, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Lewiston, Idaho",
+        "url": "serviceareas/lewiston.php",
+        "keywords": "Lewiston, lewiston",
+        "description": "Premier HVAC services in Lewiston, ID, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Liberty Lake, Wasington",
+        "url": "serviceareas/ll.php",
+        "keywords": "Liberty Lake, liberty lake",
+        "description": "Premier HVAC services in Liberty Lake, WA, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Mead, Wasington",
+        "url": "serviceareas/mead.php",
+        "keywords": "Mead, mead",
+        "description": "Premier HVAC services in Mead, WA, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Medical Lake, Wasington",
+        "url": "serviceareas/ml.php",
+        "keywords": "Medical Lake, medical lake",
+        "description": "Premier HVAC services in Medical Lake, WA, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Newport, Wasington",
+        "url": "serviceareas/newport.php",
+        "keywords": "Newport, newport",
+        "description": "Premier HVAC services in Newport, WA, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Newman Lake, Wasington",
+        "url": "serviceareas/nl.php",
+        "keywords": "Newman Lake, newman lake",
+        "description": "Premier HVAC services in Newman Lake, WA, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Nine Mile Falls, Wasington",
+        "url": "serviceareas/nmf.php",
+        "keywords": "Nine Mile Falls, nine mile falls",
+        "description": "Premier HVAC services in Nine Mile Falls, WA, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Otis Orchards, Wasington",
+        "url": "serviceareas/oo.php",
+        "keywords": "Otis Orchards, otis orchards",
+        "description": "Premier HVAC services in Otis Orchards, WA, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Pomeroy, Wasington",
+        "url": "serviceareas/pomeroy.php",
+        "keywords": "Pomeroy, pomeroy",
+        "description": "Premier HVAC services in Pomeroy, WA, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Pullman, Wasington",
+        "url": "serviceareas/pullman.php",
+        "keywords": "Pullman, pullman",
+        "description": "Premier HVAC services in Pullman, WA, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Sagle, Idaho",
+        "url": "serviceareas/sagle.php",
+        "keywords": "Sagle, sagle",
+        "description": "Premier HVAC services in Sagle, ID, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Spangle, Wasington",
+        "url": "serviceareas/spangle.php",
+        "keywords": "Spangle, spangle",
+        "description": "Premier HVAC services in Spangle, WA, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Spokane Valley, Wasington",
+        "url": "serviceareas/sv.php",
+        "keywords": "Spokane Valley, spokane valley",
+        "description": "Premier HVAC services in Spokane Valley, WA, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Troy, Idaho",
+        "url": "serviceareas/troy.php",
+        "keywords": "Troy, troy",
+        "description": "Premier HVAC services in Troy, ID, tailored to the city's unique climate."
+    },
+    {
+        "title": "Best HVAC in Uniontown, Idaho",
+        "url": "serviceareas/uniontown.php",
+        "keywords": "Uniontown, uniontown",
+        "description": "Premier HVAC services in Uniontown, ID, tailored to the city's unique climate."
+    },
+    {
+        "title": "Air Conditioning",
+        "url": "/ac.php",
+        "keywords": "Air Conditioning, air conditioning, AC, ac, Cooling, cooling, heat pump, Heat Pump",
+        "description": "Explore our wide range of premium Air Conditioners, designed for efficiency and comfort. Discover the perfect blend of innovation and reliability with our Air Conditioners, ensuring a cooler, more comfortable environment in your home or office."
+    },
+    {
+        "title": "Air Conditioning Diagnostics",
+        "url": "/acdiag.php",
+        "keywords": "Air Conditioning Diagnostics, air conditioning diagnostics, ac diag, AC Diag, Broken AC, AC Broken, broken ac, ac broken",
+        "description": "Bill's Heating & A/C offers comprehensive troubleshooting and diagnostic services for your air conditioning systems. Whether you're facing issues with cooling efficiency, strange noises, or irregular cycling, our goal is to ensure your air conditioning unit runs optimally, providing a comfortable and energy-efficient environment in your home or office."
+    },
+    {
+        "title": "Air Conditioning Installation",
+        "url": "/acinstall.php",
+        "keywords": "Air Conditioning Installation, air conditioning installation, ac install, AC Install",
+        "description": "Bill's Heating & A/C, we specialize in providing professional and efficient installation services for a wide range of air conditioning units. We prioritize customer satisfaction, offering personalized solutions that cater to your specific needs and space requirements."
+    },
+    {
+        "title": "Air Conditioning Tune-Up",
+        "url": "/actune.php",
+        "keywords": "Air Conditioning Tune-Up, air conditioning tune-up, ac tune-up, AC Tune-Up",
+        "description": "Bill's Heating & A/C offers specialized services to enhance the efficiency and extend the lifespan of your air conditioning system. Through comprehensive maintenance checks, cleaning, and performance optimization, we ensure your unit operates at its peak throughout the seasons."
+    },
+    {
+        "title": "Airway Heights",
+        "url": "serviceareas/ah.php",
+        "keywords": "Airway Heights, air handlers, Electric Furnace, electric furnace",
+        "description": "Premier HVAC services in Airway Heights, WA, tailored to the city's unique climate."
+    },
+    {
+        "title": "Careers",
+        "url": "/careers.php",
+        "keywords": "Careers, careers, Jobs, jobs, Employment, employment, job application, Job Application",
+        "description": "Join our dynamic team at Bills Heating & A/C, a leader in the HVAC industry, where your skills and passion can shape the future of home comfort and energy solutions. Explore exciting career opportunities in a variety of roles, dedicated to customer service, quality, and creating sustainable, efficient heating and cooling solutions."
+    },
+    {
+        "title": "Ductless",
+        "url": "/ductless.php",
+        "keywords": "Ductless, ductless, Mini Split, mini split, wall mount AC, no ducts",
+        "description": "Explore our top-of-the-line Ductless Heat Pumps, designed for unparalleled efficiency and customizable comfort in any space. These innovative units offer a versatile heating and cooling solution, providing consistent temperature control with minimal energy consumption."
+    },
+    {
+        "title": "EV Charger",
+        "url": "/evcharger.php",
+        "keywords": "EV Charger, ev charger, electric charger, Electric Charger, Car Charger, car charger, Electric Vechicle Charger, electric vehicle charger",
+        "description": "Elevate your green driving experience with our professional Electric Vehicle Charger Installation services, tailored to meet the needs of modern electric vehicles. Our skilled team ensures seamless and efficient installation of EV chargers, providing you with the convenience and reliability of at-home charging."
+    },
+    {
+        "title": "Financing",
+        "url": "/financing.php",
+        "keywords": "Financing, financing, deals, Deals, Loan, loan",
+        "description": "Make your home comfort upgrades more affordable with our flexible financing options, designed to fit your budget and lifestyle. Discover easy, accessible financing plans that enable you to invest in quality HVAC products and services without financial strain."
+    },
+    {
+        "title": "Furnace",
+        "url": "/furnace.php",
+        "keywords": "Furnace, furnace, gas furnace, Gas Furnace, Heater, heater, Propane Furnace, propane furnace",
+        "description": "Discover our comprehensive furnace services, designed to ensure your home's warmth and comfort throughout the colder months. From expert installation and maintenance to efficient repair solutions, we provide everything you need for optimal furnace performance and longevity."
+    },
+    {
+        "title": "Furnace Diagnostics",
+        "url": "/furnacediag.php",
+        "keywords": "Furnace Diagnostics, furnace diagnostics, broken furnace, Broken Furnace, Fix Furnace, fix furnace, furnace stopped, Furnace Stopped",
+        "description": "Ensure the peak performance of your furnace with our specialized diagnostic services, identifying and resolving any heating issues with precision and expertise. Our team offers thorough assessments and solutions, tailored to keep your furnace running efficiently and reliably."
+    },
+    {
+        "title": "Furnace Install",
+        "url": "/furnaceinstall.php",
+        "keywords": "Furnace Install, furnace install, new furnace, need new furnace, furnace replacement, replacement furnace",
+        "description": "Elevate your home's heating system with our expert Furnace Installation services, ensuring a warm, comfortable environment tailored to your needs. Our skilled professionals specialize in seamless installation of the latest furnace models, offering reliability, efficiency, and peace of mind."
+    },
+    {
+        "title": "Furnace Tune-Up",
+        "url": "/furnacetune.php",
+        "keywords": "Furnace Tune-Up, furnace tune-up, tune-up furnace, need tune-up",
+        "description": "Keep your furnace running at its best with our professional Furnace Tune-Up services, designed to optimize performance and enhance longevity. Our detailed maintenance routine covers thorough inspections and adjustments, ensuring your furnace operates efficiently and safely season after season."
+    },
+    {
+        "title": "Generator",
+        "url": "/generator.php",
+        "keywords": "Generator, generator, whole home generator, backup power",
+        "description": "Ensure uninterrupted power and peace of mind with our expert Generator Installation services, tailored to meet your specific energy needs. Our team of skilled technicians provides reliable and efficient installation, guaranteeing a seamless integration of generators for your home."
+    },
+    {
+        "title": "Heat Pump",
+        "url": "/hp.php",
+        "keywords": "Heat Pump, heat pump, cooling, heating, Cooling, Heating, A/C, AC, ac",
+        "description": "Transform your home's heating and cooling efficiency with our professional Heat Pump Installation services, designed for optimal climate control and energy savings. Our experienced team ensures a precise and seamless installation process, delivering a high-performance heat pump system tailored to your unique comfort needs."
+    },
+    {
+        "title": "Learning Hub",
+        "url": "/learninghub.php",
+        "keywords": "Learning, learning, education, information, lessons",
+        "description": "Dive into our Learning Hub to gain insightful knowledge about HVAC equipment and services, empowering you to make informed decisions for your home comfort needs. Explore a wealth of resources including expert tips, detailed guides, and the latest industry trends to keep your HVAC systems running optimally."
+    },
+    {
+        "title": "News",
+        "url": "/news.php",
+        "keywords": "News, news, latest, updates",
+        "description": "Stay up-to-date with the latest in the HVAC industry on our News page, where we bring you the most recent developments, innovations, and updates. From advancements in energy-efficient technologies to essential maintenance tips, our news coverage keeps you informed and ahead in home comfort solutions."
+    },
+    {
+        "title": "Products",
+        "url": "/products.php",
+        "keywords": "Products, products, equipment, Equipment",
+        "description": "Discover our extensive range of HVAC products on our Products page, each carefully selected to provide maximum comfort and efficiency for your home or business. From state-of-the-art air conditioners to energy-efficient heat pumps, explore our diverse offerings to find the perfect solution for your climate control needs."
+    },
+    {
+        "title": "Savings",
+        "url": "/savings.php",
+        "keywords": "Savings, savings, deals, Deals, discount, Discount",
+        "description": "Unlock exceptional savings and exclusive deals on our HVAC products and services on our Savings page, designed to offer you the best value for your investment. Browse through a variety of discounts, special offers, and rebate programs to make your next home comfort upgrade more affordable and rewarding."
+    },
+    {
+        "title": "Services",
+        "url": "/services.php",
+        "keywords": "Services, services, installs, furnace, ac, heat pump, ductless",
+        "description": "Explore our comprehensive range of HVAC services on our Services page, designed to meet all your heating, cooling, and air quality needs with expertise and reliability. From routine maintenance to complex installations, our skilled professionals are committed to delivering top-notch service and ensuring your ultimate comfort and satisfaction."
+    },
+    {
+        "title": "Our Story",
+        "url": "/story.php",
+        "keywords": "Story, story, Our Story, our story",
+        "description": "Delve into Our Story to discover the journey of our company, where we share the passion, milestones, and values that have shaped our identity in the HVAC industry. Learn about our commitment to innovation, customer satisfaction, and environmental responsibility, which drives our pursuit of delivering exceptional home comfort solutions."
+    },
+    {
+        "title": "Tankless Water Heaters",
+        "url": "/tankless.php",
+        "keywords": "Tankless, tankless, Water Heater, water heater, hot water, endless hot water",
+        "description": "Experience the efficiency and convenience of our state-of-the-art Tankless Water Heaters, designed to provide endless hot water while reducing energy costs. Explore our selection of compact, eco-friendly models that offer quick heating, space-saving design, and long-term savings for your home or business."
+    },
+    {
+        "title": "Privacy Policy",
+        "url": "/privacy-policy.php",
+        "keywords": "Privacy Policy, privacy policy",
+        "description": "Visit our Privacy Policy page for a clear and comprehensive understanding of the Policies governing your use of our services and products. We ensure transparency and clarity in our policies to help you navigate your rights and responsibilities as a valued customer."
+    },
+    {
+      "title": "Reviews",
+      "url": "/reviews.php",
+      "keywords": "Reviews, reviews",
+      "description": "Explore genuine insights on our Reviews Page, where we bring you honest and detailed evaluations from real users and experts. Dive into a world of comprehensive feedback across various categories, helping you make informed decisions with confidence. Discover top picks, user stories, and expert analyses all in one place!"
+  },
+  {
+      "title": "Heat Pump Install",
+      "url": "/hpinstall.php",
+      "keywords": "Heat Pump Install, heat pump install, Install, install",
+      "description": "Discover the essentials of heat pump installation on our dedicated page. Learn about the process, benefits, and expert tips to ensure efficient and effective installation. Whether you're considering an upgrade or a new setup, our guide provides all the information you need for a smooth and informed installation experience."
+  },
+  {
+      "title": "Heat Pump Diagnostics",
+      "url": "/hpdiag.php",
+      "keywords": "Heat Pump Diagnostics, heat pump diagnostics, Diagnostics, diagnostics",
+      "description": "Troubleshoot your heat pump issues with our expert diagnostics services. Trust our team to accurately identify and resolve your heat pump challenges, ensuring optimal performance and longevity."
+  },
+  {
+      "title": "Heat Pump Tune-Up",
+      "url": "/hptune.php",
+      "keywords": "Heat Pump Tune-Up, heat pump tune-up, Tune-Up, tune-up",
+      "description": "Revitalize your home's heating and cooling efficiency with our specialized Heat Pump Tune-Up services. Our skilled technicians meticulously inspect and optimize your system, ensuring maximum performance and energy savings."
+  },
+  {
+      "title": "Ductless Install",
+      "url": "/ductlessinstall.php",
+      "keywords": "Ductless Install, ductless install, Install, install",
+      "description": "Transform your home's comfort with our expert Ductless Install services. Our team specializes in seamless, efficient installations of ductless systems, providing you with a versatile, energy-saving heating and cooling solution."
+  },
+  {
+      "title": "Ductless Diagnostics",
+      "url": "/ductlessdiag.php",
+      "keywords": "Ductless Diagnostics, ductless diagnostics, Diagnostics, diagnostics",
+      "description": "Experience unparalleled efficiency and comfort in your home with our Ductless Diagnostics services. Our skilled technicians use advanced tools to accurately identify and resolve any issues with your ductless system, ensuring optimal performance and longevity."
+  },
+  {
+      "title": "Ductless Tune-Up",
+      "url": "/ductlesstune.php",
+      "keywords": "Ductless Tune-Up, ductless tune-up, Tune-Up, tune-up",
+      "description": "Keep your ductless system in top-notch condition with our specialized Ductless Tune-Up services. Our experienced technicians deliver meticulous maintenance, ensuring your system runs efficiently and reliably."
+  },
+  {
+      "title": "Tankless Water Heater Install",
+      "url": "/tanklessinstall.php",
+      "keywords": "Tankless Install, tankless install, Install, install, water heater, Water Heater",
+      "description": "Upgrade to endless hot water and energy efficiency with our Tankless Water Heater Install services. Our skilled team specializes in professional and seamless installation, ensuring you enjoy continuous hot water supply and reduced energy bills."
+  },
+  {
+      "title": "Tankless Water Heater Diagnostics",
+      "url": "/tanklessdiag.php",
+      "keywords": "Tankless Diagnostics, tankless diagnostics, Diagnostics, diagnostics, water heater, Water Heater",
+      "description": "Ensure your tankless water heater performs flawlessly with our expert Diagnostics services. Our experienced technicians utilize advanced techniques to accurately identify and resolve any issues, guaranteeing maximum efficiency and reliability."
+  },
+  {
+      "title": "Tankless Water Heater Tune-Up",
+      "url": "/tanklesstune.php",
+      "keywords": "Tankless Tune-Up, tankless tune-up, Tune-Up, tune-up, water heater, Water Heater",
+      "description": "Maximize the efficiency and lifespan of your tankless water heater with our specialized Tune-Up services. Our trained technicians provide thorough maintenance to ensure your system operates at peak performance, offering you continuous, energy-efficient hot water."
+  },
+  {
+      "title": "Low Price Guarantee",
+      "url": "/lowprice.php",
+      "keywords": "low price, Low Price, Guarantee, guarantee",
+      "description": "Our commitment is to provide you with the lowest prices on the best equipment for your residence. We honor this commitment 365 days per year."
+  },
+  {
+      "title": "Free Second Opinion",
+      "url": "/freesecop.php",
+      "keywords": "Free Second Opinion, free second opinion",
+      "description": "At Bill's Heating & A/C, we understand that dealing with HVAC issues can often be stressful, especially when you receive a diagnosis or quote that doesn't quite seem right. That's why we're proud to offer free second opinions to give you the peace of mind you deserve."
+  },
+  {
+      "title": "Guide to Home Heating",
+      "url": "articles/home-heating-with-furnaces.php",
+      "keywords": "Guide to Home Heating, Understanding Furnaces",
+      "description": "In a world where home comfort is paramount and environmental consciousness is rising, understanding home heating systems, particularly furnaces, has never been more important."
+  },
+  {
+      "title": "Guide to Air Conditioners",
+      "url": "articles/guide-to-air-conditioners.php",
+      "keywords": "Guide to Air Conditioners, Beginner's Guide",
+      "description": "Selecting the right air conditioner can feel as daunting as the heat itself. That's precisely why we've created A Beginner's Guide to Air Conditioners."
+  },
+  {
+      "title": "Ultimate Heat Pump Guide",
+      "url": "articles/ultimate-heat-pump-guide.php",
+      "keywords": "Heat Pump Guide, Ultimate Heat Pump Guide",
+      "description": "Welcome to Heat Pumps 101, your go‐to guide for demystifying one of the most efficient and versatile home heating and cooling systems available today."
+  },
+  {
+      "title": "Ductless Comfort: Your Complete Guide",
+      "url": "articles/complete-ductless-guide.php",
+      "keywords": "Ductless Comfort, Complete Guide, Ductless Comfort Your Complete Guide",
+      "description": "In response to the growing interest in efficient and flexible home heating and cooling solutions, this blog article delves into the world of ductless HVAC systems."
+  },
+  {
+      "title": "Understanding Thermostats",
+      "url": "articles/guide-to-thermostats.php",
+      "keywords": "Thermostats, Understanding Thermostats",
+      "description": "Navigating the world of thermostats can seem daunting at first glance, yet these small devices play a pivotal role in our daily comfort and energy consumption."
+  },
+  {
+      "title": "Heat Pump VS Air Conditioner",
+      "url": "articles/ac-vs-heat-pump-2024-guide.php",
+      "keywords": "Heat Pump, Air Conditioner",
+      "description": "Welcome to our comprehensive 2024 guide for a critical decision every homeowner faces: choosing between a heat pump and a traditional air conditioner."
+  },
+  {
+      "title": "Heat Pump Rebates & Tax Credits In 2024",
+      "url": "articles/heat-pump-rebates-and-tax-credits-2024.php",
+      "keywords": "Heat Pump, Air Conditioner, Tax Credits, Savings",
+      "description": "Initial cost can be a barrier. Fortunately, utility rebates and tax incentives like the 25C tax credit make these systems more affordable."
+  },
+  {
+      "title": "Advantages of Programmable Thermostats",
+      "url": "articles/advantages-of-programmable-thermostats.php",
+      "keywords": "Thermostat, thermostat, programmable, program, Programmable, Program, Advantages, advantages",
+      "description": "A comprehensive guide to the advantages gained by using a programmable thermostat."
+  },
+  {
+    "title": "Energy Efficient Upgrades to Reduce Your HVAC Costs",
+    "url": "articles/energy-efficient-upgrades-to-reduce-your-hvac-costs.php",
+    "keywords": "Efficient, efficient, upgrade, Upgrade, Reduce Cost, reduce cost",
+    "description": "A comprehensive guide on how to reduce your HVAC costs."
+  },
+  {
+    "title": "Heat Pump vs Traditional HVAC Systems",
+    "url": "articles/heat-pumps-vs-traditional-hvac-systems.php",
+    "keywords": "Heat Pump, heat pump, traditional, Traditional",
+    "description": "A comprehensive guide on the benefits of a heat pump over traditional systems."
+  },
+  {
+    "title": "How to Choose the Right Air Conditioner",
+    "url": "articles/how-to-choose-the-right-air-conditioner.php",
+    "keywords": "Air Conditioner, Choose, How To, air conditioner, choose, how to",
+    "description": "A comprehensive guide on how to pick the right air conditioner for your needs."
+  },
+  {
+    "title": "HVAC Definitions",
+    "url": "articles/hvac-definitions.php",
+    "keywords": "Definitions, definitions, Terms, terms",
+    "description": "A list of common HVAC terms and their definitions."
+  },
+  {
+    "title": "HVAC Spokane",
+    "url": "articles/hvac-spokane.php",
+    "keywords": "Spokane, spokane, heating spokane, cooling spokane, Heating Spokane, Cooling Spokane",
+    "description": "An article that discusses the local HVAC needs for the City of Spokane and surrounding region."
+  },
+  {
+    "title": "Preparing Your HVAC System for Winter",
+    "url": "articles/preparing-your-hvac-system-for-winter.php",
+    "keywords": "Winter, winter, Preparing, preparing, Heating, heating, Heat, heat",
+    "description": "A comprehensive guide to preparing for your HVAC system for winter."
+  },
+  {
+    "title": "Spring HVAC Maintenance",
+    "url": "articles/spring-hvac-maintenance.php",
+    "keywords": "Spring, spring, Maintenance, maintenance, Tune Up, tune up",
+    "description": "A comprehensive guide on the mainenance you should do to your HVAC system in spring time."
+  },
+  {
+    "title": "The Benefits of Regular HVAC Maintenance",
+    "url": "articles/the-benefits-of-regular-hvac-maintenance.php",
+    "keywords": "Maintenance, maintenance, Tune Up, tune up, Benefits, benefits",
+    "description": "A comprehensive guide on the benefits of regularly maintained HVAC systems."
+  },
+  {
+    "title": "The Top 5 Signs Your Furnace Needs Repair",
+    "url": "articles/top-5-signs-your-furnace-needs-repair.php",
+    "keywords": "Maintenance, maintenance, Tune Up, tune up, Repair, repair, Furnace, furnace",
+    "description": "A comprehensive guide on when your HVAC system may need repair."
+  },
+  {
+    "title": "Understanding SEER Ratings",
+    "url": "articles/understanding-seer-ratings.php",
+    "keywords": "Seer, seer, what is seer, What is Seer, efficiency, Efficiency",
+    "description": "A comprehensive guide on understanding what a SEER rating is."
+  },
+  {
+    "title": "What Does Freon Smell Like",
+    "url": "articles/what-does-freon-smell-like.php",
+    "keywords": "Freon, freon, Leak, leak",
+    "description": "A comprehensive guide on how to tell if you can smell freon, which can indicate leaks."
+  },
+  {
+    "title": "Why is My Furnace Running But Not Producing Heat?",
+    "url": "articles/why-is-my-furnace-running-but-not-producing-heat.php",
+    "keywords": "No Heat, no heat, furnace, Furnace",
+    "description": "A comprehensive guide on what could be happening if your furnace runs but does not produce heat."
+  },
+  {
+    "title": "AO Smith Proline",
+    "url": "products/ao-smith-proline.php",
+    "keywords": "Product, products, AO Smith, Water Heater, Tank, water heater, tank, ao smith",
+    "description": "Detailed product information for AO Smith Proline water heaters."
+  },
+  {
+    "title": "Aspen AED",
+    "url": "products/aspen-aed.php",
+    "keywords": "Product, products, Aspen, aspen, AED, aed",
+    "description": "Detailed product information for Aspen's electric furnace with an ECM blower."
+  },
+  {
+    "title": "Bradford White RG",
+    "url": "products/bradford-white-rg.php",
+    "keywords": "Product, products, Bradford White, bradford white, 50 gallon, Water Heater, water heater",
+    "description": "Detailed product information for Bradford White RG 50 gallon tanked water heaters."
+  },
+  {
+    "title": "Generac 22kW Guardian",
+    "url": "products/generac-22kw-guardian.php",
+    "keywords": "Product, products, Generac 22kW Guardian, Generator, 22kw, generator",
+    "description": "Detailed product information for Generac 22kW Guardian generators."
+  },
+  {
+    "title": "Generac 24kW Guardian",
+    "url": "products/generac-24kw-guardian.php",
+    "keywords": "Product, products, Generac 24kW Guardian, Generator, 24kw, generator",
+    "description": "Detailed product information for Generac 24kW Guardian generators."
+  },
+  {
+    "title": "Generac 26kW Guardian",
+    "url": "products/generac-26kw-guardian.php",
+    "keywords": "Product, products, Generac 26kW Guardian, Generator, 26kw, generator",
+    "description": "Detailed product information for Generac 26kW Guardian generators."
+  },
+  {
+    "title": "Google Nest",
+    "url": "products/google-nest-3rd-gen.php",
+    "keywords": "Product, products, Google Nest, google nest, Nest, nest, thermostat, Thermostat",
+    "description": "Detailed product information for Google Nest thermostats."
+  },
+  {
+    "title": "Heat N Glo 6KX",
+    "url": "products/heat-n-glo-6kx.php",
+    "keywords": "Product, products, Heat N Glo 6KX, Fireplace, fireplace, HeatnGlo, heatnglo, heat n glo",
+    "description": "Detailed product information for Heat N Glo 6KX 36-inch fireplace."
+  },
+  {
+    "title": "Heat N Glo 8KX",
+    "url": "products/heat-n-glo-8kx.php",
+    "keywords": "Product, products, Heat N Glo 8KX, Fireplace, fireplace, HeatnGlo, heatnglo, heat n glo",
+    "description": "Detailed product information for Heat N Glo 8KX 42-inch fireplace."
+  },
+  {
+    "title": "Heat N Glo Escape",
+    "url": "products/heat-n-glo-escape.php",
+    "keywords": "Product, products, Heat N Glo Escape, Fireplace, fireplace, HeatnGlo, heatnglo, heat n glo",
+    "description": "Detailed product information for Heat N Glo Escape high-end fireplace."
+  },
+  {
+    "title": "Heat N Glo Supreme",
+    "url": "products/heat-n-glo-supreme.php",
+    "keywords": "Product, products, Heat N Glo Supreme, Fireplace, fireplace, HeatnGlo, heatnglo, heat n glo",
+    "description": "Detailed product information for Heat N Glo Supreme mid-level fireplace."
+  },
+  {
+    "title": "Hitachi Multi Zone",
+    "url": "products/hitachi-multi.php",
+    "keywords": "Product, products, Hitachi Multi Zone, Mini Split, mini split, heat pump, Heat Pump",
+    "description": "Detailed product information for Hitachi Multi Zone Efficient 22 SEER ductless system."
+  },
+  {
+    "title": "Hitachi Single Zone",
+    "url": "products/hitachi-single.php",
+    "keywords": "Product, products, Hitachi Single Zone, Mini Split, mini split, heat pump, Heat Pump",
+    "description": "Detailed product information for Hitachi Single Zone Efficient 20.5 SEER ductless system."
+  },
+  {
+    "title": "Honeywell VisionPro 8000",
+    "url": "products/honeywell-8000.php",
+    "keywords": "Product, products, Honeywell VisionPro 8000, Thermostat, thermostat",
+    "description": "Detailed product information for Honeywell VisionPro 8000 WiFi Programmable Thermostat."
+  },
+  {
+    "title": "Honeywell T4 Pro",
+    "url": "products/honeywell-t4.php",
+    "keywords": "Product, products, Honeywell T4 Pro, Thermostat, thermostat",
+    "description": "Detailed product information for Honeywell T4 Pro Programmable Thermostat."
+  },
+  {
+    "title": "Mitsubishi Multi Zone",
+    "url": "products/mitsubishi-multi-zone.php",
+    "keywords": "Product, products, Mitsubishi Multi Zone, Mini Split, mini split, heat pump, Heat Pump",
+    "description": "Detailed product information for Mitsubishi Multi Zone High-efficiency heating and cooling solution."
+  },
+  {
+    "title": "Mitsubishi Single Zone",
+    "url": "products/mitsubishi-single-zone.php",
+    "keywords": "Product, products, Mitsubishi Single Zone, Mini Split, mini split, heat pump, Heat Pump",
+    "description": "Detailed product information for Mitsubishi Single Zone High-efficiency heating and cooling solution ideal for single rooms."
+  },
+  {
+    "title": "Modine Hot Dawg",
+    "url": "products/modine-hot-dawg.php",
+    "keywords": "Product, products, Modine Hot Dawg, Shop Heater, shop heater, Garage Heater, garage heater",
+    "description": "Detailed product information for Modine Hot Dawg Ideal heating solution for garages, workshops, and light commercial applications."
+  },
+  {
+    "title": "Napoleon Ascent Linear",
+    "url": "products/napoleon-ascent.php",
+    "keywords": "Product, products, Napoleon Ascent Linear, Fireplace, fireplace, Napoleon, napoleon, linear, Linear",
+    "description": "Detailed product information for Napoleon Ascent Linear Available in 36 or 46 inches."
+  },
+  {
+    "title": "Regency Ultimate U39",
+    "url": "products/regency-u39.php",
+    "keywords": "Product, products, Regency Ultimate U39, Fireplace, fireplace, Regency, regency, Stove, stove",
+    "description": "Detailed product information for Regency Ultimate U39 a 40,000 BTU gas stove with a bay window design for efficient heating."
+  },
+  {
+    "title": "Revolv VMC2",
+    "url": "products/revolv-vmc2.php",
+    "keywords": "Product, products, Revolv VMC2, Furnace, furnace, mobile, Mobile, 95%",
+    "description": "Detailed product information for Revolv VMC2 Mobile Home Gas Furnaces."
+  },
+  {
+    "title": "Reznor UDXC",
+    "url": "products/reznor-udxc.php",
+    "keywords": "Product, products, Reznor UDXC, Shop Heater, shop heater, Garage Heater, garage heater",
+    "description": "Detailed product information for Reznor UDXC Efficient heating solution for industrial, commercial, and residential applications."
+  },
+  {
+    "title": "Rinnai Combination Boiler",
+    "url": "products/rinnai-combi-boiler.php",
+    "keywords": "Product, products, Rinnai Combination Boiler, Boiler, boiler, water heater, Water Heater, Tankless, tankless",
+    "description": "Detailed product information for Rinnai Combination Boiler a high-efficiency boiler offering both home heating and domestic hot water."
+  },
+  {
+    "title": "Rinnai SENSEI™ RX199",
+    "url": "products/rinnai-rx199.php",
+    "keywords": "Product, products, Rinnai SENSEI™ RX199, water heater, Water Heater, Tankless, tankless",
+    "description": "Detailed product information for Rinnai SENSEI™ RX199 compact, efficient, and reliable hot water solution."
+  },
+  {
+    "title": "Rinnai SENSEI™ RXP199",
+    "url": "products/rinnai-rxp199.php",
+    "keywords": "Product, products, Rinnai SENSEI™ RXP199, water heater, Water Heater, Tankless, tankless, Recirculating, recirculating",
+    "description": "Detailed product information for Rinnai SENSEI™ RXP199 compact, efficient, and recirculating hot water solution."
+  },
+  {
+    "title": "White Mountain Hearth Tahoe Deluxe DVD36",
+    "url": "products/white-mountain-hearth-tahoe-dvd36.php",
+    "keywords": "Product, products, White Mountain Hearth Tahoe Deluxe DVD36, Tahoe, tahoe, Fireplace, fireplace",
+    "description": "Detailed product information for White Mountain Hearth Tahoe Deluxe DVD36 an entry-level 36-inch fireplace with 20,000 BTUs for cozy comfort."
+  },
+  {
+    "title": "White Mountain Hearth Tahoe Deluxe DVD42",
+    "url": "products/white-mountain-hearth-tahoe-dvd42.php",
+    "keywords": "Product, products, White Mountain Hearth Tahoe Deluxe DVD42, Tahoe, tahoe, Fireplace, fireplace",
+    "description": "Detailed product information for White Mountain Hearth Tahoe Deluxe DVD42 an entry-level 42-inch fireplace with 25,000 BTUs for cozy comfort."
+  },
+  {
+    "title": "York HMH7 18 SEER Inverter Heat Pump",
+    "url": "products/york-hmh7.php",
+    "keywords": "Product, products, York HMH7 18 SEER Inverter Heat Pump, Heat Pump, heat pump",
+    "description": "Detailed product information for York HMH7 18 SEER Inverter Heat Pump."
+  },
+  {
+    "title": "York JHET High-Efficiency Fixed-Speed Air Handler",
+    "url": "products/york-jhet.php",
+    "keywords": "Product, products, York JHET, Air Handler, air handler, Electric, electric",
+    "description": "Detailed product information for York JHET High-Efficiency Fixed-Speed Air Handler."
+  },
+  {
+    "title": "York JHVT Variable Speed Air Handler",
+    "url": "products/york-jhvt.php",
+    "keywords": "Product, products, York JHVT, Air Handler, air handler, Electric, electric, Variable, variable",
+    "description": "Detailed product information for York JHVT Variable Speed Air Handler."
+  },
+  {
+    "title": "York TM8E Single-Stage Gas Furnace",
+    "url": "products/york-tm8e.php",
+    "keywords": "Product, products, York TM8E Single-Stage Gas Furnace, gas furnace, Gas Furance, Furance, furnace, Single-Stage, single-stage",
+    "description": "Detailed product information for York TM8E Single-Stage Gas Furnace."
+  },
+  {
+    "title": "York TM8V Two-Stage Variable-Speed Gas Furnace",
+    "url": "products/york-tm8v.php",
+    "keywords": "Product, products, York TM8V, Two-Stage, Variable-Speed, Gas Furnace, two-stage, variable-speed, gas furnace",
+    "description": "Detailed product information for York TM8V Two-Stage Variable-Speed Gas Furnace."
+  },
+  {
+    "title": "York TM8Y Two-Stage Gas Furnace",
+    "url": "products/york-tm8y.php",
+    "keywords": "Product, products, York TM8Y, Two-Stage, ECM fan, Gas Furnace, two-stage, gas furnace",
+    "description": "Detailed product information for York TM8Y Two-Stage Gas Furnace."
+  },
+  {
+    "title": "York TM9V Two-Stage Variable-Speed Gas Furnace",
+    "url": "products/york-tm9v.php",
+    "keywords": "Product, products, York TM9V, Two-Stage, Variable-Speed, Gas Furnace, two-stage, variable-speed, gas furnace",
+    "description": "Detailed product information for York TM9V Two-Stage Variable-Speed Gas Furnace."
+  },
+  {
+    "title": "York TM9Y Two-Stage Gas Furnace",
+    "url": "products/york-tm9y.php",
+    "keywords": "Product, products, York TM9Y, Two-Stage, ECM fan, Gas Furnace, two-stage, gas furnace",
+    "description": "Detailed product information for York TM9Y Two-Stage Gas Furnace."
+  },
+  {
+    "title": "York Y91E Single-Stage, Condensing Gas Furnace",
+    "url": "products/york-y91e.php",
+    "keywords": "Product, products, York Y91E, Single-Stage, ECM fan, Gas Furnace, single-stage, gas furnace",
+    "description": "Detailed product information for York Y91E Single-Stage, Condensing Gas Furnace."
+  },
+  {
+    "title": "York Y92E 97% AFUE Two-Stage Condensing Gas Furnace",
+    "url": "products/york-y92e.php",
+    "keywords": "Product, products, York Y92E, 97% AFUE, Two-Stage, ECM fan, Gas Furnace, two-stage, gas furnace",
+    "description": "Detailed product information for York Y92E 97% AFUE Two-Stage Condensing Gas Furnace."
+  },
+  {
+    "title": "York YC2D 13.4 SEER2 Single-Stage Air Conditioner",
+    "url": "products/york-yc2d.php",
+    "keywords": "Product, products, York YC2D, 13.4 SEER2, Single-Stage, single stage, Air Conditioner, AC, air conditioner, ac",
+    "description": "Detailed product information for York YC2D 13.4 SEER2 Single-Stage Air Conditioner."
+  },
+  {
+    "title": "York YH2F 15.2 SEER2 Two-Stage Heat Pump",
+    "url": "products/york-yh2f.php",
+    "keywords": "Product, products, York YH2F, 15.2 SEER2, Two-Stage, two stage, Heat Pump, heat pump",
+    "description": "Detailed product information for York YH2F 15.2 SEER2 Two-Stage Heat Pump."
+  },
+  {
+    "title": "York YH2F 15.2 SEER2 Two-Stage Heat Pump",
+    "url": "products/york-yh2f.php",
+    "keywords": "Product, products, York YH2F, 15.2 SEER2, Two-Stage, two stage, Heat Pump, heat pump",
+    "description": "Detailed product information for York YH2F 15.2 SEER2 Two-Stage Heat Pump."
+  },
+  {
+    "title": "Boise",
+    "url": "boise.php",
+    "keywords": "boise, Boise, Meridian, meridian",
+    "description": "Bill's Heating & A/C premier HVAC Services in Boise."
+  },
+  {
+    "title": "Contest Rules",
+    "url": "contest-rules.php",
+    "keywords": "Contest, Rules, contest, rules",
+    "description": "Rules for Bill's Heating and A/C Contests."
+  },
+  {
+    "title": "Energy and Savings Calculator",
+    "url": "energy-calculator.php",
+    "keywords": "Energy Calculator, Savings, Calculator, Efficiency, Energy, savings, calculator, efficiency, energy",
+    "description": "Calculator for Energy and Cost Savings."
+  },
+  {
+    "title": "Products",
+    "url": "equipment.php",
+    "keywords": "Products, products, equipment, Equipment",
+    "description": "Detailed product information for equipment offered at Bill's Heating and A/C."
+  }
+  ]

@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Athol, Idaho</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/athol.php">
-    <meta name="description" content="Get top HVAC services in Athol, ID with Bill's Heating & A/C. Efficient, no-fee service with $79 diagnostics. Quality comfort for homes and businesses.">
+    <meta name="description" content="Get top HVAC services in Athol, ID with Bill's Heating & A/C. Efficient, no-fee service with $59 diagnostics. Quality comfort for homes and businesses.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Athol, Idaho">
-    <meta property="og:description" content="Get top HVAC services in Athol, ID with Bill's Heating & A/C. Efficient, no-fee service with $79 diagnostics. Quality comfort for homes and businesses.">
+    <meta property="og:description" content="Get top HVAC services in Athol, ID with Bill's Heating & A/C. Efficient, no-fee service with $59 diagnostics. Quality comfort for homes and businesses.">
     <meta property="og:image" content="images/athol-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/athol.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Athol, Idaho">
-    <meta name="twitter:description" content="Get top HVAC services in Athol, ID with Bill's Heating & A/C. Efficient, no-fee service with $79 diagnostics. Quality comfort for homes and businesses.">
+    <meta name="twitter:description" content="Get top HVAC services in Athol, ID with Bill's Heating & A/C. Efficient, no-fee service with $59 diagnostics. Quality comfort for homes and businesses.">
     <meta name="twitter:image" content="images/athol-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -226,7 +226,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Choosing Bill's Heating & A/C for your HVAC needs in Athol means opting for a service that combines local insights with exceptional quality. Our no travel fee policy and broad service area demonstrate our commitment to providing accessible and affordable services. With competitive offerings like $79 diagnostics and tune-ups, free estimates, and second opinions, we make sure that our clients in Athol receive unparalleled value. Our high customer satisfaction ratings are a testament to our dedication to delivering not just services, but solutions that enhance the comfort of your Athol home or business all year round.</p>
+                <p>Choosing Bill's Heating & A/C for your HVAC needs in Athol means opting for a service that combines local insights with exceptional quality. Our no travel fee policy and broad service area demonstrate our commitment to providing accessible and affordable services. With competitive offerings like $59 diagnostics and tune-ups, free estimates, and second opinions, we make sure that our clients in Athol receive unparalleled value. Our high customer satisfaction ratings are a testament to our dedication to delivering not just services, but solutions that enhance the comfort of your Athol home or business all year round.</p>
             </div>
           </section>
           <div class="commendations-outer">

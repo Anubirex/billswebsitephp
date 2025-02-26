@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Deer Park, WA</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/dp.php">
-    <meta name="description" content="Bill's Heating & A/C in Deer Park, WA: Tailored HVAC for cold winters & mild summers. No travel fees, $79 diagnostics. High-quality comfort for homes & businesses.">
+    <meta name="description" content="Bill's Heating & A/C in Deer Park, WA: Tailored HVAC for cold winters & mild summers. No travel fees, $59 diagnostics. High-quality comfort for homes & businesses.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Deer Park, WA">
-    <meta property="og:description" content="Bill's Heating & A/C in Deer Park, WA: Tailored HVAC for cold winters & mild summers. No travel fees, $79 diagnostics. High-quality comfort for homes & businesses.">
+    <meta property="og:description" content="Bill's Heating & A/C in Deer Park, WA: Tailored HVAC for cold winters & mild summers. No travel fees, $59 diagnostics. High-quality comfort for homes & businesses.">
     <meta property="og:image" content="images/dp-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/dp.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Deer Park, WA">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Deer Park, WA: Tailored HVAC for cold winters & mild summers. No travel fees, $79 diagnostics. High-quality comfort for homes & businesses.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Deer Park, WA: Tailored HVAC for cold winters & mild summers. No travel fees, $59 diagnostics. High-quality comfort for homes & businesses.">
     <meta name="twitter:image" content="images/dp-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -226,7 +226,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Choosing Bill's Heating & A/C for your HVAC needs in Deer Park means selecting a service that blends local expertise with superior quality. Our policy of no travel fees and a wide service area demonstrates our commitment to affordability and accessibility. Our competitive services, including $79 diagnostics and tune-ups, free estimates, and second opinions, ensure that our clients in Deer Park receive excellent value. Our high customer satisfaction ratings reflect our dedication to surpassing service expectations. Trust us to keep your Deer Park home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to the specific climate and needs of the city.</p>
+                <p>Choosing Bill's Heating & A/C for your HVAC needs in Deer Park means selecting a service that blends local expertise with superior quality. Our policy of no travel fees and a wide service area demonstrates our commitment to affordability and accessibility. Our competitive services, including $59 diagnostics and tune-ups, free estimates, and second opinions, ensure that our clients in Deer Park receive excellent value. Our high customer satisfaction ratings reflect our dedication to surpassing service expectations. Trust us to keep your Deer Park home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to the specific climate and needs of the city.</p>
             </div>
           </section>
           <div class="commendations-outer">

@@ -8,35 +8,35 @@ $base_url = 'https://callbills.com/';
                     Proud Supporters of the<br>
                     Gonzaga Bulldogs
                 </p>
-                <a href="https://gozags.com/"><img src="<?php echo $base_url; ?>images/gonzaga-logo.webp" alt="Gonazga Bulldogs Logo" loading="lazy" width="600" height="600"></a>
+                <a href="https://gozags.com/"><img src="images/gonzaga-logo.webp" alt="Gonazga Bulldogs Logo" loading="lazy" width="600" height="600"></a>
             </div>
             <div class="footer-nav">
                 <h2>Quick Links</h2>
                 <ul class="footer-areas-list">
-                    <li><a href="<?php echo $base_url; ?>index.php">Home</a></li>
-                    <li><a href="<?php echo $base_url; ?>services.php">Services</a></li>
-                    <li><a href="<?php echo $base_url; ?>areas.php">Service Areas</a></li>
-                    <li><a href="<?php echo $base_url; ?>equipment.php">Equipment</a></li>
-                    <li><a href="<?php echo $base_url; ?>learninghub.php">Learning Hub</a></li>
-                    <li><a href="<?php echo $base_url; ?>financing.php">Financing</a></li>
-                    <li><a href="<?php echo $base_url; ?>savings.php">Savings</a></li>
-                    <li><a href="<?php echo $base_url; ?>story.php">About Us</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="services.php">Services</a></li>
+                    <li><a href="areas.php">Service Areas</a></li>
+                    <li><a href="products.php">Products</a></li>
+                    <li><a href="learninghub.php">Learning Hub</a></li>
+                    <li><a href="financing.php">Financing</a></li>
+                    <li><a href="savings.php">Savings</a></li>
+                    <li><a href="story.php">About Us</a></li>
                 </ul>
             </div>
             <div class="footer-social">
                 <h2>Follow Us</h2>
                 <div class="social-link-logos">
                     <a href="https://www.facebook.com/billsheating" aria-label="Visit Bill's Heating and AC on Facebook">
-                      <img src="<?php echo $base_url; ?>images/facebook-logo-white.webp" alt="Bill's Heating and AC's Facebook Page" loading="lazy" width="128" height="128">
+                      <img src="images/facebook-logo-white.webp" alt="Bill's Heating and AC's Facebook Page" loading="lazy" width="128" height="128">
                       </a>
                       <a href="https://www.instagram.com/billsheatingandac/" aria-label="Visit Bill's Heating and AC on Instagram">
-                      <img src="<?php echo $base_url; ?>images/Instagram_logo-filled.webp" alt="Bill's Heating and AC's Instagram Page" loading="lazy" width="128" height="128">
+                      <img src="images/Instagram_logo-filled.webp" alt="Bill's Heating and AC's Instagram Page" loading="lazy" width="128" height="128">
                       </a>
                     <a href="https://www.youtube.com/@billsheatingandac" aria-label="Visit Bill's Heating and AC on Youtube">
-                      <img src="<?php echo $base_url; ?>images/youtube-logo.webp" alt="Bill's Heating and Ac's YouTube Page" loading="lazy" width="128" height="128">
+                      <img src="images/youtube-logo.webp" alt="Bill's Heating and Ac's YouTube Page" loading="lazy" width="128" height="128">
                       </a>
                 </div>
-                <a href="<?php echo $base_url; ?>lowprice.php"><img class="low-price-logo" src="<?php echo $base_url; ?>images/lowprice.webp" alt="We have a lowest price guarantee" loading="lazy" width="358" height="362"></a>
+                <a href="lowprice.php"><img class="low-price-logo" src="images/lowprice.webp" alt="We have a lowest price guarantee" loading="lazy" width="358" height="362"></a>
             </div>
             <div class="footer-contact">
                 <h2>Contact Us</h2>
@@ -58,6 +58,16 @@ $base_url = 'https://callbills.com/';
                 <address>
                     1332 G St,<br>
                     Lewiston, ID 83501 <br>
+                </address></div></a>
+                <hr class="hr-style-1">
+                <a href="https://maps.app.goo.gl/cT6fVMXZp9Jru5Ph7"  target="_blank"><div>
+                  <svg id="location-icon2" class="footer-location-icon icon-common-elements" data-name="location-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 91.42 114.37"><g>
+                        <path class="location-icon-path" d="m45.71,114.37c-.55,0-1.08-.24-1.44-.67L10.48,73.47C3.72,65.43,0,55.22,0,44.71,0,20.06,20.06,0,44.71,0h1.99c24.66,0,44.71,20.06,44.71,44.71,0,10.5-3.72,20.72-10.48,28.76h0l-33.8,40.23c-.36.42-.88.67-1.44.67Zm-.99-110.62C22.13,3.75,3.75,22.13,3.75,44.71c0,9.62,3.41,18.98,9.6,26.35l32.36,38.52,32.36-38.52c6.19-7.37,9.6-16.72,9.6-26.35,0-22.59-18.38-40.96-40.96-40.96h-1.99Zm34.79,68.51h.01-.01Z"/>
+                        <path class="location-icon-path" d="m45.71,71.59c-14.82,0-26.88-12.06-26.88-26.88s12.06-26.88,26.88-26.88,26.88,12.06,26.88,26.88-12.06,26.88-26.88,26.88Zm0-50c-12.75,0-23.13,10.37-23.13,23.13s10.37,23.13,23.13,23.13,23.13-10.37,23.13-23.13-10.37-23.13-23.13-23.13Z"/>
+                      </g></svg>
+                <address>
+                  3920 E Lanark Suite 100,<br>
+                    Meridian, ID 83642 <br>
                 </address></div></a>
                 <hr class="hr-style-1">
                 <a href="tel:+12087775528"><div><svg    version="1.1" id="phone-icon" class="phone-icon-main" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
@@ -130,4 +140,4 @@ $base_url = 'https://callbills.com/';
             locale="en-us" 
             primary-color="#2c8ddb">
       </chat-widget>
-    </footer>
+    </footer> 

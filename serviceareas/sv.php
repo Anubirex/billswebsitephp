@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Spokane Valley, WA</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/sv.php">
-    <meta name="description" content="Bill's Heating & A/C in Spokane Valley, WA: Expert HVAC for chilly winters & sunny summers. Efficient service, $79 diagnostics, committed to community comfort.">
+    <meta name="description" content="Bill's Heating & A/C in Spokane Valley, WA: Expert HVAC for chilly winters & sunny summers. Efficient service, $59 diagnostics, committed to community comfort.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Spokane Valley, WA">
-    <meta property="og:description" content="Bill's Heating & A/C in Spokane Valley, WA: Expert HVAC for chilly winters & sunny summers. Efficient service, $79 diagnostics, committed to community comfort.">
+    <meta property="og:description" content="Bill's Heating & A/C in Spokane Valley, WA: Expert HVAC for chilly winters & sunny summers. Efficient service, $59 diagnostics, committed to community comfort.">
     <meta property="og:image" content="images/sv-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/sv.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Spokane Valley, WA">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Spokane Valley, WA: Expert HVAC for chilly winters & sunny summers. Efficient service, $79 diagnostics, committed to community comfort.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Spokane Valley, WA: Expert HVAC for chilly winters & sunny summers. Efficient service, $59 diagnostics, committed to community comfort.">
     <meta name="twitter:image" content="images/sv-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -226,7 +226,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Choosing Bill's Heating & A/C for your HVAC needs in Spokane Valley means opting for a service that blends local expertise with exceptional quality. Our policy of no travel fees and our extensive service area reflect our commitment to affordability and convenience for our clients. With competitive offerings like $79 diagnostics and tune-ups, free estimates, and second opinions, we ensure that residents of Spokane Valley receive the best service at great value. Our high customer satisfaction ratings demonstrate our dedication to exceeding expectations in service. Trust us to keep your Spokane Valley home or business comfortable throughout the year, with solutions that are reliable, efficient, and tailored to the local climate.</p>
+                <p>Choosing Bill's Heating & A/C for your HVAC needs in Spokane Valley means opting for a service that blends local expertise with exceptional quality. Our policy of no travel fees and our extensive service area reflect our commitment to affordability and convenience for our clients. With competitive offerings like $59 diagnostics and tune-ups, free estimates, and second opinions, we ensure that residents of Spokane Valley receive the best service at great value. Our high customer satisfaction ratings demonstrate our dedication to exceeding expectations in service. Trust us to keep your Spokane Valley home or business comfortable throughout the year, with solutions that are reliable, efficient, and tailored to the local climate.</p>
             </div>
           </section>
           <div class="commendations-outer">

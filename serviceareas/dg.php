@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Dalton Gardens, Idaho</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/dg.php">
-    <meta name="description" content="Bill's Heating & A/C in Dalton Gardens, ID: Specialized HVAC for chilly winters & mild summers. Efficient service, $79 diagnostics, ensuring year-round comfort.">
+    <meta name="description" content="Bill's Heating & A/C in Dalton Gardens, ID: Specialized HVAC for chilly winters & mild summers. Efficient service, $59 diagnostics, ensuring year-round comfort.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Dalton Gardens, Idaho">
-    <meta property="og:description" content="Bill's Heating & A/C in Dalton Gardens, ID: Specialized HVAC for chilly winters & mild summers. Efficient service, $79 diagnostics, ensuring year-round comfort.">
+    <meta property="og:description" content="Bill's Heating & A/C in Dalton Gardens, ID: Specialized HVAC for chilly winters & mild summers. Efficient service, $59 diagnostics, ensuring year-round comfort.">
     <meta property="og:image" content="images/dg-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/dg.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Dalton Gardens, Idaho">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Dalton Gardens, ID: Specialized HVAC for chilly winters & mild summers. Efficient service, $79 diagnostics, ensuring year-round comfort.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Dalton Gardens, ID: Specialized HVAC for chilly winters & mild summers. Efficient service, $59 diagnostics, ensuring year-round comfort.">
     <meta name="twitter:image" content="images/dg-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -228,7 +228,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Choosing Bill's Heating & A/C for your HVAC needs in Dalton Gardens means selecting a service that combines local knowledge with exceptional service quality. Our no travel fee policy and extensive service area reflect our commitment to making our services both affordable and accessible. We offer competitive pricing, including $79 diagnostics and tune-ups, free estimates, and second opinions, ensuring that our clients in Dalton Gardens receive the best possible value. Our high customer satisfaction ratings are a testament to our dedication to exceeding service expectations. Trust us to maintain the comfort of your Dalton Gardens home or business throughout the year with dependable, efficient, and tailored HVAC solutions.</p>
+                <p>Choosing Bill's Heating & A/C for your HVAC needs in Dalton Gardens means selecting a service that combines local knowledge with exceptional service quality. Our no travel fee policy and extensive service area reflect our commitment to making our services both affordable and accessible. We offer competitive pricing, including $59 diagnostics and tune-ups, free estimates, and second opinions, ensuring that our clients in Dalton Gardens receive the best possible value. Our high customer satisfaction ratings are a testament to our dedication to exceeding service expectations. Trust us to maintain the comfort of your Dalton Gardens home or business throughout the year with dependable, efficient, and tailored HVAC solutions.</p>
             </div>
           </section>
           <div class="commendations-outer">

@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Lewiston, Idaho</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/lewiston.php">
-    <meta name="description" content="Bill's Heating & A/C in Lewiston, ID: Expert HVAC for mild winters and warm summers. Efficient service, no travel fees, $79 diagnostics, top customer care.">
+    <meta name="description" content="Bill's Heating & A/C in Lewiston, ID: Expert HVAC for mild winters and warm summers. Efficient service, no travel fees, $59 diagnostics, top customer care.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Lewiston, Idaho">
-    <meta property="og:description" content="Bill's Heating & A/C in Lewiston, ID: Expert HVAC for mild winters and warm summers. Efficient service, no travel fees, $79 diagnostics, top customer care.">
+    <meta property="og:description" content="Bill's Heating & A/C in Lewiston, ID: Expert HVAC for mild winters and warm summers. Efficient service, no travel fees, $59 diagnostics, top customer care.">
     <meta property="og:image" content="images/lewiston-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/lewiston.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Lewiston, Idaho">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Lewiston, ID: Expert HVAC for mild winters and warm summers. Efficient service, no travel fees, $79 diagnostics, top customer care.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Lewiston, ID: Expert HVAC for mild winters and warm summers. Efficient service, no travel fees, $59 diagnostics, top customer care.">
     <meta name="twitter:image" content="images/lewiston-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -192,7 +192,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Choosing Bill's Heating & A/C in Lewiston means opting for a service that is rooted in local expertise and exceptional quality. Our no travel fee policy and expansive service area underscore our commitment to providing accessible and affordable services to all. With offers like $79 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our clients in Lewiston receive the best service at the best price. Our high customer satisfaction ratings reflect our dedication to surpassing service expectations. Trust us to maintain the comfort of your Lewiston home or business all year round, with solutions that are reliable, efficient, and tailored to your needs.</p>
+                <p>Choosing Bill's Heating & A/C in Lewiston means opting for a service that is rooted in local expertise and exceptional quality. Our no travel fee policy and expansive service area underscore our commitment to providing accessible and affordable services to all. With offers like $59 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our clients in Lewiston receive the best service at the best price. Our high customer satisfaction ratings reflect our dedication to surpassing service expectations. Trust us to maintain the comfort of your Lewiston home or business all year round, with solutions that are reliable, efficient, and tailored to your needs.</p>
             </div>
           </section>
           <div class="commendations-outer">

@@ -89,13 +89,13 @@
                 <h1>The Ultimate Heat Pump Guide</h1>
                 <p>Selection, Efficiency & Maintenance | HVAC Essentials</p>
                 <figure>
-                    <img class="blog-main-image" src="../blogimages\heat-pump-guide-equipment.webp" alt="An image showing equipment used in heat pump systems" width="1200" height="675">
+                    <img class="blog-main-image" src="../blogimages/heat-pump-guide-equipment.webp" alt="An image showing equipment used in heat pump systems" width="1200" height="675">
                 </figure>
                 <div class="blog-share-article">
                     <a href="https://www.facebook.com/sharer/sharer.php?u=https://callbills.com/articles/ultimate-heat-pump-guide.php" target="_blank" class="share-button">Share on Facebook</a>
                     <div class="blog-author-container">
                         <div class="blog-author-profile">
-                            <img src="../blogimages\author-picture-jacob.webp" alt="Jacob Darrah" class="blog-author-image" width="50" height="50">
+                            <img src="../blogimages/author-picture-jacob.webp" alt="Jacob Darrah" class="blog-author-image" width="50" height="50">
                             <div class="blog-author-details">
                                 <p><span class="blog-author-label">Author&colon;</span></p>
                                 <p><span class="blog-author-name">Jacob Darrah</span></p>
@@ -154,16 +154,16 @@
                 <p>When it comes to keeping your home comfortable year&dash;round, heat pumps are like the multi&dash;tool of the HVAC world &dash; versatile, efficient, and surprisingly kind to both your wallet and the planet. Let&apos;s break down why these systems are such a hot &#40;and cool&#41; choice:</p>
                 <h3>Energy Efficiency</h3>
                 <p>First up, heat pumps are the ninjas of energy efficiency. Unlike traditional heating systems that have to generate heat, heat pumps simply move it from one place to another. This shift in heat requires significantly less energy, making heat pumps a more efficient choice for climate control. Think of it like this&colon; instead of building a fire &#40;traditional heating&#41;, you&apos;re just relocating the warmth from the sun &#40;heat pump style&#41;. This efficiency can mean a substantial reduction in energy consumption, which is not only good for the environment but also great for your energy bills.</p>
-                <img src="../blogimages\heat-pump-guide-efficiency.webp" alt="A heat pump with an Energy Guide Effiency rating" width="800" height="320">
+                <img src="../blogimages/heat-pump-guide-efficiency.webp" alt="A heat pump with an Energy Guide Effiency rating" width="800" height="320">
                 <h3>Cost&dash;Effective</h3>
                 <p>Who doesn't like saving money? With their energy&dash;efficient nature, heat pumps can lead to some pretty impressive savings on utility bills. Because they use less energy to operate, you&apos;re looking at lower monthly costs compared to conventional heating and cooling systems. Over time, these savings can add up, making heat pumps a smart investment for cost&dash;conscious homeowners.</p>
-                <img src="../blogimages\heat-pump-guide-savings.webp" alt="A piggy bank" width="800" height="320">
+                <img src="../blogimages/heat-pump-guide-savings.webp" alt="A piggy bank" width="800" height="320">
                 <h3>Environmentally Friendly</h3>
                 <p>In an age where environmental impact is a hot topic &#40;pun intended&#41;, heat pumps shine as a more eco&dash;friendly option. By using less electricity and reducing dependence on fossil fuels, heat pumps help lower your carbon footprint. It's a win&dash;win &dash; you get to enjoy a comfortable home and take a step towards a greener, more sustainable future.</p>
-                <img src="../blogimages\heat-pump-guide-eco.webp" alt="A hand holding a green ball representing earth and energy savings" width="800" height="224">
+                <img src="../blogimages/heat-pump-guide-eco.webp" alt="A hand holding a green ball representing earth and energy savings" width="800" height="224">
                 <h3>Versatility</h3>
                 <p>Last but not least, heat pumps are the chameleons of the HVAC world. They keep you warm and toasty in the winter and cool as a cucumber in the summer. This versatility makes them an ideal solution for year-round comfort in a wide range of climates.
-                    <img src="../blogimages\heat-pump-guide-versitile.webp" alt="A heat pump in front of a split screen showing summer and winter" width="800" height="320">
+                    <img src="../blogimages/heat-pump-guide-versitile.webp" alt="A heat pump in front of a split screen showing summer and winter" width="800" height="320">
                  <br><br><br>
                  In summary, heat pumps aren&apos;t just a good choice&semi; they&apos;re a smart choice for energy&dash;efficient heating, cost&dash;saving cooling, and eco&dash;friendly home solutions. By embracing this technology, you&apos;re not just upgrading your home &dash; you&apos;re investing in a more sustainable, cost&dash;effective future.   
                 </p>
@@ -171,18 +171,18 @@
             <section class="blog-section blog-width-limiter" id="heat-pump-guide-components">
                 <h2>Heat Pump Components and Their Functions</h2>
                 <p>Diving into the heart of a heat pump, you&apos;ll find a team of components each playing a crucial role in keeping your home&apos;s climate just right. Understanding these parts not only demystifies how heat pumps work but also helps in their upkeep for long&dash;lasting efficiency.</p>
-                <img src="../blogimages\heat-pump-guide-cutaway.webp" alt="A cutway view of a heat pump condenser showing a compressor inside" width="800" height="450">
+                <img src="../blogimages/heat-pump-guide-cutaway.webp" alt="A cutway view of a heat pump condenser showing a compressor inside" width="800" height="450">
                 <h3>Compressor</h3>
                 <p>Think of the compressor as the heart of the heat pump, pumping life &#40;or in this case, refrigerant&#41; throughout the system. Its primary job is to compress the refrigerant, increasing its temperature and pressure. This superheated refrigerant is then ready to travel through the system, carrying heat to where it&apos;s needed or away from where it's not.</p>
                 <h3>Condenser</h3>
                 <p>Next stop, the condenser. Here, the hot, high&dash;pressure refrigerant releases its heat to the surroundings. In heating mode, this means warming up your home&semi; in cooling mode, it&apos;s about shedding that heat outside. As the refrigerant cools, it transforms from a gas back into a liquid, prepping for the next stage.</p>
-                <img src="../blogimages\heat-pump-guide-evap-cutaway.webp" alt="A heat pump evaporator coil with an expansion valve labeled" width="800" height="450">
+                <img src="../blogimages/heat-pump-guide-evap-cutaway.webp" alt="A heat pump evaporator coil with an expansion valve labeled" width="800" height="450">
                 <h3>Expansion Valve</h3>
                 <p>Acting as a regulator, the expansion valve is like a traffic controller for refrigerant flow. It adjusts the refrigerant&apos;s flow rate and drops its pressure. This cooling down prepares the refrigerant for its next key role &dash; absorbing heat in the evaporator.</p>
                 <h3>Evaporator</h3>
                 <p>Here's where the magic happens in cooling mode. The now cool, low&dash;pressure refrigerant absorbs heat from inside your home. As it warms up, it evaporates back into a gas, ready to head back to the compressor and start its journey again.
                     <br></p>
-                    <img src="../blogimages\heat-pump-guide-maintenance.webp" alt="A Bills Heating Heat Pump technician working on a heat pump condenser" width="800" height="259">
+                    <img src="../blogimages/heat-pump-guide-maintenance.webp" alt="A Bills Heating Heat Pump technician working on a heat pump condenser" width="800" height="259">
                 <h3>Maintenance Tips</h3>
                 <p> Regular maintenance is vital. Ensure the filters are clean, the area around outdoor units is clear, and schedule routine check&dash;ups. Simple steps like these can significantly extend the life and efficiency of your heat pump.
                 <br><br>
@@ -191,12 +191,12 @@
             <section class="blog-section blog-width-limiter" id="heat-pump-guide-misconceptions">
                 <h2>Common Misconceptions About Heat Pumps</h2>
                 <p>Heat pumps, like any popular technology, are surrounded by their fair share of myths and misconceptions. It&apos;s time to turn down the noise and tune into the facts, debunking some common misunderstandings about these versatile systems.</p>
-                <img src="../blogimages\heat-pump-guide-facts.webp" alt="Blocks that spell facts and myths" width="800" height="293">
+                <img src="../blogimages/heat-pump-guide-facts.webp" alt="Blocks that spell facts and myths" width="800" height="293">
                 <h3>Myth 1&colon; Heat Pumps Only Work in Mild Climates </h3>
                 <p>One of the most persistent myths is that heat pumps are only effective in mild climates. Not true! Modern heat pumps are designed to be tough cookies, performing efficiently even in extreme temperatures. Advances in technology mean that many models can provide cozy warmth in freezing conditions and refreshing coolness even during scorching summers. They&apos;re not just fair&dash;weather friends&semi; they&apos;re year&dash;round companions.</p>
                 <h3>Myth 2&colon; Heat Pumps Are Ineffective in Extreme Temperatures </h3>
                 <p>This ties in with the first myth. There's a notion that heat pumps lose their mojo in very cold or hot conditions. However, thanks to technological advancements, many of today's heat pumps maintain their efficiency and performance even when the mercury takes a dive or soars high. They're equipped to tackle Mother Nature's mood swings with ease.</p>
-                <img src="../blogimages\heat-pump-guide-myths.webp" alt="A chart that dispells misconseptions and myths about heat pumps" width="800" height="440">
+                <img src="../blogimages/heat-pump-guide-myths.webp" alt="A chart that dispells misconseptions and myths about heat pumps" width="800" height="440">
                 <h3>Myth 3&colon; Heat Pumps Are Too Expensive </h3>
                 <p>Let&apos;s talk dollars and sense. While the upfront cost of a heat pump can be higher than traditional heating or cooling systems, the long&dash;term savings on energy bills make them a smart financial choice. Their energy&dash;efficient nature means lower monthly costs, and over time, these savings can offset the initial investment.</p>
                 <h3>Myth 4&colon; Installation is a Huge Hassle </h3>
@@ -207,14 +207,14 @@
             </section>
             <section class="blog-section blog-width-limiter" id="heat-pump-guide-how-to-choose">
                 <h2>How to Choose the Right Heat Pump</h2>
-                <img src="../blogimages\heat-pump-guide-happy-family.webp" alt="A husband and wife celebrate while finding a heat pump on a laptop" width="800" height="450">
+                <img src="../blogimages/heat-pump-guide-happy-family.webp" alt="A husband and wife celebrate while finding a heat pump on a laptop" width="800" height="450">
                 <p>Selecting the right heat pump is like picking the ideal car&semi; it needs to suit your lifestyle, budget, and needs. Here&apos;s how to ensure you make a choice that brings comfort and efficiency to your home.</p>
                 <h3>Sizing and Capacity</h3>
                 <p>The mantra &apos;size matters&apos; couldn&apos;t be truer for heat pumps. A unit too small won&apos;t keep up with your heating and cooling demands, leaving you shivering or sweating. On the flip side, an oversized unit can lead to wasted energy and increased wear and tear. The right size ensures optimum efficiency and longevity. It&apos;s about finding that Goldilocks zone - a pump that&apos;s just right for your space. Factors like square footage, ceiling height, insulation levels, and even window types play a part in determining the perfect size.</p>
                 <h3>Features to Consider</h3>
                 <p>In the world of heat pumps, features can range from basic to bells&dash;and&dash;whistles. Look for the latest tech that aligns with your needs and budget. Consider noise levels, especially if the unit will be near bedrooms or quiet spaces. Multi&dash;zone control is a nifty feature, allowing different areas of your home to be heated or cooled independently &dash; a real game&dash;changer for tailored comfort and efficiency. Also, think about energy efficiency ratings&semi; a higher rating may mean a higher upfront cost, but greater savings in the long run.</p>
                 <h3>Professional Assessment</h3>
-                <img src="../blogimages\shaking-hands.webp" alt="A husband and wife celebrate while finding a heat pump on a laptop" width="600" height="300">
+                <img src="../blogimages/shaking-hands.webp" alt="A husband and wife celebrate while finding a heat pump on a laptop" width="600" height="300">
                 <p>Consulting with an HVAC expert is not just recommended&semi; it&apos;s crucial. They have the know-how to assess your home&apos;s specific needs, from structural aspects to your unique lifestyle requirements. An expert can guide you through the options, ensuring that you choose a heat pump that&apos;s a perfect fit for your home and budget. They can also handle the installation, ensuring that your system runs smoothly and efficiently from day one.
                     <br></p>
                     <blockquote class="quote">

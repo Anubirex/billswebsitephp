@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Rathdrum, Idaho</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/rathdrum.php">
-    <meta name="description" content="Bill's Heating & A/C in Rathdrum, ID: Expert HVAC for snowy winters & mild summers. Efficient service, $79 diagnostics, ensuring superior comfort all year.">
+    <meta name="description" content="Bill's Heating & A/C in Rathdrum, ID: Expert HVAC for snowy winters & mild summers. Efficient service, $59 diagnostics, ensuring superior comfort all year.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Rathdrum, Idaho">
-    <meta property="og:description" content="Bill's Heating & A/C in Rathdrum, ID: Expert HVAC for snowy winters & mild summers. Efficient service, $79 diagnostics, ensuring superior comfort all year.">
+    <meta property="og:description" content="Bill's Heating & A/C in Rathdrum, ID: Expert HVAC for snowy winters & mild summers. Efficient service, $59 diagnostics, ensuring superior comfort all year.">
     <meta property="og:image" content="images/rathdrum-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/rathdrum.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Rathdrum, Idaho">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Rathdrum, ID: Expert HVAC for snowy winters & mild summers. Efficient service, $79 diagnostics, ensuring superior comfort all year.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Rathdrum, ID: Expert HVAC for snowy winters & mild summers. Efficient service, $59 diagnostics, ensuring superior comfort all year.">
     <meta name="twitter:image" content="images/rathdrum-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -226,7 +226,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>For the residents of Rathdrum, opting for Bill's Heating & A/C means embracing a service that is rooted in local understanding and exceptional quality. We pride ourselves on our no travel fee policy and extensive service area, showcasing our commitment to affordability and accessibility. Our $79 diagnostics and tune-ups, along with free estimates and second opinions, ensure that you receive the best service at a great value. Our high customer reviews reflect our unwavering dedication to surpassing expectations in service. Trust us to keep your Rathdrum home or business comfortable throughout the year, with solutions that are as dependable as they are efficient.</p>
+                <p>For the residents of Rathdrum, opting for Bill's Heating & A/C means embracing a service that is rooted in local understanding and exceptional quality. We pride ourselves on our no travel fee policy and extensive service area, showcasing our commitment to affordability and accessibility. Our $59 diagnostics and tune-ups, along with free estimates and second opinions, ensure that you receive the best service at a great value. Our high customer reviews reflect our unwavering dedication to surpassing expectations in service. Trust us to keep your Rathdrum home or business comfortable throughout the year, with solutions that are as dependable as they are efficient.</p>
             </div>
           </section>
           <div class="commendations-outer">

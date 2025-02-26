@@ -225,6 +225,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
                 <p>The Mitsubishi Multi Zone Ductless System comes with a 12-year limited warranty, ensuring reliability and long-term performance. This extensive coverage provides confidence and protection for your investment.</p>
                 <ul>
                     <li><span>12-Year Limited Warranty&colon;</span> Covers parts and compressor for comprehensive protection.</li>
+                    <li><span>10-Year Labor Guarantee:</span> We offer comprehensive labor coverage for added assurance.</li>
                     <li><span>Expert Support&colon;</span> Access to professional customer service for assistance.</li>
                 </ul>
             </div>

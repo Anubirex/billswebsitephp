@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Medical Lake, WA</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/ml.php">
-    <meta name="description" content="Bill's Heating & A/C in Medical Lake, WA: Expert HVAC for cold winters & moderate summers. No travel fees, $79 diagnostics, dedicated to top-quality comfort.">
+    <meta name="description" content="Bill's Heating & A/C in Medical Lake, WA: Expert HVAC for cold winters & moderate summers. No travel fees, $59 diagnostics, dedicated to top-quality comfort.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Medical Lake, WA">
-    <meta property="og:description" content="Bill's Heating & A/C in Medical Lake, WA: Expert HVAC for cold winters & moderate summers. No travel fees, $79 diagnostics, dedicated to top-quality comfort.">
+    <meta property="og:description" content="Bill's Heating & A/C in Medical Lake, WA: Expert HVAC for cold winters & moderate summers. No travel fees, $59 diagnostics, dedicated to top-quality comfort.">
     <meta property="og:image" content="images/ml-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/ml.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Medical Lake, WA">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Medical Lake, WA: Expert HVAC for cold winters & moderate summers. No travel fees, $79 diagnostics, dedicated to top-quality comfort.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Medical Lake, WA: Expert HVAC for cold winters & moderate summers. No travel fees, $59 diagnostics, dedicated to top-quality comfort.">
     <meta name="twitter:image" content="images/ml-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -226,7 +226,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Choosing Bill's Heating & A/C for your HVAC needs in Medical Lake means selecting a service that is rooted in local expertise and a commitment to quality. Our no travel fee policy and extensive service area showcase our dedication to affordability and accessibility. With competitive offerings like $79 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our clients in Medical Lake receive the best value. Our high customer satisfaction ratings are a testament to our dedication to surpassing service expectations. Rely on us to keep your Medical Lake home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to the local climate.</p>
+                <p>Choosing Bill's Heating & A/C for your HVAC needs in Medical Lake means selecting a service that is rooted in local expertise and a commitment to quality. Our no travel fee policy and extensive service area showcase our dedication to affordability and accessibility. With competitive offerings like $59 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our clients in Medical Lake receive the best value. Our high customer satisfaction ratings are a testament to our dedication to surpassing service expectations. Rely on us to keep your Medical Lake home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to the local climate.</p>
             </div>
           </section>
           <div class="commendations-outer">

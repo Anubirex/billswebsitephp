@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Pomeroy, WA</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/pomeroy.php">
-    <meta name="description" content="Bill's Heating & A/C in Pomeroy, WA: Specialized HVAC for cold winters & moderate summers. Efficient service, $79 diagnostics, committed to community comfort.">
+    <meta name="description" content="Bill's Heating & A/C in Pomeroy, WA: Specialized HVAC for cold winters & moderate summers. Efficient service, $59 diagnostics, committed to community comfort.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Pomeroy, WA">
-    <meta property="og:description" content="Bill's Heating & A/C in Pomeroy, WA: Specialized HVAC for cold winters & moderate summers. Efficient service, $79 diagnostics, committed to community comfort.">
+    <meta property="og:description" content="Bill's Heating & A/C in Pomeroy, WA: Specialized HVAC for cold winters & moderate summers. Efficient service, $59 diagnostics, committed to community comfort.">
     <meta property="og:image" content="images/pomeroy-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/pomeroy.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Pomeroy, WA">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Pomeroy, WA: Specialized HVAC for cold winters & moderate summers. Efficient service, $79 diagnostics, committed to community comfort.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Pomeroy, WA: Specialized HVAC for cold winters & moderate summers. Efficient service, $59 diagnostics, committed to community comfort.">
     <meta name="twitter:image" content="images/pomeroy-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -225,7 +225,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Choosing Bill's Heating & A/C for your HVAC needs in Pomeroy means selecting a service that combines local expertise with superior service quality. Our no travel fee policy and extensive service area reflect our commitment to affordability and accessibility for our clients. With competitive services like $79 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our clients in Pomeroy receive the best value. Our high customer satisfaction ratings demonstrate our commitment to exceeding service expectations. Trust us to keep your Pomeroy home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to the specific needs of the community.</p>
+                <p>Choosing Bill's Heating & A/C for your HVAC needs in Pomeroy means selecting a service that combines local expertise with superior service quality. Our no travel fee policy and extensive service area reflect our commitment to affordability and accessibility for our clients. With competitive services like $59 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our clients in Pomeroy receive the best value. Our high customer satisfaction ratings demonstrate our commitment to exceeding service expectations. Trust us to keep your Pomeroy home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to the specific needs of the community.</p>
             </div>
           </section>
           <div class="commendations-outer">

@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Clarkston, WA</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/clarkston.php">
-    <meta name="description" content="Bill's Heating & A/C in Clarkston, WA: Specialized HVAC for chilly winters & mild summers. Efficient service, $79 diagnostics, committed to year-round comfort.">
+    <meta name="description" content="Bill's Heating & A/C in Clarkston, WA: Specialized HVAC for chilly winters & mild summers. Efficient service, $59 diagnostics, committed to year-round comfort.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -44,14 +44,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Clarkston, WA">
-    <meta property="og:description" content="Bill's Heating & A/C in Clarkston, WA: Specialized HVAC for chilly winters & mild summers. Efficient service, $79 diagnostics, committed to year-round comfort.">
+    <meta property="og:description" content="Bill's Heating & A/C in Clarkston, WA: Specialized HVAC for chilly winters & mild summers. Efficient service, $59 diagnostics, committed to year-round comfort.">
     <meta property="og:image" content="images/clarkston-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/clarkston.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Clarkston, WA">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Clarkston, WA: Specialized HVAC for chilly winters & mild summers. Efficient service, $79 diagnostics, committed to year-round comfort.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Clarkston, WA: Specialized HVAC for chilly winters & mild summers. Efficient service, $59 diagnostics, committed to year-round comfort.">
     <meta name="twitter:image" content="images/clarkston-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -227,7 +227,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Choosing Bill's Heating & A/C for your HVAC needs in Clarkston means opting for a service that combines local knowledge with superior service quality. Our commitment to no travel fees and an extensive service area reflects our dedication to affordability and accessibility for our clients. With competitive offerings like $79 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our clients in Clarkston receive the best value. Our high customer satisfaction ratings demonstrate our commitment to exceeding expectations in service quality. Trust us to keep your Clarkston home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to the specific climate and needs of the city.</p>
+                <p>Choosing Bill's Heating & A/C for your HVAC needs in Clarkston means opting for a service that combines local knowledge with superior service quality. Our commitment to no travel fees and an extensive service area reflects our dedication to affordability and accessibility for our clients. With competitive offerings like $59 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our clients in Clarkston receive the best value. Our high customer satisfaction ratings demonstrate our commitment to exceeding expectations in service quality. Trust us to keep your Clarkston home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to the specific climate and needs of the city.</p>
             </div>
           </section>
           <div class="commendations-outer">

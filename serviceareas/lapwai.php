@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Lapwai, Idaho</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/lapwai.php">
-    <meta name="description" content="Bill's Heating & A/C in Lapwai, ID: Custom HVAC solutions for cold winters and mild summers. Efficient, cost-effective service with $79 diagnostics.">
+    <meta name="description" content="Bill's Heating & A/C in Lapwai, ID: Custom HVAC solutions for cold winters and mild summers. Efficient, cost-effective service with $59 diagnostics.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Lapwai, Idaho">
-    <meta property="og:description" content="Bill's Heating & A/C in Lapwai, ID: Custom HVAC solutions for cold winters and mild summers. Efficient, cost-effective service with $79 diagnostics.">
+    <meta property="og:description" content="Bill's Heating & A/C in Lapwai, ID: Custom HVAC solutions for cold winters and mild summers. Efficient, cost-effective service with $59 diagnostics.">
     <meta property="og:image" content="images/lapwai-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/lapwai.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Lapwai, Idaho">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Lapwai, ID: Custom HVAC solutions for cold winters and mild summers. Efficient, cost-effective service with $79 diagnostics.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Lapwai, ID: Custom HVAC solutions for cold winters and mild summers. Efficient, cost-effective service with $59 diagnostics.">
     <meta name="twitter:image" content="images/lapwai-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -225,7 +225,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Choosing Bill's Heating & A/C for your HVAC needs in Lapwai means opting for a service that is rooted in local expertise and a commitment to excellence. Our policy of no travel fees and a broad service area demonstrates our dedication to affordability and convenience. Our competitive pricing, including $79 diagnostics and tune-ups, free estimates, and second opinions, ensures that our clients in Lapwai receive excellent service at a great value. Our high customer satisfaction ratings reflect our dedication to surpassing expectations in service quality. Trust us to keep your Lapwai home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to your needs.</p>
+                <p>Choosing Bill's Heating & A/C for your HVAC needs in Lapwai means opting for a service that is rooted in local expertise and a commitment to excellence. Our policy of no travel fees and a broad service area demonstrates our dedication to affordability and convenience. Our competitive pricing, including $59 diagnostics and tune-ups, free estimates, and second opinions, ensures that our clients in Lapwai receive excellent service at a great value. Our high customer satisfaction ratings reflect our dedication to surpassing expectations in service quality. Trust us to keep your Lapwai home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to your needs.</p>
             </div>
           </section>
           <div class="commendations-outer">

@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Coeur d'Alene, Idaho</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/cda.php">
-    <meta name="description" content="Bill's Heating & A/C in Coeur d'Alene: Superior HVAC for all seasons. No travel fees, $79 diagnostics, free estimates. Reliable, efficient, local service">
+    <meta name="description" content="Bill's Heating & A/C in Coeur d'Alene: Superior HVAC for all seasons. No travel fees, $59 diagnostics, free estimates. Reliable, efficient, local service">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -44,14 +44,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Coeur d'Alene, Idaho">
-    <meta property="og:description" content="Bill's Heating & A/C in Coeur d'Alene: Superior HVAC for all seasons. No travel fees, $79 diagnostics, free estimates. Reliable, efficient, local service">
+    <meta property="og:description" content="Bill's Heating & A/C in Coeur d'Alene: Superior HVAC for all seasons. No travel fees, $59 diagnostics, free estimates. Reliable, efficient, local service">
     <meta property="og:image" content="images/cda-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/cda.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Coeur d'Alene, Idaho">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Coeur d'Alene: Superior HVAC for all seasons. No travel fees, $79 diagnostics, free estimates. Reliable, efficient, local service">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Coeur d'Alene: Superior HVAC for all seasons. No travel fees, $59 diagnostics, free estimates. Reliable, efficient, local service">
     <meta name="twitter:image" content="images/cda-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -226,7 +226,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Choosing the right HVAC service in Coeur d&apos;Alene doesn&apos;t have to be daunting. At Bill&apos;s Heating &amp; A/C, we combine local expertise with top&dash;notch service quality. Our no travel fees and extensive service area make us accessible and affordable. With offers like free second opinions, $79 diagnostics and tune&dash;ups, and free estimates, we make your decision easy. Our high ratings and dedication to customer satisfaction ensure you receive quality service. Let us handle your heating and cooling needs, so you can enjoy the Coeur d&apos;Alene lifestyle.</p>
+                <p>Choosing the right HVAC service in Coeur d&apos;Alene doesn&apos;t have to be daunting. At Bill&apos;s Heating &amp; A/C, we combine local expertise with top&dash;notch service quality. Our no travel fees and extensive service area make us accessible and affordable. With offers like free second opinions, $59 diagnostics and tune&dash;ups, and free estimates, we make your decision easy. Our high ratings and dedication to customer satisfaction ensure you receive quality service. Let us handle your heating and cooling needs, so you can enjoy the Coeur d&apos;Alene lifestyle.</p>
             </div>
           </section>
           <div class="commendations-outer">

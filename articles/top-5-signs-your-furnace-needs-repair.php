@@ -95,13 +95,13 @@
                 <h1>Top 5 Signs Your Furnace Needs Repair</h1>
                 <p>Stay Warm and Safe by Recognizing These Warning Signals</p>
                 <figure>
-                    <img class="blog-main-image" src="../blogimages\smiling-tech-large.webp" alt="A Bills Heating technician works on a gas furnace" width="1200" height="625">
+                    <img class="blog-main-image" src="../blogimages/smiling-tech-large.webp" alt="A Bills Heating technician works on a gas furnace" width="1200" height="625">
                 </figure>
                 <div class="blog-share-article">
                     <a href="https://www.facebook.com/sharer/sharer.php?u=https://callbills.com/articles/top-5-signs-your-furnace-needs-repair.php" target="_blank" class="share-button">Share on Facebook</a>
                     <div class="blog-author-container">
                         <div class="blog-author-profile">
-                            <img src="../blogimages\author-picture-jacob.webp" alt="Jacob Darrah" class="blog-author-image" width="50" height="50">
+                            <img src="../blogimages/author-picture-jacob.webp" alt="Jacob Darrah" class="blog-author-image" width="50" height="50">
                             <div class="blog-author-details">
                                 <p><span class="blog-author-label">Author&colon;</span></p>
                                 <p><span class="blog-author-name">Jacob Darrah</span></p>
@@ -141,7 +141,7 @@
         <section class="blog-section blog-width-limiter">
             <h2 id="introduction">Introduction</h2>
             <p>Your furnace is the heart of your home's heating system. Regular maintenance is essential, but sometimes issues arise that require immediate attention. Ignoring these problems can lead to more significant damage, costly repairs, or even complete system failure. Understanding the warning signs of a failing furnace empowers you to take prompt action, ensuring uninterrupted comfort and safety.</p>
-            <img src="../blogimages\heat-distribution.webp" alt="Cutaway illustration of home showing uneven heat distribution" width="1200" height="625">
+            <img src="../blogimages/heat-distribution.webp" alt="Cutaway illustration of home showing uneven heat distribution" width="1200" height="625">
             <p>Bill's Heating & A/C is dedicated to helping you keep your heating system running smoothly. Let's explore the top signs that your furnace may need professional repair.</p>
         </section>
 
@@ -157,7 +157,7 @@
                     <li><span>Grinding</span> &mdash; Often a sign of motor problems requiring immediate attention.</li>
                 </ul>
             </div>
-            <img src="../blogimages\plugging-ears.webp" alt="A woman plugs her ears to block out loud noises from her furnace" width="800" height="533">
+            <img src="../blogimages/plugging-ears.webp" alt="A woman plugs her ears to block out loud noises from her furnace" width="800" height="533">
             <p>These noises should not be ignored, as they can signal problems that may worsen over time.</p>
             <blockquote class="quote">
                 Addressing unusual furnace noises promptly can prevent more serious and costly repairs down the line.
@@ -177,7 +177,7 @@
                     <li><span>Burner Problems</span> &mdash; Dirty or malfunctioning burners reduce heat output.</li>
                 </ul>
             </div>
-            <img src="../blogimages\ductless-guide-zonal.webp" alt="Cutaway illustration of home showing uneven heat distribution" width="800" height="339">
+            <img src="../blogimages/ductless-guide-zonal.webp" alt="Cutaway illustration of home showing uneven heat distribution" width="800" height="339">
             <p>Professional diagnosis is essential to identify and fix the root cause, restoring proper heating performance.</p>
         </section>
 
@@ -193,7 +193,7 @@
                     <li><span>Short Cycling</span> &mdash; Frequent on-off cycles consume more energy.</li>
                 </ul>
             </div>
-            <img src="../blogimages\roi.webp" alt="A scale is weighing money on both sides" width="800" height="447">
+            <img src="../blogimages/roi.webp" alt="A scale is weighing money on both sides" width="800" height="447">
             <p>Having a professional inspect your furnace can identify inefficiencies and recommend solutions to reduce energy consumption.</p>
         </section>
 
@@ -224,7 +224,7 @@
                     <li><span>Soot Buildup</span> &mdash; Accumulation affecting burner efficiency.</li>
                 </ul>
             </div>
-            <img src="../blogimages\yellow-fire.webp" alt="Close-up of a furnace pilot light showing yellow flame" width="800" height="533">
+            <img src="../blogimages/yellow-fire.webp" alt="Close-up of a furnace pilot light showing yellow flame" width="800" height="533">
             <p>If you notice a yellow pilot light, turn off your furnace and contact a professional immediately to ensure your safety.</p>
         </section>
 
@@ -240,7 +240,7 @@
                     <li><span>System Diagnostics</span> &mdash; Accurately identifying and repairing issues.</li>
                 </ul>
             </div>
-            <img src="../blogimages\shaking-hands.webp" alt="Bill's Heating & A/C technician greeting a homeowner at the door" width="600" height="300">
+            <img src="../blogimages/shaking-hands.webp" alt="Bill's Heating & A/C technician greeting a homeowner at the door" width="600" height="300">
             <p>Trusting professionals ensures your furnace is repaired safely and effectively. At Bill's Heating & A/C, our certified technicians are ready to assist with any furnace concerns.</p>
         </section>
 
@@ -248,7 +248,7 @@
             <h2 id="conclusion">Conclusion</h2>
             <p>Being aware of the signs that your furnace needs repair allows you to address issues before they escalate. Unusual noises, inadequate heating, high energy bills, frequent cycling, and a yellow pilot light are key indicators that professional attention is needed. By acting promptly, you can maintain a comfortable home environment, extend the lifespan of your furnace, and avoid costly repairs.</p>
             <p>Contact Bill's Heating & A/C today if you notice any of these signs. Our experienced team is dedicated to keeping your heating system running smoothly and efficiently.</p>
-            <img src="../blogimages\techs-arriving-furnace-guide.webp" alt="Bill's Heating & A/C technicians arriving at a home for furnace repair" width="800" height="430">
+            <img src="../blogimages/techs-arriving-furnace-guide.webp" alt="Bill's Heating & A/C technicians arriving at a home for furnace repair" width="800" height="430">
         </section>
     </article>
     <div class="blog-section-outer">

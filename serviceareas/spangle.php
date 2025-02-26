@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Spangle, WA</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/spangle.php">
-    <meta name="description" content="Bill's Heating & A/C in Spangle, WA: Custom HVAC for cold winters & mild summers. Efficient service, $79 diagnostics, committed to community and comfort.">
+    <meta name="description" content="Bill's Heating & A/C in Spangle, WA: Custom HVAC for cold winters & mild summers. Efficient service, $59 diagnostics, committed to community and comfort.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Spangle, WA">
-    <meta property="og:description" content="Bill's Heating & A/C in Spangle, WA: Custom HVAC for cold winters & mild summers. Efficient service, $79 diagnostics, committed to community and comfort.">
+    <meta property="og:description" content="Bill's Heating & A/C in Spangle, WA: Custom HVAC for cold winters & mild summers. Efficient service, $59 diagnostics, committed to community and comfort.">
     <meta property="og:image" content="images/spangle-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/spangle.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Spangle, WA">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Spangle, WA: Custom HVAC for cold winters & mild summers. Efficient service, $79 diagnostics, committed to community and comfort.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Spangle, WA: Custom HVAC for cold winters & mild summers. Efficient service, $59 diagnostics, committed to community and comfort.">
     <meta name="twitter:image" content="images/spangle-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -225,7 +225,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Opting for Bill's Heating & A/C in Spangle means choosing a service that combines local expertise with superior service quality. Our policy of no travel fees and a broad service area demonstrates our commitment to affordability and accessibility for our clients. With competitive services like $79 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our clients in Spangle receive the best value. Our high customer satisfaction ratings are a testament to our dedication to surpassing expectations in service quality. Trust us to keep your Spangle home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to the specific needs of the community.</p>
+                <p>Opting for Bill's Heating & A/C in Spangle means choosing a service that combines local expertise with superior service quality. Our policy of no travel fees and a broad service area demonstrates our commitment to affordability and accessibility for our clients. With competitive services like $59 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our clients in Spangle receive the best value. Our high customer satisfaction ratings are a testament to our dedication to surpassing expectations in service quality. Trust us to keep your Spangle home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to the specific needs of the community.</p>
             </div>
           </section>
           <div class="commendations-outer">

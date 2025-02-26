@@ -4,8 +4,7 @@ $base_url = 'https://callbills.com/';
 <header>
     <div class="message-banner">
       <div class="scroll-text">
-      <a href="https://callbills.com/contest-rules.php"> <h3>Get a FREE Tankless Water Heater with an HVAC system Install before DEC 31st. callbills.com/contest-rules for terms</h3></a>
-      <!--   <h3>The area&apos;s largest and most trusted HVAC company - Serving Northern Idaho and Eastern Washington</h3> -->
+       <h3>The area&apos;s largest and most trusted HVAC company - Serving Idaho and Eastern Washington</h3>
       </div>
     </div>   
     <div class="top-bar width-limiter">
@@ -17,8 +16,13 @@ $base_url = 'https://callbills.com/';
               <span></span>
           </div>
         </div>
-        <a href="https://callbills.com/index.php"><img class="header-logo" alt="Bills Heating Logo" src="<?php echo $base_url; ?>images\header-logo-shadowed.webp" width="400" height="177"></a>
+        <a href="https://callbills.com/index.php"><img class="header-logo" alt="Bills Heating Logo" src="<?php echo $base_url; ?>images/header-logo-shadowed.webp" width="400" height="177"></a>
         <button class="schedule-service-button desktop-only" id="toggleFormButton">Schedule Service</button>
+        <!-- <select id="regionSelect">
+            <option value="north-idaho">North Idaho</option>
+            <option value="south-idaho">South Idaho</option>
+            <option value="washington">Washington</option>
+        </select> -->
         <a href="tel:+12087775528" class="phone-number desktop-only"> 208-777-5528</a>
         <div class="burger-menu-container" id="burgerMenu">
           <input type="checkbox" role="button" aria-label="Display the menu" aria-pressed="true" class="bmenu" id="burgerCheckbox">
@@ -221,12 +225,8 @@ $base_url = 'https://callbills.com/';
                     <svg id="location-icon3" class="location-icon icon-common-elements" data-name="location-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 91.42 135"><g>
                       <path class="icon-stroke" d="m45.71,114.37c-.55,0-1.08-.24-1.44-.67L10.48,73.47C3.72,65.43,0,55.22,0,44.71,0,20.06,20.06,0,44.71,0h1.99c24.66,0,44.71,20.06,44.71,44.71,0,10.5-3.72,20.72-10.48,28.76h0l-33.8,40.23c-.36.42-.88.67-1.44.67Zm-.99-110.62C22.13,3.75,3.75,22.13,3.75,44.71c0,9.62,3.41,18.98,9.6,26.35l32.36,38.52,32.36-38.52c6.19-7.37,9.6-16.72,9.6-26.35,0-22.59-18.38-40.96-40.96-40.96h-1.99Zm34.79,68.51h.01-.01Z"/>
                       <path class="icon-stroke" d="m45.71,71.59c-14.82,0-26.88-12.06-26.88-26.88s12.06-26.88,26.88-26.88,26.88,12.06,26.88,26.88-12.06,26.88-26.88,26.88Zm0-50c-12.75,0-23.13,10.37-23.13,23.13s10.37,23.13,23.13,23.13,23.13-10.37,23.13-23.13-10.37-23.13-23.13-23.13Z"/></g></svg>
-                  <span class="submenu-text">Service Areas</span><svg class="master-icon rotated-icon icon-common-elements" id="dropdown-arrow-3" data-name="Dropdown Arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.62 14.18"><polyline  class="sub-icon-stroke" points="1.06 1.56 11.56 12.06 22.56 1.06"/></svg></a>
+                  <span class="submenu-text">North Idaho</span><svg class="master-icon rotated-icon icon-common-elements" id="dropdown-arrow-3" data-name="Dropdown Arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.62 14.18"><polyline  class="sub-icon-stroke" points="1.06 1.56 11.56 12.06 22.56 1.06"/></svg></a>
                     <div class="service-submenu-container">
-                      <div class="service-area-titles">
-                        <Span>Idaho</Span>
-                        <Span>Washington</Span>
-                      </div>
                         <ul class="service-submenu" role="menu">
                           <li class="service-submenu-item" role="menuitem">
                             <a href="<?php echo $base_url; ?>serviceareas/cda.php"><span class="service-submenu-text">Coeur D&apos;Alene</span></a>
@@ -291,72 +291,154 @@ $base_url = 'https://callbills.com/';
                             <a href="<?php echo $base_url; ?>serviceareas/troy.php"><span class="service-submenu-text">Troy</span></a>
                           </li>
                         </ul>
-                        <ul class="service-submenu">
-                          <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>serviceareas/spokane.php"><span class="service-submenu-text">Spokane</span></a>
-                          </li>
-                          <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>serviceareas/sv.php"><span class="service-submenu-text">Spokane Valley</span></a>
-                          </li>
-                          <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>serviceareas/ll.php"><span class="service-submenu-text">Liberty Lake</span></a>
-                          </li>
-                          <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>serviceareas/ml.php"><span class="service-submenu-text">Medical Lake</span></a>
-                          </li>
-                          <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>serviceareas/ah.php"><span class="service-submenu-text">Airway Heights</span></a>
-                          </li>
-                          <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>serviceareas/cheney.php"><span class="service-submenu-text">Cheney</span></a>
-                          </li>
-                          <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>serviceareas/dp.php"><span class="service-submenu-text">Deer Park</span></a>
-                          </li>
-                          <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>serviceareas/newport.php"><span class="service-submenu-text">Newport</span></a>
-                          </li>
-                          <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>serviceareas/pullman.php"><span class="service-submenu-text">Pullman</span></a>
-                          </li>
-                          <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>serviceareas/clarkston.php"><span class="service-submenu-text">Clarkston</span></a>
-                          </li>
-                        </ul>
-                        <ul class="service-submenu" role="menu">
-                          <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>serviceareas/oo.php"><span class="service-submenu-text">Otis Orchards</span></a>
-                          </li>
-                          <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>serviceareas/nl.php"><span class="service-submenu-text">Newman Lake</span></a>
-                          </li>
-                          <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>serviceareas/mead.php"><span class="service-submenu-text">Mead</span></a>
-                          </li>
-                          <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>serviceareas/spangle.php"><span class="service-submenu-text">Spangle</span></a>
-                          </li>
-                          <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>serviceareas/nmf.php"><span class="service-submenu-text">Nine Mile Falls</span></a>
-                          </li>
-                          <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>serviceareas/asotin.php"><span class="service-submenu-text">Asotin</span></a>
-                          </li>
-                          <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>serviceareas/uniontown.php"><span class="service-submenu-text">Uniontown</span></a>
-                          </li>
-                          <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>serviceareas/pomeroy.php"><span class="service-submenu-text">Pomeroy</span></a>
-                          </li>
-                          <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>serviceareas/chattaroy.php"><span class="service-submenu-text">Chattaroy</span></a>
-                          </li>
-                          <li class="service-submenu-item" role="menuitem">
-                            <a href="<?php echo $base_url; ?>serviceareas/colton.php"><span class="service-submenu-text">Colton</span></a>
-                          </li>
-                        </ul>
                     </div>
                 </li>
+                <li class="submenu-item has-submenu" role="menuitem" aria-haspopup="true" aria-expanded="false">
+                    <a href="<?php echo $base_url; ?>boise.php" class="icon-menu-item">
+                      <svg id="location-icon3" class="location-icon icon-common-elements" data-name="location-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 91.42 135"><g>
+                        <path class="icon-stroke" d="m45.71,114.37c-.55,0-1.08-.24-1.44-.67L10.48,73.47C3.72,65.43,0,55.22,0,44.71,0,20.06,20.06,0,44.71,0h1.99c24.66,0,44.71,20.06,44.71,44.71,0,10.5-3.72,20.72-10.48,28.76h0l-33.8,40.23c-.36.42-.88.67-1.44.67Zm-.99-110.62C22.13,3.75,3.75,22.13,3.75,44.71c0,9.62,3.41,18.98,9.6,26.35l32.36,38.52,32.36-38.52c6.19-7.37,9.6-16.72,9.6-26.35,0-22.59-18.38-40.96-40.96-40.96h-1.99Zm34.79,68.51h.01-.01Z"/>
+                        <path class="icon-stroke" d="m45.71,71.59c-14.82,0-26.88-12.06-26.88-26.88s12.06-26.88,26.88-26.88,26.88,12.06,26.88,26.88-12.06,26.88-26.88,26.88Zm0-50c-12.75,0-23.13,10.37-23.13,23.13s10.37,23.13,23.13,23.13,23.13-10.37,23.13-23.13-10.37-23.13-23.13-23.13Z"/></g></svg>
+                    <span class="submenu-text">South Idaho</span><svg class="master-icon rotated-icon icon-common-elements" id="dropdown-arrow-3" data-name="Dropdown Arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.62 14.18"><polyline  class="sub-icon-stroke" points="1.06 1.56 11.56 12.06 22.56 1.06"/></svg></a>
+                      <div class="service-submenu-container">
+                          <ul class="service-submenu" role="menu">
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>boise.php"><span class="service-submenu-text">Eagle</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>boise.php"><span class="service-submenu-text">Kuna</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>boise.php"><span class="service-submenu-text">Meridian</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>boise.php"><span class="service-submenu-text">Boise</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>boise.php"><span class="service-submenu-text">Star</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>boise.php"><span class="service-submenu-text">New Plymouth</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>boise.php"><span class="service-submenu-text">Fruitland</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>boise.php"><span class="service-submenu-text">Payette</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>boise.php"><span class="service-submenu-text">Caldwell</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>boise.php"><span class="service-submenu-text">Middleton</span></a>
+                            </li>
+                          </ul>
+                          <ul class="service-submenu" role="menu">
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>boise.php"><span class="service-submenu-text">Parma</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>boise.php"><span class="service-submenu-text">Notus</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>boise.php"><span class="service-submenu-text">Wilder</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>boise.php"><span class="service-submenu-text">Homedale</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>boise.php"><span class="service-submenu-text">Greenleaf</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>boise.php"><span class="service-submenu-text">Nampa</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>boise.php"><span class="service-submenu-text">Melba</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>boise.php"><span class="service-submenu-text">Mountain Home</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>boise.php"><span class="service-submenu-text">Marsing</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>boise.php"><span class="service-submenu-text">Emmett</span></a>
+                            </li>
+                          </ul>
+                      </div>
+                  </li>
+                  <li class="submenu-item has-submenu" role="menuitem" aria-haspopup="true" aria-expanded="false">
+                    <a href="<?php echo $base_url; ?>areas.php" class="icon-menu-item">
+                      <svg id="location-icon3" class="location-icon icon-common-elements" data-name="location-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 91.42 135"><g>
+                        <path class="icon-stroke" d="m45.71,114.37c-.55,0-1.08-.24-1.44-.67L10.48,73.47C3.72,65.43,0,55.22,0,44.71,0,20.06,20.06,0,44.71,0h1.99c24.66,0,44.71,20.06,44.71,44.71,0,10.5-3.72,20.72-10.48,28.76h0l-33.8,40.23c-.36.42-.88.67-1.44.67Zm-.99-110.62C22.13,3.75,3.75,22.13,3.75,44.71c0,9.62,3.41,18.98,9.6,26.35l32.36,38.52,32.36-38.52c6.19-7.37,9.6-16.72,9.6-26.35,0-22.59-18.38-40.96-40.96-40.96h-1.99Zm34.79,68.51h.01-.01Z"/>
+                        <path class="icon-stroke" d="m45.71,71.59c-14.82,0-26.88-12.06-26.88-26.88s12.06-26.88,26.88-26.88,26.88,12.06,26.88,26.88-12.06,26.88-26.88,26.88Zm0-50c-12.75,0-23.13,10.37-23.13,23.13s10.37,23.13,23.13,23.13,23.13-10.37,23.13-23.13-10.37-23.13-23.13-23.13Z"/></g></svg>
+                    <span class="submenu-text">Washington</span><svg class="master-icon rotated-icon icon-common-elements" id="dropdown-arrow-3" data-name="Dropdown Arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.62 14.18"><polyline  class="sub-icon-stroke" points="1.06 1.56 11.56 12.06 22.56 1.06"/></svg></a>
+                      <div class="service-submenu-container">
+                          <ul class="service-submenu">
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>serviceareas/spokane.php"><span class="service-submenu-text">Spokane</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>serviceareas/sv.php"><span class="service-submenu-text">Spokane Valley</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>serviceareas/ll.php"><span class="service-submenu-text">Liberty Lake</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>serviceareas/ml.php"><span class="service-submenu-text">Medical Lake</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>serviceareas/ah.php"><span class="service-submenu-text">Airway Heights</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>serviceareas/cheney.php"><span class="service-submenu-text">Cheney</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>serviceareas/dp.php"><span class="service-submenu-text">Deer Park</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>serviceareas/newport.php"><span class="service-submenu-text">Newport</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>serviceareas/pullman.php"><span class="service-submenu-text">Pullman</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>serviceareas/clarkston.php"><span class="service-submenu-text">Clarkston</span></a>
+                            </li>
+                          </ul>
+                          <ul class="service-submenu" role="menu">
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>serviceareas/oo.php"><span class="service-submenu-text">Otis Orchards</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>serviceareas/nl.php"><span class="service-submenu-text">Newman Lake</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>serviceareas/mead.php"><span class="service-submenu-text">Mead</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>serviceareas/spangle.php"><span class="service-submenu-text">Spangle</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>serviceareas/nmf.php"><span class="service-submenu-text">Nine Mile Falls</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>serviceareas/asotin.php"><span class="service-submenu-text">Asotin</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>serviceareas/uniontown.php"><span class="service-submenu-text">Uniontown</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>serviceareas/pomeroy.php"><span class="service-submenu-text">Pomeroy</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>serviceareas/chattaroy.php"><span class="service-submenu-text">Chattaroy</span></a>
+                            </li>
+                            <li class="service-submenu-item" role="menuitem">
+                              <a href="<?php echo $base_url; ?>serviceareas/colton.php"><span class="service-submenu-text">Colton</span></a>
+                            </li>
+                          </ul>
+                      </div>
+                  </li>
           </ul>
         </li>
         <li class="menu-item" role="menuitem"><a href="<?php echo $base_url; ?>equipment.php"><span class="menu-text">Equipment</span></a></li>
@@ -464,7 +546,7 @@ $base_url = 'https://callbills.com/';
             <div class="search-overlay"></div>
           </div>
      <!-- ///////////////////////////REQUEST FORM BELOW///////////////////////////////////////////////// -->
-     <div class="page-overlay"></div>
+    <div class="page-overlay"></div>
     <div class="form-overlay" id="serviceForm">
         <div class="request-form-sidebar desktop-only">
           <h2>We look forward to helping you!</h2>

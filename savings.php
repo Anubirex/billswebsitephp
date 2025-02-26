@@ -173,13 +173,13 @@
         <section class="savings-current-promotion-outer">
             <div class="savings-current-promotion width-limiter">
                 <div>
-                  <h2>FREE Tankless Water Heater *</h2>
+                  <h2>FREE Heat Pump with Furnace Purchase</h2>
                     <p>
-                      <br><br>From November 1st 2024 until December 31st 2024, customers who purchase a heating and cooling system from Bill's Heating & A/C will have a high efficiency tankless water heater installed at no additional cost! Click <a href="https://callbills.com/contest-rules.php">here</a> for official terms and conditions.
+                      <br><br>For a limited time, customers who purchase a Furnace from Bill's Heating & A/C will have a heat pump condenser included for free! Click <a href="https://callbills.com/contest-rules.php">here</a> for official terms and conditions.
                     <br></p>
                    <!--<a href="#">Click Here</a> to read official contest rules</p> --> 
                 </div>
-                <img src="blogimages/CalifornianFreeTankless.png" alt="an advertisement for a free tankless water heater from Bill's Heating & AC" height="1080" width="1080">
+                <img src="images\Oct Heat Pump 2.png" alt="an advertisement for a free Heat Pump from Bill's Heating & AC" height="1080" width="1080">
             </div>
         </section>
         <div class="standalone-headline">More Ways To Save</div>

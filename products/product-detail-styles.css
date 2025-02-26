@@ -143,6 +143,14 @@ main.product-detail {
     font-size: 1.6rem;
     margin-bottom: 15px;
 }
+.product-description strong {
+    font-size: 1.6rem;
+    color: var(--COLOR-MAIN-DARK);
+}
+.product-description li {
+    font-size: 1.4rem;
+    color: #4c4c4c;
+}
 
 /* Moved Image Section */
 .features-image {
@@ -338,6 +346,11 @@ main.product-detail {
 .call-us-button:hover{
     transform: scale(1.05);
     background-color: var(--COLOR-MAIN-DARK);
+}
+.doe-compliance h2 {
+    font-size: 2.4rem;
+    margin-bottom: 15px;
+    color: var(--COLOR-MAIN-DARK);
 }
 /* Responsive Design */
 @media (max-width: 768px) {

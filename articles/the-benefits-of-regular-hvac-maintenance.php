@@ -95,13 +95,13 @@
                 <h1>The Benefits of Regular HVAC Maintenance</h1>
                 <p>Why Routine Check-Ups Are Essential for Your Comfort and Savings</p>
                 <figure>
-                    <img class="blog-main-image" src="../blogimages\changing-filter.webp" alt="A homeowner removes an air filter from a furnace during maintenance" width="800" height="430">
+                    <img class="blog-main-image" src="../blogimages/changing-filter.webp" alt="A homeowner removes an air filter from a furnace during maintenance" width="800" height="430">
                 </figure>
                 <div class="blog-share-article">
                     <a href="https://www.facebook.com/sharer/sharer.php?u=https://callbills.com/articles/the-benefits-of-regular-hvac-maintenance.php" target="_blank" class="share-button">Share on Facebook</a>
                     <div class="blog-author-container">
                         <div class="blog-author-profile">
-                            <img src="../blogimages\author-picture-jacob.webp" alt="Jacob Darrah" class="blog-author-image" width="50" height="50">
+                            <img src="../blogimages/author-picture-jacob.webp" alt="Jacob Darrah" class="blog-author-image" width="50" height="50">
                             <div class="blog-author-details">
                                 <p><span class="blog-author-label">Author&colon;</span></p>
                                 <p><span class="blog-author-name">Jacob Darrah</span></p>
@@ -141,7 +141,7 @@
         <section class="blog-section blog-width-limiter">
             <h2 id="introduction">Introduction</h2>
             <p>Regular HVAC maintenance is often overlooked by homeowners until a problem arises. However, proactive care of your heating and cooling system is essential for ensuring optimal performance, energy efficiency, and longevity. Just as you wouldn't drive your car thousands of miles without an oil change, your HVAC system shouldn't be neglected. In this article, we'll delve into the key benefits of routine maintenance and how it contributes to a comfortable, safe, and cost-effective home environment.</p>
-            <img src="../images\ac-three.webp" alt="HVAC technician's tools next to an air conditioner condenser during maintenance" width="800" height="600">
+            <img src="../images/ac-three.webp" alt="HVAC technician's tools next to an air conditioner condenser during maintenance" width="800" height="600">
             <p>At Bill's Heating & A/C, we advocate for regular maintenance schedules tailored to your system's needs. Our professional technicians are equipped to identify potential issues before they become major problems, saving you time, money, and discomfort.</p>
         </section>
 
@@ -156,7 +156,7 @@
                 An efficient HVAC system not only reduces energy costs but also lessens environmental impact by consuming less fuel.
             </blockquote>
             <p>By maintaining efficiency, you're ensuring that your system uses the least amount of energy necessary to keep your home comfortable.</p>
-            <img src="../images\hvac-definitions-blocks.webp" alt="The word 'HVAC' spelled out with wooden blocks representing system efficiency" width="1200" height="675">
+            <img src="../images/hvac-definitions-blocks.webp" alt="The word 'HVAC' spelled out with wooden blocks representing system efficiency" width="1200" height="675">
         </section>
 
         <section class="blog-section blog-width-limiter">
@@ -166,7 +166,7 @@
             <p>Routine inspections and adjustments reduce the wear and tear on critical components. For example, ensuring that belts are properly aligned and lubricated prevents premature failure.</p>
             <h3>Early Detection of Issues</h3>
             <p>Technicians can identify and address minor problems before they escalate into major malfunctions. Replacing a worn-out part during maintenance is far preferable to dealing with a system failure that could have been prevented.</p>
-            <img src="../blogimages\heat-pump-guide-maintenance.webp" alt="Technician inspecting HVAC components to extend system lifespan" width="800" height="259">
+            <img src="../blogimages/heat-pump-guide-maintenance.webp" alt="Technician inspecting HVAC components to extend system lifespan" width="800" height="259">
             <p>By investing in regular maintenance, you're effectively prolonging the life of your HVAC system, ensuring you get the most out of your investment.</p>
         </section>
 
@@ -185,7 +185,7 @@
                 </ul>
             </div>
             <p>Preventing unexpected breakdowns not only saves money but also avoids the inconvenience and discomfort associated with a failed HVAC system.</p>
-            <img src="../blogimages\heat-pump-guide-happy-family.webp" alt="Happy family enjoying a comfortable home due to reliable HVAC system" width="800" height="450">
+            <img src="../blogimages/heat-pump-guide-happy-family.webp" alt="Happy family enjoying a comfortable home due to reliable HVAC system" width="800" height="450">
         </section>
 
         <section class="blog-section blog-width-limiter">
@@ -195,7 +195,7 @@
             <p>Maintenance may include cleaning the ductwork, coils, and other components where pollutants can accumulate. Clean systems distribute cleaner air, reducing allergens and irritants.</p>
             <h3>Optimizing Humidity Levels</h3>
             <p>Properly functioning HVAC systems help regulate humidity levels, preventing conditions that promote mold growth and dust mites.</p>
-            <img src="../blogimages\air-filtering.webp" alt="Abstract rendering of air contaminants being filtered out" width="800" height="162">
+            <img src="../blogimages/air-filtering.webp" alt="Abstract rendering of air contaminants being filtered out" width="800" height="162">
             <p>Improved air quality contributes to better health, particularly for individuals with allergies, asthma, or other respiratory issues.</p>
         </section>
 
@@ -214,7 +214,7 @@
                 </ul>
             </div>
             <p>Addressing these safety aspects during routine maintenance protects your home and family from potential dangers.</p>
-            <img src="../blogimages\furnace-cutaway.webp" alt="Cutaway of a gas furnace showing burner, heat exchanger, and blower" width="800" height="450">
+            <img src="../blogimages/furnace-cutaway.webp" alt="Cutaway of a gas furnace showing burner, heat exchanger, and blower" width="800" height="450">
         </section>
 
         <section class="blog-section blog-width-limiter">
@@ -230,13 +230,13 @@
                 Investing in maintenance today saves money tomorrow through reduced bills and avoided repair costs.
             </blockquote>
             <p>The cumulative savings over the years make regular maintenance a financially sound decision.</p>
-            <img src="../images\money-banner.webp" alt="Various denominations of American dollar bills representing cost savings" width="1200" height="181">
+            <img src="../blogimages/money-banner.webp" alt="Various denominations of American dollar bills representing cost savings" width="1200" height="181">
         </section>
 
         <section class="blog-section blog-width-limiter">
             <h2 id="conclusion">Conclusion</h2>
             <p>Regular HVAC maintenance is essential for maximizing efficiency, extending system lifespan, preventing breakdowns, enhancing indoor air quality, and ensuring safety. The benefits far outweigh the costs, providing peace of mind and long-term savings. At Bill's Heating & A/C, our professional technicians are committed to keeping your system in top condition. Contact us today to schedule your next maintenance appointment and experience the difference that regular care can make in your home's comfort and safety.</p>
-            <img src="../images\shaking-hands.webp" alt="Bill's Heating & A/C technician greeting a homeowner at the door" width="600" height="300">
+            <img src="../blogimages/shaking-hands.webp" alt="Bill's Heating & A/C technician greeting a homeowner at the door" width="600" height="300">
         </section>
     </article>
     <div class="blog-section-outer">

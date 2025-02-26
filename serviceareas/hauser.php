@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Hauser, Idaho</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/hauser.php">
-    <meta name="description" content="Bill's Heating & A/C in Hauser, ID: Expert HVAC solutions for cold winters & mild summers. Reliable service, no travel fees, $79 diagnostics, and top customer satisfaction.">
+    <meta name="description" content="Bill's Heating & A/C in Hauser, ID: Expert HVAC solutions for cold winters & mild summers. Reliable service, no travel fees, $59 diagnostics, and top customer satisfaction.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Hauser, Idaho">
-    <meta property="og:description" content="Bill's Heating & A/C in Hauser, ID: Expert HVAC solutions for cold winters & mild summers. Reliable service, no travel fees, $79 diagnostics, and top customer satisfaction.">
+    <meta property="og:description" content="Bill's Heating & A/C in Hauser, ID: Expert HVAC solutions for cold winters & mild summers. Reliable service, no travel fees, $59 diagnostics, and top customer satisfaction.">
     <meta property="og:image" content="images/hauser-social-share.webp">
     <meta hauseroperty="og:url" content="https://callbills.com/serviceareas/hauser.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Hauser, Idaho">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Hauser, ID: Expert HVAC solutions for cold winters & mild summers. Reliable service, no travel fees, $79 diagnostics, and top customer satisfaction.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Hauser, ID: Expert HVAC solutions for cold winters & mild summers. Reliable service, no travel fees, $59 diagnostics, and top customer satisfaction.">
     <meta name="twitter:image" content="images/hauser-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -226,7 +226,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Opting for Bill's Heating & A/C in Hauser means choosing a service steeped in local expertise and backed by a commitment to quality. Our policy of no travel fees and a wide service area demonstrates our dedication to affordability and convenience for our clients. With competitive services like $79 diagnostics and tune-ups, free estimates, and second opinions, we strive to offer the best value to our Hauser clients. Our high customer satisfaction ratings are a testament to our commitment to exceeding service expectations. Rely on us to ensure your Hauser home or business remains comfortable throughout the year, with reliable and efficient HVAC solutions.</p>
+                <p>Opting for Bill's Heating & A/C in Hauser means choosing a service steeped in local expertise and backed by a commitment to quality. Our policy of no travel fees and a wide service area demonstrates our dedication to affordability and convenience for our clients. With competitive services like $59 diagnostics and tune-ups, free estimates, and second opinions, we strive to offer the best value to our Hauser clients. Our high customer satisfaction ratings are a testament to our commitment to exceeding service expectations. Rely on us to ensure your Hauser home or business remains comfortable throughout the year, with reliable and efficient HVAC solutions.</p>
             </div>
           </section>
           <div class="commendations-outer">

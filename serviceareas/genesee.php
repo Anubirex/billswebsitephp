@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Genesee, Idaho</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/genesee.php">
-    <meta name="description" content="Bill's Heating & A/C in Genesee, ID: Specializing in HVAC for brisk winters & pleasant summers. Efficient, no-fee service, $79 diagnostics, top customer care.">
+    <meta name="description" content="Bill's Heating & A/C in Genesee, ID: Specializing in HVAC for brisk winters & pleasant summers. Efficient, no-fee service, $59 diagnostics, top customer care.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Genesee, Idaho">
-    <meta property="og:description" content="Bill's Heating & A/C in Genesee, ID: Specializing in HVAC for brisk winters & pleasant summers. Efficient, no-fee service, $79 diagnostics, top customer care.">
+    <meta property="og:description" content="Bill's Heating & A/C in Genesee, ID: Specializing in HVAC for brisk winters & pleasant summers. Efficient, no-fee service, $59 diagnostics, top customer care.">
     <meta property="og:image" content="images/genesee-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/genesee.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Genesee, Idaho">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Genesee, ID: Specializing in HVAC for brisk winters & pleasant summers. Efficient, no-fee service, $79 diagnostics, top customer care.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Genesee, ID: Specializing in HVAC for brisk winters & pleasant summers. Efficient, no-fee service, $59 diagnostics, top customer care.">
     <meta name="twitter:image" content="images/genesee-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -225,7 +225,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Opting for Bill's Heating & A/C in Genesee means choosing a service that combines local expertise with exceptional service quality. Our no travel fee policy and extensive service area reflect our commitment to affordability and accessibility for the community. Our competitive services like $79 diagnostics and tune-ups, free estimates, and second opinions ensure that our clients in Genesee receive the best possible value. Our high customer satisfaction ratings are a testament to our commitment to exceeding expectations in service quality. Rely on us to keep your Genesee home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to the local climate.</p>
+                <p>Opting for Bill's Heating & A/C in Genesee means choosing a service that combines local expertise with exceptional service quality. Our no travel fee policy and extensive service area reflect our commitment to affordability and accessibility for the community. Our competitive services like $59 diagnostics and tune-ups, free estimates, and second opinions ensure that our clients in Genesee receive the best possible value. Our high customer satisfaction ratings are a testament to our commitment to exceeding expectations in service quality. Rely on us to keep your Genesee home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to the local climate.</p>
             </div>
           </section>
           <div class="commendations-outer">

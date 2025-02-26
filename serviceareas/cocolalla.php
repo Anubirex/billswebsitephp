@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Cocolalla, Idaho</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/cocolalla.php">
-    <meta name="description" content="Bill's Heating & A/C in Cocolalla, ID: Expert HVAC for cold winters & moderate summers. No travel fees, $79 diagnostics, ensuring year-round indoor comfort">
+    <meta name="description" content="Bill's Heating & A/C in Cocolalla, ID: Expert HVAC for cold winters & moderate summers. No travel fees, $59 diagnostics, ensuring year-round indoor comfort">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Cocolalla, Idaho">
-    <meta property="og:description" content="Bill's Heating & A/C in Cocolalla, ID: Expert HVAC for cold winters & moderate summers. No travel fees, $79 diagnostics, ensuring year-round indoor comfort">
+    <meta property="og:description" content="Bill's Heating & A/C in Cocolalla, ID: Expert HVAC for cold winters & moderate summers. No travel fees, $59 diagnostics, ensuring year-round indoor comfort">
     <meta property="og:image" content="images/cocolalla-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/cocolalla.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Cocolalla, Idaho">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Cocolalla, ID: Expert HVAC for cold winters & moderate summers. No travel fees, $79 diagnostics, ensuring year-round indoor comfort">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Cocolalla, ID: Expert HVAC for cold winters & moderate summers. No travel fees, $59 diagnostics, ensuring year-round indoor comfort">
     <meta name="twitter:image" content="images/cocolalla-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -225,7 +225,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Choosing Bill's Heating & A/C for your HVAC needs in Cocolalla means selecting a service that is rooted in local expertise and a commitment to excellence. Our no travel fee policy and extensive service area demonstrate our dedication to making our services affordable and accessible. With competitive offerings like $79 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our Cocolalla clients receive the best service at great value. Our high customer satisfaction ratings are a testament to our dedication to surpassing expectations in service quality. Rely on us to keep your Cocolalla home or business comfortable throughout the year, with HVAC solutions that are as reliable as they are efficient.</p>
+                <p>Choosing Bill's Heating & A/C for your HVAC needs in Cocolalla means selecting a service that is rooted in local expertise and a commitment to excellence. Our no travel fee policy and extensive service area demonstrate our dedication to making our services affordable and accessible. With competitive offerings like $59 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our Cocolalla clients receive the best service at great value. Our high customer satisfaction ratings are a testament to our dedication to surpassing expectations in service quality. Rely on us to keep your Cocolalla home or business comfortable throughout the year, with HVAC solutions that are as reliable as they are efficient.</p>
             </div>
           </section>
           <div class="commendations-outer">

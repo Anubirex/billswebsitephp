@@ -89,13 +89,13 @@
                     <h1>How to Choose the Right Air Conditioner for Your Home</h1>
                     <p>A Comprehensive Guide to Cooling Solutions by Bill's Heating & A/C</p>
                     <figure>
-                        <img class="blog-main-image" src="../blogimages\guide-to-ac-hero.webp" alt="An air conditioning unit with refrigerant guages hanging on it." width="1200" height="675">
+                        <img class="blog-main-image" src="../blogimages/guide-to-ac-hero.webp" alt="An air conditioning unit with refrigerant guages hanging on it." width="1200" height="675">
                     </figure>
                     <div class="blog-share-article">
                         <a href="https://www.facebook.com/sharer/sharer.php?u=https://callbills.com/articles/how-to-choose-the-right-air-conditioner.php" target="_blank" class="share-button">Share on Facebook</a>
                         <div class="blog-author-container">
                             <div class="blog-author-profile">
-                                <img src="../blogimages\author-picture-jacob.webp" alt="Jacob Darrah" class="blog-author-image" width="50" height="50">
+                                <img src="../blogimages/author-picture-jacob.webp" alt="Jacob Darrah" class="blog-author-image" width="50" height="50">
                                 <div class="blog-author-details">
                                     <p><span class="blog-author-label">Author&colon;</span></p>
                                     <p><span class="blog-author-name">Jacob Darrah</span></p>
@@ -134,7 +134,7 @@
             <section class="blog-section blog-width-limiter">
                 <h2 id="introduction">Introduction</h2>
                 <p>As temperatures rise, a reliable air conditioning system becomes essential for maintaining a comfortable home environment. However, with so many options on the market—from central air systems to ductless mini-splits and portable units—choosing the right one can be daunting. This guide aims to demystify the selection process by breaking down the key factors you need to consider. We'll explore different types of air conditioners, discuss how to determine the appropriate size and capacity, delve into energy efficiency ratings, and highlight important features that can enhance your system's performance and your home's comfort.</p>
-                <img src="../blogimages\guide-to-ac-comfortable.webp" alt="Family enjoying cool indoor temperature with new air conditioner" width="800" height="236">
+                <img src="../blogimages/guide-to-ac-comfortable.webp" alt="Family enjoying cool indoor temperature with new air conditioner" width="800" height="236">
                 <p>At Bill's Heating & A/C, we believe that informed customers make the best decisions. Our goal is to provide you with the knowledge you need to select an air conditioning system that not only meets your cooling needs but also aligns with your budget and energy efficiency goals. Let's begin the journey to finding your perfect cooling solution.</p>
             </section>
         
@@ -149,7 +149,7 @@
                 <p>Window air conditioners are self-contained units installed in a window or through a hole in an exterior wall. They are suitable for cooling single rooms or small spaces and are relatively affordable and easy to install. However, they can obstruct views and may not be as energy-efficient as other options.</p>
                 <h3>Portable Air Conditioners</h3>
                 <p>Portable air conditioners are freestanding units that can be moved from room to room. They use a hose to vent hot air outside through a window or opening. While convenient, they are generally less efficient and effective than other types and are best used as temporary solutions.</p>
-                <img src="../images\equipment-header-800w.webp" alt="Various types of air conditioners displayed" width="800" height="450">
+                <img src="../images/equipment-header-800w.webp" alt="Various types of air conditioners displayed" width="800" height="450">
                 <p>Choosing the right type depends on factors such as your home's layout, existing infrastructure, cooling needs, and budget. For whole-house cooling, central air or ductless systems are typically the best options, while window and portable units may suffice for single rooms or small spaces.</p>
             </section>
         
@@ -183,7 +183,7 @@
                 <p>The Seasonal Energy Efficiency Ratio (SEER) measures an air conditioner's cooling output during a typical cooling season divided by the total electric energy input. The higher the SEER rating, the more efficient the system. Modern air conditioners must have a minimum SEER rating of 13, but high-efficiency models can reach SEER ratings of 20 or more.</p>
                 <h3>Energy Star Certification</h3>
                 <p>Air conditioners that meet strict energy efficiency guidelines set by the U.S. Environmental Protection Agency receive the Energy Star certification. These units are at least 15% more efficient than standard models, offering significant energy savings.</p>
-                <img src="../blogimages\energyguide.webp" alt="Energy efficiency rating label for an air conditioner" width="1200" height="337">
+                <img src="../blogimages/energyguide.webp" alt="Energy efficiency rating label for an air conditioner" width="1200" height="337">
                 <h3>Cost vs. Savings</h3>
                 <p>While high-efficiency units may have a higher upfront cost, the energy savings over time often offset the initial investment. Additionally, some local utilities and government agencies offer rebates or incentives for purchasing energy-efficient equipment.</p>
                 <p>Considering the long-term operational costs is essential in making an economically sound decision. An efficient air conditioner not only lowers your bills but also reduces your carbon footprint.</p>
@@ -241,14 +241,14 @@
                 <p>Experienced technicians ensure all connections are secure, refrigerant levels are correct, and the system is calibrated properly. This reduces the likelihood of future breakdowns and extends the lifespan of your equipment.</p>
                 <h3>Warranty Protection</h3>
                 <p>Most manufacturers require professional installation for the warranty to remain valid. DIY installations or work by unqualified individuals can void warranties, leaving you unprotected against defects or issues.</p>
-                <img src="../blogimages\guide-to-ac-installation.webp" alt="Professional technician installing an air conditioner" width="800" height="417">
+                <img src="../blogimages/guide-to-ac-installation.webp" alt="Professional technician installing an air conditioner" width="800" height="417">
                 <p>At Bill's Heating & A/C, our certified professionals are committed to providing top-quality installation services. We ensure your system is set up for optimal performance and longevity.</p>
             </section>
         
             <section class="blog-section blog-width-limiter">
                 <h2 id="conclusion">Conclusion</h2>
                 <p>Choosing the right air conditioner for your home involves careful consideration of various factors, including the type of system, proper sizing, energy efficiency, desired features, and budget. By understanding these elements, you can make an informed decision that ensures comfort, efficiency, and satisfaction.</p>
-                <img src="../blogimages\heat-pump-guide-happy-family.webp" alt="Happy family enjoying their new air conditioner installed by Bill's Heating & A/C" width="800" height="450">
+                <img src="../blogimages/heat-pump-guide-happy-family.webp" alt="Happy family enjoying their new air conditioner installed by Bill's Heating & A/C" width="800" height="450">
                 <p>Bill's Heating & A/C is here to assist you every step of the way. Our team of experts will assess your home's needs, recommend the best solutions, and provide professional installation and maintenance services. Contact us today to schedule a consultation and take the first step toward a cooler, more comfortable home.</p>
             </section>
         </article>

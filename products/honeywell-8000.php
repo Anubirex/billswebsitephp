@@ -136,7 +136,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
         </div>
         <div class="product-summary">
             <h1>Honeywell VisionPro 8000<br><span>Thermostat</span></h1>
-            <p>Enhance your home comfort with easy scheduling and remote control via mobile app</p>
+            <p>Enhance your home comfort with easy scheduling.</p>
             <div class="product-meters">
             <div class="meter">
                     <label for="efficiency-meter">Efficiency: N/A</label>
@@ -168,8 +168,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
     <!-- Product Description Section -->
     <section class="product-description">
         <h2>Experience Smart Home Comfort and Control</h2>
-        <p>The Honeywell VisionPro® 8000 WiFi Programmable Thermostat is designed to provide seamless control over your home’s heating and cooling systems. With its ability to set schedules for each day of the week, you can effortlessly manage your home’s temperature to suit your lifestyle. The intuitive mobile app allows you to adjust settings remotely, ensuring your home is always at the perfect temperature when you arrive.</p>
-        <p>Connected to your mobile device, the VisionPro® 8000 sends alerts for maintenance or extreme temperatures, helping you maintain an efficient and comfortable living environment. Additionally, this thermostat can integrate with whole-home humidifiers, dehumidifiers, or ventilators, offering fine-tuned control over your home’s climate.</p>
+        <p>The Honeywell VisionPro® 8000 WiFi Programmable Thermostat is designed to provide seamless control over your home’s heating and cooling systems. With its ability to set schedules for each day of the week, you can effortlessly manage your home’s temperature to suit your lifestyle. When connected to the toptional RedLink system, the intuitive mobile app allows you to adjust settings remotely, ensuring your home is always at the perfect temperature when you arrive.</p>
+        <p>If connected to your mobile device via optional Redlink, the VisionPro® 8000 sends alerts for maintenance or extreme temperatures, helping you maintain an efficient and comfortable living environment. Additionally, this thermostat can integrate with whole-home humidifiers, dehumidifiers, or ventilators, offering fine-tuned control over your home’s climate.</p>
         <p>The large touchscreen display is not only aesthetically pleasing but also highly functional, providing clear visibility of all controlled equipment statuses. It can also display your dealer information, making it easy to reach out for service or inquiries.</p>
         <p>With ENERGY STAR® certification, the VisionPro® 8000 is engineered to help you save on energy costs without sacrificing comfort. Explore our Energy Savings Program to learn how this smart thermostat can make a difference in your home.</p>
     </section>
@@ -181,7 +181,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 
     <!-- Key Features Section -->
     <section class="product-features">
-        <h2>Key Features</h2>
+        <h2>The optional Redlink system enables these features:</h2>
         <ul class="features-list">
             <li><span>Wifi Enabled&colon;</span> Connect and control your thermostat remotely using the Total Connect® Comfort App.</li>
             <li><span>Touchscreen Display&colon;</span> Large, easy-to-read display for clear status updates and navigation.</li>
@@ -240,7 +240,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
         <div class="faq-item">
             <button class="faq-question">Can I control the thermostat remotely?</button>
             <div class="faq-answer">
-                <p>Yes, with the Total Connect® Comfort App, you can control your VisionPRO 8000 Thermostat from anywhere using your smartphone, tablet, or laptop. This allows you to adjust temperatures, set schedules, and receive alerts even when you're not at home.</p>
+                <p>When paired with the optional redlink system (sold separately) the Total Connect® Comfort App can control your VisionPRO 8000 Thermostat from anywhere using your smartphone, tablet, or laptop. This allows you to adjust temperatures, set schedules, and receive alerts even when you're not at home.</p>
             </div>
         </div>
         <!-- FAQ Item 3 -->
@@ -254,7 +254,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
         <div class="faq-item">
             <button class="faq-question">Does the thermostat integrate with other smart home devices?</button>
             <div class="faq-answer">
-                <p>Yes, the VisionPRO 8000 Thermostat is compatible with leading smart home ecosystems, including Amazon Alexa, Google Assistant, IFTTT, and Cortana. This allows you to use voice commands and integrate the thermostat with other smart devices in your home.</p>
+                <p>Yes, the VisionPRO 8000 Thermostat is compatible with leading smart home ecosystems when connected through the optional Redlink system (sold separately), including Amazon Alexa, Google Assistant, IFTTT, and Cortana. This allows you to use voice commands and integrate the thermostat with other smart devices in your home.</p>
             </div>
         </div>
         <!-- FAQ Item 5 -->

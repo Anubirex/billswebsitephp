@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Bayview, Idaho</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/bayview.php">
-    <meta name="description" content="Choose Bill's Heating & A/C in Bayview, ID for top HVAC services in brisk winters & pleasant summers. No travel fees, $79 diagnostics, committed to comfort.">
+    <meta name="description" content="Choose Bill's Heating & A/C in Bayview, ID for top HVAC services in brisk winters & pleasant summers. No travel fees, $59 diagnostics, committed to comfort.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Bayview, Idaho">
-    <meta property="og:description" content="Choose Bill's Heating & A/C in Bayview, ID for top HVAC services in brisk winters & pleasant summers. No travel fees, $79 diagnostics, committed to comfort.">
+    <meta property="og:description" content="Choose Bill's Heating & A/C in Bayview, ID for top HVAC services in brisk winters & pleasant summers. No travel fees, $59 diagnostics, committed to comfort.">
     <meta property="og:image" content="images/bayview-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/bayview.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Bayview, Idaho">
-    <meta name="twitter:description" content="Choose Bill's Heating & A/C in Bayview, ID for top HVAC services in brisk winters & pleasant summers. No travel fees, $79 diagnostics, committed to comfort.">
+    <meta name="twitter:description" content="Choose Bill's Heating & A/C in Bayview, ID for top HVAC services in brisk winters & pleasant summers. No travel fees, $59 diagnostics, committed to comfort.">
     <meta name="twitter:image" content="images/bayview-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -225,7 +225,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Opting for Bill's Heating & A/C in Bayview means choosing a service that combines local understanding with top-tier service quality. Our commitment to no travel fees and a broad service area showcases our dedication to affordability and accessibility. We offer competitive services such as $79 diagnostics and tune-ups, free estimates, and second opinions, ensuring that our clients in Bayview receive excellent value for their investment. Our high customer satisfaction ratings are a testament to our unwavering commitment to exceeding service expectations. Trust us to keep your Bayview home or business comfortable throughout the year, with solutions that are reliable, efficient, and perfectly suited to the local climate.</p>
+                <p>Opting for Bill's Heating & A/C in Bayview means choosing a service that combines local understanding with top-tier service quality. Our commitment to no travel fees and a broad service area showcases our dedication to affordability and accessibility. We offer competitive services such as $59 diagnostics and tune-ups, free estimates, and second opinions, ensuring that our clients in Bayview receive excellent value for their investment. Our high customer satisfaction ratings are a testament to our unwavering commitment to exceeding service expectations. Trust us to keep your Bayview home or business comfortable throughout the year, with solutions that are reliable, efficient, and perfectly suited to the local climate.</p>
             </div>
           </section>
           <div class="commendations-outer">

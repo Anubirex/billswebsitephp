@@ -315,31 +315,33 @@
         </section>
     </article>
         <div class="blog-section-outer">
-    <section class="blog-section-end blog-section-first-headline">
-    <h2>Read These Articles Next</h2>
-    <div class="blog-cards">
-        <div class="blog-card" data-category="HVAC Tips and Guides" data-date="2024-10-15">
-            <a href="heat-pumps-vs-traditional-hvac-systems.php" aria-label="Read more about Heat Pumps vs. Traditional HVAC Systems">
-                <img src="../blogimages/heat-pump-guide-equipment.webp" alt="Various types of York heating and cooling equipment" loading="lazy">
-                <div class="card-content">
-                    <h2>Heat Pumps vs. Traditional HVAC Systems</h2>
-                    <p class="article-meta">By Jacob Darrah on October 15th, 2024 • 8 min read</p>
-                    <p>Discover the differences between heat pumps and traditional HVAC systems to make an informed decision for your home.</p>
-                </div>
-            </a>
+        <section class="blog-section-end blog-section-first-headline">
+        <h2>Read These Articles Next</h2>
+        <div class="blog-cards">
+            <!-- First Card -->
+            <div class="blog-card" data-category="Energy Savings" data-date="2024-10-01">
+                <a href="../articles/understanding-seer-ratings.php" aria-label="Read more about Understanding SEER Ratings">
+                    <img src="../blogimages/energyguide.webp" alt="EnergyGuide label displaying SEER rating on an air conditioner" loading="lazy">
+                    <div class="card-content">
+                        <h2>Understanding SEER Ratings</h2>
+                        <p class="article-meta">By Jacob D on October 1st, 2024 • 5 min read</p>
+                        <p>Learn what SEER ratings mean for your energy bills and how to choose the right air conditioner for maximum efficiency and savings.</p>
+                    </div>
+                </a>
+            </div>
+            <!-- Second Card -->
+            <div class="blog-card" data-category="Other, Energy Savings" data-date="2024-09-27">
+                <a href="../articles/the-benefits-of-regular-hvac-maintenance.php" aria-label="Read more about The Benefits of Regular HVAC Maintenance">
+                    <img src="../blogimages/changing-filter.webp" alt="A homeowner removes an air filter from a furnace during maintenance" loading="lazy">
+                    <div class="card-content">
+                        <h2>The Benefits of Regular HVAC Maintenance</h2>
+                        <p class="article-meta">By Jacob D on September 27th, 2024 • 6 min read</p>
+                        <p>Why Routine Check-Ups Are Essential for Your Comfort and Savings.</p>
+                    </div>
+                </a>
+            </div>
         </div>
-        <div class="blog-card" data-category="Indoor Air Quality" data-date="2024-10-10">
-            <a href="indoor-air-quality-tips-for-a-healthier-home.php" aria-label="Read more about Indoor Air Quality: Tips for a Healthier Home">
-                <img src="../blogimages/air-filtering.webp" alt="Abstract rendering of air contaminants like germs and smoke" loading="lazy">
-                <div class="card-content">
-                    <h2>Indoor Air Quality: Tips for a Healthier Home</h2>
-                    <p class="article-meta">By Jacob Darrah on October 10th, 2024 • 7 min read</p>
-                    <p>Learn essential tips to improve your indoor air quality for a healthier home environment.</p>
-                </div>
-            </a>
-        </div>
-    </div>
-</section> 
+    </section> 
       </div>   
     <?php include '../footer.php'; ?>
     <script defer src="../scripts/src.js"></script> 

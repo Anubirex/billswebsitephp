@@ -174,7 +174,7 @@ $remaining_articles = array_slice($articles, 5);
     <section class="learning-hero">
       <h2>Learning Hub</h2>
       <p>From Beginner to Pro&dash;Everything you need to know about your HVAC system.</p>
-      <img class="blog-main-image" src="blogimages\learning-feature.webp">
+      <img class="blog-main-image" src="blogimages/learning-feature.webp">
     </section>
     <div class="decorative-divider"></div>
     <section class="blog-section-outer">
@@ -298,7 +298,7 @@ $remaining_articles = array_slice($articles, 5);
           <script defer src="scripts/forms.js"></script>
           <script defer src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"></script>          
     
-    <script src="scripts\blogfilter.js"></script>  
+    <script src="scripts/blogfilter.js"></script>  
     <script defer src="scripts/blogcarousel.js"></script> 
 
 </body>
