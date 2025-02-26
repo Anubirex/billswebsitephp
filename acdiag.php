@@ -160,7 +160,7 @@
         <div class="diag-page-inner-section-one hero width-limiter">
             <div>
             <h1>Precision in Identifying and Resolving Your Air Conditioning Issues</h1>
-            <img class="diag-page-hero-image" src="blogimages\heat-pump-guide-maintenance.webp" alt="an air conditioning technician smiles" width="800" height="259">
+            <img class="diag-page-hero-image" src="blogimages/heat-pump-guide-maintenance.webp" alt="an air conditioning technician smiles" width="800" height="259">
               <p>At Bill&rsquo;s Heating and AC, the leading HVAC contractor in the Northwest with a reputation backed by over 3000 five-star reviews, we excel in advanced air conditioning diagnostics. Our proficient technicians, armed with cutting&dash;edge technology and in&dash;depth expertise, are exceptionally skilled in accurately diagnosing and effectively resolving any issues your AC unit may encounter, ensuring your home stays cool and comfortable throughout the year.</p> 
               <button class="schedule-service-button open-form-button">Schedule Service</button>
             </div>

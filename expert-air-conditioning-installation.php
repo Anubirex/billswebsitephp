@@ -171,7 +171,7 @@
         <header class="landing-header width-limiter">
             <div>
                 <a href="https://callbills.com/">
-                    <img class="landing-header-logo" src="images\header-logo-shadowed.webp" width="400" height="177" alt="Bill's Heating and A/C logo">
+                    <img class="landing-header-logo" src="images/header-logo-shadowed.webp" width="400" height="177" alt="Bill's Heating and A/C logo">
                 </a>
             </div>
             <div class="landing-header-right">
@@ -275,7 +275,7 @@
                     </p>
                 </div>
                 <div class="landing-more-info half">
-                    <img src="images\ac-leveling.webp" width="400" height="267" alt="An hvac technician leveling an air conditioner after installation.">
+                    <img src="images/ac-leveling.webp" width="400" height="267" alt="An hvac technician leveling an air conditioner after installation.">
                 </div>
             </div>
         </section>   

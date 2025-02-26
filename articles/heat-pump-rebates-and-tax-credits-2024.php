@@ -89,13 +89,13 @@
                         <h1>Heat Pump Rebates &amp; Tax Credits In 2024</h1>
                          <p>Maximize Savings on Heat Pumps with Utility Rebates and Tax Credits</p>
                         <figure>
-                            <img class="blog-main-image" src="../blogimages\heat-pump-tax-credits.webp" alt="Money is overlayed over Heat Pump Equipment" width="1200" height="675">
+                            <img class="blog-main-image" src="../blogimages/heat-pump-tax-credits.webp" alt="Money is overlayed over Heat Pump Equipment" width="1200" height="675">
                         </figure>
                         <div class="blog-share-article">
                             <a href="https://www.facebook.com/sharer/sharer.php?u=https://callbills.com/articles/heat-pump-rebates-and-tax-credits-2024.php" target="_blank" class="share-button">Share on Facebook</a>
                             <div class="blog-author-container">
                                 <div class="blog-author-profile">
-                                    <img src="../blogimages\author-picture-jacob.webp" alt="Jacob Darrah" class="blog-author-image" width="50" height="50">
+                                    <img src="../blogimages/author-picture-jacob.webp" alt="Jacob Darrah" class="blog-author-image" width="50" height="50">
                                     <div class="blog-author-details">
                                         <p><span class="blog-author-label">Author&colon;</span></p>
                                         <p><span class="blog-author-name">Jacob Darrah</span></p>
@@ -134,7 +134,7 @@
             </section>
             <section class="blog-section blog-width-limiter"> 
                 <p>Heat pumps are an increasingly popular choice for efficient home heating and cooling, offering a versatile solution that can dramatically reduce energy consumption and lower utility bills. For those new to the concept or considering an upgrade, understanding the basics of heat pump technology is essential.</p>
-                <img src="../blogimages\condenser-outside.webp" alt="A heat pump condenser installed outside a house" width="1200" height="675">
+                <img src="../blogimages/condenser-outside.webp" alt="A heat pump condenser installed outside a house" width="1200" height="675">
                 <h2 id="heat-pump-rebates-what">What is a Heat Pump? </h2>
                 <p>At its core, a heat pump is a device that transfers heat from one place to another using a small amount of energy. Unlike traditional heating systems that generate heat, heat pumps move existing warmth from outside to inside a home for heating and reverse the process to cool, making them highly efficient. This efficiency comes from their ability to utilize the ambient air or ground temperature, significantly reducing the electricity used compared to conventional heating or cooling systems. For a more detailed exploration of heat pumps, you can refer to our blog article,<a href="https://callbills.com/articles/ultimate-heat-pump-guide.php"> The Ultimate Heat Pump Guide.</a></p>
                 <br><br>
@@ -146,7 +146,7 @@
                         <li><span>Hybrid Heat Pumps</span> &dash; Combining the features of air source heat pumps with other heating technologies, hybrid systems automatically select the most efficient method to heat your home based on current temperature and energy prices. They provide a flexible and cost&dash;effective heating solution.</li>
                     </ul>
                 </div>
-                <img src="../blogimages\guide-to-ac-hero.webp" alt="A laptop displays a screen about tax credits" width="1200" height="675">
+                <img src="../blogimages/guide-to-ac-hero.webp" alt="A laptop displays a screen about tax credits" width="1200" height="675">
                 <p>Each type of heat pump offers unique benefits and is suited to different environments and needs. For those weighing the options between these systems and traditional air conditioners, our blog<a href="https://callbills.com/articles/ac-vs-heat-pump-2024-guide.php"> comparing Heat Pumps vs. Air Conditioners</a> provides further insights into making the right choice for your home. Understanding these options is the first step towards making an informed decision that aligns with your environmental goals and budget considerations.</p>
             </section>
             <section class="blog-section blog-width-limiter">
@@ -156,7 +156,7 @@
                 <p>Utility rebates are typically offered by local energy providers and are designed to offer customers partial refunds on the purchase and installation of energy&dash;efficient equipment. The goal is to lower the overall energy consumption, which can help reduce the environmental impact and improve grid reliability. For homeowners, this means the initial higher costs of buying and installing energy&dash;efficient heat pumps can be mitigated by these rebates, making them a more attractive option financially.</p>
                 <h3>Finding Available Rebates in Your Area</h3>
                 <p>In the Spokane, Coeur d&apos;Alene, and Lewiston/Clarkston areas, Avista is the major utility provider offering rebates for the installation of heat pumps. Homeowners interested in taking advantage of these rebates should visit Avista&apos;s official website or contact their customer service for the most current rebate offers. These offers can vary by location and time, so it&apos;s important to stay informed about the latest incentives.</p>
-                <img src="../blogimages\money-banner.webp" alt="Cash" width="1200" height="181">
+                <img src="../blogimages/money-banner.webp" alt="Cash" width="1200" height="181">
                 <h3>Tips on Qualifying and Maximizing Rebates</h3>
                 <div class="in-article-list">  
                     <ul class="in-article-list">
@@ -171,7 +171,7 @@
             <section class="blog-section blog-width-limiter">
                 <h2 id="heat-pump-rebates-25c">Federal 25c Tax Credit</h2>
                 <p>The 25C tax credit, officially known as the Nonbusiness Energy Property Tax Credit, is a federal incentive designed to encourage homeowners to upgrade to more energy&dash;efficient systems, including heat pumps. This tax credit can significantly reduce the cost of installing energy&dash;efficient HVAC systems by providing a financial credit on your tax return.</p>
-                <img src="../blogimages\tax-credits-computer.webp" alt="A laptop displays a screen about tax credits" width="1200" height="675">
+                <img src="../blogimages/tax-credits-computer.webp" alt="A laptop displays a screen about tax credits" width="1200" height="675">
                 <h3>Overview of the 25C Tax Credit</h3>
                 <p>Under the IRA, the 25C tax credit has been updated to allow homeowners to claim 30% of the costs of purchasing and installing qualified energy&dash;efficient improvements, including heat pumps. The update not only increases the percentage of the credit but also raises the maximum annual limit to $1,200 for most types of improvements, and up to $2,000 specifically for heat pump installations, which is a substantial increase from the previous cap.</p>
                 <h3>Eligibility Criteria: </h3>
@@ -185,7 +185,7 @@
             <section class="blog-section blog-width-limiter">
                 <h2 id="heat-pump-combining-rebates">Combining Rebates and Tax Credits</h2>
                 <p>Combining utility rebates with the 25C tax credit can significantly reduce the upfront and long&dash;term costs of installing a new heat pump. Here&apos;s how to strategically leverage these financial incentives to maximize your savings&colon;</p>
-                <img src="../blogimages\tax-credits-timing.webp" alt="A man holds clocks" width="1200" height="675">
+                <img src="../blogimages/tax-credits-timing.webp" alt="A man holds clocks" width="1200" height="675">
                 <h3>Strategize the Timing of Your Purchase</h3>
                 <p>Planning when to buy and install your heat pump can be crucial. Often, utility rebates are offered on a seasonal basis or until funding is exhausted. To ensure you qualify for both the rebate and the tax credit, check the availability of local rebates before making your purchase, and try to time it when both incentives are available. This could mean scheduling an installation in specific months when utility rebates are typically offered.</p>
                 <blockquote class="quote">
@@ -193,13 +193,13 @@
                 </blockquote> 
                 <h3>Understand the Requirements</h3>
                 <p>To maximize benefits, ensure that the heat pump model you choose qualifies for both the utility rebate and the 25C tax credit. Each program will have its specific requirements regarding the energy efficiency ratings or the technology of the heat pumps. Cross&dash;reference these requirements to find a model that meets both sets of criteria. This might involve some research or consultation with a professional to find the most eligible and cost&dash;effective option.</p>
-                <img src="../blogimages\tax-credits-document.webp" alt="A man holds clocks" width="1200" height="675">
+                <img src="../blogimages/tax-credits-document.webp" alt="A man holds clocks" width="1200" height="675">
                 <h3>Document Everything</h3>
                 <p>For both rebates and tax credits, meticulous documentation is crucial. Keep all receipts, invoices, and product literature that verify your heat pump&apos;s eligibility under the terms of the rebate program and the 25C tax credit. This documentation will be essential when applying for rebates and filing your tax returns.</p>
                 <h3>Consult with Professionals</h3>
                 <p>Consider consulting with an HVAC professional or a tax advisor who is familiar with local and federal energy efficiency incentives. They can provide valuable insights into planning your installation to ensure you meet all eligibility criteria for both rebates and tax credits.
                 </p>
-                    <img src="../blogimages\techs-arriving-furnace-guide.webp" alt="A couple of heating and cooling technicians arrive at a home" width="1200" height="675">
+                    <img src="../blogimages/techs-arriving-furnace-guide.webp" alt="A couple of heating and cooling technicians arrive at a home" width="1200" height="675">
                  <p>By carefully aligning your purchase and installation with the availability of these incentives, and ensuring all conditions are met, you can significantly reduce the cost of transitioning to a more energy&dash;efficient heat pump system. This approach not only helps with immediate cost savings but also contributes to long&dash;term reductions in energy expenses. 
                 </p>
             </section>

@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Moscow, Idaho</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/moscow.php">
-    <meta name="description" content="Bill's Heating & A/C in Moscow, ID: Custom HVAC for snowy winters & warm summers. Efficient service with $79 diagnostics, ensuring comfort.">
+    <meta name="description" content="Bill's Heating & A/C in Moscow, ID: Custom HVAC for snowy winters & warm summers. Efficient service with $59 diagnostics, ensuring comfort.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Moscow, Idaho">
-    <meta property="og:description" content="Bill's Heating & A/C in Moscow, ID: Custom HVAC for snowy winters & warm summers. Efficient service with $79 diagnostics, ensuring comfort.">
+    <meta property="og:description" content="Bill's Heating & A/C in Moscow, ID: Custom HVAC for snowy winters & warm summers. Efficient service with $59 diagnostics, ensuring comfort.">
     <meta property="og:image" content="images/moscow-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/moscow.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Moscow, Idaho">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Moscow, ID: Custom HVAC for snowy winters & warm summers. Efficient service with $79 diagnostics, ensuring comfort.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Moscow, ID: Custom HVAC for snowy winters & warm summers. Efficient service with $59 diagnostics, ensuring comfort.">
     <meta name="twitter:image" content="images/moscow-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -225,7 +225,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Choosing Bill's Heating & A/C for your HVAC needs in Moscow means selecting a service that combines deep local understanding with superior quality. Our no travel fee policy and extensive service area are a testament to our commitment to affordability and accessibility for all our clients. With competitive pricing on services like $79 diagnostics and tune-ups, and free estimates and second opinions, we strive to offer Moscow residents the best value. Our high customer satisfaction ratings underscore our dedication to exceeding service expectations. Trust us to ensure that your Moscow home or business remains comfortable throughout the year, with reliable, efficient, and custom-fit HVAC solutions.</p>
+                <p>Choosing Bill's Heating & A/C for your HVAC needs in Moscow means selecting a service that combines deep local understanding with superior quality. Our no travel fee policy and extensive service area are a testament to our commitment to affordability and accessibility for all our clients. With competitive pricing on services like $59 diagnostics and tune-ups, and free estimates and second opinions, we strive to offer Moscow residents the best value. Our high customer satisfaction ratings underscore our dedication to exceeding service expectations. Trust us to ensure that your Moscow home or business remains comfortable throughout the year, with reliable, efficient, and custom-fit HVAC solutions.</p>
             </div>
           </section>
           <div class="commendations-outer">

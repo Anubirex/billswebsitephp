@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Chattaroy, WA</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/chattaroy.php">
-    <meta name="description" content="Discover Bill's Heating & A/C in Chattaroy, WA for top-notch HVAC services. Expert in heating/cooling solutions with $79 diagnostics and no travel fees.">
+    <meta name="description" content="Discover Bill's Heating & A/C in Chattaroy, WA for top-notch HVAC services. Expert in heating/cooling solutions with $59 diagnostics and no travel fees.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Chattaroy, WA">
-    <meta property="og:description" content="Discover Bill's Heating & A/C in Chattaroy, WA for top-notch HVAC services. Expert in heating/cooling solutions with $79 diagnostics and no travel fees.">
+    <meta property="og:description" content="Discover Bill's Heating & A/C in Chattaroy, WA for top-notch HVAC services. Expert in heating/cooling solutions with $59 diagnostics and no travel fees.">
     <meta property="og:image" content="images/chattaroy-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/chattaroy.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Chattaroy, WA">
-    <meta name="twitter:description" content="Discover Bill's Heating & A/C in Chattaroy, WA for top-notch HVAC services. Expert in heating/cooling solutions with $79 diagnostics and no travel fees.">
+    <meta name="twitter:description" content="Discover Bill's Heating & A/C in Chattaroy, WA for top-notch HVAC services. Expert in heating/cooling solutions with $59 diagnostics and no travel fees.">
     <meta name="twitter:image" content="images/chattaroy-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -225,7 +225,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Opting for Bill's Heating & A/C in Chattaroy means choosing a service that combines local expertise with outstanding quality. Our no travel fee policy and extensive service area demonstrate our commitment to affordability and accessibility for our clients. With competitive services like $79 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our clients in Chattaroy receive the best value. Our high customer satisfaction ratings are a testament to our dedication to exceeding service expectations. Trust us to keep your Chattaroy home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to the specific needs of the community.</p>
+                <p>Opting for Bill's Heating & A/C in Chattaroy means choosing a service that combines local expertise with outstanding quality. Our no travel fee policy and extensive service area demonstrate our commitment to affordability and accessibility for our clients. With competitive services like $59 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our clients in Chattaroy receive the best value. Our high customer satisfaction ratings are a testament to our dedication to exceeding service expectations. Trust us to keep your Chattaroy home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to the specific needs of the community.</p>
             </div>
           </section>
           <div class="commendations-outer">

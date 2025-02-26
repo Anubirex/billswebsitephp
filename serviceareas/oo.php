@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Otis Orchards, WA</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/oo.php">
-    <meta name="description" content="Bill's Heating & A/C in Otis Orchards, WA: Custom HVAC for cold winters & mild summers. No travel fees, $79 diagnostics, dedicated to community comfort.">
+    <meta name="description" content="Bill's Heating & A/C in Otis Orchards, WA: Custom HVAC for cold winters & mild summers. No travel fees, $59 diagnostics, dedicated to community comfort.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Otis Orchards, WA">
-    <meta property="og:description" content="Bill's Heating & A/C in Otis Orchards, WA: Custom HVAC for cold winters & mild summers. No travel fees, $79 diagnostics, dedicated to community comfort.">
+    <meta property="og:description" content="Bill's Heating & A/C in Otis Orchards, WA: Custom HVAC for cold winters & mild summers. No travel fees, $59 diagnostics, dedicated to community comfort.">
     <meta property="og:image" content="images/oo-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/oo.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Otis Orchards, WA">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Otis Orchards, WA: Custom HVAC for cold winters & mild summers. No travel fees, $79 diagnostics, dedicated to community comfort.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Otis Orchards, WA: Custom HVAC for cold winters & mild summers. No travel fees, $59 diagnostics, dedicated to community comfort.">
     <meta name="twitter:image" content="images/oo-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -225,7 +225,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Opting for Bill's Heating & A/C in Otis Orchards means selecting a service that combines local expertise with outstanding quality. Our policy of no travel fees and a wide service area demonstrates our commitment to affordability and accessibility for the community. Our competitive services, including $79 diagnostics and tune-ups, free estimates, and second opinions, ensure that our clients in Otis Orchards receive excellent value. Our high customer satisfaction ratings reflect our dedication to exceeding service expectations. Trust us to keep your Otis Orchards home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to the specific climate and needs of the town.</p>
+                <p>Opting for Bill's Heating & A/C in Otis Orchards means selecting a service that combines local expertise with outstanding quality. Our policy of no travel fees and a wide service area demonstrates our commitment to affordability and accessibility for the community. Our competitive services, including $59 diagnostics and tune-ups, free estimates, and second opinions, ensure that our clients in Otis Orchards receive excellent value. Our high customer satisfaction ratings reflect our dedication to exceeding service expectations. Trust us to keep your Otis Orchards home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to the specific climate and needs of the town.</p>
             </div>
           </section>
           <div class="commendations-outer">

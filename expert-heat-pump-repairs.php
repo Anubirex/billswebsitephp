@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<!--This is the gas heat pump repair and diagnostic landing page FOR GOOGLE ADS-->
+<!--This is the heat pump repair and diagnostic landing page FOR GOOGLE ADS-->
 
 <html lang="en">
   <head>
@@ -173,7 +173,7 @@
         <header class="landing-header width-limiter">
             <div>
                 <a href="https://callbills.com/">
-                    <img class="landing-header-logo" src="images\header-logo-shadowed.webp" width="400" height="177" alt="Bill's Heating and A/C logo">
+                    <img class="landing-header-logo" src="images/header-logo-shadowed.webp" width="400" height="177" alt="Bill's Heating and A/C logo">
                 </a>
             </div>
             <div class="landing-header-right">

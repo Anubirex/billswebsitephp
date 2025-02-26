@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Priest River, Idaho</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/pr.php">
-    <meta name="description" content="Bill's Heating & A/C in Priest River, ID: Custom HVAC for chilly winters & mild summers. No travel fees, $79 diagnostics, dedicated to indoor comfort.">
+    <meta name="description" content="Bill's Heating & A/C in Priest River, ID: Custom HVAC for chilly winters & mild summers. No travel fees, $59 diagnostics, dedicated to indoor comfort.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Priest River, Idaho">
-    <meta property="og:description" content="Bill's Heating & A/C in Priest River, ID: Custom HVAC for chilly winters & mild summers. No travel fees, $79 diagnostics, dedicated to indoor comfort.">
+    <meta property="og:description" content="Bill's Heating & A/C in Priest River, ID: Custom HVAC for chilly winters & mild summers. No travel fees, $59 diagnostics, dedicated to indoor comfort.">
     <meta property="og:image" content="images/pr-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/pr.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Priest River, Idaho">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Priest River, ID: Custom HVAC for chilly winters & mild summers. No travel fees, $79 diagnostics, dedicated to indoor comfort.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Priest River, ID: Custom HVAC for chilly winters & mild summers. No travel fees, $59 diagnostics, dedicated to indoor comfort.">
     <meta name="twitter:image" content="images/pr-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -226,7 +226,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Choosing Bill's Heating & A/C for your HVAC needs in Priest River means selecting a service that is deeply rooted in understanding the local climate and community needs. Our no travel fee policy and extensive service area are a testament to our commitment to affordability and accessibility. Our offers, including $79 diagnostics and tune-ups and free estimates, ensure that you receive high-quality service at a great value. The high customer satisfaction ratings we've earned reflect our dedication to excellence. Trust us to maintain the comfort of your Priest River home or business throughout the year with dependable, efficient, and custom-tailored HVAC solutions.</p>
+                <p>Choosing Bill's Heating & A/C for your HVAC needs in Priest River means selecting a service that is deeply rooted in understanding the local climate and community needs. Our no travel fee policy and extensive service area are a testament to our commitment to affordability and accessibility. Our offers, including $59 diagnostics and tune-ups and free estimates, ensure that you receive high-quality service at a great value. The high customer satisfaction ratings we've earned reflect our dedication to excellence. Trust us to maintain the comfort of your Priest River home or business throughout the year with dependable, efficient, and custom-tailored HVAC solutions.</p>
             </div>
           </section>
           <div class="commendations-outer">

@@ -39,21 +39,24 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    function toggleDisplay(element, display = 'block') {
-        const isVisible = element.style.display === display;
-        element.style.display = isVisible ? 'none' : display;
-        document.body.classList.toggle('no-scroll', !isVisible);
-
-        // Load and render reCAPTCHA for the header form
-        if (headerFormOverlay.style.display !== 'none') {
+    function toggleHeaderFormDisplay() {
+        const isHeaderFormVisible = headerFormOverlay.style.display === 'flex';
+        const isPageOverlayVisible = pageOverlay.style.display === 'block';
+    
+        // Toggle both overlays simultaneously
+        headerFormOverlay.style.display = isHeaderFormVisible ? 'none' : 'flex';
+        pageOverlay.style.display = isPageOverlayVisible ? 'none' : 'block';
+    
+        // Toggle the no-scroll class on the body
+        document.body.classList.toggle('no-scroll', !isHeaderFormVisible);
+    
+        // Load and render reCAPTCHA for the header form if it's visible
+        if (headerFormOverlay.style.display === 'flex') {
             loadAndRenderRecaptcha();
         }
-    }
-
-    function toggleHeaderFormDisplay() {
-        toggleDisplay(headerFormOverlay, 'flex');
-        toggleDisplay(pageOverlay);
-        bodyFormOverlay.style.display = 'none'; // Ensure body form is closed
+    
+        // Ensure body form is closed
+        bodyFormOverlay.style.display = 'none';
     }
 
     function toggleBodyFormDisplay() {

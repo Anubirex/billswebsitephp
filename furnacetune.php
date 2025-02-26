@@ -160,7 +160,7 @@
         <div class="diag-page-inner-section-one hero width-limiter">
             <div>
             <h1>Stay Warm and Worry&dash;Free This Winter with Bill's Heating and AC</h1>
-            <img class="diag-page-hero-image" src="blogimages\smiling-tech-large.webp" alt="a furnace technician smiles" width="1200" height="625">
+            <img class="diag-page-hero-image" src="blogimages/smiling-tech-large.webp" alt="a furnace technician smiles" width="1200" height="625">
               <p>Experience the Best in Furnace Tune&dash;Ups! Over 5000 Five&dash;Star Reviews</p> 
               <button class="schedule-service-button open-form-button">Schedule Service</button>
             </div>

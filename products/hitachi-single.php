@@ -224,7 +224,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
                 <h2>Warranty Information</h2>
                 <p>The Hitachi Single Zone Ductless System comes with a comprehensive warranty to ensure your peace of mind. Please refer to the product documentation or contact us for detailed warranty information.</p>
                 <ul>
-                    <li><span>5-Year Parts Warranty&colon;</span> Covers parts for five years from the date of installation.</li>
+                    <li><span>10-Year Parts Limited Warranty:</span> Covers all functional parts to protect your investment.</li>
+                    <li><span>10-Year Labor Guarantee:</span> We offer comprehensive labor coverage for added assurance.</li>
                     <li><span>7-Year Compressor Warranty&colon;</span> Provides additional coverage for the compressor unit.</li>
                 </ul>
             </div>

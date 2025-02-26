@@ -59,7 +59,7 @@ header{
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
   }
   .message-banner {
-    background-color: var(--COLOR-HIGHLIGHT-BRIGHT);
+    background-color: #4c4c4c;
     height: 2rem;
     white-space: nowrap;
     overflow: hidden;
@@ -70,7 +70,7 @@ header{
     text-decoration: none;
   }
   .message-banner h3 {
-    color: black;
+    color: white;
     font-size: 1.3rem;
     padding: .25rem;
   }

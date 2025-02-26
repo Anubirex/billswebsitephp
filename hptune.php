@@ -161,7 +161,7 @@
         <div class="diag-page-inner-section-one hero width-limiter">
             <div>
             <h1>Stay Comfortable Year-Round with Bill&apos;s Heating and AC Heat Pump Tune&dash;Ups</h1>
-            <img class="diag-page-hero-image" src="blogimages\heat-pump-guide-maintenance.webp" alt="a heat pump technician smiles" width="800" height="259">
+            <img class="diag-page-hero-image" src="blogimages/heat-pump-guide-maintenance.webp" alt="a heat pump technician smiles" width="800" height="259">
               <p>Experience the Best in Heat Pump Tune&dash;Ups! Over 3000 Five&dash;Star Reviews</p> 
               <button class="schedule-service-button open-form-button">Schedule Service</button>
             </div>

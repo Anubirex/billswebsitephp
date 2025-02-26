@@ -79,7 +79,7 @@
                 <h1>The main headline for the article</h1>
                 <p>Some subtext or context or whatever</p>
                 <figure>
-                    <img class="blog-main-image" src="images\blog-filler-image.webp" alt="Text about Filler Image" width="1200" height="675">
+                    <img class="blog-main-image" src="images/blog-filler-image.webp" alt="Text about Filler Image" width="1200" height="675">
                 </figure>
                 <div class="blog-author-container">
                     <div class="blog-author-profile">
@@ -123,7 +123,7 @@
             <section class="blog-section blog-width-limiter">
                 <h2>Headline Sample</h2>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic, reiciendis repellat incidunt ullam amet tempora quasi consequatur soluta enim, consequuntur, facilis nulla deleniti rem doloremque dolor commodi ratione repellendus temporibus.</p>
-                <img src="images\blog-filler-image.webp" alt="Text about Filler Image" width="1200" height="675">
+                <img src="images/blog-filler-image.webp" alt="Text about Filler Image" width="1200" height="675">
                 <blockquote class="quote">
                     This is a blockquote example. It is used for longer quotes that can span multiple lines. It's great for highlighting voices from other sources.
                 </blockquote>

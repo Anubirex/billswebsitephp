@@ -160,7 +160,7 @@
         <div class="diag-page-inner-section-one hero width-limiter">
             <div>
             <h1>Problem Free Hot Water with Bill&apos;s Heating and AC Tankless Water Heater Tune&dash;Ups</h1>
-            <img class="diag-page-hero-image" src="products\productimages\happy-woman-in-shower.webp" alt="a woman smiles while taking a shower" width="1200" height="801">
+            <img class="diag-page-hero-image" src="products/productimages/happy-woman-in-shower.webp" alt="a woman smiles while taking a shower" width="1200" height="801">
               <p>Experience the Best in Tankless Water Heater Tune&dash;Ups! Over 3000 Five&dash;Star Reviews</p> 
               <button class="schedule-service-button open-form-button">Schedule Service</button>
             </div>

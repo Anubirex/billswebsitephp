@@ -171,7 +171,7 @@
         <header class="landing-header width-limiter">
             <div>
                 <a href="https://callbills.com/">
-                    <img class="landing-header-logo" src="images\header-logo-shadowed.webp" width="400" height="177" alt="Bill's Heating and A/C logo">
+                    <img class="landing-header-logo" src="images/header-logo-shadowed.webp" width="400" height="177" alt="Bill's Heating and A/C logo">
                 </a>
             </div>
             <div class="landing-header-right">
@@ -274,7 +274,7 @@
                     <p>Choosing Bill&apos;s Heating &amp; A/C for your furnace installation means selecting a partner with over 30 years of trusted service in the greater Spokane / Coeur d&apos;Alene area. Our commitment to excellence is evident in every furnace we install, ensuring your home remains comfortable and energy&dash;efficient year&dash;round. Why us? Because we offer unparalleled expertise with our factory&dash;trained technicians who are dedicated to installing your furnace with precision, maximizing its performance and longevity. As the largest heating and cooling contractor in the northwest, we not only promise top&dash;tier equipment at the most competitive prices but also pride ourselves on being one of the few remaining locally owned HVAC companies committed to the community we serve. With Bill&apos;s Heating &amp; A/C, you&apos;re choosing peace of mind, thanks to our industry&dash;leading warranties and seven&dash;day&dash;a&dash;week availability for emergencies. Let us enhance your home&apos;s warmth and efficiency with a free quote today.</p>
                 </div>
                 <div class="landing-more-info half">
-                    <img src="images\installing-furnace.webp" width="400" height="267" alt="An hvac technician installing a furnace.">
+                    <img src="images/installing-furnace.webp" width="400" height="267" alt="An hvac technician installing a furnace.">
                 </div>
             </div>
         </section>   

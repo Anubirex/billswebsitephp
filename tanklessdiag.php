@@ -160,7 +160,7 @@
         <div class="diag-page-inner-section-one hero width-limiter">
             <div>
             <h1>Precision in Identifying and Resolving Your Tankless Water Heater Issues</h1>
-            <img class="diag-page-hero-image" src="products\productimages\happy-woman-in-shower.webp" alt="a woman smiles while taking a shower" width="1200" height="801">
+            <img class="diag-page-hero-image" src="products/productimages/happy-woman-in-shower.webp" alt="a woman smiles while taking a shower" width="1200" height="801">
               <p>At Bill&apos;s Heating and AC, the premier HVAC contractor in the Northwest, acclaimed for our exceptional service backed by over 3000 five-star reviews, we excel in advanced diagnostics for tankless water heaters. Our expert technicians, equipped with the latest technology and extensive expertise, are exceptionally skilled in accurately diagnosing and effectively resolving any issues your tankless water heater may encounter, ensuring your home enjoys a continuous supply of hot water throughout the year.</p> 
               <button class="schedule-service-button open-form-button">Schedule Service</button>
             </div>

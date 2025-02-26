@@ -247,7 +247,13 @@
             Whether you&apos;re searching for &apos;HVAC services near me&apos; in Post Falls or need reliable heating and air conditioning support in North Idaho and Eastern Washington, our team of certified technicians is here to ensure your indoor comfort. We specialize in a wide range of HVAC services including installation, repair, and maintenance, catering to both residential and commercial clients.
             At Bill&apos;s Heating & A/C, we understand the unique climate challenges of Post Falls and the surrounding areas. Our local presence and deep understanding of regional weather patterns enable us to provide tailored solutions that meet your specific requirements.
             Experience the difference with our customer-focused approach and expert HVAC services. Contact us today for your heating and cooling needs in Post Falls, North Idaho, and Eastern Washington. Trust Bill&apos;s Heating & A/C for efficient, reliable, and prompt HVAC solutions, right in your neighborhood.</p>
+        
+          <h3 id="zoomtoboise">Boise</h3>
+          <div class="our-locations-img">
+            <img loading="lazy" data-animation="zoom-in-up" src="images/SouthIdahoLocation.webp" alt="HVAC services near me in Post Falls" width="450" height="300">
           </div>
+          <p>Welcome to Bill&apos;s Heating & A/C, your trusted HVAC solutions provider, proudly serving Boise, Idaho, and the southern Idaho region. We are dedicated to delivering exceptional heating, ventilation, and air conditioning services to homes and businesses across the Treasure Valley and beyond. With our expertise in HVAC systems and unwavering commitment to quality and customer satisfaction, we are the top choice for all your heating and cooling needs. Whether you&apos;re searching for “HVAC services near me” in Boise or need dependable heating and air conditioning support in southern Idaho, our team of certified technicians are here to ensure your year-round comfort. We specialize in a wide range of HVAC services, including installation, repair, and maintenance, tailored to meet the needs of both residential and commercial clients. At Bill&apos;s Heating & A/C, we understand the unique climate challenges of Boise and the surrounding areas. Our local expertise and deep knowledge of the regions weather patterns allow us to provide customized solutions that keep your home or business comfortable in every season. Experience the difference with our customer-focused approach and professional HVAC services. Contact us today for your heating and cooling needs in Boise and southern Idaho. Trust Bill&apos;s Heating & A/C for efficient, reliable, and prompt HVAC solutions, right in your community.</p>
+          
         <div class="our-locations">
           <h3 id="zoomtolewiston">Lewiston</h3>
           <div class="our-locations-img">
@@ -411,7 +417,7 @@
           <h2>Bills Heating & A/C is Proud to Serve:</h2>
         </div>
         <div class="serv-areas-loc-title-id width-limiter">
-          <h2 id="Washingtonserviceareas">Idaho:</h2>
+          <h2 id="Washingtonserviceareas">North Idaho:</h2>
         </div>
         <div data-animation="fadeIn" class="serv-areas-loc-cols-id width-limiter">
           <ul>
@@ -441,6 +447,39 @@
             <a href="serviceareas/genesee.php"><li>Genesee</li></a>
             <a href="serviceareas/kendrick.php"><li>Kendrick</li></a>
             <a href="serviceareas/lapwai.php"><li>Lapwai</li></a>
+          </ul>
+        </div>
+        <div class="serv-areas-loc-title-id width-limiter">
+          <h2 id="Washingtonserviceareas">South Idaho:</h2>
+        </div>
+        <div data-animation="fadeIn" class="serv-areas-loc-cols-id width-limiter">
+          <ul>
+            <a href="boise.php"><li>Eagle</li></a>
+            <a href="boise.php"><li>Kuna</li></a>
+            <a href="boise.php"><li>Meridian</li></a>
+            <a href="boise.php"><li>Boise</li></a>
+            <a href="boise.php"><li>Star</li></a>
+          </ul>
+          <ul>
+            <a href="boise.php"><li>New Plymouth</li></a>
+            <a href="boise.php"><li>Fruitland</li></a>
+            <a href="boise.php"><li>Payette</li></a>
+            <a href="boise.php"><li>Caldwell</li></a>
+            <a href="boise.php"><li>Middleton</li></a>
+          </ul>
+          <ul>
+            <a href="boise.php"><li>Parma</li></a>
+            <a href="boise.php"><li>Notus</li></a>
+            <a href="boise.php"><li>Wilder</li></a>
+            <a href="boise.php"><li>Homedale</li></a>
+            <a href="boise.php"><li>Greenleaf</li></a>
+          </ul>
+          <ul>
+            <a href="boise.php"><li>Nampa</li></a>
+            <a href="boise.php"><li>Melba</li></a>
+            <a href="boise.php"><li>Mountain Home</li></a>
+            <a href="boise.php"><li>Marsing</li></a>
+            <a href="boise.php"><li>Emmett</li></a>
           </ul>
         </div>
         <div class="serv-areas-loc-title-wa width-limiter">

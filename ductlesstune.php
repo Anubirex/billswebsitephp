@@ -160,7 +160,7 @@
         <div class="diag-page-inner-section-one hero width-limiter">
             <div>
             <h1>Stay Comfortable Year-Round with Bill&apos;s Heating and AC Ductless Tune&dash;Ups</h1>
-            <img class="diag-page-hero-image" src="blogimages\happy-woman-in-shower.webp" alt="a ductless heat pump technician is installing an outdoor unit" width="800" height="450">
+            <img class="diag-page-hero-image" src="blogimages/happy-woman-in-shower.webp" alt="a ductless heat pump technician is installing an outdoor unit" width="800" height="450">
               <p>Experience the Best in Ductless Heat Pump Tune&dash;Ups! Over 3000 Five&dash;Star Reviews</p> 
               <button class="schedule-service-button open-form-button">Schedule Service</button>
             </div>

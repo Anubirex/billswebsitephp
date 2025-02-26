@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Kendrick, Idaho</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/kendrick.php">
-    <meta name="description" content="Bill's Heating & A/C in Kendrick, ID: Customized HVAC for chilly winters & moderate summers. Efficient service, $79 diagnostics, affordable quality care.">
+    <meta name="description" content="Bill's Heating & A/C in Kendrick, ID: Customized HVAC for chilly winters & moderate summers. Efficient service, $59 diagnostics, affordable quality care.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Kendrick, Idaho">
-    <meta property="og:description" content="Bill's Heating & A/C in Kendrick, ID: Customized HVAC for chilly winters & moderate summers. Efficient service, $79 diagnostics, affordable quality care.">
+    <meta property="og:description" content="Bill's Heating & A/C in Kendrick, ID: Customized HVAC for chilly winters & moderate summers. Efficient service, $59 diagnostics, affordable quality care.">
     <meta property="og:image" content="images/kendrick-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/kendrick.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Kendrick, Idaho">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Kendrick, ID: Customized HVAC for chilly winters & moderate summers. Efficient service, $79 diagnostics, affordable quality care.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Kendrick, ID: Customized HVAC for chilly winters & moderate summers. Efficient service, $59 diagnostics, affordable quality care.">
     <meta name="twitter:image" content="images/kendrick-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -225,7 +225,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Choosing Bill's Heating & A/C for your HVAC needs in Kendrick means selecting a service that is rooted in local expertise and a commitment to quality. Our no travel fee policy and broad service area showcase our dedication to affordability and accessibility. With competitive offerings such as $79 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our Kendrick clients receive the best value. Our high customer satisfaction ratings reflect our dedication to surpassing service expectations. Trust us to keep your Kendrick home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to the needs of the community.</p>
+                <p>Choosing Bill's Heating & A/C for your HVAC needs in Kendrick means selecting a service that is rooted in local expertise and a commitment to quality. Our no travel fee policy and broad service area showcase our dedication to affordability and accessibility. With competitive offerings such as $59 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our Kendrick clients receive the best value. Our high customer satisfaction ratings reflect our dedication to surpassing service expectations. Trust us to keep your Kendrick home or business comfortable throughout the year, with HVAC solutions that are reliable, efficient, and tailored to the needs of the community.</p>
             </div>
           </section>
           <div class="commendations-outer">

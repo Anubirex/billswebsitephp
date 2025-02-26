@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Post Falls, Idaho</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/pf.php">
-    <meta name="description" content="Bill's Heating & A/C in Post Falls, ID: Expert HVAC for snowy winters & warm summers. Efficient service with no fees, $79 diagnostics, ensuring comfort.">
+    <meta name="description" content="Bill's Heating & A/C in Post Falls, ID: Expert HVAC for snowy winters & warm summers. Efficient service with no fees, $59 diagnostics, ensuring comfort.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Post Falls, Idaho">
-    <meta property="og:description" content="Bill's Heating & A/C in Post Falls, ID: Expert HVAC for snowy winters & warm summers. Efficient service with no fees, $79 diagnostics, ensuring comfort.">
+    <meta property="og:description" content="Bill's Heating & A/C in Post Falls, ID: Expert HVAC for snowy winters & warm summers. Efficient service with no fees, $59 diagnostics, ensuring comfort.">
     <meta property="og:image" content="images/pf-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/pf.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Post Falls, Idaho">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Post Falls, ID: Expert HVAC for snowy winters & warm summers. Efficient service with no fees, $79 diagnostics, ensuring comfort.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Post Falls, ID: Expert HVAC for snowy winters & warm summers. Efficient service with no fees, $59 diagnostics, ensuring comfort.">
     <meta name="twitter:image" content="images/pf-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -227,7 +227,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>For those in Post Falls, choosing Bill's Heating & A/C means opting for local expertise fused with top-notch service. Our promise includes no travel fees and a broad service area, reflecting our commitment to accessibility and affordability. With offers like $79 diagnostics and tune-ups, free estimates, and free second opinions, we make sure you get the best service at the best price. Our high customer satisfaction and review ratings are evidence of our dedication to exceptional service. Count on us to ensure your Post Falls home or business is comfortable in every season, with services that are as reliable as they are efficient.</p>
+                <p>For those in Post Falls, choosing Bill's Heating & A/C means opting for local expertise fused with top-notch service. Our promise includes no travel fees and a broad service area, reflecting our commitment to accessibility and affordability. With offers like $59 diagnostics and tune-ups, free estimates, and free second opinions, we make sure you get the best service at the best price. Our high customer satisfaction and review ratings are evidence of our dedication to exceptional service. Count on us to ensure your Post Falls home or business is comfortable in every season, with services that are as reliable as they are efficient.</p>
             </div>
           </section>
           <div class="commendations-outer">

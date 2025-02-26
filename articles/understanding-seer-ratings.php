@@ -95,13 +95,13 @@
                 <h1>Understanding SEER Ratings: What They Mean for Your Energy Bills</h1>
                 <p>A Comprehensive Guide by Bill's Heating & A/C</p>
                 <figure>
-                    <img class="blog-main-image" src="../blogimages\energyguide.webp" alt="EnergyGuide label displaying SEER rating on an air conditioner" width="1200" height="337">
+                    <img class="blog-main-image" src="../blogimages/energyguide.webp" alt="EnergyGuide label displaying SEER rating on an air conditioner" width="1200" height="337">
                 </figure>
                 <div class="blog-share-article">
                     <a href="https://www.facebook.com/sharer/sharer.php?u=https://callbills.com/articles/understanding-seer-ratings.php" target="_blank" class="share-button">Share on Facebook</a>
                     <div class="blog-author-container">
                         <div class="blog-author-profile">
-                            <img src="../blogimages\author-picture-jacob.webp" alt="Jacob Darrah" class="blog-author-image" width="50" height="50">
+                            <img src="../blogimages/author-picture-jacob.webp" alt="Jacob Darrah" class="blog-author-image" width="50" height="50">
                             <div class="blog-author-details">
                                 <p><span class="blog-author-label">Author&colon;</span></p>
                                 <p><span class="blog-author-name">Jacob Darrah</span></p>
@@ -141,14 +141,14 @@
         <section class="blog-section blog-width-limiter">
             <h2 id="introduction">Introduction</h2>
             <p>As energy costs continue to rise, understanding how to maximize your home's energy efficiency is more important than ever. The SEER (Seasonal Energy Efficiency Ratio) rating of your air conditioner plays a significant role in both your energy consumption and your utility bills. In this article, we'll break down what SEER ratings are, how they affect your cooling costs, and how to choose the right SEER rating for your needs.</p>
-            <img src="../blogimages\guide-to-ac-thermostat.webp" alt="Close-up of hands adjusting a thermostat displaying current temperature" width="800" height="274">
+            <img src="../blogimages/guide-to-ac-thermostat.webp" alt="Close-up of hands adjusting a thermostat displaying current temperature" width="800" height="274">
             <p>At Bill's Heating & A/C, we're committed to helping you make informed decisions about your HVAC system. Let's dive into the world of SEER ratings and discover how they impact your home's comfort and efficiency.</p>
         </section>
 
         <section class="blog-section blog-width-limiter">
             <h2 id="what-is-seer">What Is SEER?</h2>
             <p>SEER stands for <strong>Seasonal Energy Efficiency Ratio</strong>. It is a metric used to measure the cooling efficiency of air conditioners and heat pumps. The SEER rating represents the ratio of the cooling output (measured in BTUs) over a typical cooling season divided by the total electric energy input (measured in watt-hours) during the same period. In simpler terms, it tells you how much cooling comfort you get for each unit of energy consumed.</p>
-            <img src="../blogimages\heat-pump-guide-efficiency.webp" alt="Air conditioner with EnergyGuide label showing high SEER rating" width="800" height="320">
+            <img src="../blogimages/heat-pump-guide-efficiency.webp" alt="Air conditioner with EnergyGuide label showing high SEER rating" width="800" height="320">
             <p>The higher the SEER rating, the more efficient the air conditioning unit is. Federal regulations in the United States require a minimum SEER rating of 13 for new systems in most regions, while in the Southwest and Southeast, the minimum is 14 due to hotter climates. High-efficiency units can have SEER ratings of 20 or more.</p>
         </section>
 
@@ -177,7 +177,7 @@
             <p>If you replace a unit with a SEER of 10 with one that has a SEER of 16:</p>
             <p>Savings (%) = (1 - (10 ÷ 16)) × 100% = 37.5%</p>
             <p>This means you could save approximately 37.5% on cooling costs.</p>
-            <img src="../images\money-banner.webp" alt="Various denominations of American dollar bills representing energy cost savings" width="1200" height="181">
+            <img src="../blogimages/money-banner.webp" alt="Various denominations of American dollar bills representing energy cost savings" width="1200" height="181">
             <h3>Long-Term Benefits</h3>
             <p>While the initial investment for a higher SEER unit may be greater, the long-term energy savings often offset the upfront costs, making it a financially sound decision.</p>
         </section>
@@ -186,7 +186,7 @@
             <h2 id="choosing-the-right-seer">Choosing the Right SEER Rating</h2>
             <p>Selecting the appropriate SEER rating involves balancing efficiency, cost, and your specific needs.</p>
             <h3>Climate Considerations</h3>
-            <img src="../blogimages\heat-pump-guide-versitile.webp" alt="An image of a heat pump betwee a devided picture showing summer and winter in the same location" width="1200" height="675">
+            <img src="../blogimages/heat-pump-guide-versitile.webp" alt="An image of a heat pump betwee a devided picture showing summer and winter in the same location" width="1200" height="675">
             <p>In warmer climates with longer cooling seasons, investing in a higher SEER unit can lead to significant energy savings. In cooler regions, the benefits may be less pronounced.</p>
             <h3>Usage Patterns</h3>
             <p>Consider how often you use your air conditioner. Frequent use increases the potential savings from a higher SEER unit.</p>
@@ -194,7 +194,7 @@
             <p>Higher SEER units cost more upfront. Evaluate your budget and consider financing options or incentives that may be available.</p>
             <h3>Consulting Professionals</h3>
             <p>HVAC experts can help assess your situation and recommend the most cost-effective SEER rating for your home.</p>
-            <img src="../blogimages\techs-arriving-furnace-guide.webp" alt="Technicians arrive to help in comparing different air conditioners with various SEER ratings" width="800" height="418">
+            <img src="../blogimages/techs-arriving-furnace-guide.webp" alt="Technicians arrive to help in comparing different air conditioners with various SEER ratings" width="800" height="418">
         </section>
 
         <section class="blog-section blog-width-limiter">
@@ -218,7 +218,7 @@
             <p>New testing procedures, known as SEER2, have been introduced to provide a more accurate representation of real-world performance. These changes may affect the SEER ratings of new equipment.</p>
             <h3>Environmental Impact</h3>
             <p>Higher efficiency standards contribute to reduced energy consumption and lower greenhouse gas emissions, aligning with global efforts to combat climate change.</p>
-            <img src="../blogimages\heat-pump-guide-eco.webp" alt="A green representation of enviremental resposibility and energy savings." width="800" height="224">
+            <img src="../blogimages/heat-pump-guide-eco.webp" alt="A green representation of enviremental resposibility and energy savings." width="800" height="224">
             <p>Staying informed about these developments ensures you make choices that are future-proof and environmentally responsible.</p>
         </section>
 
@@ -226,7 +226,7 @@
             <h2 id="conclusion">Conclusion</h2>
             <p>Understanding SEER ratings is crucial when selecting a new air conditioning system. Higher SEER ratings indicate greater efficiency, leading to lower energy bills and environmental benefits. By considering factors such as climate, usage patterns, and budget, you can choose a system that provides optimal comfort and cost-effectiveness.</p>
             <p>Bill's Heating & A/C is here to assist you in navigating the complexities of SEER ratings. Our experts can help you select the perfect system for your home. Contact us today to learn more about energy-efficient cooling solutions.</p>
-            <img src="../blogimages\shaking-hands.webp" alt="Bill's Heating & A/C technician greeting a homeowner at the door" width="600" height="300">
+            <img src="../blogimages/shaking-hands.webp" alt="Bill's Heating & A/C technician greeting a homeowner at the door" width="600" height="300">
         </section>
     </article>
     <div class="blog-section-outer">

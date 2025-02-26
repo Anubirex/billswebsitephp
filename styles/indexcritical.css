@@ -554,25 +554,38 @@
   display: flex;
 }
 .loc-col {
-  flex: 1;
+  flex: auto;
   padding: 1rem 3rem;
+}
+.southIdaho-loc-col {
+  flex: auto;
+  padding: 0rem 3rem;
 }
 .loc-col h2 {
   font-size: 2.2rem;
   text-decoration: underline;
 }
-.loc-col a {
+.southIdaho-loc-head {
+  font-size: 2.2rem;
+  text-decoration: underline;
+  padding-top: 1rem;
+}
+.loc-col a,
+.southIdaho-loc-col a {
   font-family: 'Poppins', sans-serif;
   color: black;
   text-decoration: none;
   font-size: 1.4rem;
 }
 .loc-col a:hover,
-.loc-col a:focus {
+.loc-col a:focus,
+.southIdaho-loc-col a:hover,
+.southIdaho-loc-col a:focus {
   text-decoration: underline;
   color: var(--COLOR-MAIN-BRIGHT);
 }
-.loc-col a:active {
+.loc-col a:active,
+.southIdaho-loc-col a:active {
   color: var(--COLOR-SECONDARY-DARK);
 }
 @media screen and (max-width: 768px) {

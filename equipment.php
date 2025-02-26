@@ -5,7 +5,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C Products</title>
-    <link rel="canonical" href="https://callbills.com/products.php">
+    <link rel="canonical" href="https://callbills.com/equipment.php">
     <meta name="description" content="View and compare Bill's Heating & A/C's HVAC products. Heat and Cool your home with knowledge and confidence.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -173,10 +173,10 @@
 <body>
     <?php include 'header.php'; ?>
     <section class="furn-install-hero">
-          <img class="hero-image" src="images\equipment-header-800w.webp"
-                srcset="images\equipment-header-450w.webp 450w, 
-                        images\equipment-header-800w.webp 800w, 
-                        images\equipment-header-2000w.webp 2000w"
+          <img class="hero-image" src="images/equipment-header-800w.webp"
+                srcset="images/equipment-header-450w.webp 450w, 
+                        images/equipment-header-800w.webp 800w, 
+                        images/equipment-header-2000w.webp 2000w"
                 sizes="(max-width: 450px) 450px, 
                        (max-width: 799px) 800px, 
                         2000px"
@@ -266,7 +266,7 @@
           <script defer src="scripts/src.js"></script> 
           <script defer src="scripts/search.js"></script>
           <script defer src="scripts/forms.js"></script>
-          <script src="scripts\products-script.js"></script>
+          <script src="scripts/products-script.js"></script>
           <script defer src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"></script>  
 </body>
 </html>

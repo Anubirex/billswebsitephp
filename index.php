@@ -4,9 +4,9 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Bill's Heating & A/C | HVAC experts in N Idaho & E Washington</title>
+    <title>Bill's Heating & A/C | HVAC experts in Idaho & E Washington</title>
     <link rel="canonical" href="https://callbills.com/">
-    <meta name="description" content="Full service heating and air conditioning company serving North Idaho and Eastern Washington. Lowest prices Guaranteed on all installs!">
+    <meta name="description" content="Full service heating and air conditioning company serving Idaho and Eastern Washington. Lowest prices Guaranteed on all installs!">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -44,14 +44,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Top HVAC Company">
-    <meta property="og:description" content="Full service heating and air conditioning company serving North Idaho and Eastern Washington. Lowest prices Guaranteed on all installs!">
+    <meta property="og:description" content="Full service heating and air conditioning company serving Idaho and Eastern Washington. Lowest prices Guaranteed on all installs!">
     <meta property="og:image" content="images/social-share-image.jpg">
     <meta property="og:url" content="https://callbills.com">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Top HVAC Company">
-    <meta name="twitter:description" content="Full service heating and air conditioning company serving North Idaho and Eastern Washington. Lowest prices Guaranteed on all installs!">
+    <meta name="twitter:description" content="Full service heating and air conditioning company serving Idaho and Eastern Washington. Lowest prices Guaranteed on all installs!">
     <meta name="twitter:image" content="images/summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -184,9 +184,9 @@
     <section class="hero-outer">
           <div class="hero width-limiter">
             <div class="hero-body">
-              <h1>THE #1 HEATING AND COOLING CONTRACTOR IN THE NORTHWEST!</h1>
-              <p>Full service HVAC, Plumbing, and Electric Company, serving Northern Idaho and Eastern Washington. <br>
-                We offer a lowest price guarentee as well as free second opinions.</p>
+              <h1>THE #1 HEATING AND COOLING CONTRACTOR IN IDAHO!</h1>
+              <p>Full service HVAC, Plumbing, and Electric Company, serving Idaho and Eastern Washington. <br>
+                We offer a lowest price guarantee as well as free second opinions.</p>
               <button type="button" class="schedule-service-button hero-button open-form-button" id="openFormButton">Get a Free Estimate Now!</button>
             </div>
             <div class="hero-img">
@@ -212,10 +212,10 @@
             <div class="choose-us-card" data-animation="grow-and-shrink"><a href="reviews.php">
               <div class="choose-us-card-top">
                 <img class="choose-us-card-icon" src="images/star-icon-pic-circle.webp" alt="A star shape." aria-hidden="true" width="450" height="450">
-                <p> 3000+ 5-Star Reviews</p>
+                <p> 4000+ 5-Star Reviews</p>
               </div>
               <div class="choose-us-card-bottom">
-                <p>We have over 3,000 5-star reviews on Google alone! Our customers love us. 
+                <p>We have over 4,000 5-star reviews on Google alone! Our customers love us. 
                   Click here to see what they have to say.
                 </p>
               </div></a>
@@ -236,7 +236,7 @@
           <div class="about-us width-limiter">
             <div class="right-aligned-solo">
               <h2 data-animation="fade-in">WHO WE ARE</h2>
-              <p data-animation="fade-in">For over 35 years, Bill&apos;s Heating &amp; A&sol;C has been at the forefront of providing exceptional heating, air conditioning, and water heater solutions in North Idaho. Our reputation as a trusted partner for both home and business owners in the greater Spokane and Coeur d&apos;Alene areas speaks volumes about our dedication and expertise. Whether it&apos;s installation, maintenance, or repair of any brand of air conditioners, furnaces, or water heaters, our team has the extensive knowledge and experience to handle it all. We&apos;re always ready to assist you with 24&sol;7 emergency services and swift response times. Expanding our reach, we now proudly serve Lewiston, Clarkston, Moscow, and Pullman. Our commitment extends to both residential and commercial projects, where no task is too big or complex for our expertly chosen technicians from the Inland Northwest. They are equipped to resolve even the most challenging technical issues. Plus, with our low-price guarantee, you can be assured of receiving the best value for every service we offer.</p>
+              <p data-animation="fade-in">For over 35 years, Bill&apos;s Heating &amp; A&sol;C has been at the forefront of providing exceptional heating, air conditioning, and water heater solutions in Idaho and Eastern Washington. Our reputation as a trusted partner for both home and business owners in the greater Spokane and Coeur d&apos;Alene areas speaks volumes about our dedication and expertise. Whether it&apos;s installation, maintenance, or repair of any brand of air conditioners, furnaces, or water heaters, our team has the extensive knowledge and experience to handle it all. We&apos;re always ready to assist you with 24&sol;7 emergency services and swift response times. Expanding our reach, we now proudly serve Lewiston, Clarkston, Moscow, and Pullman. We have also opened a third Location serving Boise, Meridian, Eagle, and the rest of the Treasure Valley Our commitment extends to both residential and commercial projects, where no task is too big or complex for our expertly chosen technicians from the Inland Northwest. They are equipped to resolve even the most challenging technical issues. Plus, with our low-price guarantee, you can be assured of receiving the best value for every service we offer.</p>
                <a href="story.php"><button type="button" class="buttons" data-animation="fade-in">Learn More...</button></a>
             </div>
           </div>
@@ -287,7 +287,7 @@
             </a></div>
             <div class="os-cards" data-animation="slide-in-card-2"><a href="services.php">
               <h2>Diagnostics</h2>
-              <p>Choose the best in the northwest for your heating and cooling needs. Our factory-trained technicians, celebrated with over 3,00 five-star reviews, are ready to resolve any issues promptly. We offer same-day service, free second opinions, and weekend appointments at no extra charge, ensuring top-notch care for all types of systems.</p>
+              <p>Choose the best in the northwest for your heating and cooling needs. Our factory-trained technicians, celebrated with over 4,00 five-star reviews, are ready to resolve any issues promptly. We offer same-day service, free second opinions, and weekend appointments at no extra charge, ensuring top-notch care for all types of systems.</p>
             </a></div>
             <div class="os-cards" data-animation="slide-in-card-3"><a href="services.php">
               <h2>Tune-Up</h2>
@@ -324,7 +324,7 @@
           <h2>Lets Get Started!</h2>
           <a href="tel:+12087775528"><button type="button" class="call-us-button">Call Us</button></a>
           <button type="button" class="schedule-service-button open-form-button" id="estimateButton">Get An Estimate</button>
-          <p>Contact Bill&apos;s Heating & A/C, your local HVAC experts, today for estimates, repairs, and service in the greater Spokane or Coeur d&apos; Alene area as well as the Lewiston, Clarkston, Moscow, Pullman, and surrounding areas.</p>
+          <p>Contact Bill&apos;s Heating & A/C, your local HVAC experts, today for estimates, repairs, and service in the greater Spokane or Coeur d&apos; Alene area, Boise or the greater Trasure Valley area, as well as the Lewiston, Clarkston, Moscow, Pullman, and surrounding areas.</p>
         </div>
         </div>
       </section>
@@ -536,6 +536,41 @@
                   <li data-animation="fade-in"><a href="serviceareas/pomeroy.php">Pomeroy</a></li>
                   <li data-animation="fade-in"><a href="serviceareas/chattaroy.php">Chattaroy</a></li>
                   <li data-animation="fade-in"><a href="serviceareas/colton.php">Colton</a></li> 
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="location-cols-big">
+            <img data-animation="zoom-in-down" src="images/SouthIdahoLocation.webp" alt="Map of Post Falls" loading="lazy" width="800" height="450">
+            <address data-animation="fade-in"><a href="areas.php#zoomtopostfalls">3920 E Lanark Suite 100, Meridian, ID</a></address>
+            <h2 class="southIdaho-loc-head" data-animation="fade-in">Southern Idaho</h2>
+            <div class="location-cols-small">
+              <div class="southIdaho-loc-col">
+                <ul>
+                  <li data-animation="fade-in"><a href="boise.php">Eagle</a></li>
+                  <li data-animation="fade-in"><a href="boise.php">Kuna</a></li>
+                  <li data-animation="fade-in"><a href="boise.php">Meridian</a></li>
+                  <li data-animation="fade-in"><a href="boise.php">Boise</a></li>
+                  <li data-animation="fade-in"><a href="boise.php">Star</a></li>
+                  <li data-animation="fade-in"><a href="boise.php">New Plymouth</a></li>
+                  <li data-animation="fade-in"><a href="boise.php">Fruitland</a></li>
+                  <li data-animation="fade-in"><a href="boise.php">Payette</a></li>
+                  <li data-animation="fade-in"><a href="boise.php">Caldwell</a></li>
+                  <li data-animation="fade-in"><a href="boise.php">Middleton</a></li>
+                </ul>
+              </div>
+              <div class="southIdaho-loc-col">
+                <ul>
+                  <li data-animation="fade-in"><a href="boise.php">Parma</a></li>
+                  <li data-animation="fade-in"><a href="boise.php">Notus</a></li>
+                  <li data-animation="fade-in"><a href="boise.php">Wilder</a></li>
+                  <li data-animation="fade-in"><a href="boise.php">Homedale</a></li>
+                  <li data-animation="fade-in"><a href="boise.php">Greenleaf</a></li>
+                  <li data-animation="fade-in"><a href="boise.php">Nampa</a></li>
+                  <li data-animation="fade-in"><a href="boise.php">Melba</a></li>
+                  <li data-animation="fade-in"><a href="boise.php">Mountain Home</a></li>
+                  <li data-animation="fade-in"><a href="boise.php">Marsing</a></li>
+                  <li data-animation="fade-in"><a href="boise.php">Emmett</a></li>
                 </ul>
               </div>
             </div>

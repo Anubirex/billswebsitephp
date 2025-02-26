@@ -483,62 +483,97 @@
             <div class="locations-title">Locations &amp; Service Areas</div>
             <div class="main-loc-col-container">
               <div class="location-cols-big">
-                <img data-animation="zoom-in-down" loading="lazy" src="images/north-location.webp" alt="Map of Post Falls" width="800" height="450">
+                <img data-animation="zoom-in-down" src="images/north-location.webp" alt="Map of Post Falls" loading="lazy" width="800" height="450">
                 <address data-animation="fade-in"><a href="areas.php#zoomtopostfalls">1007 N Boulder ct, Post Falls, ID</a></address>
                 <div class="location-cols-small">
                   <div class="loc-col">
                     <h2 data-animation="fade-in">Idaho</h2>
                     <ul>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/pf.php">Post Falls</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/cda.php">Coeur D&apos;Alene</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/hayden.php">Hayden</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/rathdrum.php">Rathdrum</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/athol.php">Athol</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/sandpoint.php">Sandpoint</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/pr.php">Priest River</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/sl.php">Spirit Lake</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/pf.php">Post Falls</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/cda.php">Coeur D&apos;Alene</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/hayden.php">Hayden</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/rathdrum.php">Rathdrum</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/athol.php">Athol</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/sandpoint.php">Sandpoint</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/pr.php">Priest River</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/sl.php">Spirit Lake</a></li>
                     </ul>
                   </div>
                   <div class="loc-col">
                     <h2 data-animation="fade-in">Washington</h2>
                     <ul>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/spokane.php">Spokane</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/sv.php">Spokane Valley</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/dp.php">Deer Park</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/newport.php">Newport</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/ll.php">Liberty Lake</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/ml.php">Medical Lake</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/ah.php">Airway Heights</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/cheney.php">Cheney</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/spokane.php">Spokane</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/sv.php">Spokane Valley</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/dp.php">Deer Park</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/newport.php">Newport</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/ll.php">Liberty Lake</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/ml.php">Medical Lake</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/ah.php">Airway Heights</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/cheney.php">Cheney</a></li>
                     </ul>
                   </div>
                 </div>
               </div>
               <div class="location-cols-big">
-                <img data-animation="zoom-in-down" loading="lazy" src="images/lewiston-building-rect.webp" alt="Bill's Heating and AC's Lewiston Location" width="800" height="450">
+                <img data-animation="zoom-in-down" src="images/lewiston-building-rect.webp" alt="Bill's Heating and AC's Lewiston Location" loading="lazy" width="800" height="450">
                 <address data-animation="fade-in"><a href="areas.php#zoomtolewiston">1332 G St, Lewiston, ID</a></address>
                 <div class="location-cols-small">
                   <div class="loc-col">
                     <h2 data-animation="fade-in">Idaho</h2>
                     <ul>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/moscow.php">Moscow</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/lewiston.php">Lewiston</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/lapwai.php">Lapwai</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/genesee.php">Genesee</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/kendrick.php">Kendrick</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/troy.php">Troy</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/moscow.php">Moscow</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/lewiston.php">Lewiston</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/lapwai.php">Lapwai</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/genesee.php">Genesee</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/kendrick.php">Kendrick</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/troy.php">Troy</a></li>
                     </ul>
                   </div>
                   <div class="loc-col">
                     <h2 data-animation="fade-in">Washington</h2>
                     <ul>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/pullman.php">Pullman</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/clarkston.php">Clarkston</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/asotin.php">Asotin</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/uniontown.php">Uniontown</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/pomeroy.php">Pomeroy</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/chattaroy.php">Chattaroy</a></li>
-                      <li data-animation="fade-in"><a href="https://callbills.com/serviceareas/colton.php">Colton</a></li> 
+                      <li data-animation="fade-in"><a href="serviceareas/pullman.php">Pullman</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/clarkston.php">Clarkston</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/asotin.php">Asotin</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/uniontown.php">Uniontown</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/pomeroy.php">Pomeroy</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/chattaroy.php">Chattaroy</a></li>
+                      <li data-animation="fade-in"><a href="serviceareas/colton.php">Colton</a></li> 
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="location-cols-big">
+                <img data-animation="zoom-in-down" src="images/SouthIdahoLocation.webp" alt="Map of Post Falls" loading="lazy" width="800" height="450">
+                <address data-animation="fade-in"><a href="areas.php#zoomtopostfalls">3920 E Lanark Suite 100, Meridian, ID</a></address>
+                <h2 class="southIdaho-loc-head" data-animation="fade-in">Southern Idaho</h2>
+                <div class="location-cols-small">
+                  <div class="southIdaho-loc-col">
+                    <ul>
+                      <li data-animation="fade-in"><a href="boise.php">Eagle</a></li>
+                      <li data-animation="fade-in"><a href="boise.php">Kuna</a></li>
+                      <li data-animation="fade-in"><a href="boise.php">Meridian</a></li>
+                      <li data-animation="fade-in"><a href="boise.php">Boise</a></li>
+                      <li data-animation="fade-in"><a href="boise.php">Star</a></li>
+                      <li data-animation="fade-in"><a href="boise.php">New Plymouth</a></li>
+                      <li data-animation="fade-in"><a href="boise.php">Fruitland</a></li>
+                      <li data-animation="fade-in"><a href="boise.php">Payette</a></li>
+                      <li data-animation="fade-in"><a href="boise.php">Caldwell</a></li>
+                      <li data-animation="fade-in"><a href="boise.php">Middleton</a></li>
+                    </ul>
+                  </div>
+                  <div class="southIdaho-loc-col">
+                    <ul>
+                      <li data-animation="fade-in"><a href="boise.php">Parma</a></li>
+                      <li data-animation="fade-in"><a href="boise.php">Notus</a></li>
+                      <li data-animation="fade-in"><a href="boise.php">Wilder</a></li>
+                      <li data-animation="fade-in"><a href="boise.php">Homedale</a></li>
+                      <li data-animation="fade-in"><a href="boise.php">Greenleaf</a></li>
+                      <li data-animation="fade-in"><a href="boise.php">Nampa</a></li>
+                      <li data-animation="fade-in"><a href="boise.php">Melba</a></li>
+                      <li data-animation="fade-in"><a href="boise.php">Mountain Home</a></li>
+                      <li data-animation="fade-in"><a href="boise.php">Marsing</a></li>
+                      <li data-animation="fade-in"><a href="boise.php">Emmett</a></li>
                     </ul>
                   </div>
                 </div>

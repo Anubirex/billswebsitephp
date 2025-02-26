@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Airway Heights, WA</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/ah.php">
-    <meta name="description" content="Bill's Heating & A/C in Airway Heights, WA: Expert HVAC for chilly winters & warm summers. No travel fees, $79 diagnostics, and trusted community service.">
+    <meta name="description" content="Bill's Heating & A/C in Airway Heights, WA: Expert HVAC for chilly winters & warm summers. No travel fees, $59 diagnostics, and trusted community service.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Airway Heights, WA">
-    <meta property="og:description" content="Bill's Heating & A/C in Airway Heights, WA: Expert HVAC for chilly winters & warm summers. No travel fees, $79 diagnostics, and trusted community service.">
+    <meta property="og:description" content="Bill's Heating & A/C in Airway Heights, WA: Expert HVAC for chilly winters & warm summers. No travel fees, $59 diagnostics, and trusted community service.">
     <meta property="og:image" content="images/ah-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/ah.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Airway Heights, WA">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Airway Heights, WA: Expert HVAC for chilly winters & warm summers. No travel fees, $79 diagnostics, and trusted community service.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Airway Heights, WA: Expert HVAC for chilly winters & warm summers. No travel fees, $59 diagnostics, and trusted community service.">
     <meta name="twitter:image" content="images/ah-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -226,7 +226,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Opting for Bill's Heating & A/C in Airway Heights means choosing a service that combines local expertise with exceptional quality. Our commitment to no travel fees and a wide service area demonstrates our dedication to affordability and accessibility for our clients. With competitive services like $79 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our clients in Airway Heights receive the best service at a great value. Our high customer satisfaction ratings reflect our commitment to exceeding expectations in service quality. Trust us to keep your Airway Heights home or business comfortable all year round, with HVAC solutions that are reliable, efficient, and tailored to the specific needs of the city.</p>
+                <p>Opting for Bill's Heating & A/C in Airway Heights means choosing a service that combines local expertise with exceptional quality. Our commitment to no travel fees and a wide service area demonstrates our dedication to affordability and accessibility for our clients. With competitive services like $59 diagnostics and tune-ups, free estimates, and second opinions, we ensure that our clients in Airway Heights receive the best service at a great value. Our high customer satisfaction ratings reflect our commitment to exceeding expectations in service quality. Trust us to keep your Airway Heights home or business comfortable all year round, with HVAC solutions that are reliable, efficient, and tailored to the specific needs of the city.</p>
             </div>
           </section>
           <div class="commendations-outer">

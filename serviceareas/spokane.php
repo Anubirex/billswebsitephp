@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Spokane, WA</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/spokane.php">
-    <meta name="description" content="Bill's Heating & A/C in Spokane, WA: Premier HVAC for cold winters & warm summers. Efficient service, $79 diagnostics, committed to quality and community.">
+    <meta name="description" content="Bill's Heating & A/C in Spokane, WA: Premier HVAC for cold winters & warm summers. Efficient service, $59 diagnostics, committed to quality and community.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Spokane, WA">
-    <meta property="og:description" content="Bill's Heating & A/C in Spokane, WA: Premier HVAC for cold winters & warm summers. Efficient service, $79 diagnostics, committed to quality and community.">
+    <meta property="og:description" content="Bill's Heating & A/C in Spokane, WA: Premier HVAC for cold winters & warm summers. Efficient service, $59 diagnostics, committed to quality and community.">
     <meta property="og:image" content="images/spokane-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/spokane.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Spokane, WA">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Spokane, WA: Premier HVAC for cold winters & warm summers. Efficient service, $79 diagnostics, committed to quality and community.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Spokane, WA: Premier HVAC for cold winters & warm summers. Efficient service, $59 diagnostics, committed to quality and community.">
     <meta name="twitter:image" content="images/spokane-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -226,7 +226,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>For the residents of Spokane, choosing Bill's Heating & A/C means opting for peace of mind and excellence. Our approach to service includes no hidden travel fees, a testament to our commitment to affordability and transparency. We offer competitive prices with our $79 diagnostics and tune-ups, alongside free estimates and second opinions, ensuring you get the best value. Our high customer review ratings reflect our dedication to not just meeting but exceeding your expectations. Trust us to keep your Spokane home or business comfortable all year round, as we blend local insight with exceptional service quality.</p>
+                <p>For the residents of Spokane, choosing Bill's Heating & A/C means opting for peace of mind and excellence. Our approach to service includes no hidden travel fees, a testament to our commitment to affordability and transparency. We offer competitive prices with our $59 diagnostics and tune-ups, alongside free estimates and second opinions, ensuring you get the best value. Our high customer review ratings reflect our dedication to not just meeting but exceeding your expectations. Trust us to keep your Spokane home or business comfortable all year round, as we blend local insight with exceptional service quality.</p>
             </div>
           </section>
           <div class="commendations-outer">

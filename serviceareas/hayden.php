@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Hayden, Idaho</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/hayden.php">
-    <meta name="description" content="Bill's Heating & A/C in Hayden, ID: Expert HVAC for all seasons, with community-focused service, no travel fees, $79 diagnostics, and top-notch comfort.">
+    <meta name="description" content="Bill's Heating & A/C in Hayden, ID: Expert HVAC for all seasons, with community-focused service, no travel fees, $59 diagnostics, and top-notch comfort.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -43,14 +43,14 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Hayden, Idaho">
-    <meta property="og:description" content="Bill's Heating & A/C in Hayden, ID: Expert HVAC for all seasons, with community-focused service, no travel fees, $79 diagnostics, and top-notch comfort.">
+    <meta property="og:description" content="Bill's Heating & A/C in Hayden, ID: Expert HVAC for all seasons, with community-focused service, no travel fees, $59 diagnostics, and top-notch comfort.">
     <meta property="og:image" content="images/hayden-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/hayden.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Hayden, Idaho">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Hayden, ID: Expert HVAC for all seasons, with community-focused service, no travel fees, $79 diagnostics, and top-notch comfort.">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Hayden, ID: Expert HVAC for all seasons, with community-focused service, no travel fees, $59 diagnostics, and top-notch comfort.">
     <meta name="twitter:image" content="images/hayden-summary-large-image.webp">
 
     <!-- Schema Markup-->
@@ -226,7 +226,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Selecting Bill's Heating & A/C for your HVAC needs in Hayden means choosing a partner who understands the local climate and community needs. Our commitment to no travel fees and a wide service area exemplifies our dedication to accessibility and value. We offer competitive pricing with our $79 diagnostics and tune-ups, alongside free estimates and second opinions, ensuring you get excellent service without breaking the bank. Our high customer satisfaction ratings and reviews are a testament to our promise of quality and reliability. Trust us to keep your Hayden residence or business comfortable and welcoming, combining local knowledge with exceptional service.</p>
+                <p>Selecting Bill's Heating & A/C for your HVAC needs in Hayden means choosing a partner who understands the local climate and community needs. Our commitment to no travel fees and a wide service area exemplifies our dedication to accessibility and value. We offer competitive pricing with our $59 diagnostics and tune-ups, alongside free estimates and second opinions, ensuring you get excellent service without breaking the bank. Our high customer satisfaction ratings and reviews are a testament to our promise of quality and reliability. Trust us to keep your Hayden residence or business comfortable and welcoming, combining local knowledge with exceptional service.</p>
             </div>
           </section>
           <div class="commendations-outer">

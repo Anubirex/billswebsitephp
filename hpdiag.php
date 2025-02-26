@@ -160,7 +160,7 @@
         <div class="diag-page-inner-section-one hero width-limiter">
             <div>
             <h1>Precision in Identifying and Resolving Your Heat Pump Issues</h1>
-            <img class="diag-page-hero-image" src="blogimages\heat-pump-guide-maintenance.webp" alt="a heat pump technician smiles" width="800" height="259">
+            <img class="diag-page-hero-image" src="blogimages/heat-pump-guide-maintenance.webp" alt="a heat pump technician smiles" width="800" height="259">
               <p>At Bill&apos;s Heating and AC, the leading HVAC contractor in the Northwest, renowned for our exceptional service with over 3000 five-star reviews, we specialize in advanced heat pump diagnostics. Our skilled technicians, equipped with the latest technology and comprehensive expertise, are highly adept at accurately diagnosing and effectively resolving any issues your heat pump may face, ensuring your home maintains consistent comfort throughout the year.</p> 
               <button class="schedule-service-button open-form-button">Schedule Service</button>
             </div>

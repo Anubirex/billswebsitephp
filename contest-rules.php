@@ -51,10 +51,10 @@
         <article>
             <div class="blog-top-background">
             <section class="blog-top-section blog-width-limiter">
-                <h1>FREE TANKLESS WATER HEATER</h1>
+                <h1>FREE Heat Pump</h1>
                 <p>Offical Terms and Conditions</p>
                 <figure>
-                    <img class="blog-main-image" src="blogimages/CalifornianFreeTankless.png" alt="Promotional Image showing a free tankless water heater and happy family" width="1200" height="675">
+                    <img class="blog-main-image" src="images\Oct Heat Pump 2.png" alt="Promotional Image advertising a free heat pump from Bills Heating & A/C" width="1200" height="675">
                 </figure>
                 <div class="blog-share-article">
                     <a href="https://www.facebook.com/sharer/sharer.php?u=https://callbills.com/contest-rules.php" target="_blank" class="share-button">Share on Facebook</a>
@@ -68,7 +68,7 @@
                         </div>
                         <div class="blog-author-revised">
                             <p><span class="blog-author-label">Revised&colon;</span></p>
-                            <p><span class="blog-author-date">Nov 1st 2024</span></p>
+                            <p><span class="blog-author-date">Jan 13th 2024</span></p>
                         </div>
                     </div>
                 </div>
@@ -76,26 +76,21 @@
             </div>
             <section class="blog-intro blog-width-limiter">
                 <p>
-                    * Limited time offer. Bill&apos;s Heating &amp; A/C reserves the right to cancel or limit promotion at any time.<br><br>
-Offer conditioned upon the purchase and installation of a new “full system” (gas or electric) during
-promotional period. A “full system” is defined as a furnace paired with either an air conditioning
-condensing unit or a heat pump, or a full-house hydronic heating system. The qualifying tankless water
-heater must be installed at the same time as the full system.<br><br>
-Promotion is limited to customers that have natural gas or propane fuel available at their residence at
-time of installation of the full system. Any gas piping, fittings or connections that required to connect to
-the tankless water heater will be the responsibility of the customer.<br><br>
-The promotion is limited to single-family residential retrofit installations; it does not include commercial,
-multi-family residential or new construction installations.<br><br>
-Promotion does not include any necessary gas piping, electrical connections/modifications, water
-softener, or plumbing modifications, that may be required to complete the installation and operate the
-qualifying tankless water heater.<br><br>
-Bill&apos;s Heating &amp; A/C shall be solely responsible for choosing the make, model and capacity of the
-qualifying promotional tankless water to be installed at the customer&apos;s residence.<br><br>
-This promotion cannot be combined with any other promotions that Bill&apos;s Heating &amp; A/C may run during
-the promotional period.<br><br>
-Offer does not extend to, or include, any outstanding estimates issued prior the start of the promotional
-period on November 1, 2024. All equipment must be purchased and installed before the end of the
-promotion on December 31, 2024.<br><br>
+                  * Limited time offer. Bill&apos;s Heating &amp; A/C reserves the right to cancel or limit promotion at any time.<br><br>
+                  Offer conditioned upon the purchase and installation of a new furnace &#40;gas or electric fired&#41; during
+                  promotional period. The qualifying heat pump unit must be installed at the same time as the purchased
+                  equipment.<br><br>
+                  The promotion is limited to single&dash;family residential retrofit installations&semi; it does not include commercial,
+                  multi&dash;family residential or new construction installations.<br><br>
+                  Promotion does not include any necessary electrical connections/modifications, line set and line hide, or
+                  evaporator coil, that may be required to complete the installation and operate the qualifying heat pump
+                  unit.<br><br>
+                  Bill&apos;s Heating &amp; A/C shall be solely responsible for choosing the make, model and capacity of the
+                  qualifying promotional heat pump to be installed at the customer&apos;s residence.<br><br>
+                  This promotion cannot be combined with any other promotions that Bill&apos;s Heating &amp; A/C may run during
+                  the promotional period.<br><br>
+                  Offer does not extend to, or include, any outstanding estimates issued prior the start of the promotional
+                  period.<br><br>
                 </p>
             </section>
           <!-- Get Started Section -->

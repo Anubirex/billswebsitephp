@@ -57,6 +57,12 @@ ul {
 section{
   padding: 1rem;
 }
+p.italic{
+  font-size: 5rem;
+}
+.highlight-text{
+  color:#9f161c;
+}
 
 /*  ///////////////////////////// TOP IMAGE AND HEADLINE ///////////////////////////////////// */
 .blog-top-background{

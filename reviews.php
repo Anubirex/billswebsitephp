@@ -172,7 +172,7 @@
           <div class="story-hero-container reviews-hero width-limiter">
             <h1>We are the highest rated HVAC company in the Area!</h1>
             <p>We have over 3,000 5&dash;star reviews. Take a look below.</p>
-            <img src="images\five-stars.webp" width="800" height="161" alt="Five gold stars">
+            <img src="images/five-stars.webp" width="800" height="161" alt="Five gold stars">
       </section> 
       <div class="red-divider"></div>
       <section class="review-page-cards-outer">

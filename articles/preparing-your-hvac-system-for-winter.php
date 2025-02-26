@@ -145,7 +145,7 @@
         <section class="blog-section blog-width-limiter">
             <h2 id="schedule-maintenance">Schedule Professional Maintenance</h2>
             <p>One of the most crucial steps in preparing your HVAC system for winter is scheduling a professional inspection and tune-up. A qualified technician can identify potential issues before they become major problems.</p>
-            <img src="../blogimages\smiling-tech-large.webp" alt="HVAC technician performing maintenance on a heating system" width="800" height="533">
+            <img src="../blogimages/smiling-tech-large.webp" alt="HVAC technician performing maintenance on a heating system" width="800" height="533">
             <h3>Benefits of Professional Maintenance</h3>
             <div class="in-article-list">
                 <ul class="in-article-list">

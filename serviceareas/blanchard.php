@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Bill's Heating & A/C | Best HVAC in Blanchard, Idaho</title>
     <link rel="canonical" href="https://callbills.com/serviceareas/blanchard.php">
-    <meta name="description" content="Bill's Heating & A/C in Blanchard, ID: Tailored HVAC for cold winters & mild summers. $79 diagnostics, no travel fees. High-quality, affordable comfort.">
+    <meta name="description" content="Bill's Heating & A/C in Blanchard, ID: Tailored HVAC for cold winters & mild summers. $59 diagnostics, no travel fees. High-quality, affordable comfort.">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='dns-prefetch' href='//www.gstatic.com'/>
@@ -21,10 +21,10 @@
     <link rel=preconnect href="https://www.google.com">
     <link rel=preconnect href="https://googleads.g.doubleclick.net">
     <link rel=preconnect href="https://widgets.leadconnectorhq.com">
-    <link rel="icon" type="image/png" sizes="16x16" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-16x16.png">
-    <link rel="icon" type="image/webp" sizes="32x32" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon-32x32.webp">
-    <link rel="icon" type="image/svg+xml" href="https://callbillsheating.s3.us-west-2.amazonaws.com/large-favicon.svg">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://callbillsheating.s3.us-west-2.amazonaws.com/favicon180x180.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="icon" type="image/webp" sizes="32x32" href="images/favicon-32x32.webp">
+    <link rel="icon" type="image/svg+xml" href="images/large-favicon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon180x180.png">
     <link rel="preload" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:wght@900&display=swap"></noscript>
@@ -43,15 +43,15 @@
 
     <!-- Open Graph and Twitter Cards -->
     <meta property="og:title" content="Bill's Heating & A/C | Best HVAC in Blanchard, Idaho">
-    <meta property="og:description" content="Bill's Heating & A/C in Blanchard, ID: Tailored HVAC for cold winters & mild summers. $79 diagnostics, no travel fees. High-quality, affordable comfort.">
-    <meta property="og:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/blanchard-social-share.webp">
+    <meta property="og:description" content="Bill's Heating & A/C in Blanchard, ID: Tailored HVAC for cold winters & mild summers. $59 diagnostics, no travel fees. High-quality, affordable comfort.">
+    <meta property="og:image" content="images/blanchard-social-share.webp">
     <meta property="og:url" content="https://callbills.com/serviceareas/blanchard.php">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BillsAir">
     <meta name="twitter:title" content="Bill's Heating & A/C | Best HVAC in Blanchard, Idaho">
-    <meta name="twitter:description" content="Bill's Heating & A/C in Blanchard, ID: Tailored HVAC for cold winters & mild summers. $79 diagnostics, no travel fees. High-quality, affordable comfort.">
-    <meta name="twitter:image" content="https://callbillsheating.s3.us-west-2.amazonaws.com/blanchard-summary-large-image.webp">
+    <meta name="twitter:description" content="Bill's Heating & A/C in Blanchard, ID: Tailored HVAC for cold winters & mild summers. $59 diagnostics, no travel fees. High-quality, affordable comfort.">
+    <meta name="twitter:image" content="images/blanchard-summary-large-image.webp">
 
     <!-- Schema Markup-->
     <script type="application/ld+json">
@@ -59,7 +59,7 @@
         "@context": "https://schema.org",
         "@type": "HVACBusiness",
         "name": "Bill's Heating & A/C",
-        "image": "https://callbillsheating.s3.us-west-2.amazonaws.com/social-share-image.jpg",
+        "image": "images/blanchard-social-share.webp",
         "@id": "https://callbills.com/",
         "url": "https://callbills.com",
         "telephone": "+1-208-777-5528",
@@ -171,10 +171,10 @@
   <!-- End Google Tag Manager (noscript) -->
         <?php include '../header.php'; ?>
           <section class="areas-hero">
-            <img class="hero-image" src="https://callbillsheating.s3.us-west-2.amazonaws.com/blanchard-header-800w.webp"
-                srcset="https://callbillsheating.s3.us-west-2.amazonaws.com/blanchard-header-450w.webp 450w, 
-                        https://callbillsheating.s3.us-west-2.amazonaws.com/blanchard-header-800w.webp 800w, 
-                        https://callbillsheating.s3.us-west-2.amazonaws.com/blanchard-header-2000w.webp 2000w"
+            <img class="hero-image" src="images/blanchard-header-800w.webp"
+                srcset="images/blanchard-header-450w.webp 450w, 
+                        images/blanchard-header-800w.webp 800w, 
+                        images/blanchard-header-2000w.webp 2000w"
                 sizes="(max-width: 450px) 450px, 
                        (max-width: 799px) 800px, 
                         2000px"
@@ -226,7 +226,7 @@
           <section class="areas-why-us">
             <div class="areas-why-container width-limiter">
                 <h2>Why Choose Us for Your HVAC Needs</h2>
-                <p>Opting for Bill's Heating & A/C in Blanchard means choosing a service that is deeply rooted in local expertise and backed by a commitment to quality. Our no travel fee policy and wide service area demonstrate our dedication to providing affordable and accessible services. Our competitive pricing, including $79 diagnostics and tune-ups, free estimates, and second opinions, ensure that our Blanchard clients receive the best value. Our high customer satisfaction ratings reflect our dedication to exceeding expectations in service quality. Trust us to keep your Blanchard home or business comfortable throughout the year, with reliable, efficient, and tailored HVAC solutions.</p>
+                <p>Opting for Bill's Heating & A/C in Blanchard means choosing a service that is deeply rooted in local expertise and backed by a commitment to quality. Our no travel fee policy and wide service area demonstrate our dedication to providing affordable and accessible services. Our competitive pricing, including $59 diagnostics and tune-ups, free estimates, and second opinions, ensure that our Blanchard clients receive the best value. Our high customer satisfaction ratings reflect our dedication to exceeding expectations in service quality. Trust us to keep your Blanchard home or business comfortable throughout the year, with reliable, efficient, and tailored HVAC solutions.</p>
             </div>
           </section>
           <div class="commendations-outer">

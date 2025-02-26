@@ -160,7 +160,7 @@
         <div class="diag-page-inner-section-one hero width-limiter">
             <div>
             <h1>Stay Comfortable Year-Round with Bill's Heating and AC Ductless Tune-Ups</h1>
-            <img class="diag-page-hero-image" src="blogimages\ductless-installation-process.webp" alt="a ductless heat pump technician is installing an outdoor unit" width="800" height="450">
+            <img class="diag-page-hero-image" src="blogimages/ductless-installation-process.webp" alt="a ductless heat pump technician is installing an outdoor unit" width="800" height="450">
               <p>At Bill&apos;s Heating and AC, the leading HVAC contractor in the Northwest, renowned for our exceptional service with over 3000 five-star reviews, we specialize in advanced ductless heat pump diagnostics. Our skilled technicians, equipped with the latest technology and comprehensive expertise, are highly adept at accurately diagnosing and effectively resolving any issues your ductless heat pump &#40;mini&ndash;split&#41; may face, ensuring your home maintains consistent comfort throughout the year.</p> 
               <button class="schedule-service-button open-form-button">Schedule Service</button>
             </div>
