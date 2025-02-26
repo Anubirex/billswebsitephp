@@ -539,12 +539,16 @@ $base_url = 'https://callbills.com/';
     <!-- ////////////////////////////// SEARCH BAR ////////////////////////////////////////////////// -->
     <div class="search-container" role="search">
             <button class="search-icon-button" id="searchIconbutton" aria-label="Open search">&#128269;</button>
-            <input class="search-bar" type="search" id="searchBar" name="q" placeholder="Search..." aria-label="Search field">
-            <button class="search-bar-button" type="submit" aria-label="Submit search">Search</button>
-            <div id="search-suggestions" class="search-suggestions"></div>
-            <div id="search-results"></div>
+            <div class="search-bar-button-div">
+              <div class="search-bar-div">
+                <input class="search-bar" type="search" id="searchBar" name="q" placeholder="Search..." aria-label="Search field">
+                <div id="searchSuggestions" class="search-suggestions"></div>
+                <div id="search-results"></div>
+              </div>
+              <button class="search-bar-button" type="submit" aria-label="Submit search">Search</button>
+            </div>
             <div class="search-overlay"></div>
-          </div>
+      </div>
      <!-- ///////////////////////////REQUEST FORM BELOW///////////////////////////////////////////////// -->
     <div class="page-overlay"></div>
     <div class="form-overlay" id="serviceForm">

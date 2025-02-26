@@ -807,11 +807,10 @@ header{
     align-items: center;
     width: 100%;
     position: relative;
+    padding-top: 1.7rem;
   }
   .search-icon-button {
     position: relative;
-    top: 2rem;
-    right: 2rem;
     width: 3.5rem;
     height: 3.5rem;
     font-size: 1.5rem;
@@ -833,12 +832,10 @@ header{
   font-size: 1.6rem;
   z-index: 9000;
   position: relative;
-  top: 2rem;
-  right: 2rem;
   border-radius: 5px;
   }
   .search-bar {
-  width: 30rem;
+  width: 99%;
   padding: .25rem;
   }
   .search-bar-button {
@@ -852,14 +849,17 @@ header{
   .search-bar-button:hover {
   background: var(--COLOR-MAIN-DARK);
   }
+  .search-bar-button-div {
+    display: flex;
+    padding-right: 1.5rem;
+  }
   .search-suggestions {
     position: absolute;
-    top: 100%;
-    left: 0;
     border-radius: 5px;
     background: white;
     z-index: 9001;
     display: none;
+    width: 26rem;
   }
   .search-suggestions div {
     color: var(--COLOR-MAIN-BRIGHT);
@@ -880,6 +880,7 @@ header{
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     z-index: 9000;
     border-radius: 5px;
+    width: 26rem;
   }
   /* Scrollbar - Everything Else */
   #search-results::-webkit-scrollbar {
